@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99070833092189,
+  "average_percentage_under_10_seconds": 99.99303470165856,
   "count_of_live_services_and_organisations": {
     "organisations": 1675,
-    "services": 10130
+    "services": 10141
   },
-  "email_notifications": 6026185225,
-  "letter_notifications": 72569365,
-  "live_service_count": 10130,
+  "email_notifications": 6029657265,
+  "letter_notifications": 72789492,
+  "live_service_count": 10141,
   "notifications_by_type": [
-    {
-      "date": "2025-03-05",
-      "emails": 3074913,
-      "letters": 67039,
-      "sms": 3094267
-    },
     {
       "date": "2025-03-06",
       "emails": 3402967,
@@ -49,6 +43,12 @@
       "emails": 3536844,
       "letters": 78400,
       "sms": 3344901
+    },
+    {
+      "date": "2025-03-12",
+      "emails": 3472040,
+      "letters": 220127,
+      "sms": 3249321
     }
   ],
   "organisations_using_notify": [
@@ -1473,7 +1473,7 @@
       "organisation_name": "Denmark Road High School"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1489,7 +1489,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 163,
+      "count_of_live_services": 164,
       "organisation_name": "Department for Education"
     },
     {
@@ -1661,7 +1661,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 6,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -1825,7 +1825,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Education Authority"
     },
     {
@@ -2353,7 +2353,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 79,
+      "count_of_live_services": 80,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -3537,7 +3537,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 871,
+      "count_of_live_services": 873,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3545,7 +3545,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 332,
+      "count_of_live_services": 333,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3697,7 +3697,7 @@
       "organisation_name": "NHS Specialist Pharmacy Service"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "NHS Supply Chain"
     },
     {
@@ -4017,7 +4017,7 @@
       "organisation_name": "Nottingham City Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 42,
       "organisation_name": "Nottingham City Council"
     },
     {
@@ -6751,10 +6751,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-05",
-      "percentage_under_10_seconds": 99.9830972168078
-    },
-    {
       "date": "2025-03-06",
       "percentage_under_10_seconds": 99.99892652705242
     },
@@ -6777,8 +6773,12 @@
     {
       "date": "2025-03-11",
       "percentage_under_10_seconds": 99.99959391265321
+    },
+    {
+      "date": "2025-03-12",
+      "percentage_under_10_seconds": 99.99938181196444
     }
   ],
-  "sms_notifications": 3972153582,
-  "total_notifications": 10070908172
+  "sms_notifications": 3975402903,
+  "total_notifications": 10077849660
 }
