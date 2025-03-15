@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99253070958827,
+  "average_percentage_under_10_seconds": 99.99124870531826,
   "count_of_live_services_and_organisations": {
-    "organisations": 1675,
-    "services": 10149
+    "organisations": 1677,
+    "services": 10156
   },
-  "email_notifications": 6033023300,
-  "letter_notifications": 72885447,
-  "live_service_count": 10149,
+  "email_notifications": 6036484814,
+  "letter_notifications": 73041445,
+  "live_service_count": 10156,
   "notifications_by_type": [
-    {
-      "date": "2025-03-07",
-      "emails": 3164122,
-      "letters": 49396,
-      "sms": 2748728
-    },
     {
       "date": "2025-03-08",
       "emails": 1756994,
@@ -49,6 +43,12 @@
       "emails": 3366035,
       "letters": 95955,
       "sms": 3004805
+    },
+    {
+      "date": "2025-03-14",
+      "emails": 3461514,
+      "letters": 155998,
+      "sms": 2674748
     }
   ],
   "organisations_using_notify": [
@@ -171,6 +171,10 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "Allerdale Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Altus Education Partnership"
     },
     {
       "count_of_live_services": 1,
@@ -1145,7 +1149,7 @@
       "organisation_name": "City and Hackney Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
@@ -1169,7 +1173,7 @@
       "organisation_name": "City of Wolverhampton College"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "City of Wolverhampton Council"
     },
     {
@@ -2685,7 +2689,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 612,
+      "count_of_live_services": 614,
       "organisation_name": "Home Office"
     },
     {
@@ -3477,7 +3481,7 @@
       "organisation_name": "Mid Essex Hospital Services NHS Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Mid Sussex District Council"
     },
     {
@@ -6417,6 +6421,10 @@
       "organisation_name": "West Green Surgery"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "West Hatch High School"
+    },
+    {
       "count_of_live_services": 7,
       "organisation_name": "West Hertfordshire Hospitals NHS Trust"
     },
@@ -6751,10 +6759,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-07",
-      "percentage_under_10_seconds": 99.99930540373956
-    },
-    {
       "date": "2025-03-08",
       "percentage_under_10_seconds": 99.99915199620094
     },
@@ -6777,8 +6781,12 @@
     {
       "date": "2025-03-13",
       "percentage_under_10_seconds": 99.99539858256043
+    },
+    {
+      "date": "2025-03-14",
+      "percentage_under_10_seconds": 99.99033137384951
     }
   ],
-  "sms_notifications": 3978407708,
-  "total_notifications": 10084316455
+  "sms_notifications": 3981082456,
+  "total_notifications": 10090608715
 }
