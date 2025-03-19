@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99763141842722,
+  "average_percentage_under_10_seconds": 99.99705758599923,
   "count_of_live_services_and_organisations": {
     "organisations": 1677,
-    "services": 10161
+    "services": 10169
   },
-  "email_notifications": 6043768077,
-  "letter_notifications": 73107742,
-  "live_service_count": 10161,
+  "email_notifications": 6047290195,
+  "letter_notifications": 73176604,
+  "live_service_count": 10169,
   "notifications_by_type": [
-    {
-      "date": "2025-03-11",
-      "emails": 3536844,
-      "letters": 78400,
-      "sms": 3344901
-    },
     {
       "date": "2025-03-12",
       "emails": 3472040,
@@ -49,6 +43,12 @@
       "emails": 4310869,
       "letters": 43784,
       "sms": 3372991
+    },
+    {
+      "date": "2025-03-18",
+      "emails": 3522118,
+      "letters": 68862,
+      "sms": 3171342
     }
   ],
   "organisations_using_notify": [
@@ -537,7 +537,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -953,7 +953,7 @@
       "organisation_name": "Care Quality Commission"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Carmarthenshire County Council"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Infrastructure and Projects Authority"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Insolvency Service"
     },
     {
@@ -4057,7 +4057,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -4989,6 +4989,10 @@
       "organisation_name": "Skills for Care"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "Skinners' Academies Trust"
+    },
+    {
       "count_of_live_services": 8,
       "organisation_name": "Slough Borough Council"
     },
@@ -5117,7 +5121,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -5421,7 +5425,7 @@
       "organisation_name": "Stevenage Borough Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Stirling Council"
     },
     {
@@ -5926,10 +5930,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "The Skinners' Kent Academy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "The Spa Surgery"
     },
     {
@@ -6133,7 +6133,7 @@
       "organisation_name": "University Academy Holbeach"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6759,10 +6759,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-11",
-      "percentage_under_10_seconds": 99.99959391265321
-    },
-    {
       "date": "2025-03-12",
       "percentage_under_10_seconds": 99.99938181196444
     },
@@ -6785,8 +6781,12 @@
     {
       "date": "2025-03-17",
       "percentage_under_10_seconds": 99.99919222376683
+    },
+    {
+      "date": "2025-03-18",
+      "percentage_under_10_seconds": 99.99557708565733
     }
   ],
-  "sms_notifications": 3986636665,
-  "total_notifications": 10103512484
+  "sms_notifications": 3989808007,
+  "total_notifications": 10110274806
 }
