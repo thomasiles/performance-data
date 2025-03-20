@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99705758599923,
+  "average_percentage_under_10_seconds": 99.99434691291052,
   "count_of_live_services_and_organisations": {
-    "organisations": 1677,
-    "services": 10169
+    "organisations": 1679,
+    "services": 10176
   },
-  "email_notifications": 6047290195,
-  "letter_notifications": 73176604,
-  "live_service_count": 10169,
+  "email_notifications": 6050538747,
+  "letter_notifications": 73261470,
+  "live_service_count": 10176,
   "notifications_by_type": [
-    {
-      "date": "2025-03-12",
-      "emails": 3472040,
-      "letters": 220127,
-      "sms": 3249321
-    },
     {
       "date": "2025-03-13",
       "emails": 3366035,
@@ -49,6 +43,12 @@
       "emails": 3522118,
       "letters": 68862,
       "sms": 3171342
+    },
+    {
+      "date": "2025-03-19",
+      "emails": 3248552,
+      "letters": 84866,
+      "sms": 3054289
     }
   ],
   "organisations_using_notify": [
@@ -837,7 +837,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 250,
+      "count_of_live_services": 251,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1477,6 +1477,10 @@
       "organisation_name": "Denmark Road High School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Denton Turret Medical Centre"
+    },
+    {
       "count_of_live_services": 55,
       "organisation_name": "Department for Business and Trade"
     },
@@ -1497,7 +1501,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -1653,7 +1657,7 @@
       "organisation_name": "Driver & Vehicle Licensing Agency"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Driver & Vehicle Standards Agency"
     },
     {
@@ -3541,7 +3545,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 874,
+      "count_of_live_services": 875,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4309,7 +4313,7 @@
       "organisation_name": "Pleckgate High School"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Plymouth City Council"
     },
     {
@@ -4707,6 +4711,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -6759,10 +6767,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-12",
-      "percentage_under_10_seconds": 99.99938181196444
-    },
-    {
       "date": "2025-03-13",
       "percentage_under_10_seconds": 99.99539858256043
     },
@@ -6785,8 +6789,12 @@
     {
       "date": "2025-03-18",
       "percentage_under_10_seconds": 99.99557708565733
+    },
+    {
+      "date": "2025-03-19",
+      "percentage_under_10_seconds": 99.98040710034341
     }
   ],
-  "sms_notifications": 3989808007,
-  "total_notifications": 10110274806
+  "sms_notifications": 3992862296,
+  "total_notifications": 10116662513
 }
