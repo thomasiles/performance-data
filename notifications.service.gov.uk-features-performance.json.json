@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99434691291052,
+  "average_percentage_under_10_seconds": 99.99479072796215,
   "count_of_live_services_and_organisations": {
-    "organisations": 1679,
-    "services": 10176
+    "organisations": 1681,
+    "services": 10190
   },
-  "email_notifications": 6050538747,
-  "letter_notifications": 73261470,
-  "live_service_count": 10176,
+  "email_notifications": 6053862429,
+  "letter_notifications": 73342736,
+  "live_service_count": 10190,
   "notifications_by_type": [
-    {
-      "date": "2025-03-13",
-      "emails": 3366035,
-      "letters": 95955,
-      "sms": 3004805
-    },
     {
       "date": "2025-03-14",
       "emails": 3461514,
@@ -49,6 +43,12 @@
       "emails": 3248552,
       "letters": 84866,
       "sms": 3054289
+    },
+    {
+      "date": "2025-03-20",
+      "emails": 3323682,
+      "letters": 81266,
+      "sms": 3145858
     }
   ],
   "organisations_using_notify": [
@@ -573,7 +573,7 @@
       "organisation_name": "Bolsover District Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Bolton Metropolitan Borough Council"
     },
     {
@@ -837,7 +837,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 251,
+      "count_of_live_services": 252,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -885,7 +885,7 @@
       "organisation_name": "Cambridge University Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Cambridgeshire County Council"
     },
     {
@@ -1669,7 +1669,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 8,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -1833,7 +1833,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Education Authority"
     },
     {
@@ -1973,7 +1973,7 @@
       "organisation_name": "Falcon Road Medical Centre"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Falkirk Council"
     },
     {
@@ -2482,6 +2482,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Harwood Pharmacy"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Haslingden High School"
     },
     {
@@ -2693,7 +2697,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 614,
+      "count_of_live_services": 615,
       "organisation_name": "Home Office"
     },
     {
@@ -2885,7 +2889,7 @@
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 30,
       "organisation_name": "Kent County Council"
     },
     {
@@ -4305,7 +4309,7 @@
       "organisation_name": "Plane Trees Group Practice"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Planning Inspectorate"
     },
     {
@@ -5307,6 +5311,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "St Mary Redcliffe and Temple School."
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "St Mary's CE High School"
     },
     {
       "count_of_live_services": 1,
@@ -6681,7 +6689,7 @@
       "organisation_name": "Worcestershire County Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Worcestershire Health and Care NHS Trust"
     },
     {
@@ -6767,10 +6775,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-13",
-      "percentage_under_10_seconds": 99.99539858256043
-    },
-    {
       "date": "2025-03-14",
       "percentage_under_10_seconds": 99.99033137384951
     },
@@ -6793,8 +6797,12 @@
     {
       "date": "2025-03-19",
       "percentage_under_10_seconds": 99.98040710034341
+    },
+    {
+      "date": "2025-03-20",
+      "percentage_under_10_seconds": 99.99850528792186
     }
   ],
-  "sms_notifications": 3992862296,
-  "total_notifications": 10116662513
+  "sms_notifications": 3996008154,
+  "total_notifications": 10123213319
 }
