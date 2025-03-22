@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99479072796215,
+  "average_percentage_under_10_seconds": 99.99573960540947,
   "count_of_live_services_and_organisations": {
     "organisations": 1681,
-    "services": 10190
+    "services": 10200
   },
-  "email_notifications": 6053862429,
-  "letter_notifications": 73342736,
-  "live_service_count": 10190,
+  "email_notifications": 6057323893,
+  "letter_notifications": 73394716,
+  "live_service_count": 10200,
   "notifications_by_type": [
-    {
-      "date": "2025-03-14",
-      "emails": 3461514,
-      "letters": 155998,
-      "sms": 2674748
-    },
     {
       "date": "2025-03-15",
       "emails": 1879723,
@@ -49,6 +43,12 @@
       "emails": 3323682,
       "letters": 81266,
       "sms": 3145858
+    },
+    {
+      "date": "2025-03-21",
+      "emails": 3461464,
+      "letters": 51980,
+      "sms": 2667883
     }
   ],
   "organisations_using_notify": [
@@ -249,7 +249,7 @@
       "organisation_name": "Armagh City and District Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Arun District Council"
     },
     {
@@ -413,7 +413,7 @@
       "organisation_name": "Bedford Hospital"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Bedfordshire Police"
     },
     {
@@ -837,7 +837,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 252,
+      "count_of_live_services": 253,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -883,6 +883,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Cambridge University Hospitals NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Cambridgeshire Constabulary"
     },
     {
       "count_of_live_services": 16,
@@ -1669,7 +1673,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 10,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2601,7 +2605,7 @@
       "organisation_name": "Hertfordshire Community NHS Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "Hertfordshire Constabulary"
     },
     {
@@ -3653,7 +3657,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 65,
+      "count_of_live_services": 66,
       "organisation_name": "NHS England"
     },
     {
@@ -4715,10 +4719,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -5941,7 +5941,7 @@
       "organisation_name": "The Royal Borough of Windsor and Maidenhead"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "The Royal Wolverhampton NHS Trust"
     },
     {
@@ -6601,7 +6601,7 @@
       "organisation_name": "Wiltshire Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Winchester City Council"
     },
     {
@@ -6775,10 +6775,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-14",
-      "percentage_under_10_seconds": 99.99033137384951
-    },
-    {
       "date": "2025-03-15",
       "percentage_under_10_seconds": 99.99975001062454
     },
@@ -6801,8 +6797,12 @@
     {
       "date": "2025-03-20",
       "percentage_under_10_seconds": 99.99850528792186
+    },
+    {
+      "date": "2025-03-21",
+      "percentage_under_10_seconds": 99.9969735159807
     }
   ],
-  "sms_notifications": 3996008154,
-  "total_notifications": 10123213319
+  "sms_notifications": 3998676037,
+  "total_notifications": 10129394646
 }
