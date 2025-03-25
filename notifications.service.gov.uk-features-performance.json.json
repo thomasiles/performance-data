@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99569761648952,
+  "average_percentage_under_10_seconds": 99.99554866499847,
   "count_of_live_services_and_organisations": {
-    "organisations": 1681,
-    "services": 10200
+    "organisations": 1691,
+    "services": 10220
   },
-  "email_notifications": 6060329885,
-  "letter_notifications": 73416901,
-  "live_service_count": 10200,
+  "email_notifications": 6063932904,
+  "letter_notifications": 73469784,
+  "live_service_count": 10220,
   "notifications_by_type": [
-    {
-      "date": "2025-03-17",
-      "emails": 4310869,
-      "letters": 43784,
-      "sms": 3372991
-    },
     {
       "date": "2025-03-18",
       "emails": 3522118,
@@ -49,6 +43,12 @@
       "emails": 1362983,
       "letters": 6083,
       "sms": 1177349
+    },
+    {
+      "date": "2025-03-24",
+      "emails": 3603019,
+      "letters": 52883,
+      "sms": 3409874
     }
   ],
   "organisations_using_notify": [
@@ -251,6 +251,30 @@
     {
       "count_of_live_services": 10,
       "organisation_name": "Arun District Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ascent (Clowne) Ltd"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ascent (Congleton) Ltd"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Ascent (Leek) Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ascent (Sherwood) Ltd"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ascent (Wollaton) Ltd"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Ascent Healthcare Ltd"
     },
     {
       "count_of_live_services": 2,
@@ -1045,7 +1069,7 @@
       "organisation_name": "Charity Commission"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Charnwood Borough Council"
     },
     {
@@ -1289,7 +1313,7 @@
       "organisation_name": "Consumer Council"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Conwy County Borough Council"
     },
     {
@@ -1549,7 +1573,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -1607,6 +1631,10 @@
     {
       "count_of_live_services": 33,
       "organisation_name": "Devon County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Devon and Somerset Fire and Rescue Service"
     },
     {
       "count_of_live_services": 1,
@@ -3022,6 +3050,18 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "LP SD One Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Seventy Four Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD Six Limited"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Lache Primary School"
     },
     {
@@ -3125,7 +3165,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3641,7 +3681,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -3857,7 +3897,7 @@
       "organisation_name": "Norfolk Police"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -5649,7 +5689,7 @@
       "organisation_name": "Temple Fortune Medical Group"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Tendring District Council"
     },
     {
@@ -6775,10 +6815,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-17",
-      "percentage_under_10_seconds": 99.99919222376683
-    },
-    {
       "date": "2025-03-18",
       "percentage_under_10_seconds": 99.99557708565733
     },
@@ -6801,8 +6837,12 @@
     {
       "date": "2025-03-23",
       "percentage_under_10_seconds": 99.9999593052097
+    },
+    {
+      "date": "2025-03-24",
+      "percentage_under_10_seconds": 99.9981495633294
     }
   ],
-  "sms_notifications": 4000847341,
-  "total_notifications": 10134594127
+  "sms_notifications": 4004257215,
+  "total_notifications": 10141659903
 }
