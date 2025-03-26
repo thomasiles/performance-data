@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99554866499847,
+  "average_percentage_under_10_seconds": 99.99576500951822,
   "count_of_live_services_and_organisations": {
-    "organisations": 1691,
-    "services": 10220
+    "organisations": 1694,
+    "services": 10226
   },
-  "email_notifications": 6063932904,
-  "letter_notifications": 73469784,
-  "live_service_count": 10220,
+  "email_notifications": 6068416658,
+  "letter_notifications": 73549437,
+  "live_service_count": 10226,
   "notifications_by_type": [
-    {
-      "date": "2025-03-18",
-      "emails": 3522118,
-      "letters": 68862,
-      "sms": 3171342
-    },
     {
       "date": "2025-03-19",
       "emails": 3248552,
@@ -49,6 +43,12 @@
       "emails": 3603019,
       "letters": 52883,
       "sms": 3409874
+    },
+    {
+      "date": "2025-03-25",
+      "emails": 4483754,
+      "letters": 79653,
+      "sms": 3445479
     }
   ],
   "organisations_using_notify": [
@@ -497,6 +497,10 @@
       "organisation_name": "Bingley Grammar School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Birmingham Children's Trust"
+    },
+    {
       "count_of_live_services": 28,
       "organisation_name": "Birmingham City Council"
     },
@@ -759,6 +763,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Brooke House Sixth Form College"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Brooke Weston Trust"
     },
     {
       "count_of_live_services": 1,
@@ -1521,7 +1529,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -3109,6 +3117,10 @@
       "organisation_name": "Lancashire Teaching Hospitals NHS Foundation Trust"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
+    },
+    {
       "count_of_live_services": 53,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
@@ -3593,11 +3605,11 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 875,
+      "count_of_live_services": 876,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -6815,10 +6827,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-18",
-      "percentage_under_10_seconds": 99.99557708565733
-    },
-    {
       "date": "2025-03-19",
       "percentage_under_10_seconds": 99.98040710034341
     },
@@ -6841,8 +6849,12 @@
     {
       "date": "2025-03-24",
       "percentage_under_10_seconds": 99.9981495633294
+    },
+    {
+      "date": "2025-03-25",
+      "percentage_under_10_seconds": 99.99709149729563
     }
   ],
-  "sms_notifications": 4004257215,
-  "total_notifications": 10141659903
+  "sms_notifications": 4007702694,
+  "total_notifications": 10149668789
 }
