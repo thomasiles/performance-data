@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99576500951822,
+  "average_percentage_under_10_seconds": 99.9983986341061,
   "count_of_live_services_and_organisations": {
-    "organisations": 1694,
-    "services": 10226
+    "organisations": 1696,
+    "services": 10241
   },
-  "email_notifications": 6068416658,
-  "letter_notifications": 73549437,
-  "live_service_count": 10226,
+  "email_notifications": 6073713326,
+  "letter_notifications": 73637625,
+  "live_service_count": 10241,
   "notifications_by_type": [
-    {
-      "date": "2025-03-19",
-      "emails": 3248552,
-      "letters": 84866,
-      "sms": 3054289
-    },
     {
       "date": "2025-03-20",
       "emails": 3323682,
@@ -49,6 +43,12 @@
       "emails": 4483754,
       "letters": 79653,
       "sms": 3445479
+    },
+    {
+      "date": "2025-03-26",
+      "emails": 5296668,
+      "letters": 88188,
+      "sms": 3528038
     }
   ],
   "organisations_using_notify": [
@@ -565,7 +565,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1609,10 +1609,6 @@
       "organisation_name": "Derby Street Pharmacy"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Derby and Derbyshire Clinical Commissioning Group"
-    },
-    {
       "count_of_live_services": 8,
       "organisation_name": "Derbyshire County Council"
     },
@@ -1657,7 +1653,7 @@
       "organisation_name": "Digital Health and Care Wales"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Disclosure & Barring Service"
     },
     {
@@ -2233,7 +2229,7 @@
       "organisation_name": "Gloucestershire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Gloucestershire County Council"
     },
     {
@@ -3597,7 +3593,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -3605,7 +3601,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 876,
+      "count_of_live_services": 877,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3702,6 +3698,14 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "NHS Derby and Derbyshire Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "NHS Devon Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "NHS Digital"
     },
     {
@@ -3721,8 +3725,12 @@
       "organisation_name": "NHS Greater Manchester"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "NHS Kent and Medway Integrated Care Board"
     },
     {
       "count_of_live_services": 4,
@@ -4013,7 +4021,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -4425,7 +4433,7 @@
       "organisation_name": "Primary Healthcare Darlington"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Prime Minister’s Office, 10 Downing Street"
     },
     {
@@ -4913,7 +4921,7 @@
       "organisation_name": "Scottish Environment Protection Agency"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Scottish Government"
     },
     {
@@ -5701,7 +5709,7 @@
       "organisation_name": "Temple Fortune Medical Group"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Tendring District Council"
     },
     {
@@ -6445,7 +6453,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 42,
+      "count_of_live_services": 43,
       "organisation_name": "Welsh Government"
     },
     {
@@ -6827,10 +6835,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-19",
-      "percentage_under_10_seconds": 99.98040710034341
-    },
-    {
       "date": "2025-03-20",
       "percentage_under_10_seconds": 99.99850528792186
     },
@@ -6853,8 +6857,12 @@
     {
       "date": "2025-03-25",
       "percentage_under_10_seconds": 99.99709149729563
+    },
+    {
+      "date": "2025-03-26",
+      "percentage_under_10_seconds": 99.99884247245848
     }
   ],
-  "sms_notifications": 4007702694,
-  "total_notifications": 10149668789
+  "sms_notifications": 4011230732,
+  "total_notifications": 10158581683
 }
