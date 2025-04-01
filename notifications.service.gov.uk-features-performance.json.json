@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99694026363926,
+  "average_percentage_under_10_seconds": 99.99707779671489,
   "count_of_live_services_and_organisations": {
     "organisations": 1699,
-    "services": 10287
+    "services": 10299
   },
-  "email_notifications": 6086661449,
-  "letter_notifications": 73760996,
-  "live_service_count": 10287,
+  "email_notifications": 6090556630,
+  "letter_notifications": 73810303,
+  "live_service_count": 10299,
   "notifications_by_type": [
-    {
-      "date": "2025-03-24",
-      "emails": 3603019,
-      "letters": 52883,
-      "sms": 3409874
-    },
     {
       "date": "2025-03-25",
       "emails": 4483754,
@@ -49,6 +43,12 @@
       "emails": 1454023,
       "letters": 5137,
       "sms": 1170014
+    },
+    {
+      "date": "2025-03-31",
+      "emails": 3895181,
+      "letters": 49307,
+      "sms": 3422668
     }
   ],
   "organisations_using_notify": [
@@ -565,7 +565,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 35,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -873,7 +873,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 255,
+      "count_of_live_services": 256,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1309,7 +1309,7 @@
       "organisation_name": "Companies House"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Competition and Markets Authority"
     },
     {
@@ -1709,7 +1709,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 13,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -3605,7 +3605,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 877,
+      "count_of_live_services": 878,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3773,7 +3773,7 @@
       "organisation_name": "NHS South Central and West Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "NHS South West London Integrated Care Board"
     },
     {
@@ -3873,7 +3873,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -5713,7 +5713,7 @@
       "organisation_name": "Teignbridge District Council"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 30,
       "organisation_name": "Telford & Wrekin Council"
     },
     {
@@ -6847,10 +6847,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-24",
-      "percentage_under_10_seconds": 99.9981495633294
-    },
-    {
       "date": "2025-03-25",
       "percentage_under_10_seconds": 99.99709149729563
     },
@@ -6873,8 +6869,12 @@
     {
       "date": "2025-03-30",
       "percentage_under_10_seconds": 100.0
+    },
+    {
+      "date": "2025-03-31",
+      "percentage_under_10_seconds": 99.99911229485888
     }
   ],
-  "sms_notifications": 4019526915,
-  "total_notifications": 10179949360
+  "sms_notifications": 4022949583,
+  "total_notifications": 10187316516
 }
