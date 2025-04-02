@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99707779671489,
+  "average_percentage_under_10_seconds": 99.99700989626207,
   "count_of_live_services_and_organisations": {
-    "organisations": 1699,
-    "services": 10299
+    "organisations": 1703,
+    "services": 10325
   },
-  "email_notifications": 6090556630,
-  "letter_notifications": 73810303,
-  "live_service_count": 10299,
+  "email_notifications": 6096269610,
+  "letter_notifications": 73861328,
+  "live_service_count": 10325,
   "notifications_by_type": [
-    {
-      "date": "2025-03-25",
-      "emails": 4483754,
-      "letters": 79653,
-      "sms": 3445479
-    },
     {
       "date": "2025-03-26",
       "emails": 5296668,
@@ -49,6 +43,12 @@
       "emails": 3895181,
       "letters": 49307,
       "sms": 3422668
+    },
+    {
+      "date": "2025-04-01",
+      "emails": 5712980,
+      "letters": 51025,
+      "sms": 4176536
     }
   ],
   "organisations_using_notify": [
@@ -255,6 +255,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Ascent (Clowne) Ltd"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Ascent (Coalville) Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -639,6 +643,10 @@
     {
       "count_of_live_services": 7,
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Boxalls Pharmacy"
     },
     {
       "count_of_live_services": 7,
@@ -1109,7 +1117,7 @@
       "organisation_name": "Cheshire East Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Cheshire West and Chester Council"
     },
     {
@@ -1349,7 +1357,7 @@
       "organisation_name": "Cornerways Surgery"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Cornwall Council"
     },
     {
@@ -1709,7 +1717,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 24,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2417,7 +2425,7 @@
       "organisation_name": "HT Surgery"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2737,7 +2745,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 615,
+      "count_of_live_services": 617,
       "organisation_name": "Home Office"
     },
     {
@@ -3057,8 +3065,16 @@
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD ONE TWENTY LIMITED"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "LP SD One Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD SIXTY SIX"
     },
     {
       "count_of_live_services": 1,
@@ -3233,7 +3249,7 @@
       "organisation_name": "Lighthouse Learning Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Lincoln City Council"
     },
     {
@@ -3605,7 +3621,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 878,
+      "count_of_live_services": 879,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3719,10 +3735,6 @@
     {
       "count_of_live_services": 67,
       "organisation_name": "NHS England"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Frimley Integrated Care Board"
     },
     {
       "count_of_live_services": 6,
@@ -4081,7 +4093,7 @@
       "organisation_name": "Northfleet Technology College"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Northumberland County Council"
     },
     {
@@ -5161,7 +5173,7 @@
       "organisation_name": "South Holland District Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "South Kesteven District Council"
     },
     {
@@ -6462,6 +6474,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Wellfield Porterbrook Limited"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
@@ -6847,10 +6863,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-25",
-      "percentage_under_10_seconds": 99.99709149729563
-    },
-    {
       "date": "2025-03-26",
       "percentage_under_10_seconds": 99.99884247245848
     },
@@ -6873,8 +6885,12 @@
     {
       "date": "2025-03-31",
       "percentage_under_10_seconds": 99.99911229485888
+    },
+    {
+      "date": "2025-04-01",
+      "percentage_under_10_seconds": 99.99661619412586
     }
   ],
-  "sms_notifications": 4022949583,
-  "total_notifications": 10187316516
+  "sms_notifications": 4027126119,
+  "total_notifications": 10197257057
 }
