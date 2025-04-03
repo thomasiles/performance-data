@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99700989626207,
+  "average_percentage_under_10_seconds": 99.99708347347025,
   "count_of_live_services_and_organisations": {
-    "organisations": 1703,
-    "services": 10325
+    "organisations": 1706,
+    "services": 10347
   },
-  "email_notifications": 6096269610,
-  "letter_notifications": 73861328,
-  "live_service_count": 10325,
+  "email_notifications": 6100224800,
+  "letter_notifications": 73916999,
+  "live_service_count": 10347,
   "notifications_by_type": [
-    {
-      "date": "2025-03-26",
-      "emails": 5296668,
-      "letters": 88188,
-      "sms": 3528038
-    },
     {
       "date": "2025-03-27",
       "emails": 5976664,
@@ -49,6 +43,12 @@
       "emails": 5712980,
       "letters": 51025,
       "sms": 4176536
+    },
+    {
+      "date": "2025-04-02",
+      "emails": 3955190,
+      "letters": 55671,
+      "sms": 3710811
     }
   ],
   "organisations_using_notify": [
@@ -277,7 +277,7 @@
       "organisation_name": "Ascent (Wollaton) Ltd"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "Ascent Healthcare Ltd"
     },
     {
@@ -569,7 +569,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -661,7 +661,7 @@
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Braintree District Council"
     },
     {
@@ -881,7 +881,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 256,
+      "count_of_live_services": 257,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1717,7 +1717,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 27,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -1873,7 +1873,7 @@
       "organisation_name": "Eastlea Community School"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Eastleigh Borough Council"
     },
     {
@@ -2233,7 +2233,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -3065,11 +3065,15 @@
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Four Limited"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "LP SD ONE TWENTY LIMITED"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 3,
       "organisation_name": "LP SD One Limited"
     },
     {
@@ -3083,6 +3087,14 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "LP SD Six Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Twenty Six Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD Two Limited"
     },
     {
       "count_of_live_services": 1,
@@ -3193,7 +3205,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 51,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3657,7 +3669,7 @@
       "organisation_name": "Monmouthshire County Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Moray Council"
     },
     {
@@ -4001,7 +4013,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4965,7 +4977,7 @@
       "organisation_name": "Sedgemoor District Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Sefton Metropolitan Borough Council"
     },
     {
@@ -5113,7 +5125,7 @@
       "organisation_name": "Somerset County Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Somerset NHS Foundation Trust"
     },
     {
@@ -6233,7 +6245,7 @@
       "organisation_name": "University Academy Holbeach"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6863,10 +6875,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-26",
-      "percentage_under_10_seconds": 99.99884247245848
-    },
-    {
       "date": "2025-03-27",
       "percentage_under_10_seconds": 99.99880046465961
     },
@@ -6889,8 +6897,12 @@
     {
       "date": "2025-04-01",
       "percentage_under_10_seconds": 99.99661619412586
+    },
+    {
+      "date": "2025-04-02",
+      "percentage_under_10_seconds": 99.99935751291574
     }
   ],
-  "sms_notifications": 4027126119,
-  "total_notifications": 10197257057
+  "sms_notifications": 4030836930,
+  "total_notifications": 10204978729
 }
