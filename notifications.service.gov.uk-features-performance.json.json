@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99708347347025,
+  "average_percentage_under_10_seconds": 99.99719078433048,
   "count_of_live_services_and_organisations": {
     "organisations": 1706,
-    "services": 10347
+    "services": 10353
   },
-  "email_notifications": 6100224800,
-  "letter_notifications": 73916999,
-  "live_service_count": 10347,
+  "email_notifications": 6103967785,
+  "letter_notifications": 74001915,
+  "live_service_count": 10353,
   "notifications_by_type": [
-    {
-      "date": "2025-03-27",
-      "emails": 5976664,
-      "letters": 54351,
-      "sms": 3372773
-    },
     {
       "date": "2025-03-28",
       "emails": 3510438,
@@ -49,6 +43,12 @@
       "emails": 3955190,
       "letters": 55671,
       "sms": 3710811
+    },
+    {
+      "date": "2025-04-03",
+      "emails": 3742985,
+      "letters": 84916,
+      "sms": 3415297
     }
   ],
   "organisations_using_notify": [
@@ -1333,7 +1333,7 @@
       "organisation_name": "Consumer Council"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Conwy County Borough Council"
     },
     {
@@ -2745,7 +2745,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 617,
+      "count_of_live_services": 618,
       "organisation_name": "Home Office"
     },
     {
@@ -3857,7 +3857,7 @@
       "organisation_name": "National Lottery Heritage Fund"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Natural Resources Wales"
     },
     {
@@ -4165,7 +4165,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -5617,7 +5617,7 @@
       "organisation_name": "Sunrise Medical Practice (Ghattaora)"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6413,7 +6413,7 @@
       "organisation_name": "Warrington & Vale Royal College"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -6875,10 +6875,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-27",
-      "percentage_under_10_seconds": 99.99880046465961
-    },
-    {
       "date": "2025-03-28",
       "percentage_under_10_seconds": 99.99704249786302
     },
@@ -6901,8 +6897,12 @@
     {
       "date": "2025-04-02",
       "percentage_under_10_seconds": 99.99935751291574
+    },
+    {
+      "date": "2025-04-03",
+      "percentage_under_10_seconds": 99.99955164068125
     }
   ],
-  "sms_notifications": 4030836930,
-  "total_notifications": 10204978729
+  "sms_notifications": 4034252227,
+  "total_notifications": 10212221927
 }
