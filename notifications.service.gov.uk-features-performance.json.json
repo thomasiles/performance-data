@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99719078433048,
+  "average_percentage_under_10_seconds": 99.99727393388024,
   "count_of_live_services_and_organisations": {
-    "organisations": 1706,
-    "services": 10353
+    "organisations": 1709,
+    "services": 10365
   },
-  "email_notifications": 6103967785,
-  "letter_notifications": 74001915,
-  "live_service_count": 10353,
+  "email_notifications": 6107735979,
+  "letter_notifications": 74076489,
+  "live_service_count": 10365,
   "notifications_by_type": [
-    {
-      "date": "2025-03-28",
-      "emails": 3510438,
-      "letters": 47387,
-      "sms": 2698880
-    },
     {
       "date": "2025-03-29",
       "emails": 2006998,
@@ -49,6 +43,12 @@
       "emails": 3742985,
       "letters": 84916,
       "sms": 3415297
+    },
+    {
+      "date": "2025-04-04",
+      "emails": 3768194,
+      "letters": 74574,
+      "sms": 3023219
     }
   ],
   "organisations_using_notify": [
@@ -254,6 +254,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Ascent (Blackpool) Ltd"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Ascent (Clowne) Ltd"
     },
     {
@@ -277,7 +281,7 @@
       "organisation_name": "Ascent (Wollaton) Ltd"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Ascent Healthcare Ltd"
     },
     {
@@ -1201,7 +1205,7 @@
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "City of Edinburgh Council"
     },
     {
@@ -2025,6 +2029,10 @@
       "organisation_name": "Falkirk Council"
     },
     {
+      "count_of_live_services": 3,
+      "organisation_name": "Fampharm Ltd"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Fareham Borough Council"
     },
@@ -2745,7 +2753,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 618,
+      "count_of_live_services": 619,
       "organisation_name": "Home Office"
     },
     {
@@ -2911,6 +2919,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Jarvis Breast Centre"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Jays Pharmacy"
     },
     {
       "count_of_live_services": 2,
@@ -3089,11 +3101,11 @@
       "organisation_name": "LP SD Six Limited"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "LP SD Twenty Six Limited"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "LP SD Two Limited"
     },
     {
@@ -3149,7 +3161,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 55,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -6875,10 +6887,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-03-28",
-      "percentage_under_10_seconds": 99.99704249786302
-    },
-    {
       "date": "2025-03-29",
       "percentage_under_10_seconds": 99.98865534986867
     },
@@ -6901,8 +6909,12 @@
     {
       "date": "2025-04-03",
       "percentage_under_10_seconds": 99.99955164068125
+    },
+    {
+      "date": "2025-04-04",
+      "percentage_under_10_seconds": 99.99762454471123
     }
   ],
-  "sms_notifications": 4034252227,
-  "total_notifications": 10212221927
+  "sms_notifications": 4037275446,
+  "total_notifications": 10219087914
 }
