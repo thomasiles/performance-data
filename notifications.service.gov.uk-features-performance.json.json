@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99820546566657,
+  "average_percentage_under_10_seconds": 99.99839846039536,
   "count_of_live_services_and_organisations": {
-    "organisations": 1711,
-    "services": 10379
+    "organisations": 1712,
+    "services": 10385
   },
-  "email_notifications": 6115927021,
-  "letter_notifications": 74171178,
-  "live_service_count": 10379,
+  "email_notifications": 6120280970,
+  "letter_notifications": 74235375,
+  "live_service_count": 10385,
   "notifications_by_type": [
-    {
-      "date": "2025-04-01",
-      "emails": 5712980,
-      "letters": 51025,
-      "sms": 4176536
-    },
     {
       "date": "2025-04-02",
       "emails": 3955190,
@@ -49,6 +43,12 @@
       "emails": 4123217,
       "letters": 68019,
       "sms": 4092485
+    },
+    {
+      "date": "2025-04-08",
+      "emails": 4353949,
+      "letters": 64197,
+      "sms": 3981064
     }
   ],
   "organisations_using_notify": [
@@ -577,7 +577,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 54,
       "organisation_name": "Department for Transport"
     },
     {
@@ -1673,7 +1673,7 @@
       "organisation_name": "Digital Health and Care Wales"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Disclosure & Barring Service"
     },
     {
@@ -3653,7 +3653,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 879,
+      "count_of_live_services": 880,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6621,6 +6621,10 @@
       "organisation_name": "West Sussex County Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "West Yorkshire Fire and Rescue Service"
+    },
+    {
       "count_of_live_services": 10,
       "organisation_name": "West Yorkshire Police"
     },
@@ -6805,7 +6809,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -6895,10 +6899,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-01",
-      "percentage_under_10_seconds": 99.99661619412586
-    },
-    {
       "date": "2025-04-02",
       "percentage_under_10_seconds": 99.99935751291574
     },
@@ -6921,8 +6921,12 @@
     {
       "date": "2025-04-07",
       "percentage_under_10_seconds": 99.99904050291192
+    },
+    {
+      "date": "2025-04-08",
+      "percentage_under_10_seconds": 99.99796715722734
     }
   ],
-  "sms_notifications": 4043633230,
-  "total_notifications": 10233731429
+  "sms_notifications": 4047614294,
+  "total_notifications": 10242130639
 }
