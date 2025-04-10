@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99839846039536,
+  "average_percentage_under_10_seconds": 99.99834798777994,
   "count_of_live_services_and_organisations": {
-    "organisations": 1712,
-    "services": 10385
+    "organisations": 1713,
+    "services": 10393
   },
-  "email_notifications": 6120280970,
-  "letter_notifications": 74235375,
-  "live_service_count": 10385,
+  "email_notifications": 6124269180,
+  "letter_notifications": 74295530,
+  "live_service_count": 10393,
   "notifications_by_type": [
-    {
-      "date": "2025-04-02",
-      "emails": 3955190,
-      "letters": 55671,
-      "sms": 3710811
-    },
     {
       "date": "2025-04-03",
       "emails": 3742985,
@@ -49,6 +43,12 @@
       "emails": 4353949,
       "letters": 64197,
       "sms": 3981064
+    },
+    {
+      "date": "2025-04-09",
+      "emails": 3988210,
+      "letters": 60155,
+      "sms": 3935022
     }
   ],
   "organisations_using_notify": [
@@ -577,7 +577,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -889,7 +889,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 258,
+      "count_of_live_services": 259,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -1889,7 +1889,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Education Authority"
     },
     {
@@ -1965,7 +1965,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 109,
+      "count_of_live_services": 110,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2559,6 +2559,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Haven Health"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Haven Health Medical Centre"
     },
     {
       "count_of_live_services": 1,
@@ -3653,7 +3657,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 880,
+      "count_of_live_services": 882,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6899,10 +6903,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-02",
-      "percentage_under_10_seconds": 99.99935751291574
-    },
-    {
       "date": "2025-04-03",
       "percentage_under_10_seconds": 99.99955164068125
     },
@@ -6925,8 +6925,12 @@
     {
       "date": "2025-04-08",
       "percentage_under_10_seconds": 99.99796715722734
+    },
+    {
+      "date": "2025-04-09",
+      "percentage_under_10_seconds": 99.99900420460774
     }
   ],
-  "sms_notifications": 4047614294,
-  "total_notifications": 10242130639
+  "sms_notifications": 4051549316,
+  "total_notifications": 10250114026
 }
