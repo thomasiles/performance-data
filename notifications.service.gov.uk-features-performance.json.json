@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99834798777994,
+  "average_percentage_under_10_seconds": 99.99786925757758,
   "count_of_live_services_and_organisations": {
     "organisations": 1713,
-    "services": 10393
+    "services": 10394
   },
-  "email_notifications": 6124269180,
-  "letter_notifications": 74295530,
-  "live_service_count": 10393,
+  "email_notifications": 6127598698,
+  "letter_notifications": 74351617,
+  "live_service_count": 10394,
   "notifications_by_type": [
-    {
-      "date": "2025-04-03",
-      "emails": 3742985,
-      "letters": 84916,
-      "sms": 3415297
-    },
     {
       "date": "2025-04-04",
       "emails": 3768194,
@@ -49,6 +43,12 @@
       "emails": 3988210,
       "letters": 60155,
       "sms": 3935022
+    },
+    {
+      "date": "2025-04-10",
+      "emails": 3329518,
+      "letters": 56087,
+      "sms": 3905456
     }
   ],
   "organisations_using_notify": [
@@ -1365,7 +1365,7 @@
       "organisation_name": "Cornerways Surgery"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Cornwall Council"
     },
     {
@@ -6903,10 +6903,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-03",
-      "percentage_under_10_seconds": 99.99955164068125
-    },
-    {
       "date": "2025-04-04",
       "percentage_under_10_seconds": 99.99762454471123
     },
@@ -6929,8 +6925,12 @@
     {
       "date": "2025-04-09",
       "percentage_under_10_seconds": 99.99900420460774
+    },
+    {
+      "date": "2025-04-10",
+      "percentage_under_10_seconds": 99.9962005292648
     }
   ],
-  "sms_notifications": 4051549316,
-  "total_notifications": 10250114026
+  "sms_notifications": 4055454772,
+  "total_notifications": 10257405087
 }
