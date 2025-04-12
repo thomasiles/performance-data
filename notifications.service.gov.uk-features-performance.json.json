@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99786925757758,
+  "average_percentage_under_10_seconds": 99.99785410301979,
   "count_of_live_services_and_organisations": {
-    "organisations": 1713,
-    "services": 10394
+    "organisations": 1714,
+    "services": 10407
   },
-  "email_notifications": 6127598698,
-  "letter_notifications": 74351617,
-  "live_service_count": 10394,
+  "email_notifications": 6130398200,
+  "letter_notifications": 74409771,
+  "live_service_count": 10407,
   "notifications_by_type": [
-    {
-      "date": "2025-04-04",
-      "emails": 3768194,
-      "letters": 74574,
-      "sms": 3023219
-    },
     {
       "date": "2025-04-05",
       "emails": 2066876,
@@ -49,6 +43,12 @@
       "emails": 3329518,
       "letters": 56087,
       "sms": 3905456
+    },
+    {
+      "date": "2025-04-11",
+      "emails": 2799502,
+      "letters": 58154,
+      "sms": 3382423
     }
   ],
   "organisations_using_notify": [
@@ -313,7 +313,7 @@
       "organisation_name": "Avon Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Avon and Somerset Constabulary"
     },
     {
@@ -557,7 +557,7 @@
       "organisation_name": "Blackburn College"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Blackburn with Darwen Borough Council"
     },
     {
@@ -1137,7 +1137,7 @@
       "organisation_name": "Chesterfield Borough Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Chesterfield College"
     },
     {
@@ -1465,6 +1465,10 @@
       "organisation_name": "Croyland Primary School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Cruddas Park Surgery"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Cumberland Council"
     },
@@ -1585,7 +1589,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 101,
+      "count_of_live_services": 102,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1609,7 +1613,7 @@
       "organisation_name": "Department of Justice (Northern Ireland)"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Derby City Council"
     },
     {
@@ -1725,7 +1729,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2761,7 +2765,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 619,
+      "count_of_live_services": 621,
       "organisation_name": "Home Office"
     },
     {
@@ -3173,7 +3177,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3597,7 +3601,7 @@
       "organisation_name": "Mid Essex Hospital Services NHS Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Mid Sussex District Council"
     },
     {
@@ -4093,7 +4097,7 @@
       "organisation_name": "Northamptonshire Healthcare NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Northern Care Alliance NHS Foundation Trust"
     },
     {
@@ -6153,7 +6157,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6903,10 +6907,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-04",
-      "percentage_under_10_seconds": 99.99762454471123
-    },
-    {
       "date": "2025-04-05",
       "percentage_under_10_seconds": 99.995311363439
     },
@@ -6929,8 +6929,12 @@
     {
       "date": "2025-04-10",
       "percentage_under_10_seconds": 99.9962005292648
+    },
+    {
+      "date": "2025-04-11",
+      "percentage_under_10_seconds": 99.9975184628067
     }
   ],
-  "sms_notifications": 4055454772,
-  "total_notifications": 10257405087
+  "sms_notifications": 4058837195,
+  "total_notifications": 10263645166
 }
