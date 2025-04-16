@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99844562360549,
+  "average_percentage_under_10_seconds": 99.99686619342005,
   "count_of_live_services_and_organisations": {
-    "organisations": 1714,
-    "services": 10413
+    "organisations": 1719,
+    "services": 10421
   },
-  "email_notifications": 6136592718,
-  "letter_notifications": 74483940,
-  "live_service_count": 10413,
+  "email_notifications": 6139894484,
+  "letter_notifications": 74538328,
+  "live_service_count": 10421,
   "notifications_by_type": [
-    {
-      "date": "2025-04-08",
-      "emails": 4353949,
-      "letters": 64197,
-      "sms": 3981064
-    },
     {
       "date": "2025-04-09",
       "emails": 3988210,
@@ -49,6 +43,12 @@
       "emails": 3192579,
       "letters": 50085,
       "sms": 3927297
+    },
+    {
+      "date": "2025-04-15",
+      "emails": 3301766,
+      "letters": 54388,
+      "sms": 4253206
     }
   ],
   "organisations_using_notify": [
@@ -63,6 +63,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "ARC Bucks PCN"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "ASCENT (NEWCASTLE) LIMITED"
     },
     {
       "count_of_live_services": 1,
@@ -323,6 +327,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Ayrshire Valuation Joint Board"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "BD Chem Ltd"
     },
     {
       "count_of_live_services": 6,
@@ -957,7 +965,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Camden Council"
     },
     {
@@ -1485,7 +1493,7 @@
       "organisation_name": "DABD"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Dacorum Borough Council"
     },
     {
@@ -1557,11 +1565,11 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 166,
+      "count_of_live_services": 165,
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 27,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -1729,7 +1737,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2023,6 +2031,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Eynsham Medical Group"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "F & L HEALTH LTD"
     },
     {
       "count_of_live_services": 1,
@@ -2946,6 +2958,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "K Parmar Ltd"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Kelmscott School"
     },
     {
@@ -3111,6 +3127,10 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "LP SD Six Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Sixty Four Limited"
     },
     {
       "count_of_live_services": 1,
@@ -6441,7 +6461,7 @@
       "organisation_name": "Warrington & Vale Royal College"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -6861,7 +6881,7 @@
       "organisation_name": "Wye Valley NHS Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Wyre Council"
     },
     {
@@ -6907,10 +6927,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-08",
-      "percentage_under_10_seconds": 99.99796715722734
-    },
-    {
       "date": "2025-04-09",
       "percentage_under_10_seconds": 99.99900420460774
     },
@@ -6933,8 +6949,12 @@
     {
       "date": "2025-04-14",
       "percentage_under_10_seconds": 99.998964438017
+    },
+    {
+      "date": "2025-04-15",
+      "percentage_under_10_seconds": 99.98691114592917
     }
   ],
-  "sms_notifications": 4065037004,
-  "total_notifications": 10276113662
+  "sms_notifications": 4069290210,
+  "total_notifications": 10283723022
 }
