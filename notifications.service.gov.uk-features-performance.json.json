@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99683719135177,
+  "average_percentage_under_10_seconds": 99.99677085022448,
   "count_of_live_services_and_organisations": {
     "organisations": 1722,
-    "services": 10430
+    "services": 10434
   },
-  "email_notifications": 6142943981,
-  "letter_notifications": 74599653,
-  "live_service_count": 10430,
+  "email_notifications": 6145701756,
+  "letter_notifications": 74657338,
+  "live_service_count": 10434,
   "notifications_by_type": [
-    {
-      "date": "2025-04-10",
-      "emails": 3329518,
-      "letters": 56087,
-      "sms": 3905456
-    },
     {
       "date": "2025-04-11",
       "emails": 2799502,
@@ -49,6 +43,12 @@
       "emails": 3049497,
       "letters": 61325,
       "sms": 3874928
+    },
+    {
+      "date": "2025-04-17",
+      "emails": 2757775,
+      "letters": 57685,
+      "sms": 2636245
     }
   ],
   "organisations_using_notify": [
@@ -2981,7 +2981,7 @@
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Kent County Council"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Mole Valley District Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Money and Pensions Service"
     },
     {
@@ -5689,7 +5689,7 @@
       "organisation_name": "Surrey Heath Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
     },
     {
@@ -6337,7 +6337,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6939,10 +6939,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-10",
-      "percentage_under_10_seconds": 99.9962005292648
-    },
-    {
       "date": "2025-04-11",
       "percentage_under_10_seconds": 99.9975184628067
     },
@@ -6965,8 +6961,12 @@
     {
       "date": "2025-04-16",
       "percentage_under_10_seconds": 99.99880119012988
+    },
+    {
+      "date": "2025-04-17",
+      "percentage_under_10_seconds": 99.99573614137375
     }
   ],
-  "sms_notifications": 4073165138,
-  "total_notifications": 10290708772
+  "sms_notifications": 4075801383,
+  "total_notifications": 10296160477
 }
