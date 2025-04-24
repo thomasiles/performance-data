@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99865850980517,
+  "average_percentage_under_10_seconds": 99.99867660686509,
   "count_of_live_services_and_organisations": {
-    "organisations": 1722,
-    "services": 10439
+    "organisations": 1723,
+    "services": 10447
   },
-  "email_notifications": 6154275323,
-  "letter_notifications": 74768987,
-  "live_service_count": 10439,
+  "email_notifications": 6157448172,
+  "letter_notifications": 74826908,
+  "live_service_count": 10447,
   "notifications_by_type": [
-    {
-      "date": "2025-04-16",
-      "emails": 3049497,
-      "letters": 61325,
-      "sms": 3874928
-    },
     {
       "date": "2025-04-17",
       "emails": 2757775,
@@ -49,6 +43,12 @@
       "emails": 3367376,
       "letters": 50383,
       "sms": 4045966
+    },
+    {
+      "date": "2025-04-23",
+      "emails": 3172849,
+      "letters": 57921,
+      "sms": 3797898
     }
   ],
   "organisations_using_notify": [
@@ -1565,7 +1565,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 165,
+      "count_of_live_services": 166,
       "organisation_name": "Department for Education"
     },
     {
@@ -1585,11 +1585,11 @@
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 77,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3693,7 +3693,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 882,
+      "count_of_live_services": 883,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3805,7 +3805,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "NHS England"
     },
     {
@@ -4037,7 +4037,7 @@
       "organisation_name": "North East Lincolnshire Council"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "North East London NHS Foundation Trust"
     },
     {
@@ -4173,7 +4173,7 @@
       "organisation_name": "Northumberland, Tyne and Wear NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Northumbria Healthcare NHS Foundation Trust"
     },
     {
@@ -4315,6 +4315,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Ordsall and Claremont PCN"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Orion Pharmacy"
     },
     {
       "count_of_live_services": 2,
@@ -4849,7 +4853,7 @@
       "organisation_name": "Royal United Hospitals Bath NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Rugby Borough Council"
     },
     {
@@ -5341,7 +5345,7 @@
       "organisation_name": "South rural pcn"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -6305,7 +6309,7 @@
       "organisation_name": "University Academy Holbeach"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6785,7 +6789,7 @@
       "organisation_name": "Winstanley Community Primary School"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 13,
       "organisation_name": "Wirral Council"
     },
     {
@@ -6939,10 +6943,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-16",
-      "percentage_under_10_seconds": 99.99880119012988
-    },
-    {
       "date": "2025-04-17",
       "percentage_under_10_seconds": 99.99573614137375
     },
@@ -6965,8 +6965,12 @@
     {
       "date": "2025-04-22",
       "percentage_under_10_seconds": 99.9969139093771
+    },
+    {
+      "date": "2025-04-23",
+      "percentage_under_10_seconds": 99.99892786954938
     }
   ],
-  "sms_notifications": 4084521667,
-  "total_notifications": 10313565977
+  "sms_notifications": 4088319565,
+  "total_notifications": 10320594645
 }
