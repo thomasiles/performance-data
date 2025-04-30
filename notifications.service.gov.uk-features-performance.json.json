@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99823603437835,
+  "average_percentage_under_10_seconds": 99.99816662618707,
   "count_of_live_services_and_organisations": {
-    "organisations": 1724,
-    "services": 10478
+    "organisations": 1726,
+    "services": 10485
   },
-  "email_notifications": 6169890129,
-  "letter_notifications": 75017106,
-  "live_service_count": 10478,
+  "email_notifications": 6173902484,
+  "letter_notifications": 75072251,
+  "live_service_count": 10485,
   "notifications_by_type": [
-    {
-      "date": "2025-04-22",
-      "emails": 3367376,
-      "letters": 50383,
-      "sms": 4045966
-    },
     {
       "date": "2025-04-23",
       "emails": 3172849,
@@ -49,6 +43,12 @@
       "emails": 3460464,
       "letters": 60427,
       "sms": 3581305
+    },
+    {
+      "date": "2025-04-29",
+      "emails": 4012355,
+      "letters": 55145,
+      "sms": 3856130
     }
   ],
   "organisations_using_notify": [
@@ -2445,7 +2445,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 81,
+      "count_of_live_services": 82,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -2521,7 +2521,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3673,6 +3673,10 @@
       "organisation_name": "Middlewich High School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Midland Heart Ltd"
+    },
+    {
       "count_of_live_services": 7,
       "organisation_name": "Midlands and Lancashire Commissioning Support Unit"
     },
@@ -3701,7 +3705,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -4129,7 +4133,7 @@
       "organisation_name": "Northampton School for Girls"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Northamptonshire Healthcare NHS Foundation Trust"
     },
     {
@@ -4883,6 +4887,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -5685,7 +5693,7 @@
       "organisation_name": "Sunrise Medical Practice (Ghattaora)"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6947,10 +6955,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-22",
-      "percentage_under_10_seconds": 99.9969139093771
-    },
-    {
       "date": "2025-04-23",
       "percentage_under_10_seconds": 99.99892786954938
     },
@@ -6973,8 +6977,12 @@
     {
       "date": "2025-04-28",
       "percentage_under_10_seconds": 99.99692606436216
+    },
+    {
+      "date": "2025-04-29",
+      "percentage_under_10_seconds": 99.99642805203818
     }
   ],
-  "sms_notifications": 4099939565,
-  "total_notifications": 10344846800
+  "sms_notifications": 4103795695,
+  "total_notifications": 10352770430
 }
