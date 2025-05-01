@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99816662618707,
+  "average_percentage_under_10_seconds": 99.99787109235452,
   "count_of_live_services_and_organisations": {
-    "organisations": 1726,
-    "services": 10485
+    "organisations": 1727,
+    "services": 10490
   },
-  "email_notifications": 6173902484,
-  "letter_notifications": 75072251,
-  "live_service_count": 10485,
+  "email_notifications": 6177247259,
+  "letter_notifications": 75124142,
+  "live_service_count": 10490,
   "notifications_by_type": [
-    {
-      "date": "2025-04-23",
-      "emails": 3172849,
-      "letters": 57921,
-      "sms": 3797898
-    },
     {
       "date": "2025-04-24",
       "emails": 3270615,
@@ -49,6 +43,12 @@
       "emails": 4012355,
       "letters": 55145,
       "sms": 3856130
+    },
+    {
+      "date": "2025-04-30",
+      "emails": 3344775,
+      "letters": 51891,
+      "sms": 3654758
     }
   ],
   "organisations_using_notify": [
@@ -357,7 +357,7 @@
       "organisation_name": "Barking & Dagenham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 43,
+      "count_of_live_services": 44,
       "organisation_name": "Barking & Dagenham London Borough Council"
     },
     {
@@ -1234,6 +1234,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "City of London Police"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "City of Portsmouth College"
     },
     {
@@ -1561,7 +1565,7 @@
       "organisation_name": "Department for Business, Energy and Industrial Strategy"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
@@ -2337,7 +2341,7 @@
       "organisation_name": "Gravesend Grammar School"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Gravesham Borough Council"
     },
     {
@@ -2521,7 +2525,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 45,
+      "count_of_live_services": 46,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -6955,10 +6959,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-23",
-      "percentage_under_10_seconds": 99.99892786954938
-    },
-    {
       "date": "2025-04-24",
       "percentage_under_10_seconds": 99.99773697769994
     },
@@ -6981,8 +6981,12 @@
     {
       "date": "2025-04-29",
       "percentage_under_10_seconds": 99.99642805203818
+    },
+    {
+      "date": "2025-04-30",
+      "percentage_under_10_seconds": 99.99685913272145
     }
   ],
-  "sms_notifications": 4103795695,
-  "total_notifications": 10352770430
+  "sms_notifications": 4107450453,
+  "total_notifications": 10359821854
 }
