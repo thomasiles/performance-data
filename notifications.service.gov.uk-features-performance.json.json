@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99787109235452,
+  "average_percentage_under_10_seconds": 99.99758104781277,
   "count_of_live_services_and_organisations": {
-    "organisations": 1727,
-    "services": 10490
+    "organisations": 1728,
+    "services": 10501
   },
-  "email_notifications": 6177247259,
-  "letter_notifications": 75124142,
-  "live_service_count": 10490,
+  "email_notifications": 6180745679,
+  "letter_notifications": 75203722,
+  "live_service_count": 10501,
   "notifications_by_type": [
-    {
-      "date": "2025-04-24",
-      "emails": 3270615,
-      "letters": 55223,
-      "sms": 3149090
-    },
     {
       "date": "2025-04-25",
       "emails": 3064298,
@@ -49,6 +43,12 @@
       "emails": 3344775,
       "letters": 51891,
       "sms": 3654758
+    },
+    {
+      "date": "2025-05-01",
+      "emails": 3498420,
+      "letters": 79580,
+      "sms": 3136349
     }
   ],
   "organisations_using_notify": [
@@ -1585,7 +1585,7 @@
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
@@ -1985,7 +1985,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 110,
+      "count_of_live_services": 111,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2525,7 +2525,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 46,
+      "count_of_live_services": 47,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2793,7 +2793,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 624,
+      "count_of_live_services": 625,
       "organisation_name": "Home Office"
     },
     {
@@ -3542,6 +3542,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Mayford House"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Maytree Nursery and Infant School"
     },
     {
@@ -3705,7 +3709,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 890,
+      "count_of_live_services": 892,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3713,7 +3717,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 333,
+      "count_of_live_services": 334,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4353,7 +4357,7 @@
       "organisation_name": "Ousedale School"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Oxford City Council"
     },
     {
@@ -6357,7 +6361,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6817,7 +6821,7 @@
       "organisation_name": "Withnell Health Centre"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Woking Borough Council"
     },
     {
@@ -6959,10 +6963,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-24",
-      "percentage_under_10_seconds": 99.99773697769994
-    },
-    {
       "date": "2025-04-25",
       "percentage_under_10_seconds": 99.99860483882819
     },
@@ -6985,8 +6985,12 @@
     {
       "date": "2025-04-30",
       "percentage_under_10_seconds": 99.99685913272145
+    },
+    {
+      "date": "2025-05-01",
+      "percentage_under_10_seconds": 99.99570666590769
     }
   ],
-  "sms_notifications": 4107450453,
-  "total_notifications": 10359821854
+  "sms_notifications": 4110586802,
+  "total_notifications": 10366536203
 }
