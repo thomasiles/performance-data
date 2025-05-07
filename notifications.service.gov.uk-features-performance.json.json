@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99781440143977,
+  "average_percentage_under_10_seconds": 99.99805544964956,
   "count_of_live_services_and_organisations": {
     "organisations": 1729,
-    "services": 10508
+    "services": 10520
   },
-  "email_notifications": 6187808319,
-  "letter_notifications": 75316470,
-  "live_service_count": 10508,
+  "email_notifications": 6191246259,
+  "letter_notifications": 75383822,
+  "live_service_count": 10520,
   "notifications_by_type": [
-    {
-      "date": "2025-04-29",
-      "emails": 4012355,
-      "letters": 55145,
-      "sms": 3856130
-    },
     {
       "date": "2025-04-30",
       "emails": 3344775,
@@ -49,6 +43,12 @@
       "emails": 1375510,
       "letters": 20417,
       "sms": 1806545
+    },
+    {
+      "date": "2025-05-06",
+      "emails": 3437940,
+      "letters": 67352,
+      "sms": 4130826
     }
   ],
   "organisations_using_notify": [
@@ -1381,7 +1381,7 @@
       "organisation_name": "Cornerways Surgery"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Cornwall Council"
     },
     {
@@ -1985,7 +1985,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 111,
+      "count_of_live_services": 114,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3213,7 +3213,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3529,7 +3529,7 @@
       "organisation_name": "Marine Management Organisation"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Maritime & Coastguard Agency"
     },
     {
@@ -3709,7 +3709,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 893,
+      "count_of_live_services": 894,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 334,
+      "count_of_live_services": 337,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4777,7 +4777,7 @@
       "organisation_name": "Robin Hood Lane Health Centre"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Rochdale Metropolitan Borough Council"
     },
     {
@@ -5385,7 +5385,7 @@
       "organisation_name": "Southern Regional College"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Southwark Council"
     },
     {
@@ -6967,10 +6967,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-29",
-      "percentage_under_10_seconds": 99.99642805203818
-    },
-    {
       "date": "2025-04-30",
       "percentage_under_10_seconds": 99.99685913272145
     },
@@ -6993,8 +6989,12 @@
     {
       "date": "2025-05-05",
       "percentage_under_10_seconds": 99.99987280436484
+    },
+    {
+      "date": "2025-05-06",
+      "percentage_under_10_seconds": 99.9981153895067
     }
   ],
-  "sms_notifications": 4116993981,
-  "total_notifications": 10380118770
+  "sms_notifications": 4121124807,
+  "total_notifications": 10387754888
 }
