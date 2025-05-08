@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99805544964956,
+  "average_percentage_under_10_seconds": 99.99826289834112,
   "count_of_live_services_and_organisations": {
-    "organisations": 1729,
-    "services": 10520
+    "organisations": 1731,
+    "services": 10531
   },
-  "email_notifications": 6191246259,
-  "letter_notifications": 75383822,
-  "live_service_count": 10520,
+  "email_notifications": 6194892551,
+  "letter_notifications": 75438543,
+  "live_service_count": 10531,
   "notifications_by_type": [
-    {
-      "date": "2025-04-30",
-      "emails": 3344775,
-      "letters": 51891,
-      "sms": 3654758
-    },
     {
       "date": "2025-05-01",
       "emails": 3498420,
@@ -49,6 +43,12 @@
       "emails": 3437940,
       "letters": 67352,
       "sms": 4130826
+    },
+    {
+      "date": "2025-05-07",
+      "emails": 3646292,
+      "letters": 54721,
+      "sms": 3740294
     }
   ],
   "organisations_using_notify": [
@@ -1957,6 +1957,10 @@
       "organisation_name": "Elthorne Park High School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Elvington Medical Practice"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Ely College"
     },
@@ -2449,7 +2453,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 82,
+      "count_of_live_services": 83,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -2537,7 +2541,7 @@
       "organisation_name": "Harrogate Borough Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Harrogate and District NHS Foundation Trust"
     },
     {
@@ -2793,7 +2797,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 625,
+      "count_of_live_services": 627,
       "organisation_name": "Home Office"
     },
     {
@@ -3505,7 +3509,7 @@
       "organisation_name": "Manor Practice Wallington"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Mansfield District Council"
     },
     {
@@ -5093,7 +5097,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -5237,7 +5241,7 @@
       "organisation_name": "South Bank University Sixth Form"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "South Cambridgeshire District Council"
     },
     {
@@ -6341,7 +6345,7 @@
       "organisation_name": "University Hospitals Birmingham NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "University Hospitals Coventry & Warwickshire"
     },
     {
@@ -6545,7 +6549,7 @@
       "organisation_name": "Weald of Kent Grammar School"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Wealden District Council"
     },
     {
@@ -6655,6 +6659,10 @@
     {
       "count_of_live_services": 13,
       "organisation_name": "West Lothian Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "West Midlands Academy Trust"
     },
     {
       "count_of_live_services": 3,
@@ -6967,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-04-30",
-      "percentage_under_10_seconds": 99.99685913272145
-    },
-    {
       "date": "2025-05-01",
       "percentage_under_10_seconds": 99.99570666590769
     },
@@ -6993,8 +6997,12 @@
     {
       "date": "2025-05-06",
       "percentage_under_10_seconds": 99.9981153895067
+    },
+    {
+      "date": "2025-05-07",
+      "percentage_under_10_seconds": 99.99831127356242
     }
   ],
-  "sms_notifications": 4121124807,
-  "total_notifications": 10387754888
+  "sms_notifications": 4124865101,
+  "total_notifications": 10395196195
 }
