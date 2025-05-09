@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99826289834112,
+  "average_percentage_under_10_seconds": 99.99859334510666,
   "count_of_live_services_and_organisations": {
-    "organisations": 1731,
-    "services": 10531
+    "organisations": 1732,
+    "services": 10544
   },
-  "email_notifications": 6194892551,
-  "letter_notifications": 75438543,
-  "live_service_count": 10531,
+  "email_notifications": 6198380015,
+  "letter_notifications": 75497396,
+  "live_service_count": 10544,
   "notifications_by_type": [
-    {
-      "date": "2025-05-01",
-      "emails": 3498420,
-      "letters": 79580,
-      "sms": 3136349
-    },
     {
       "date": "2025-05-02",
       "emails": 3001361,
@@ -49,6 +43,12 @@
       "emails": 3646292,
       "letters": 54721,
       "sms": 3740294
+    },
+    {
+      "date": "2025-05-08",
+      "emails": 3487464,
+      "letters": 58853,
+      "sms": 3269213
     }
   ],
   "organisations_using_notify": [
@@ -537,7 +537,7 @@
       "organisation_name": "Birmingham Women's and Children's NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Birmingham and Solihull Clinical Commissioning Group"
     },
     {
@@ -625,7 +625,7 @@
       "organisation_name": "Bolsover District Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Bolton Metropolitan Borough Council"
     },
     {
@@ -969,7 +969,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Camden Council"
     },
     {
@@ -1357,7 +1357,7 @@
       "organisation_name": "Consumer Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 32,
       "organisation_name": "Conwy County Borough Council"
     },
     {
@@ -1709,7 +1709,7 @@
       "organisation_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Dorset County Council"
     },
     {
@@ -2017,7 +2017,7 @@
       "organisation_name": "Esher High School"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Essex County Council"
     },
     {
@@ -2797,7 +2797,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 627,
+      "count_of_live_services": 628,
       "organisation_name": "Home Office"
     },
     {
@@ -3345,7 +3345,7 @@
       "organisation_name": "Lincroft Academy"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Lisburn and Castlereagh City Council"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 894,
+      "count_of_live_services": 895,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 337,
+      "count_of_live_services": 339,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -6793,6 +6793,10 @@
       "organisation_name": "Willowbrook Medical Practice"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Wilmslow Health Centre"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Wiltshire Clinical Commissioning Group"
     },
@@ -6975,10 +6979,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-01",
-      "percentage_under_10_seconds": 99.99570666590769
-    },
-    {
       "date": "2025-05-02",
       "percentage_under_10_seconds": 99.99712603580883
     },
@@ -7001,8 +7001,12 @@
     {
       "date": "2025-05-07",
       "percentage_under_10_seconds": 99.99831127356242
+    },
+    {
+      "date": "2025-05-08",
+      "percentage_under_10_seconds": 99.99801979326641
     }
   ],
-  "sms_notifications": 4124865101,
-  "total_notifications": 10395196195
+  "sms_notifications": 4128134314,
+  "total_notifications": 10402011725
 }
