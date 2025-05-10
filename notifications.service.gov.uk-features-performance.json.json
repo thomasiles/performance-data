@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99859334510666,
+  "average_percentage_under_10_seconds": 99.99860133238491,
   "count_of_live_services_and_organisations": {
     "organisations": 1732,
-    "services": 10544
+    "services": 10551
   },
-  "email_notifications": 6198380015,
-  "letter_notifications": 75497396,
-  "live_service_count": 10544,
+  "email_notifications": 6201431371,
+  "letter_notifications": 75553955,
+  "live_service_count": 10551,
   "notifications_by_type": [
-    {
-      "date": "2025-05-02",
-      "emails": 3001361,
-      "letters": 70081,
-      "sms": 2715705
-    },
     {
       "date": "2025-05-03",
       "emails": 1584452,
@@ -49,6 +43,12 @@
       "emails": 3487464,
       "letters": 58853,
       "sms": 3269213
+    },
+    {
+      "date": "2025-05-09",
+      "emails": 3051356,
+      "letters": 56559,
+      "sms": 2759938
     }
   ],
   "organisations_using_notify": [
@@ -749,7 +749,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Brighton and Sussex University Hospitals NHS Trust"
     },
     {
@@ -901,7 +901,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 259,
+      "count_of_live_services": 260,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1565,7 +1565,7 @@
       "organisation_name": "Department for Business, Energy and Industrial Strategy"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
@@ -3705,7 +3705,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 895,
+      "count_of_live_services": 896,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 339,
+      "count_of_live_services": 340,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4109,7 +4109,7 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
@@ -6979,10 +6979,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-02",
-      "percentage_under_10_seconds": 99.99712603580883
-    },
-    {
       "date": "2025-05-03",
       "percentage_under_10_seconds": 99.99896337938321
     },
@@ -7005,8 +7001,12 @@
     {
       "date": "2025-05-08",
       "percentage_under_10_seconds": 99.99801979326641
+    },
+    {
+      "date": "2025-05-09",
+      "percentage_under_10_seconds": 99.99718194675657
     }
   ],
-  "sms_notifications": 4128134314,
-  "total_notifications": 10402011725
+  "sms_notifications": 4130894252,
+  "total_notifications": 10407879578
 }
