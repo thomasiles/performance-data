@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99823685227804,
+  "average_percentage_under_10_seconds": 99.9977655753502,
   "count_of_live_services_and_organisations": {
     "organisations": 1732,
-    "services": 10556
+    "services": 10562
   },
-  "email_notifications": 6207857295,
-  "letter_notifications": 75625047,
-  "live_service_count": 10556,
+  "email_notifications": 6211024523,
+  "letter_notifications": 75680182,
+  "live_service_count": 10562,
   "notifications_by_type": [
-    {
-      "date": "2025-05-06",
-      "emails": 3437940,
-      "letters": 67352,
-      "sms": 4130826
-    },
     {
       "date": "2025-05-07",
       "emails": 3646292,
@@ -49,6 +43,12 @@
       "emails": 3479745,
       "letters": 50409,
       "sms": 3720736
+    },
+    {
+      "date": "2025-05-13",
+      "emails": 3167228,
+      "letters": 55135,
+      "sms": 3665014
     }
   ],
   "organisations_using_notify": [
@@ -669,7 +669,7 @@
       "organisation_name": "Boxalls Pharmacy"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Bracknell Forest Council"
     },
     {
@@ -969,7 +969,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Camden Council"
     },
     {
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 168,
+      "count_of_live_services": 167,
       "organisation_name": "Department for Education"
     },
     {
@@ -1597,7 +1597,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 77,
+      "count_of_live_services": 78,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Education Authority"
     },
     {
@@ -2351,6 +2351,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Great British Nuclear"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Great Eccleston Medical Supplies Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -3713,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 896,
+      "count_of_live_services": 897,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4093,7 +4097,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4901,10 +4905,6 @@
       "organisation_name": "Rutland County Council"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Ryan's Test Org"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Ryedale District Council"
     },
@@ -5685,7 +5685,7 @@
       "organisation_name": "Sturminster Newton High School"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Suffolk County Council"
     },
     {
@@ -6979,10 +6979,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-06",
-      "percentage_under_10_seconds": 99.9981153895067
-    },
-    {
       "date": "2025-05-07",
       "percentage_under_10_seconds": 99.99831127356242
     },
@@ -7005,8 +7001,12 @@
     {
       "date": "2025-05-12",
       "percentage_under_10_seconds": 99.99899862859803
+    },
+    {
+      "date": "2025-05-13",
+      "percentage_under_10_seconds": 99.99481645101177
     }
   ],
-  "sms_notifications": 4136729211,
-  "total_notifications": 10420211553
+  "sms_notifications": 4140394225,
+  "total_notifications": 10427098930
 }
