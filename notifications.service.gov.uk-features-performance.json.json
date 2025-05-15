@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9977655753502,
+  "average_percentage_under_10_seconds": 99.99763330530165,
   "count_of_live_services_and_organisations": {
-    "organisations": 1732,
-    "services": 10562
+    "organisations": 1733,
+    "services": 10572
   },
-  "email_notifications": 6211024523,
-  "letter_notifications": 75680182,
-  "live_service_count": 10562,
+  "email_notifications": 6214533082,
+  "letter_notifications": 75738785,
+  "live_service_count": 10572,
   "notifications_by_type": [
-    {
-      "date": "2025-05-07",
-      "emails": 3646292,
-      "letters": 54721,
-      "sms": 3740294
-    },
     {
       "date": "2025-05-08",
       "emails": 3487464,
@@ -49,6 +43,12 @@
       "emails": 3167228,
       "letters": 55135,
       "sms": 3665014
+    },
+    {
+      "date": "2025-05-14",
+      "emails": 3508559,
+      "letters": 58603,
+      "sms": 3992750
     }
   ],
   "organisations_using_notify": [
@@ -569,7 +569,7 @@
       "organisation_name": "Blackburn College"
     },
     {
-      "count_of_live_services": 58,
+      "count_of_live_services": 59,
       "organisation_name": "Blackburn with Darwen Borough Council"
     },
     {
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 103,
+      "count_of_live_services": 104,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2473,7 +2473,7 @@
       "organisation_name": "HT Surgery"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2533,7 +2533,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2965,7 +2965,7 @@
       "organisation_name": "Jarvis Breast Centre"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 3,
       "organisation_name": "Jays Pharmacy"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 897,
+      "count_of_live_services": 898,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4529,7 +4529,7 @@
       "organisation_name": "Portsmouth City Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Portsmouth Hospitals NHS Trust"
     },
     {
@@ -5705,7 +5705,7 @@
       "organisation_name": "Sunrise Medical Practice (Ghattaora)"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6175,6 +6175,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Thorns Collegiate Academy"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Thrive Tribe Ltd"
     },
     {
       "count_of_live_services": 14,
@@ -6979,10 +6983,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-07",
-      "percentage_under_10_seconds": 99.99831127356242
-    },
-    {
       "date": "2025-05-08",
       "percentage_under_10_seconds": 99.99801979326641
     },
@@ -7005,8 +7005,12 @@
     {
       "date": "2025-05-13",
       "percentage_under_10_seconds": 99.99481645101177
+    },
+    {
+      "date": "2025-05-14",
+      "percentage_under_10_seconds": 99.9973853832226
     }
   ],
-  "sms_notifications": 4140394225,
-  "total_notifications": 10427098930
+  "sms_notifications": 4144386975,
+  "total_notifications": 10434658842
 }
