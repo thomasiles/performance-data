@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99763330530165,
+  "average_percentage_under_10_seconds": 99.99782983408673,
   "count_of_live_services_and_organisations": {
-    "organisations": 1733,
-    "services": 10572
+    "organisations": 1734,
+    "services": 10579
   },
-  "email_notifications": 6214533082,
-  "letter_notifications": 75738785,
-  "live_service_count": 10572,
+  "email_notifications": 6217987548,
+  "letter_notifications": 75800918,
+  "live_service_count": 10579,
   "notifications_by_type": [
-    {
-      "date": "2025-05-08",
-      "emails": 3487464,
-      "letters": 58853,
-      "sms": 3269213
-    },
     {
       "date": "2025-05-09",
       "emails": 3051356,
@@ -49,6 +43,12 @@
       "emails": 3508559,
       "letters": 58603,
       "sms": 3992750
+    },
+    {
+      "date": "2025-05-15",
+      "emails": 3454466,
+      "letters": 62133,
+      "sms": 3627540
     }
   ],
   "organisations_using_notify": [
@@ -253,7 +253,7 @@
       "organisation_name": "Armagh City and District Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Arun District Council"
     },
     {
@@ -3217,7 +3217,7 @@
       "organisation_name": "Lancashire Teaching Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
@@ -3613,7 +3613,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 46,
+      "count_of_live_services": 47,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 898,
+      "count_of_live_services": 899,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4287,6 +4287,10 @@
     {
       "count_of_live_services": 17,
       "organisation_name": "Ofsted"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ofwat"
     },
     {
       "count_of_live_services": 5,
@@ -5749,7 +5753,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 43,
+      "count_of_live_services": 44,
       "organisation_name": "Swansea Council"
     },
     {
@@ -5837,7 +5841,7 @@
       "organisation_name": "Tendring District Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Test Valley Borough Council"
     },
     {
@@ -6983,10 +6987,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-08",
-      "percentage_under_10_seconds": 99.99801979326641
-    },
-    {
       "date": "2025-05-09",
       "percentage_under_10_seconds": 99.99718194675657
     },
@@ -7009,8 +7009,12 @@
     {
       "date": "2025-05-14",
       "percentage_under_10_seconds": 99.9973853832226
+    },
+    {
+      "date": "2025-05-15",
+      "percentage_under_10_seconds": 99.99939549476197
     }
   ],
-  "sms_notifications": 4144386975,
-  "total_notifications": 10434658842
+  "sms_notifications": 4148014515,
+  "total_notifications": 10441802981
 }
