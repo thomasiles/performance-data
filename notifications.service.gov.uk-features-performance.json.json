@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99792981990487,
+  "average_percentage_under_10_seconds": 99.99800432516116,
   "count_of_live_services_and_organisations": {
     "organisations": 1735,
-    "services": 10585
+    "services": 10591
   },
-  "email_notifications": 6223724443,
-  "letter_notifications": 75877734,
-  "live_service_count": 10585,
+  "email_notifications": 6226544647,
+  "letter_notifications": 75927450,
+  "live_service_count": 10591,
   "notifications_by_type": [
-    {
-      "date": "2025-05-12",
-      "emails": 3479745,
-      "letters": 50409,
-      "sms": 3720736
-    },
     {
       "date": "2025-05-13",
       "emails": 3167228,
@@ -49,6 +43,12 @@
       "emails": 1106321,
       "letters": 6241,
       "sms": 1164400
+    },
+    {
+      "date": "2025-05-19",
+      "emails": 2820204,
+      "letters": 49716,
+      "sms": 3481174
     }
   ],
   "organisations_using_notify": [
@@ -1133,7 +1133,7 @@
       "organisation_name": "Cherwell District Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Cheshire East Council"
     },
     {
@@ -2113,7 +2113,7 @@
       "organisation_name": "Folkestone & Hythe District Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Food Standards Agency"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 628,
+      "count_of_live_services": 629,
       "organisation_name": "Home Office"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 900,
+      "count_of_live_services": 902,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4957,7 +4957,7 @@
       "organisation_name": "Salesian School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Salford City Council"
     },
     {
@@ -6991,10 +6991,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-12",
-      "percentage_under_10_seconds": 99.99899862859803
-    },
-    {
       "date": "2025-05-13",
       "percentage_under_10_seconds": 99.99481645101177
     },
@@ -7017,8 +7013,12 @@
     {
       "date": "2025-05-18",
       "percentage_under_10_seconds": 99.99985887745483
+    },
+    {
+      "date": "2025-05-19",
+      "percentage_under_10_seconds": 99.99952016539213
     }
   ],
-  "sms_notifications": 4152835125,
-  "total_notifications": 10452437302
+  "sms_notifications": 4156316299,
+  "total_notifications": 10458788396
 }
