@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99839903783968,
+  "average_percentage_under_10_seconds": 99.99845623440591,
   "count_of_live_services_and_organisations": {
-    "organisations": 1735,
-    "services": 10602
+    "organisations": 1736,
+    "services": 10609
   },
-  "email_notifications": 6230264520,
-  "letter_notifications": 75983015,
-  "live_service_count": 10602,
+  "email_notifications": 6233613778,
+  "letter_notifications": 76043091,
+  "live_service_count": 10609,
   "notifications_by_type": [
-    {
-      "date": "2025-05-14",
-      "emails": 3508559,
-      "letters": 58603,
-      "sms": 3992750
-    },
     {
       "date": "2025-05-15",
       "emails": 3454466,
@@ -49,6 +43,12 @@
       "emails": 3719873,
       "letters": 55565,
       "sms": 3269662
+    },
+    {
+      "date": "2025-05-21",
+      "emails": 3349258,
+      "letters": 60076,
+      "sms": 3134651
     }
   ],
   "organisations_using_notify": [
@@ -3381,7 +3381,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "London Borough of Hillingdon"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 904,
+      "count_of_live_services": 905,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3973,7 +3973,7 @@
       "organisation_name": "New Islington Medical Practice"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
@@ -4315,6 +4315,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Omnes Healthcare"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Omnia Practice"
     },
     {
       "count_of_live_services": 1,
@@ -5049,7 +5053,7 @@
       "organisation_name": "Scottish Environment Protection Agency"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Scottish Government"
     },
     {
@@ -5217,7 +5221,7 @@
       "organisation_name": "Somerset County Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Somerset NHS Foundation Trust"
     },
     {
@@ -6229,7 +6233,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6991,10 +6995,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-14",
-      "percentage_under_10_seconds": 99.9973853832226
-    },
-    {
       "date": "2025-05-15",
       "percentage_under_10_seconds": 99.99939549476197
     },
@@ -7017,8 +7017,12 @@
     {
       "date": "2025-05-20",
       "percentage_under_10_seconds": 99.99757943976132
+    },
+    {
+      "date": "2025-05-21",
+      "percentage_under_10_seconds": 99.99778575918626
     }
   ],
-  "sms_notifications": 4159585961,
-  "total_notifications": 10465833496
+  "sms_notifications": 4162720612,
+  "total_notifications": 10472377481
 }
