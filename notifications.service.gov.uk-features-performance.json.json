@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99845623440591,
+  "average_percentage_under_10_seconds": 99.9969893247383,
   "count_of_live_services_and_organisations": {
-    "organisations": 1736,
-    "services": 10609
+    "organisations": 1735,
+    "services": 10614
   },
-  "email_notifications": 6233613778,
-  "letter_notifications": 76043091,
-  "live_service_count": 10609,
+  "email_notifications": 6237238264,
+  "letter_notifications": 76094231,
+  "live_service_count": 10614,
   "notifications_by_type": [
-    {
-      "date": "2025-05-15",
-      "emails": 3454466,
-      "letters": 62133,
-      "sms": 3627540
-    },
     {
       "date": "2025-05-16",
       "emails": 3086386,
@@ -49,6 +43,12 @@
       "emails": 3349258,
       "letters": 60076,
       "sms": 3134651
+    },
+    {
+      "date": "2025-05-22",
+      "emails": 3624486,
+      "letters": 51140,
+      "sms": 3185015
     }
   ],
   "organisations_using_notify": [
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 168,
+      "count_of_live_services": 169,
       "organisation_name": "Department for Education"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 905,
+      "count_of_live_services": 906,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3977,7 +3977,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4289,7 +4289,7 @@
       "organisation_name": "Ofwat"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Oil & Gas Authority"
     },
     {
@@ -4907,10 +4907,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -5757,7 +5753,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "Swansea Council"
     },
     {
@@ -6233,7 +6229,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6995,10 +6991,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-15",
-      "percentage_under_10_seconds": 99.99939549476197
-    },
-    {
       "date": "2025-05-16",
       "percentage_under_10_seconds": 99.99753035265192
     },
@@ -7021,8 +7013,12 @@
     {
       "date": "2025-05-21",
       "percentage_under_10_seconds": 99.99778575918626
+    },
+    {
+      "date": "2025-05-22",
+      "percentage_under_10_seconds": 99.98912712708864
     }
   ],
-  "sms_notifications": 4162720612,
-  "total_notifications": 10472377481
+  "sms_notifications": 4165905627,
+  "total_notifications": 10479238122
 }
