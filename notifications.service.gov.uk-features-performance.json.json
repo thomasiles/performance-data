@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99730872825491,
+  "average_percentage_under_10_seconds": 99.99731293541117,
   "count_of_live_services_and_organisations": {
     "organisations": 1735,
     "services": 10619
   },
-  "email_notifications": 6242151856,
-  "letter_notifications": 76164544,
+  "email_notifications": 6243140634,
+  "letter_notifications": 76170960,
   "live_service_count": 10619,
   "notifications_by_type": [
-    {
-      "date": "2025-05-18",
-      "emails": 1106321,
-      "letters": 6241,
-      "sms": 1164400
-    },
     {
       "date": "2025-05-19",
       "emails": 2820204,
@@ -49,6 +43,12 @@
       "emails": 1595754,
       "letters": 17915,
       "sms": 983062
+    },
+    {
+      "date": "2025-05-25",
+      "emails": 988778,
+      "letters": 6416,
+      "sms": 849364
     }
   ],
   "organisations_using_notify": [
@@ -6991,10 +6991,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-18",
-      "percentage_under_10_seconds": 99.99985887745483
-    },
-    {
       "date": "2025-05-19",
       "percentage_under_10_seconds": 99.99952016539213
     },
@@ -7017,8 +7013,12 @@
     {
       "date": "2025-05-24",
       "percentage_under_10_seconds": 99.99992062087179
+    },
+    {
+      "date": "2025-05-25",
+      "percentage_under_10_seconds": 99.9998883275487
     }
   ],
-  "sms_notifications": 4169768116,
-  "total_notifications": 10488084516
+  "sms_notifications": 4170617480,
+  "total_notifications": 10489929074
 }
