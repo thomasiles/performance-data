@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99722978293904,
+  "average_percentage_under_10_seconds": 99.99743671685279,
   "count_of_live_services_and_organisations": {
     "organisations": 1735,
-    "services": 10619
+    "services": 10620
   },
-  "email_notifications": 6244741528,
-  "letter_notifications": 76190452,
-  "live_service_count": 10619,
+  "email_notifications": 6247736259,
+  "letter_notifications": 76239143,
+  "live_service_count": 10620,
   "notifications_by_type": [
-    {
-      "date": "2025-05-20",
-      "emails": 3719873,
-      "letters": 55565,
-      "sms": 3269662
-    },
     {
       "date": "2025-05-21",
       "emails": 3349258,
@@ -49,6 +43,12 @@
       "emails": 1600894,
       "letters": 19492,
       "sms": 1698212
+    },
+    {
+      "date": "2025-05-27",
+      "emails": 2994731,
+      "letters": 48691,
+      "sms": 3232268
     }
   ],
   "organisations_using_notify": [
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 169,
+      "count_of_live_services": 170,
       "organisation_name": "Department for Education"
     },
     {
@@ -6991,10 +6991,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-20",
-      "percentage_under_10_seconds": 99.99757943976132
-    },
-    {
       "date": "2025-05-21",
       "percentage_under_10_seconds": 99.99778575918626
     },
@@ -7017,8 +7013,12 @@
     {
       "date": "2025-05-26",
       "percentage_under_10_seconds": 99.99893809808722
+    },
+    {
+      "date": "2025-05-27",
+      "percentage_under_10_seconds": 99.99902797715747
     }
   ],
-  "sms_notifications": 4172315692,
-  "total_notifications": 10493247672
+  "sms_notifications": 4175547960,
+  "total_notifications": 10499523362
 }
