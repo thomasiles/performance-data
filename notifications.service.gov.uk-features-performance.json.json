@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99743671685279,
+  "average_percentage_under_10_seconds": 99.99724543037598,
   "count_of_live_services_and_organisations": {
     "organisations": 1735,
-    "services": 10620
+    "services": 10632
   },
-  "email_notifications": 6247736259,
-  "letter_notifications": 76239143,
-  "live_service_count": 10620,
+  "email_notifications": 6251699022,
+  "letter_notifications": 76291112,
+  "live_service_count": 10632,
   "notifications_by_type": [
-    {
-      "date": "2025-05-21",
-      "emails": 3349258,
-      "letters": 60076,
-      "sms": 3134651
-    },
     {
       "date": "2025-05-22",
       "emails": 3624486,
@@ -49,6 +43,12 @@
       "emails": 2994731,
       "letters": 48691,
       "sms": 3232268
+    },
+    {
+      "date": "2025-05-28",
+      "emails": 3962763,
+      "letters": 51969,
+      "sms": 3215371
     }
   ],
   "organisations_using_notify": [
@@ -901,7 +901,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 262,
+      "count_of_live_services": 263,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2457,7 +2457,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 83,
+      "count_of_live_services": 84,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 629,
+      "count_of_live_services": 631,
       "organisation_name": "Home Office"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 906,
+      "count_of_live_services": 909,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4133,7 +4133,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -4849,7 +4849,7 @@
       "organisation_name": "Royal Botanic Gardens, Kew"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
@@ -5101,7 +5101,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -6129,7 +6129,7 @@
       "organisation_name": "The Robert Napier School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "The Royal Borough of Windsor and Maidenhead"
     },
     {
@@ -6233,7 +6233,7 @@
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Trafford Metropolitan Borough Council"
     },
     {
@@ -6991,10 +6991,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-21",
-      "percentage_under_10_seconds": 99.99778575918626
-    },
-    {
       "date": "2025-05-22",
       "percentage_under_10_seconds": 99.98912712708864
     },
@@ -7017,8 +7013,12 @@
     {
       "date": "2025-05-27",
       "percentage_under_10_seconds": 99.99902797715747
+    },
+    {
+      "date": "2025-05-28",
+      "percentage_under_10_seconds": 99.99644675384862
     }
   ],
-  "sms_notifications": 4175547960,
-  "total_notifications": 10499523362
+  "sms_notifications": 4178763331,
+  "total_notifications": 10506753465
 }
