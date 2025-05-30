@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99724543037598,
+  "average_percentage_under_10_seconds": 99.99856780324379,
   "count_of_live_services_and_organisations": {
-    "organisations": 1735,
-    "services": 10632
+    "organisations": 1736,
+    "services": 10643
   },
-  "email_notifications": 6251699022,
-  "letter_notifications": 76291112,
-  "live_service_count": 10632,
+  "email_notifications": 6255105019,
+  "letter_notifications": 76343315,
+  "live_service_count": 10643,
   "notifications_by_type": [
-    {
-      "date": "2025-05-22",
-      "emails": 3624486,
-      "letters": 51140,
-      "sms": 3185015
-    },
     {
       "date": "2025-05-23",
       "emails": 3317838,
@@ -49,6 +43,12 @@
       "emails": 3962763,
       "letters": 51969,
       "sms": 3215371
+    },
+    {
+      "date": "2025-05-29",
+      "emails": 3405997,
+      "letters": 52203,
+      "sms": 3118159
     }
   ],
   "organisations_using_notify": [
@@ -1985,7 +1985,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -2095,6 +2095,10 @@
     {
       "count_of_live_services": 11,
       "organisation_name": "Fife Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Financial Conduct Authority"
     },
     {
       "count_of_live_services": 1,
@@ -3097,7 +3101,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 25,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3337,7 +3341,7 @@
       "organisation_name": "Lincoln City Council"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Lincolnshire County Council"
     },
     {
@@ -3717,7 +3721,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 909,
+      "count_of_live_services": 912,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3801,7 +3805,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -3989,7 +3993,7 @@
       "organisation_name": "Newham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Newham Council"
     },
     {
@@ -6229,7 +6233,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6991,10 +6995,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-22",
-      "percentage_under_10_seconds": 99.98912712708864
-    },
-    {
       "date": "2025-05-23",
       "percentage_under_10_seconds": 99.99736910802942
     },
@@ -7017,8 +7017,12 @@
     {
       "date": "2025-05-28",
       "percentage_under_10_seconds": 99.99644675384862
+    },
+    {
+      "date": "2025-05-29",
+      "percentage_under_10_seconds": 99.99838373716334
     }
   ],
-  "sms_notifications": 4178763331,
-  "total_notifications": 10506753465
+  "sms_notifications": 4181881490,
+  "total_notifications": 10513329824
 }
