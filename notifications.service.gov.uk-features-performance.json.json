@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99856780324379,
+  "average_percentage_under_10_seconds": 99.99847790169893,
   "count_of_live_services_and_organisations": {
     "organisations": 1736,
-    "services": 10643
+    "services": 10644
   },
-  "email_notifications": 6255105019,
-  "letter_notifications": 76343315,
-  "live_service_count": 10643,
+  "email_notifications": 6257856387,
+  "letter_notifications": 76393344,
+  "live_service_count": 10644,
   "notifications_by_type": [
-    {
-      "date": "2025-05-23",
-      "emails": 3317838,
-      "letters": 52398,
-      "sms": 2879427
-    },
     {
       "date": "2025-05-24",
       "emails": 1595754,
@@ -49,6 +43,12 @@
       "emails": 3405997,
       "letters": 52203,
       "sms": 3118159
+    },
+    {
+      "date": "2025-05-30",
+      "emails": 2751368,
+      "letters": 50029,
+      "sms": 2581219
     }
   ],
   "organisations_using_notify": [
@@ -901,7 +901,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 263,
+      "count_of_live_services": 261,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -969,7 +969,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Camden Council"
     },
     {
@@ -1137,7 +1137,7 @@
       "organisation_name": "Cheshire East Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 12,
       "organisation_name": "Cheshire West and Chester Council"
     },
     {
@@ -1709,7 +1709,7 @@
       "organisation_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Dorset County Council"
     },
     {
@@ -1789,7 +1789,7 @@
       "organisation_name": "Ealing Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Ealing Council"
     },
     {
@@ -2545,7 +2545,7 @@
       "organisation_name": "Harlow District Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 13,
       "organisation_name": "Harrogate Borough Council"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 912,
+      "count_of_live_services": 913,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3729,7 +3729,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 341,
+      "count_of_live_services": 342,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4137,7 +4137,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -6995,10 +6995,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-23",
-      "percentage_under_10_seconds": 99.99736910802942
-    },
-    {
       "date": "2025-05-24",
       "percentage_under_10_seconds": 99.99992062087179
     },
@@ -7021,8 +7017,12 @@
     {
       "date": "2025-05-29",
       "percentage_under_10_seconds": 99.99838373716334
+    },
+    {
+      "date": "2025-05-30",
+      "percentage_under_10_seconds": 99.99673979721538
     }
   ],
-  "sms_notifications": 4181881490,
-  "total_notifications": 10513329824
+  "sms_notifications": 4184462709,
+  "total_notifications": 10518712440
 }
