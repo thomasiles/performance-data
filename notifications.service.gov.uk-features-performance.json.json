@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99786734349011,
+  "average_percentage_under_10_seconds": 99.99771837664633,
   "count_of_live_services_and_organisations": {
     "organisations": 1736,
-    "services": 10644
+    "services": 10647
   },
-  "email_notifications": 6260546770,
-  "letter_notifications": 76417579,
-  "live_service_count": 10644,
+  "email_notifications": 6264040459,
+  "letter_notifications": 76463778,
+  "live_service_count": 10647,
   "notifications_by_type": [
-    {
-      "date": "2025-05-26",
-      "emails": 1600894,
-      "letters": 19492,
-      "sms": 1698212
-    },
     {
       "date": "2025-05-27",
       "emails": 2994731,
@@ -49,6 +43,12 @@
       "emails": 1168827,
       "letters": 6022,
       "sms": 1209109
+    },
+    {
+      "date": "2025-06-02",
+      "emails": 3493689,
+      "letters": 46199,
+      "sms": 3607260
     }
   ],
   "organisations_using_notify": [
@@ -589,7 +589,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 38,
+      "count_of_live_services": 39,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -781,7 +781,7 @@
       "organisation_name": "Brockenhurst College"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Bromley London Borough Council"
     },
     {
@@ -1409,7 +1409,7 @@
       "organisation_name": "County Durham and Darlington NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Coventry City Council"
     },
     {
@@ -6995,10 +6995,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-26",
-      "percentage_under_10_seconds": 99.99893809808722
-    },
-    {
       "date": "2025-05-27",
       "percentage_under_10_seconds": 99.99902797715747
     },
@@ -7021,8 +7017,12 @@
     {
       "date": "2025-06-01",
       "percentage_under_10_seconds": 99.99638703948357
+    },
+    {
+      "date": "2025-06-02",
+      "percentage_under_10_seconds": 99.99789533018077
     }
   ],
-  "sms_notifications": 4186664701,
-  "total_notifications": 10523629050
+  "sms_notifications": 4190271961,
+  "total_notifications": 10530776198
 }
