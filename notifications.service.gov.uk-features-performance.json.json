@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99771837664633,
+  "average_percentage_under_10_seconds": 99.99740988461629,
   "count_of_live_services_and_organisations": {
     "organisations": 1736,
-    "services": 10647
+    "services": 10661
   },
-  "email_notifications": 6264040459,
-  "letter_notifications": 76463778,
-  "live_service_count": 10647,
+  "email_notifications": 6267561734,
+  "letter_notifications": 76518823,
+  "live_service_count": 10661,
   "notifications_by_type": [
-    {
-      "date": "2025-05-27",
-      "emails": 2994731,
-      "letters": 48691,
-      "sms": 3232268
-    },
     {
       "date": "2025-05-28",
       "emails": 3962763,
@@ -49,6 +43,12 @@
       "emails": 3493689,
       "letters": 46199,
       "sms": 3607260
+    },
+    {
+      "date": "2025-06-03",
+      "emails": 3521275,
+      "letters": 55045,
+      "sms": 3361374
     }
   ],
   "organisations_using_notify": [
@@ -901,7 +901,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 261,
+      "count_of_live_services": 259,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1469,7 +1469,7 @@
       "organisation_name": "Croydon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Croydon Council"
     },
     {
@@ -1989,7 +1989,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 114,
+      "count_of_live_services": 115,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2189,7 +2189,7 @@
       "organisation_name": "Future Schools Trust"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Fylde Borough Council"
     },
     {
@@ -2269,7 +2269,7 @@
       "organisation_name": "Gleadless Medical Centre"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Gloucester City Council"
     },
     {
@@ -2865,7 +2865,7 @@
       "organisation_name": "Humberside Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Huntingdonshire District Council"
     },
     {
@@ -3101,7 +3101,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3425,7 +3425,7 @@
       "organisation_name": "Loreto Sixth Form College"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Lothian Valuation Joint Board"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 913,
+      "count_of_live_services": 917,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3837,7 +3837,7 @@
       "organisation_name": "NHS Greater Glasgow and Clyde"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "NHS Greater Manchester"
     },
     {
@@ -5105,7 +5105,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -5281,7 +5281,7 @@
       "organisation_name": "South Holland District Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "South Kesteven District Council"
     },
     {
@@ -5325,7 +5325,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -6349,7 +6349,7 @@
       "organisation_name": "University Academy Holbeach"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6995,10 +6995,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-27",
-      "percentage_under_10_seconds": 99.99902797715747
-    },
-    {
       "date": "2025-05-28",
       "percentage_under_10_seconds": 99.99644675384862
     },
@@ -7021,8 +7017,12 @@
     {
       "date": "2025-06-02",
       "percentage_under_10_seconds": 99.99789533018077
+    },
+    {
+      "date": "2025-06-03",
+      "percentage_under_10_seconds": 99.99686853294722
     }
   ],
-  "sms_notifications": 4190271961,
-  "total_notifications": 10530776198
+  "sms_notifications": 4193633335,
+  "total_notifications": 10537713892
 }
