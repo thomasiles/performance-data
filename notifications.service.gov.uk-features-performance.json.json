@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99563178504437,
+  "average_percentage_under_10_seconds": 99.99493816787592,
   "count_of_live_services_and_organisations": {
-    "organisations": 1737,
-    "services": 10676
+    "organisations": 1741,
+    "services": 10693
   },
-  "email_notifications": 6273829488,
-  "letter_notifications": 76577393,
-  "live_service_count": 10676,
+  "email_notifications": 6277566152,
+  "letter_notifications": 76631456,
+  "live_service_count": 10693,
   "notifications_by_type": [
-    {
-      "date": "2025-05-29",
-      "emails": 3405997,
-      "letters": 52203,
-      "sms": 3118159
-    },
     {
       "date": "2025-05-30",
       "emails": 2751368,
@@ -49,6 +43,12 @@
       "emails": 6267754,
       "letters": 58570,
       "sms": 3229012
+    },
+    {
+      "date": "2025-06-05",
+      "emails": 3736664,
+      "letters": 54063,
+      "sms": 3122062
     }
   ],
   "organisations_using_notify": [
@@ -241,7 +241,7 @@
       "organisation_name": "Ards and North Down Borough Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Argyll and Bute Council"
     },
     {
@@ -618,11 +618,19 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Bluecross Health Ltd"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Bolingbroke Medical Centre"
     },
     {
       "count_of_live_services": 6,
       "organisation_name": "Bolsover District Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Bolton Cares"
     },
     {
       "count_of_live_services": 8,
@@ -1617,7 +1625,7 @@
       "organisation_name": "Department of Education (Northern Ireland)"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Department of Finance – Northern Ireland"
     },
     {
@@ -1993,7 +2001,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 115,
+      "count_of_live_services": 116,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2293,7 +2301,7 @@
       "organisation_name": "Gloucestershire County Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Gloucestershire Hospitals NHS Foundation Trust"
     },
     {
@@ -2505,7 +2513,7 @@
       "organisation_name": "Halton Borough Council"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Hammersmith and Fulham London Borough Council"
     },
     {
@@ -2809,7 +2817,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 632,
+      "count_of_live_services": 634,
       "organisation_name": "Home Office"
     },
     {
@@ -3105,7 +3113,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3725,7 +3733,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 921,
+      "count_of_live_services": 923,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5066,6 +5074,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Scottish Parliament"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Scottish Social Security Council"
     },
     {
@@ -5329,7 +5341,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -5697,7 +5709,7 @@
       "organisation_name": "Sturminster Newton High School"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Suffolk County Council"
     },
     {
@@ -6217,7 +6229,7 @@
       "organisation_name": "Tonbridge & Malling Borough Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Torbay Council"
     },
     {
@@ -6718,6 +6730,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "West Yorkshire Combined Authority"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "West Yorkshire Fire and Rescue Service"
     },
     {
@@ -6999,10 +7015,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-29",
-      "percentage_under_10_seconds": 99.99838373716334
-    },
-    {
       "date": "2025-05-30",
       "percentage_under_10_seconds": 99.99673979721538
     },
@@ -7025,8 +7037,12 @@
     {
       "date": "2025-06-04",
       "percentage_under_10_seconds": 99.98400005684512
+    },
+    {
+      "date": "2025-06-05",
+      "percentage_under_10_seconds": 99.99352841698422
     }
   ],
-  "sms_notifications": 4196862347,
-  "total_notifications": 10547269228
+  "sms_notifications": 4199984409,
+  "total_notifications": 10554182017
 }
