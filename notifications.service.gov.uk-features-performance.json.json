@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99493816787592,
+  "average_percentage_under_10_seconds": 99.99520803409504,
   "count_of_live_services_and_organisations": {
     "organisations": 1741,
-    "services": 10693
+    "services": 10703
   },
-  "email_notifications": 6277566152,
-  "letter_notifications": 76631456,
-  "live_service_count": 10693,
+  "email_notifications": 6280892502,
+  "letter_notifications": 76680353,
+  "live_service_count": 10703,
   "notifications_by_type": [
-    {
-      "date": "2025-05-30",
-      "emails": 2751368,
-      "letters": 50029,
-      "sms": 2581219
-    },
     {
       "date": "2025-05-31",
       "emails": 1521556,
@@ -49,6 +43,12 @@
       "emails": 3736664,
       "letters": 54063,
       "sms": 3122062
+    },
+    {
+      "date": "2025-06-06",
+      "emails": 3326350,
+      "letters": 48897,
+      "sms": 2671632
     }
   ],
   "organisations_using_notify": [
@@ -1141,7 +1141,7 @@
       "organisation_name": "Cherwell District Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Cheshire East Council"
     },
     {
@@ -2817,7 +2817,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 634,
+      "count_of_live_services": 635,
       "organisation_name": "Home Office"
     },
     {
@@ -3733,7 +3733,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 923,
+      "count_of_live_services": 928,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3901,7 +3901,7 @@
       "organisation_name": "NHS Specialist Pharmacy Service"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "NHS Supply Chain"
     },
     {
@@ -5849,7 +5849,7 @@
       "organisation_name": "Teignbridge District Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Telford & Wrekin Council"
     },
     {
@@ -7015,10 +7015,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-05-30",
-      "percentage_under_10_seconds": 99.99673979721538
-    },
-    {
       "date": "2025-05-31",
       "percentage_under_10_seconds": 99.99914800147518
     },
@@ -7041,8 +7037,12 @@
     {
       "date": "2025-06-05",
       "percentage_under_10_seconds": 99.99352841698422
+    },
+    {
+      "date": "2025-06-06",
+      "percentage_under_10_seconds": 99.99862886074926
     }
   ],
-  "sms_notifications": 4199984409,
-  "total_notifications": 10554182017
+  "sms_notifications": 4202656041,
+  "total_notifications": 10560228896
 }
