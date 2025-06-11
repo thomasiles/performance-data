@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99548843496785,
+  "average_percentage_under_10_seconds": 99.99532830454625,
   "count_of_live_services_and_organisations": {
-    "organisations": 1741,
-    "services": 10711
+    "organisations": 1742,
+    "services": 10722
   },
-  "email_notifications": 6287105780,
-  "letter_notifications": 76750950,
-  "live_service_count": 10711,
+  "email_notifications": 6291518987,
+  "letter_notifications": 76809537,
+  "live_service_count": 10722,
   "notifications_by_type": [
-    {
-      "date": "2025-06-03",
-      "emails": 3521275,
-      "letters": 55045,
-      "sms": 3361374
-    },
     {
       "date": "2025-06-04",
       "emails": 6267754,
@@ -49,6 +43,12 @@
       "emails": 3441487,
       "letters": 47462,
       "sms": 3522026
+    },
+    {
+      "date": "2025-06-10",
+      "emails": 4413207,
+      "letters": 58587,
+      "sms": 3313839
     }
   ],
   "organisations_using_notify": [
@@ -761,7 +761,7 @@
       "organisation_name": "Brighton and Sussex University Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -1727,6 +1727,10 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "Dorset County Hospital NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Dorset Healthcare University NHS Foundation Trust"
     },
     {
       "count_of_live_services": 8,
@@ -2817,7 +2821,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 637,
+      "count_of_live_services": 638,
       "organisation_name": "Home Office"
     },
     {
@@ -3293,7 +3297,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3325,7 +3329,7 @@
       "organisation_name": "Leicestershire County Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Leicestershire Partnership NHS Trust"
     },
     {
@@ -3733,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 929,
+      "count_of_live_services": 932,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4757,7 +4761,7 @@
       "organisation_name": "Ribble Valley Borough Council"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Richmond and Wandsworth Council"
     },
     {
@@ -6525,7 +6529,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -7015,10 +7019,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-03",
-      "percentage_under_10_seconds": 99.99686853294722
-    },
-    {
       "date": "2025-06-04",
       "percentage_under_10_seconds": 99.98400005684512
     },
@@ -7041,8 +7041,12 @@
     {
       "date": "2025-06-09",
       "percentage_under_10_seconds": 99.99563914454448
+    },
+    {
+      "date": "2025-06-10",
+      "percentage_under_10_seconds": 99.99574761999607
     }
   ],
-  "sms_notifications": 4208410301,
-  "total_notifications": 10572267031
+  "sms_notifications": 4211724140,
+  "total_notifications": 10580052664
 }
