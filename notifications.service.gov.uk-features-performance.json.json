@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99532830454625,
+  "average_percentage_under_10_seconds": 99.99741326158161,
   "count_of_live_services_and_organisations": {
-    "organisations": 1742,
-    "services": 10722
+    "organisations": 1743,
+    "services": 10735
   },
-  "email_notifications": 6291518987,
-  "letter_notifications": 76809537,
-  "live_service_count": 10722,
+  "email_notifications": 6295220557,
+  "letter_notifications": 76860107,
+  "live_service_count": 10735,
   "notifications_by_type": [
-    {
-      "date": "2025-06-04",
-      "emails": 6267754,
-      "letters": 58570,
-      "sms": 3229012
-    },
     {
       "date": "2025-06-05",
       "emails": 3736664,
@@ -49,6 +43,12 @@
       "emails": 4413207,
       "letters": 58587,
       "sms": 3313839
+    },
+    {
+      "date": "2025-06-11",
+      "emails": 3701570,
+      "letters": 50570,
+      "sms": 3267969
     }
   ],
   "organisations_using_notify": [
@@ -429,7 +429,7 @@
       "organisation_name": "Baskerville School"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Bassetlaw District Council"
     },
     {
@@ -1585,7 +1585,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 170,
+      "count_of_live_services": 171,
       "organisation_name": "Department for Education"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 104,
+      "count_of_live_services": 105,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -3297,7 +3297,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 932,
+      "count_of_live_services": 935,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3745,7 +3745,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 342,
+      "count_of_live_services": 345,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4153,7 +4153,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -5273,6 +5273,10 @@
       "organisation_name": "South Cambridgeshire District Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "South Darley CE Primary School"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "South Derbyshire District Council"
     },
@@ -5621,7 +5625,7 @@
       "organisation_name": "Stafford Junior School"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Staffordshire County Council"
     },
     {
@@ -7019,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-04",
-      "percentage_under_10_seconds": 99.98400005684512
-    },
-    {
       "date": "2025-06-05",
       "percentage_under_10_seconds": 99.99352841698422
     },
@@ -7045,8 +7045,12 @@
     {
       "date": "2025-06-10",
       "percentage_under_10_seconds": 99.99574761999607
+    },
+    {
+      "date": "2025-06-11",
+      "percentage_under_10_seconds": 99.99859475609264
     }
   ],
-  "sms_notifications": 4211724140,
-  "total_notifications": 10580052664
+  "sms_notifications": 4214992109,
+  "total_notifications": 10587072773
 }
