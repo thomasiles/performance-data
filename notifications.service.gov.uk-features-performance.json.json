@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99760205198261,
+  "average_percentage_under_10_seconds": 99.99801331332206,
   "count_of_live_services_and_organisations": {
     "organisations": 1744,
-    "services": 10749
+    "services": 10755
   },
-  "email_notifications": 6306177184,
-  "letter_notifications": 76986897,
-  "live_service_count": 10749,
+  "email_notifications": 6309755584,
+  "letter_notifications": 77031440,
+  "live_service_count": 10755,
   "notifications_by_type": [
-    {
-      "date": "2025-06-09",
-      "emails": 3441487,
-      "letters": 47462,
-      "sms": 3522026
-    },
     {
       "date": "2025-06-10",
       "emails": 4413207,
@@ -49,6 +43,12 @@
       "emails": 1223795,
       "letters": 6545,
       "sms": 1134457
+    },
+    {
+      "date": "2025-06-16",
+      "emails": 3578400,
+      "letters": 44543,
+      "sms": 3577969
     }
   ],
   "organisations_using_notify": [
@@ -909,7 +909,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 259,
+      "count_of_live_services": 260,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -3225,7 +3225,7 @@
       "organisation_name": "Lancashire Care NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Lancashire County Council"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 936,
+      "count_of_live_services": 937,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4265,7 +4265,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -5297,7 +5297,7 @@
       "organisation_name": "South Eastern Regional College"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "South Gloucestershire Council"
     },
     {
@@ -6773,7 +6773,7 @@
       "organisation_name": "Westminster Adult Education Service"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Westminster City Council"
     },
     {
@@ -7027,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-09",
-      "percentage_under_10_seconds": 99.99563914454448
-    },
-    {
       "date": "2025-06-10",
       "percentage_under_10_seconds": 99.99574761999607
     },
@@ -7053,8 +7049,12 @@
     {
       "date": "2025-06-15",
       "percentage_under_10_seconds": 99.99987013835893
+    },
+    {
+      "date": "2025-06-16",
+      "percentage_under_10_seconds": 99.99851797392061
     }
   ],
-  "sms_notifications": 4223119390,
-  "total_notifications": 10606283471
+  "sms_notifications": 4226697359,
+  "total_notifications": 10613484383
 }
