@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99801331332206,
+  "average_percentage_under_10_seconds": 99.99816491455374,
   "count_of_live_services_and_organisations": {
     "organisations": 1744,
-    "services": 10755
+    "services": 10762
   },
-  "email_notifications": 6309755584,
-  "letter_notifications": 77031440,
-  "live_service_count": 10755,
+  "email_notifications": 6313179731,
+  "letter_notifications": 77103341,
+  "live_service_count": 10762,
   "notifications_by_type": [
-    {
-      "date": "2025-06-10",
-      "emails": 4413207,
-      "letters": 58587,
-      "sms": 3313839
-    },
     {
       "date": "2025-06-11",
       "emails": 3701570,
@@ -49,6 +43,12 @@
       "emails": 3578400,
       "letters": 44543,
       "sms": 3577969
+    },
+    {
+      "date": "2025-06-17",
+      "emails": 3424147,
+      "letters": 71901,
+      "sms": 3295102
     }
   ],
   "organisations_using_notify": [
@@ -909,7 +909,7 @@
       "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
     },
     {
-      "count_of_live_services": 260,
+      "count_of_live_services": 249,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 18,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2821,7 +2821,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 640,
+      "count_of_live_services": 641,
       "organisation_name": "Home Office"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 937,
+      "count_of_live_services": 941,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4041,7 +4041,7 @@
       "organisation_name": "Norfolk Community Health and Care NHS Trust"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 19,
       "organisation_name": "Norfolk County Council"
     },
     {
@@ -4485,7 +4485,7 @@
       "organisation_name": "Pension Protection Fund"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Perth and Kinross Council"
     },
     {
@@ -5969,7 +5969,7 @@
       "organisation_name": "The Commonweal School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "The Crown Prosecution Service"
     },
     {
@@ -6241,7 +6241,7 @@
       "organisation_name": "Tonbridge & Malling Borough Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Torbay Council"
     },
     {
@@ -7027,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-10",
-      "percentage_under_10_seconds": 99.99574761999607
-    },
-    {
       "date": "2025-06-11",
       "percentage_under_10_seconds": 99.99859475609264
     },
@@ -7053,8 +7049,12 @@
     {
       "date": "2025-06-16",
       "percentage_under_10_seconds": 99.99851797392061
+    },
+    {
+      "date": "2025-06-17",
+      "percentage_under_10_seconds": 99.99680882861789
     }
   ],
-  "sms_notifications": 4226697359,
-  "total_notifications": 10613484383
+  "sms_notifications": 4229992461,
+  "total_notifications": 10620275533
 }
