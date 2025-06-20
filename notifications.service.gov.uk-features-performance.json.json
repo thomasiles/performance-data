@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99798777660462,
+  "average_percentage_under_10_seconds": 99.99818162988724,
   "count_of_live_services_and_organisations": {
     "organisations": 1744,
-    "services": 10772
+    "services": 10782
   },
-  "email_notifications": 6316310283,
-  "letter_notifications": 77160229,
-  "live_service_count": 10772,
+  "email_notifications": 6319678190,
+  "letter_notifications": 77207218,
+  "live_service_count": 10782,
   "notifications_by_type": [
-    {
-      "date": "2025-06-12",
-      "emails": 3819618,
-      "letters": 52783,
-      "sms": 3210227
-    },
     {
       "date": "2025-06-13",
       "emails": 4085005,
@@ -49,6 +43,12 @@
       "emails": 3130552,
       "letters": 56888,
       "sms": 3223414
+    },
+    {
+      "date": "2025-06-19",
+      "emails": 3367907,
+      "letters": 46989,
+      "sms": 2926862
     }
   ],
   "organisations_using_notify": [
@@ -59,14 +59,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "15billionebp"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "ARC Bucks PCN"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "ASCENT (NEWCASTLE) LIMITED"
     },
     {
       "count_of_live_services": 1,
@@ -226,6 +218,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "ARC Bucks PCN"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Archbishop Sentamu Academy"
     },
     {
@@ -282,6 +278,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "ASCENT (NEWCASTLE) LIMITED"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Ascent (Sherwood) Ltd"
     },
     {
@@ -297,12 +297,12 @@
       "organisation_name": "Ashfield District Council"
     },
     {
-      "count_of_live_services": 6,
-      "organisation_name": "Ashford Borough Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Ashford and St Peter's Hospitals NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "Ashford Borough Council"
     },
     {
       "count_of_live_services": 1,
@@ -313,12 +313,12 @@
       "organisation_name": "Atherton High School"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Avon Fire and Rescue Service"
-    },
-    {
       "count_of_live_services": 3,
       "organisation_name": "Avon and Somerset Constabulary"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Avon Fire and Rescue Service"
     },
     {
       "count_of_live_services": 1,
@@ -327,10 +327,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Ayrshire Valuation Joint Board"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "BD Chem Ltd"
     },
     {
       "count_of_live_services": 6,
@@ -413,12 +409,12 @@
       "organisation_name": "Barts Health NHS Trust"
     },
     {
-      "count_of_live_services": 4,
-      "organisation_name": "Basildon Borough Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Basildon and Thurrock University Hospitals NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "Basildon Borough Council"
     },
     {
       "count_of_live_services": 1,
@@ -443,6 +439,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Baysgarth School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "BD Chem Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -518,7 +518,19 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "bincote road surgery"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Bingley Grammar School"
+    },
+    {
+      "count_of_live_services": 17,
+      "organisation_name": "Birmingham and Solihull Clinical Commissioning Group"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Birmingham and Solihull Mental Health NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -535,14 +547,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Birmingham Women's and Children's NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 17,
-      "organisation_name": "Birmingham and Solihull Clinical Commissioning Group"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Birmingham and Solihull Mental Health NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -578,6 +582,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Blackpool and The Fylde College"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
@@ -591,10 +599,6 @@
     {
       "count_of_live_services": 39,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Blackpool and The Fylde College"
     },
     {
       "count_of_live_services": 18,
@@ -897,19 +901,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "CCR Service"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "CORE Education trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
-    },
-    {
-      "count_of_live_services": 191,
+      "count_of_live_services": 154,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -929,12 +921,12 @@
       "organisation_name": "Calday Grange Grammar School"
     },
     {
-      "count_of_live_services": 25,
-      "organisation_name": "Calderdale Council"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Calderdale and Huddersfield NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 25,
+      "organisation_name": "Calderdale Council"
     },
     {
       "count_of_live_services": 4,
@@ -957,20 +949,20 @@
       "organisation_name": "Cambridge University Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Cambridgeshire Constabulary"
-    },
-    {
-      "count_of_live_services": 16,
-      "organisation_name": "Cambridgeshire County Council"
-    },
-    {
       "count_of_live_services": 7,
       "organisation_name": "Cambridgeshire and Peterborough Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 18,
       "organisation_name": "Cambridgeshire and Peterborough NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Cambridgeshire Constabulary"
+    },
+    {
+      "count_of_live_services": 16,
+      "organisation_name": "Cambridgeshire County Council"
     },
     {
       "count_of_live_services": 1,
@@ -1005,12 +997,12 @@
       "organisation_name": "Caradoc Surgery"
     },
     {
-      "count_of_live_services": 7,
-      "organisation_name": "Cardiff Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Cardiff and Vale University Health Board"
+    },
+    {
+      "count_of_live_services": 7,
+      "organisation_name": "Cardiff Council"
     },
     {
       "count_of_live_services": 1,
@@ -1066,7 +1058,15 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "CCR Service"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Celticpharm Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Central and North West London NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -1091,10 +1091,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Central Scotland Electoral Registration Officer"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Central and North West London NHS Foundation Trust"
     },
     {
       "count_of_live_services": 12,
@@ -1141,16 +1137,16 @@
       "organisation_name": "Cherwell District Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Cheshire and Merseyside Integrated Care Board"
+    },
+    {
       "count_of_live_services": 32,
       "organisation_name": "Cheshire East Council"
     },
     {
       "count_of_live_services": 12,
       "organisation_name": "Cheshire West and Chester Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Cheshire and Merseyside Integrated Care Board"
     },
     {
       "count_of_live_services": 1,
@@ -1178,15 +1174,15 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Chorley and South Ribble Clinical Commissioning Group"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Chorley Astley Park School"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Chorley Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Chorley and South Ribble Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 1,
@@ -1218,15 +1214,15 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "City and Hackney Clinical Commissioning Group"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "City College Norwich"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "City Health Care Partnership"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "City and Hackney Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 22,
@@ -1386,6 +1382,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "CORE Education trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Cornelius Vermuyden School"
     },
     {
@@ -1406,6 +1406,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "COSLA (Convention of Scottish Local Authorities)"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Cotswold District Council"
     },
     {
@@ -1421,16 +1425,16 @@
       "organisation_name": "County Durham and Darlington NHS Foundation Trust"
     },
     {
+      "count_of_live_services": 5,
+      "organisation_name": "Coventry and Warwickshire ICB"
+    },
+    {
       "count_of_live_services": 31,
       "organisation_name": "Coventry City Council"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Coventry College"
-    },
-    {
-      "count_of_live_services": 5,
-      "organisation_name": "Coventry and Warwickshire ICB"
     },
     {
       "count_of_live_services": 1,
@@ -1497,6 +1501,10 @@
       "organisation_name": "Cruddas Park Surgery"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Culbin Medical Practice"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Cumberland Council"
     },
@@ -1521,12 +1529,12 @@
       "organisation_name": "Darlington Borough Council"
     },
     {
-      "count_of_live_services": 5,
-      "organisation_name": "Dartford Borough Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Dartford and Gravesham NHS Trust"
+    },
+    {
+      "count_of_live_services": 5,
+      "organisation_name": "Dartford Borough Council"
     },
     {
       "count_of_live_services": 1,
@@ -1601,8 +1609,12 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 113,
       "organisation_name": "Department for Science, Innovation & Technology"
+    },
+    {
+      "count_of_live_services": 7,
+      "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
       "count_of_live_services": 55,
@@ -1613,11 +1625,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 7,
-      "organisation_name": "Department for the Economy (Northern Ireland)"
-    },
-    {
-      "count_of_live_services": 105,
+      "count_of_live_services": 106,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1681,16 +1689,16 @@
       "organisation_name": "Development Bank of Wales"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Devon and Somerset Fire and Rescue Service"
+    },
+    {
       "count_of_live_services": 6,
       "organisation_name": "Devon Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 35,
       "organisation_name": "Devon County Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Devon and Somerset Fire and Rescue Service"
     },
     {
       "count_of_live_services": 1,
@@ -1709,16 +1717,16 @@
       "organisation_name": "Disclosure & Barring Service"
     },
     {
+      "count_of_live_services": 7,
+      "organisation_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Doncaster Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 15,
       "organisation_name": "Doncaster Metropolitan Borough Council"
-    },
-    {
-      "count_of_live_services": 7,
-      "organisation_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust"
     },
     {
       "count_of_live_services": 49,
@@ -1758,15 +1766,15 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Dudley and Walsall Mental Health Partnership NHS Trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 32,
       "organisation_name": "Dudley Metropolitan Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Dudley and Walsall Mental Health Partnership NHS Trust"
     },
     {
       "count_of_live_services": 3,
@@ -1798,10 +1806,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "ECPCN"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Ealing Clinical Commissioning Group"
     },
     {
@@ -1811,6 +1815,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Earl Mortimer College"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "East and North Hertfordshire NHS Trust"
     },
     {
       "count_of_live_services": 3,
@@ -1873,16 +1881,16 @@
       "organisation_name": "East Staffordshire Borough Council"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
+    },
+    {
       "count_of_live_services": 6,
       "organisation_name": "East Suffolk Council"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "East Suffolk Primary Care Network"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -1902,10 +1910,6 @@
     },
     {
       "count_of_live_services": 2,
-      "organisation_name": "East and North Hertfordshire NHS Trust"
-    },
-    {
-      "count_of_live_services": 2,
       "organisation_name": "Eastbourne Borough Council"
     },
     {
@@ -1919,6 +1923,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Eastleigh Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "ECPCN"
     },
     {
       "count_of_live_services": 1,
@@ -1953,10 +1961,6 @@
       "organisation_name": "Elliott Hall Medical Centre"
     },
     {
-      "count_of_live_services": 2,
-      "organisation_name": "ElmWey Learning Trust"
-    },
-    {
       "count_of_live_services": 10,
       "organisation_name": "Elmbridge Borough Council"
     },
@@ -1967,6 +1971,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Elmswood Surgery"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "ElmWey Learning Trust"
     },
     {
       "count_of_live_services": 1,
@@ -2205,24 +2213,12 @@
       "organisation_name": "Future Schools Trust"
     },
     {
-      "count_of_live_services": 9,
-      "organisation_name": "Fylde Borough Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Fylde and Wyre Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "GLF Schools"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "GOV.UK Email"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "GP appointment survey"
+      "count_of_live_services": 9,
+      "organisation_name": "Fylde Borough Council"
     },
     {
       "count_of_live_services": 11,
@@ -2285,6 +2281,10 @@
       "organisation_name": "Gleadless Medical Centre"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "GLF Schools"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Gloucester City Council"
     },
@@ -2325,12 +2325,16 @@
       "organisation_name": "Gos Healthcare Limited"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Gosport and Fareham Multi-Academy Trust"
+    },
+    {
       "count_of_live_services": 8,
       "organisation_name": "Gosport Borough Council"
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Gosport and Fareham Multi-Academy Trust"
+      "organisation_name": "GOV.UK Email"
     },
     {
       "count_of_live_services": 18,
@@ -2347,6 +2351,10 @@
     {
       "count_of_live_services": 6,
       "organisation_name": "Government Legal Department"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "GP appointment survey"
     },
     {
       "count_of_live_services": 1,
@@ -2461,38 +2469,6 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 4,
-      "organisation_name": "HISP Multi Academy Trust"
-    },
-    {
-      "count_of_live_services": 41,
-      "organisation_name": "HM Courts & Tribunals Service"
-    },
-    {
-      "count_of_live_services": 6,
-      "organisation_name": "HM Land Registry"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "HM Prison & Probation Service"
-    },
-    {
-      "count_of_live_services": 83,
-      "organisation_name": "HM Revenue & Customs"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "HM Treasury"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "HMICFRS - His Majesty’s inspectorate of Constabulary and Fire and Rescue Services"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "HT Surgery"
-    },
-    {
       "count_of_live_services": 53,
       "organisation_name": "Hackney Council"
     },
@@ -2561,12 +2537,12 @@
       "organisation_name": "Harlow District Council"
     },
     {
-      "count_of_live_services": 13,
-      "organisation_name": "Harrogate Borough Council"
-    },
-    {
       "count_of_live_services": 7,
       "organisation_name": "Harrogate and District NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 13,
+      "organisation_name": "Harrogate Borough Council"
     },
     {
       "count_of_live_services": 2,
@@ -2653,14 +2629,6 @@
       "organisation_name": "Headlands School"
     },
     {
-      "count_of_live_services": 2,
-      "organisation_name": "Health Education England"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Health Research Authority"
-    },
-    {
       "count_of_live_services": 11,
       "organisation_name": "Health and Safety Executive"
     },
@@ -2671,6 +2639,14 @@
     {
       "count_of_live_services": 11,
       "organisation_name": "Health and Social Care in Northern Ireland"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "Health Education England"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Health Research Authority"
     },
     {
       "count_of_live_services": 2,
@@ -2785,8 +2761,36 @@
       "organisation_name": "His Majesty’s Inspectorate of Constabulary and Fire and Rescue Services"
     },
     {
+      "count_of_live_services": 4,
+      "organisation_name": "HISP Multi Academy Trust"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Hitchin Boys' School"
+    },
+    {
+      "count_of_live_services": 41,
+      "organisation_name": "HM Courts & Tribunals Service"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "HM Land Registry"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "HM Prison & Probation Service"
+    },
+    {
+      "count_of_live_services": 83,
+      "organisation_name": "HM Revenue & Customs"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "HM Treasury"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "HMICFRS - His Majesty’s inspectorate of Constabulary and Fire and Rescue Services"
     },
     {
       "count_of_live_services": 1,
@@ -2794,11 +2798,11 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Holbrooks Health Team"
+      "organisation_name": "Holbrooks health team"
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Holbrooks health team"
+      "organisation_name": "Holbrooks Health Team"
     },
     {
       "count_of_live_services": 1,
@@ -2866,6 +2870,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "HT Surgery"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Hucknall Road Medical Centre"
     },
     {
@@ -2897,7 +2905,7 @@
       "organisation_name": "Hyde Primary Care Network"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Hyndburn Borough Council"
     },
     {
@@ -3013,6 +3021,10 @@
       "organisation_name": "Kendal College"
     },
     {
+      "count_of_live_services": 10,
+      "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
@@ -3023,10 +3035,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Kent Fire and Rescue Service"
-    },
-    {
-      "count_of_live_services": 10,
-      "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
       "count_of_live_services": 4,
@@ -3150,46 +3158,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "LP SD Four Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD ONE TWENTY LIMITED"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "LP SD One Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD SIXTY SIX"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Seventy Four Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD Six Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Sixty Four Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Three Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD Twenty Six Limited"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "LP SD Two Limited"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Lache Primary School"
     },
     {
@@ -3221,6 +3189,14 @@
       "organisation_name": "Lanarkshire Valuation Joint Board"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 58,
+      "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Lancashire Care NHS Foundation Trust"
     },
@@ -3237,12 +3213,8 @@
       "organisation_name": "Lancashire Teaching Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
-      "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 58,
-      "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
+      "count_of_live_services": 1,
+      "organisation_name": "Lancaster and Morecambe College"
     },
     {
       "count_of_live_services": 13,
@@ -3251,10 +3223,6 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "Lancaster University"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Lancaster and Morecambe College"
     },
     {
       "count_of_live_services": 2,
@@ -3450,6 +3418,46 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "LP SD Four Limited"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "LP SD One Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD ONE TWENTY LIMITED"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Seventy Four Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD Six Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Sixty Four Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD SIXTY SIX"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "LP SD Three Limited"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "LP SD Twenty Six Limited"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "LP SD Two Limited"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Ludham & Stalham Green Surgery"
     },
     {
@@ -3461,12 +3469,12 @@
       "organisation_name": "Luton Adult Learning"
     },
     {
-      "count_of_live_services": 24,
-      "organisation_name": "Luton Council"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Luton and Dunstable University Hospital NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 24,
+      "organisation_name": "Luton Council"
     },
     {
       "count_of_live_services": 1,
@@ -3533,12 +3541,12 @@
       "organisation_name": "Manor Practice Wallington"
     },
     {
-      "count_of_live_services": 7,
-      "organisation_name": "Mansfield District Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Mansfield and Ashfield Clinical Commissioning Group"
+    },
+    {
+      "count_of_live_services": 7,
+      "organisation_name": "Mansfield District Council"
     },
     {
       "count_of_live_services": 1,
@@ -3661,6 +3669,14 @@
       "organisation_name": "Metropolitan Police"
     },
     {
+      "count_of_live_services": 3,
+      "organisation_name": "Mid and East Antrim Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Mid and West Wales Fire and Rescue Service"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Mid Cheshire Hospitals NHS Foundation Trust"
     },
@@ -3683,14 +3699,6 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "Mid Yorkshire Hospitals NHS Trust"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "Mid and East Antrim Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Mid and West Wales Fire and Rescue Service"
     },
     {
       "count_of_live_services": 1,
@@ -3737,7 +3745,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 941,
+      "count_of_live_services": 944,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3805,126 +3813,6 @@
       "organisation_name": "Myerscough College"
     },
     {
-      "count_of_live_services": 3,
-      "organisation_name": "NHS Arden & Greater East Midlands Commissioning Support Unit (AGEM CSU)"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Arden and Greater East Midlands Commissioning Support Unit"
-    },
-    {
-      "count_of_live_services": 6,
-      "organisation_name": "NHS Bath and North East Somerset, Swindon and Wiltshire (BSW) Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 6,
-      "organisation_name": "NHS Blood & Transplant"
-    },
-    {
-      "count_of_live_services": 66,
-      "organisation_name": "NHS Business Services Authority"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Commissioning Support Unit"
-    },
-    {
-      "count_of_live_services": 5,
-      "organisation_name": "NHS Derby and Derbyshire Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "NHS Devon Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Digital"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Education for Scotland"
-    },
-    {
-      "count_of_live_services": 71,
-      "organisation_name": "NHS England"
-    },
-    {
-      "count_of_live_services": 6,
-      "organisation_name": "NHS Greater Glasgow and Clyde"
-    },
-    {
-      "count_of_live_services": 9,
-      "organisation_name": "NHS Greater Manchester"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "NHS Kent and Medway Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS Leadership Academy"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Midlands and Lancashire Commissioning Support Unit"
-    },
-    {
-      "count_of_live_services": 9,
-      "organisation_name": "NHS National Services Scotland"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS North East London Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 11,
-      "organisation_name": "NHS North of England Commissioning Support Unit"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "NHS SEL Integrated Care System"
-    },
-    {
-      "count_of_live_services": 5,
-      "organisation_name": "NHS Scotland"
-    },
-    {
-      "count_of_live_services": 15,
-      "organisation_name": "NHS South Central and West Commissioning Support Unit"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS South West London Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NHS Specialist Pharmacy Service"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS Supply Chain"
-    },
-    {
-      "count_of_live_services": 7,
-      "organisation_name": "NHS Wales"
-    },
-    {
-      "count_of_live_services": 64,
-      "organisation_name": "NHS Wales Shared Services Partnership-Primary Care Services"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "NHSX"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "NPTC Group"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "National Audit Office"
     },
@@ -3941,16 +3829,16 @@
       "organisation_name": "National Highways"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "National Institute for Health Research"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "National Institute for Health and Care Excellence"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "National Institute for Health and Care Research"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "National Institute for Health Research"
     },
     {
       "count_of_live_services": 1,
@@ -4033,8 +3921,128 @@
       "organisation_name": "Newry, Mourne and Down District Council"
     },
     {
+      "count_of_live_services": 3,
+      "organisation_name": "NHS Arden & Greater East Midlands Commissioning Support Unit (AGEM CSU)"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Arden and Greater East Midlands Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "NHS Bath and North East Somerset, Swindon and Wiltshire (BSW) Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "NHS Blood & Transplant"
+    },
+    {
+      "count_of_live_services": 66,
+      "organisation_name": "NHS Business Services Authority"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 5,
+      "organisation_name": "NHS Derby and Derbyshire Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "NHS Devon Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Digital"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Education for Scotland"
+    },
+    {
+      "count_of_live_services": 71,
+      "organisation_name": "NHS England"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "NHS Greater Glasgow and Clyde"
+    },
+    {
+      "count_of_live_services": 9,
+      "organisation_name": "NHS Greater Manchester"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "NHS Kent and Medway Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "NHS Leadership Academy"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Midlands and Lancashire Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 9,
+      "organisation_name": "NHS National Services Scotland"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "NHS North East London Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 11,
+      "organisation_name": "NHS North of England Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 5,
+      "organisation_name": "NHS Scotland"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "NHS SEL Integrated Care System"
+    },
+    {
+      "count_of_live_services": 15,
+      "organisation_name": "NHS South Central and West Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "NHS South West London Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Specialist Pharmacy Service"
+    },
+    {
+      "count_of_live_services": 4,
+      "organisation_name": "NHS Supply Chain"
+    },
+    {
+      "count_of_live_services": 7,
+      "organisation_name": "NHS Wales"
+    },
+    {
+      "count_of_live_services": 64,
+      "organisation_name": "NHS Wales Shared Services Partnership-Primary Care Services"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "NHSX"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Noel-Baler Academy"
+    },
+    {
+      "count_of_live_services": 8,
+      "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
       "count_of_live_services": 2,
@@ -4047,10 +4055,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Norfolk Police"
-    },
-    {
-      "count_of_live_services": 8,
-      "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
       "count_of_live_services": 24,
@@ -4069,6 +4073,10 @@
       "organisation_name": "North Devon Council"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "North East and North Cumbria Integrated Care Board"
+    },
+    {
       "count_of_live_services": 14,
       "organisation_name": "North East Derbyshire District Council"
     },
@@ -4083,10 +4091,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "North East Surrey College of Technology"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "North East and North Cumbria Integrated Care Board"
     },
     {
       "count_of_live_services": 1,
@@ -4245,6 +4249,10 @@
       "organisation_name": "Nower Hill High School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "NPTC Group"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Nuneaton and Bedworth Borough Council"
     },
@@ -4297,7 +4305,7 @@
       "organisation_name": "Ofgem"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Ofqual"
     },
     {
@@ -4407,14 +4415,6 @@
     {
       "count_of_live_services": 11,
       "organisation_name": "Oxfordshire County Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "PRX Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -4549,6 +4549,10 @@
       "organisation_name": "Poole Hospital NHS Foundation Trust"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
+    },
+    {
       "count_of_live_services": 11,
       "organisation_name": "Portsmouth City Council"
     },
@@ -4605,6 +4609,10 @@
       "organisation_name": "Provide Community Interest Company"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "PRX Pharmacy"
+    },
+    {
       "count_of_live_services": 10,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
@@ -4649,14 +4657,6 @@
       "organisation_name": "Quinton Park Medical Centre"
     },
     {
-      "count_of_live_services": 3,
-      "organisation_name": "RAISE Education Trust"
-    },
-    {
-      "count_of_live_services": 5,
-      "organisation_name": "RNNGroup"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Race Leys Infant School"
     },
@@ -4671,6 +4671,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Rail Delivery Group"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "RAISE Education Trust"
     },
     {
       "count_of_live_services": 1,
@@ -4729,12 +4733,12 @@
       "organisation_name": "Regulator of Social Housing"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Reigate College"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Reigate and Banstead Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Reigate College"
     },
     {
       "count_of_live_services": 1,
@@ -4787,6 +4791,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Riverside School"
+    },
+    {
+      "count_of_live_services": 5,
+      "organisation_name": "RNNGroup"
     },
     {
       "count_of_live_services": 1,
@@ -4934,34 +4942,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "SANDBERN CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SANDBERN PHARMACY COVID CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SANDBERN PHARMACY COVID-19 CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SB Pharma Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SBRI Centre of Excellence"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SMD Pharmacy"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "SXT Health CIC"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Sacred Heart High School, Hammersmith"
     },
     {
@@ -5010,7 +4990,7 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Sandbern COVID Vaccine"
+      "organisation_name": "SANDBERN CLINIC"
     },
     {
       "count_of_live_services": 1,
@@ -5018,15 +4998,27 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Sandbern COVID Vaccine"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Sandbern Pharmacy - COVID-19 Vaccine"
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Sandwell Metropolitan Borough Council"
+      "organisation_name": "SANDBERN PHARMACY COVID CLINIC"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "SANDBERN PHARMACY COVID-19 CLINIC"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Sandwell and West Birmingham Hospitals NHS Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Sandwell Metropolitan Borough Council"
     },
     {
       "count_of_live_services": 1,
@@ -5039,6 +5031,14 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Saxmundham Health Group"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "SB Pharma Ltd"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "SBRI Centre of Excellence"
     },
     {
       "count_of_live_services": 6,
@@ -5226,6 +5226,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "SMD Pharmacy"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Social Work England"
     },
     {
@@ -5245,12 +5249,12 @@
       "organisation_name": "Somerset NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
-      "organisation_name": "Somerset West and Taunton Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Somerset studio school"
+    },
+    {
+      "count_of_live_services": 9,
+      "organisation_name": "Somerset West and Taunton Council"
     },
     {
       "count_of_live_services": 1,
@@ -5259,6 +5263,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Somerville"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "South and City College Birmingham"
     },
     {
       "count_of_live_services": 19,
@@ -5330,11 +5338,19 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "South of Scotland Enterprise"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "South Petherwin School"
     },
     {
       "count_of_live_services": 2,
       "organisation_name": "South Ribble Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "South rural pcn"
     },
     {
       "count_of_live_services": 6,
@@ -5391,18 +5407,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "South Yorkshire Police"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "South and City College Birmingham"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "South of Scotland Enterprise"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "South rural pcn"
     },
     {
       "count_of_live_services": 15,
@@ -5493,12 +5497,12 @@
       "organisation_name": "St Georges Medical Centre"
     },
     {
-      "count_of_live_services": 21,
-      "organisation_name": "St Helens Metropolitan Borough Council"
-    },
-    {
       "count_of_live_services": 4,
       "organisation_name": "St Helens and Knowsley Hospitals NHS Trust"
+    },
+    {
+      "count_of_live_services": 21,
+      "organisation_name": "St Helens Metropolitan Borough Council"
     },
     {
       "count_of_live_services": 1,
@@ -5534,11 +5538,11 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "St Mary's CE High School"
+      "organisation_name": "St Mary's Catholic High School"
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "St Mary's Catholic High School"
+      "organisation_name": "St Mary's CE High School"
     },
     {
       "count_of_live_services": 1,
@@ -5741,6 +5745,14 @@
       "organisation_name": "Sunrise Medical Practice (Ghattaora)"
     },
     {
+      "count_of_live_services": 6,
+      "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
+    },
+    {
       "count_of_live_services": 34,
       "organisation_name": "Surrey County Council"
     },
@@ -5751,14 +5763,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Surrey Heath Clinical Commissioning Group"
-    },
-    {
-      "count_of_live_services": 6,
-      "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
     },
     {
       "count_of_live_services": 5,
@@ -5803,6 +5807,10 @@
     {
       "count_of_live_services": 6,
       "organisation_name": "Swindon Borough Council"
+    },
+    {
+      "count_of_live_services": 2,
+      "organisation_name": "SXT Health CIC"
     },
     {
       "count_of_live_services": 1,
@@ -5969,7 +5977,7 @@
       "organisation_name": "The Commonweal School"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "The Crown Prosecution Service"
     },
     {
@@ -6221,7 +6229,7 @@
       "organisation_name": "Thrive Tribe Ltd"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Thurrock Council"
     },
     {
@@ -6241,12 +6249,12 @@
       "organisation_name": "Tonbridge & Malling Borough Council"
     },
     {
-      "count_of_live_services": 6,
-      "organisation_name": "Torbay Council"
-    },
-    {
       "count_of_live_services": 4,
       "organisation_name": "Torbay and South Devon NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 6,
+      "organisation_name": "Torbay Council"
     },
     {
       "count_of_live_services": 9,
@@ -6289,16 +6297,12 @@
       "organisation_name": "Trinity School Sevenoaks"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Truro & Penwith College"
+      "count_of_live_services": 3,
+      "organisation_name": "Truro and Penwith College"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Truro Nursery School"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Truro and Penwith College"
     },
     {
       "count_of_live_services": 1,
@@ -6358,10 +6362,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "UTC Media City"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "United Lincolnshire Hospitals NHS Trust"
     },
     {
@@ -6377,12 +6377,12 @@
       "organisation_name": "University Academy Holbeach"
     },
     {
-      "count_of_live_services": 21,
-      "organisation_name": "University Hospital Southampton NHS Foundation Trust"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 22,
+      "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
       "count_of_live_services": 5,
@@ -6397,12 +6397,20 @@
       "organisation_name": "University Hospitals Dorset NHS Foundation Trust"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "University Hospitals of Derby and Burton"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "University Hospitals Of Leicester NHS Trust"
     },
     {
       "count_of_live_services": 2,
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 10,
+      "organisation_name": "University Hospitals of North Midlands"
     },
     {
       "count_of_live_services": 2,
@@ -6413,20 +6421,12 @@
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
-      "organisation_name": "University Hospitals of Derby and Burton"
-    },
-    {
-      "count_of_live_services": 10,
-      "organisation_name": "University Hospitals of North Midlands"
+      "count_of_live_services": 1,
+      "organisation_name": "University of Gloucestershire"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "University Sussex Hospitals NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "University of Gloucestershire"
     },
     {
       "count_of_live_services": 1,
@@ -6435,6 +6435,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Ursuline College"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "UTC Media City"
     },
     {
       "count_of_live_services": 1,
@@ -6549,12 +6553,12 @@
       "organisation_name": "Warrington & Vale Royal College"
     },
     {
-      "count_of_live_services": 22,
-      "organisation_name": "Warrington Borough Council"
-    },
-    {
       "count_of_live_services": 1,
       "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 22,
+      "organisation_name": "Warrington Borough Council"
     },
     {
       "count_of_live_services": 4,
@@ -6726,6 +6730,14 @@
     },
     {
       "count_of_live_services": 2,
+      "organisation_name": "West of England Combined Authority"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "West of Scotland Innovation Hub"
+    },
+    {
+      "count_of_live_services": 2,
       "organisation_name": "West Suffolk Clinical Commissioning Group"
     },
     {
@@ -6751,14 +6763,6 @@
     {
       "count_of_live_services": 10,
       "organisation_name": "West Yorkshire Police"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "West of England Combined Authority"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "West of Scotland Innovation Hub"
     },
     {
       "count_of_live_services": 3,
@@ -6813,12 +6817,16 @@
       "organisation_name": "Wickhambrook Surgery"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Wigan and Leigh College"
+    },
+    {
       "count_of_live_services": 21,
       "organisation_name": "Wigan Council"
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Wigan and Leigh College"
+      "organisation_name": "William de Ferrers School"
     },
     {
       "count_of_live_services": 1,
@@ -6827,10 +6835,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "William Street Surgery"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "William de Ferrers School"
     },
     {
       "count_of_live_services": 1,
@@ -7019,17 +7023,9 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Zenith Multiacademy Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "bincote road surgery"
     }
   ],
   "processing_time": [
-    {
-      "date": "2025-06-12",
-      "percentage_under_10_seconds": 99.99729318275774
-    },
     {
       "date": "2025-06-13",
       "percentage_under_10_seconds": 99.99758525926927
@@ -7053,8 +7049,12 @@
     {
       "date": "2025-06-18",
       "percentage_under_10_seconds": 99.99735479044874
+    },
+    {
+      "date": "2025-06-19",
+      "percentage_under_10_seconds": 99.99865015573614
     }
   ],
-  "sms_notifications": 4233215875,
-  "total_notifications": 10626686387
+  "sms_notifications": 4236142737,
+  "total_notifications": 10633028145
 }
