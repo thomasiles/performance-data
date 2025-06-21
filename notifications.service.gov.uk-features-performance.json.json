@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99818162988724,
+  "average_percentage_under_10_seconds": 99.99496420725616,
   "count_of_live_services_and_organisations": {
     "organisations": 1744,
-    "services": 10782
+    "services": 10785
   },
-  "email_notifications": 6319678190,
-  "letter_notifications": 77207218,
-  "live_service_count": 10782,
+  "email_notifications": 6323600008,
+  "letter_notifications": 77256398,
+  "live_service_count": 10785,
   "notifications_by_type": [
-    {
-      "date": "2025-06-13",
-      "emails": 4085005,
-      "letters": 51323,
-      "sms": 2775790
-    },
     {
       "date": "2025-06-14",
       "emails": 1828209,
@@ -49,6 +43,12 @@
       "emails": 3367907,
       "letters": 46989,
       "sms": 2926862
+    },
+    {
+      "date": "2025-06-20",
+      "emails": 3921818,
+      "letters": 49180,
+      "sms": 2766649
     }
   ],
   "organisations_using_notify": [
@@ -637,7 +637,7 @@
       "organisation_name": "Bolton Cares"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Bolton Metropolitan Borough Council"
     },
     {
@@ -1641,7 +1641,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 31,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -2825,7 +2825,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 643,
+      "count_of_live_services": 644,
       "organisation_name": "Home Office"
     },
     {
@@ -3745,7 +3745,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 944,
+      "count_of_live_services": 945,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3937,7 +3937,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -7027,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-13",
-      "percentage_under_10_seconds": 99.99758525926927
-    },
-    {
       "date": "2025-06-14",
       "percentage_under_10_seconds": 99.99848426285914
     },
@@ -7053,8 +7049,12 @@
     {
       "date": "2025-06-19",
       "percentage_under_10_seconds": 99.99865015573614
+    },
+    {
+      "date": "2025-06-20",
+      "percentage_under_10_seconds": 99.97506330085169
     }
   ],
-  "sms_notifications": 4236142737,
-  "total_notifications": 10633028145
+  "sms_notifications": 4238909386,
+  "total_notifications": 10639765792
 }
