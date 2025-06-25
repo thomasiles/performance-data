@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99512842822024,
+  "average_percentage_under_10_seconds": 99.99510335118711,
   "count_of_live_services_and_organisations": {
     "organisations": 1741,
-    "services": 10790
+    "services": 10799
   },
-  "email_notifications": 6330325794,
-  "letter_notifications": 77326938,
-  "live_service_count": 10790,
+  "email_notifications": 6334315093,
+  "letter_notifications": 77402904,
+  "live_service_count": 10799,
   "notifications_by_type": [
-    {
-      "date": "2025-06-17",
-      "emails": 3424147,
-      "letters": 71901,
-      "sms": 3295102
-    },
     {
       "date": "2025-06-18",
       "emails": 3130552,
@@ -49,6 +43,12 @@
       "emails": 3569911,
       "letters": 50112,
       "sms": 3534038
+    },
+    {
+      "date": "2025-06-24",
+      "emails": 3989299,
+      "letters": 75966,
+      "sms": 3340710
     }
   ],
   "organisations_using_notify": [
@@ -2821,7 +2821,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 644,
+      "count_of_live_services": 645,
       "organisation_name": "Home Office"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 946,
+      "count_of_live_services": 947,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3953,7 +3953,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "NHS England"
     },
     {
@@ -4549,7 +4549,7 @@
       "organisation_name": "Portsmouth City Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Portsmouth Hospitals NHS Trust"
     },
     {
@@ -4605,7 +4605,7 @@
       "organisation_name": "PRX Pharmacy"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
@@ -5861,7 +5861,7 @@
       "organisation_name": "Teignbridge District Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Telford & Wrekin Council"
     },
     {
@@ -6049,7 +6049,7 @@
       "organisation_name": "The Hurst School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "The Improvement Service"
     },
     {
@@ -6249,7 +6249,7 @@
       "organisation_name": "Torbay Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Torfaen County Borough Council"
     },
     {
@@ -6333,7 +6333,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -7015,10 +7015,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-17",
-      "percentage_under_10_seconds": 99.99680882861789
-    },
-    {
       "date": "2025-06-18",
       "percentage_under_10_seconds": 99.99735479044874
     },
@@ -7041,8 +7037,12 @@
     {
       "date": "2025-06-23",
       "percentage_under_10_seconds": 99.99923593610345
+    },
+    {
+      "date": "2025-06-24",
+      "percentage_under_10_seconds": 99.99663328938591
     }
   ],
-  "sms_notifications": 4244549738,
-  "total_notifications": 10652202470
+  "sms_notifications": 4247890448,
+  "total_notifications": 10659608445
 }
