@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99485217088531,
+  "average_percentage_under_10_seconds": 99.99474082414227,
   "count_of_live_services_and_organisations": {
     "organisations": 1742,
-    "services": 10807
+    "services": 10814
   },
-  "email_notifications": 6339533067,
-  "letter_notifications": 77478933,
-  "live_service_count": 10807,
+  "email_notifications": 6344542454,
+  "letter_notifications": 77529323,
+  "live_service_count": 10814,
   "notifications_by_type": [
-    {
-      "date": "2025-06-19",
-      "emails": 3367907,
-      "letters": 46989,
-      "sms": 2926862
-    },
     {
       "date": "2025-06-20",
       "emails": 3921818,
@@ -49,6 +43,12 @@
       "emails": 5217974,
       "letters": 76029,
       "sms": 3262300
+    },
+    {
+      "date": "2025-06-26",
+      "emails": 5009387,
+      "letters": 50390,
+      "sms": 2997149
     }
   ],
   "organisations_using_notify": [
@@ -689,7 +689,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 70,
+      "count_of_live_services": 71,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -2549,7 +2549,7 @@
       "organisation_name": "Harrow Health CiC"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Harrow London Borough Council"
     },
     {
@@ -3741,7 +3741,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 947,
+      "count_of_live_services": 949,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4113,7 +4113,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -6265,7 +6265,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6625,7 +6625,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 46,
+      "count_of_live_services": 47,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7019,10 +7019,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-19",
-      "percentage_under_10_seconds": 99.99865015573614
-    },
-    {
       "date": "2025-06-20",
       "percentage_under_10_seconds": 99.97506330085169
     },
@@ -7045,8 +7041,12 @@
     {
       "date": "2025-06-25",
       "percentage_under_10_seconds": 99.99559652833618
+    },
+    {
+      "date": "2025-06-26",
+      "percentage_under_10_seconds": 99.99787072853486
     }
   ],
-  "sms_notifications": 4251152748,
-  "total_notifications": 10668164748
+  "sms_notifications": 4254149897,
+  "total_notifications": 10676221674
 }
