@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99474082414227,
+  "average_percentage_under_10_seconds": 99.99810273131216,
   "count_of_live_services_and_organisations": {
-    "organisations": 1742,
-    "services": 10814
+    "organisations": 1744,
+    "services": 10824
   },
-  "email_notifications": 6344542454,
-  "letter_notifications": 77529323,
-  "live_service_count": 10814,
+  "email_notifications": 6348964075,
+  "letter_notifications": 77573499,
+  "live_service_count": 10824,
   "notifications_by_type": [
-    {
-      "date": "2025-06-20",
-      "emails": 3921818,
-      "letters": 49180,
-      "sms": 2766649
-    },
     {
       "date": "2025-06-21",
       "emails": 1652516,
@@ -49,6 +43,12 @@
       "emails": 5009387,
       "letters": 50390,
       "sms": 2997149
+    },
+    {
+      "date": "2025-06-27",
+      "emails": 4421621,
+      "letters": 44176,
+      "sms": 2631079
     }
   ],
   "organisations_using_notify": [
@@ -1550,6 +1550,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Deans Lane Medical Centre"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Deben Health Group PCN"
     },
     {
@@ -1645,7 +1649,7 @@
       "organisation_name": "Department of Justice (Northern Ireland)"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 16,
       "organisation_name": "Derby City Council"
     },
     {
@@ -3261,7 +3265,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 52,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3745,7 +3749,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 67,
+      "count_of_live_services": 68,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -4133,7 +4137,7 @@
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "North Wales Police"
     },
     {
@@ -4209,7 +4213,7 @@
       "organisation_name": "Northumberland County Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 12,
       "organisation_name": "Northumberland, Tyne and Wear NHS Foundation Trust"
     },
     {
@@ -4447,6 +4451,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Parkside Medical Practice"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Parkview Surgery"
     },
     {
       "count_of_live_services": 1,
@@ -5405,7 +5413,7 @@
       "organisation_name": "South Yorkshire Police"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -5873,7 +5881,7 @@
       "organisation_name": "Temple Fortune Medical Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 15,
       "organisation_name": "Tendring District Council"
     },
     {
@@ -7019,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-20",
-      "percentage_under_10_seconds": 99.97506330085169
-    },
-    {
       "date": "2025-06-21",
       "percentage_under_10_seconds": 99.99890139467945
     },
@@ -7045,8 +7049,12 @@
     {
       "date": "2025-06-26",
       "percentage_under_10_seconds": 99.99787072853486
+    },
+    {
+      "date": "2025-06-27",
+      "percentage_under_10_seconds": 99.99859665104094
     }
   ],
-  "sms_notifications": 4254149897,
-  "total_notifications": 10676221674
+  "sms_notifications": 4256780976,
+  "total_notifications": 10683318550
 }
