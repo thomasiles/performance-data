@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99787406854118,
+  "average_percentage_under_10_seconds": 99.99076940258793,
   "count_of_live_services_and_organisations": {
-    "organisations": 1745,
-    "services": 10837
+    "organisations": 1747,
+    "services": 10855
   },
-  "email_notifications": 6355658660,
-  "letter_notifications": 77646303,
-  "live_service_count": 10837,
+  "email_notifications": 6360195494,
+  "letter_notifications": 77710833,
+  "live_service_count": 10855,
   "notifications_by_type": [
-    {
-      "date": "2025-06-24",
-      "emails": 3989299,
-      "letters": 75966,
-      "sms": 3340710
-    },
     {
       "date": "2025-06-25",
       "emails": 5217974,
@@ -49,6 +43,12 @@
       "emails": 3629813,
       "letters": 51082,
       "sms": 3551165
+    },
+    {
+      "date": "2025-07-01",
+      "emails": 4536834,
+      "letters": 64530,
+      "sms": 3333143
     }
   ],
   "organisations_using_notify": [
@@ -593,7 +593,7 @@
       "organisation_name": "Blackpool Coastal Housing"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Blackpool Council"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 113,
+      "count_of_live_services": 114,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1667,6 +1667,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Derby Street Pharmacy"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Derbyshire Constabulary"
     },
     {
       "count_of_live_services": 8,
@@ -1869,7 +1873,7 @@
       "organisation_name": "East Park Medical Centre"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "East Renfrewshire Council"
     },
     {
@@ -2221,7 +2225,7 @@
       "organisation_name": "Fylde Borough Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Gambling Commission"
     },
     {
@@ -2397,7 +2401,7 @@
       "organisation_name": "Great Western Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Great Yarmouth Borough Council"
     },
     {
@@ -3193,7 +3197,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 62,
+      "count_of_live_services": 63,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3497,7 +3501,7 @@
       "organisation_name": "Lyneham Pharmacy"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Maidstone Borough Council"
     },
     {
@@ -3745,7 +3749,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 951,
+      "count_of_live_services": 957,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4117,7 +4121,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4921,7 +4925,7 @@
       "organisation_name": "Runnymede Borough Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Rural Payments Agency"
     },
     {
@@ -5881,6 +5885,10 @@
       "organisation_name": "Temple Fortune Medical Group"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Tenacitas Trust"
+    },
+    {
       "count_of_live_services": 15,
       "organisation_name": "Tendring District Council"
     },
@@ -6781,7 +6789,7 @@
       "organisation_name": "Westminster Adult Education Service"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Westminster City Council"
     },
     {
@@ -7031,10 +7039,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-24",
-      "percentage_under_10_seconds": 99.99663328938591
-    },
-    {
       "date": "2025-06-25",
       "percentage_under_10_seconds": 99.99559652833618
     },
@@ -7057,8 +7061,12 @@
     {
       "date": "2025-06-30",
       "percentage_under_10_seconds": 99.9971056547583
+    },
+    {
+      "date": "2025-07-01",
+      "percentage_under_10_seconds": 99.94690062771323
     }
   ],
-  "sms_notifications": 4262505426,
-  "total_notifications": 10695810389
+  "sms_notifications": 4265838569,
+  "total_notifications": 10703744896
 }
