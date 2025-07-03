@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99076940258793,
+  "average_percentage_under_10_seconds": 99.99128587387123,
   "count_of_live_services_and_organisations": {
-    "organisations": 1747,
-    "services": 10855
+    "organisations": 1750,
+    "services": 10859
   },
-  "email_notifications": 6360195494,
-  "letter_notifications": 77710833,
-  "live_service_count": 10855,
+  "email_notifications": 6363731530,
+  "letter_notifications": 77762181,
+  "live_service_count": 10859,
   "notifications_by_type": [
-    {
-      "date": "2025-06-25",
-      "emails": 5217974,
-      "letters": 76029,
-      "sms": 3262300
-    },
     {
       "date": "2025-06-26",
       "emails": 5009387,
@@ -49,6 +43,12 @@
       "emails": 4536834,
       "letters": 64530,
       "sms": 3333143
+    },
+    {
+      "date": "2025-07-02",
+      "emails": 3536036,
+      "letters": 51348,
+      "sms": 3191973
     }
   ],
   "organisations_using_notify": [
@@ -119,6 +119,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Agriculture and Horticulture Development Board"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Air Accidents Investigation Branch"
     },
     {
       "count_of_live_services": 3,
@@ -1577,7 +1581,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -2017,7 +2021,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 116,
+      "count_of_live_services": 115,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2533,7 +2537,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2773,7 +2777,7 @@
       "organisation_name": "Hitchin Boys' School"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 40,
       "organisation_name": "HM Courts & Tribunals Service"
     },
     {
@@ -3023,6 +3027,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Kendal College"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Kensington Group Practice"
     },
     {
       "count_of_live_services": 10,
@@ -3406,6 +3414,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Longhill High School"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Lords Pharmacy Newmarket"
     },
     {
@@ -3749,7 +3761,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 957,
+      "count_of_live_services": 958,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7039,10 +7051,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-25",
-      "percentage_under_10_seconds": 99.99559652833618
-    },
-    {
       "date": "2025-06-26",
       "percentage_under_10_seconds": 99.99787072853486
     },
@@ -7065,8 +7073,12 @@
     {
       "date": "2025-07-01",
       "percentage_under_10_seconds": 99.94690062771323
+    },
+    {
+      "date": "2025-07-02",
+      "percentage_under_10_seconds": 99.99921182731924
     }
   ],
-  "sms_notifications": 4265838569,
-  "total_notifications": 10703744896
+  "sms_notifications": 4269030542,
+  "total_notifications": 10710524253
 }
