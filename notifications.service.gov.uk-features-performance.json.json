@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9907958295911,
+  "average_percentage_under_10_seconds": 99.97477678139464,
   "count_of_live_services_and_organisations": {
     "organisations": 1750,
-    "services": 10869
+    "services": 10873
   },
-  "email_notifications": 6367059115,
-  "letter_notifications": 77812454,
-  "live_service_count": 10869,
+  "email_notifications": 6371129791,
+  "letter_notifications": 77855828,
+  "live_service_count": 10873,
   "notifications_by_type": [
-    {
-      "date": "2025-06-27",
-      "emails": 4421621,
-      "letters": 44176,
-      "sms": 2631079
-    },
     {
       "date": "2025-06-28",
       "emails": 1748952,
@@ -49,6 +43,12 @@
       "emails": 3327585,
       "letters": 50273,
       "sms": 3036756
+    },
+    {
+      "date": "2025-07-04",
+      "emails": 4070676,
+      "letters": 43374,
+      "sms": 2664544
     }
   ],
   "organisations_using_notify": [
@@ -249,7 +249,7 @@
       "organisation_name": "Ariel Healthcare"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Armagh City and District Council"
     },
     {
@@ -297,7 +297,7 @@
       "organisation_name": "Ascent Healthcare Ltd"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Ashfield District Council"
     },
     {
@@ -1565,7 +1565,7 @@
       "organisation_name": "Debenham Group Practice"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Denbighshire County Council"
     },
     {
@@ -2833,7 +2833,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 646,
+      "count_of_live_services": 647,
       "organisation_name": "Home Office"
     },
     {
@@ -7051,10 +7051,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-06-27",
-      "percentage_under_10_seconds": 99.99859665104094
-    },
-    {
       "date": "2025-06-28",
       "percentage_under_10_seconds": 99.99944184031945
     },
@@ -7077,8 +7073,12 @@
     {
       "date": "2025-07-03",
       "percentage_under_10_seconds": 99.99444041857394
+    },
+    {
+      "date": "2025-07-04",
+      "percentage_under_10_seconds": 99.88646331366576
     }
   ],
-  "sms_notifications": 4272067298,
-  "total_notifications": 10716938867
+  "sms_notifications": 4274731842,
+  "total_notifications": 10723717461
 }
