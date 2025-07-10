@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.980194690297,
+  "average_percentage_under_10_seconds": 99.98016134263503,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 10889
+    "services": 10898
   },
-  "email_notifications": 6381725189,
-  "letter_notifications": 77978052,
-  "live_service_count": 10889,
+  "email_notifications": 6385669910,
+  "letter_notifications": 78027798,
+  "live_service_count": 10898,
   "notifications_by_type": [
-    {
-      "date": "2025-07-02",
-      "emails": 3536036,
-      "letters": 51348,
-      "sms": 3191973
-    },
     {
       "date": "2025-07-03",
       "emails": 3327585,
@@ -49,6 +43,12 @@
       "emails": 4132383,
       "letters": 51693,
       "sms": 3142952
+    },
+    {
+      "date": "2025-07-09",
+      "emails": 3944721,
+      "letters": 49746,
+      "sms": 3036624
     }
   ],
   "organisations_using_notify": [
@@ -1229,7 +1229,7 @@
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "City of Edinburgh Council"
     },
     {
@@ -1261,7 +1261,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "City of York Council"
     },
     {
@@ -2841,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 648,
+      "count_of_live_services": 650,
       "organisation_name": "Home Office"
     },
     {
@@ -3769,7 +3769,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 959,
+      "count_of_live_services": 960,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3793,7 +3793,7 @@
       "organisation_name": "Mole Valley District Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Money and Pensions Service"
     },
     {
@@ -5085,7 +5085,7 @@
       "organisation_name": "Scissett Middle School"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Scottish Ambulance Service"
     },
     {
@@ -5341,7 +5341,7 @@
       "organisation_name": "South Gloucestershire Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "South Hams District Council"
     },
     {
@@ -6897,7 +6897,7 @@
       "organisation_name": "Wiltshire Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Winchester City Council"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-02",
-      "percentage_under_10_seconds": 99.99921182731924
-    },
-    {
       "date": "2025-07-03",
       "percentage_under_10_seconds": 99.99444041857394
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2025-07-08",
       "percentage_under_10_seconds": 99.99668943528769
+    },
+    {
+      "date": "2025-07-09",
+      "percentage_under_10_seconds": 99.99897839368555
     }
   ],
-  "sms_notifications": 4283608444,
-  "total_notifications": 10743311685
+  "sms_notifications": 4286645068,
+  "total_notifications": 10750342776
 }
