@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99806795737925,
+  "average_percentage_under_10_seconds": 99.99870379697877,
   "count_of_live_services_and_organisations": {
-    "organisations": 1753,
-    "services": 10910
+    "organisations": 1754,
+    "services": 10920
   },
-  "email_notifications": 6395519504,
-  "letter_notifications": 78160336,
-  "live_service_count": 10910,
+  "email_notifications": 6399379243,
+  "letter_notifications": 78224372,
+  "live_service_count": 10920,
   "notifications_by_type": [
-    {
-      "date": "2025-07-07",
-      "emails": 3710172,
-      "letters": 45736,
-      "sms": 3554883
-    },
     {
       "date": "2025-07-08",
       "emails": 4132383,
@@ -49,6 +43,12 @@
       "emails": 1050482,
       "letters": 5406,
       "sms": 1089157
+    },
+    {
+      "date": "2025-07-14",
+      "emails": 3859739,
+      "letters": 64036,
+      "sms": 3388855
     }
   ],
   "organisations_using_notify": [
@@ -1801,7 +1801,7 @@
       "organisation_name": "Dunraven School"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Durham County Council"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -2245,7 +2245,7 @@
       "organisation_name": "Gateacre School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Gateshead Health NHS Foundation Trust"
     },
     {
@@ -2457,7 +2457,7 @@
       "organisation_name": "Grove Road Surgery"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Guildford Borough Council"
     },
     {
@@ -2734,6 +2734,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "High Peak Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "High Speed Two (HS2) Limited"
     },
     {
@@ -2837,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 650,
+      "count_of_live_services": 651,
       "organisation_name": "Home Office"
     },
     {
@@ -2869,7 +2873,7 @@
       "organisation_name": "Houlton School"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Hounslow London Borough Council"
     },
     {
@@ -3765,7 +3769,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 962,
+      "count_of_live_services": 963,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5245,7 +5249,7 @@
       "organisation_name": "Skinners' Academies Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Slough Borough Council"
     },
     {
@@ -6565,7 +6569,7 @@
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
     {
@@ -7063,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-07",
-      "percentage_under_10_seconds": 99.9943948121831
-    },
-    {
       "date": "2025-07-08",
       "percentage_under_10_seconds": 99.99668943528769
     },
@@ -7089,8 +7089,12 @@
     {
       "date": "2025-07-13",
       "percentage_under_10_seconds": 99.99960710781257
+    },
+    {
+      "date": "2025-07-14",
+      "percentage_under_10_seconds": 99.99884568937976
     }
   ],
-  "sms_notifications": 4294021403,
-  "total_notifications": 10767701243
+  "sms_notifications": 4297410258,
+  "total_notifications": 10775013873
 }
