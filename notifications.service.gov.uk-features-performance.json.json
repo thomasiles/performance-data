@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98965804160706,
+  "average_percentage_under_10_seconds": 99.98942617635628,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 10929
+    "services": 10939
   },
-  "email_notifications": 6404089951,
-  "letter_notifications": 78292940,
-  "live_service_count": 10929,
+  "email_notifications": 6407990511,
+  "letter_notifications": 78344231,
+  "live_service_count": 10939,
   "notifications_by_type": [
-    {
-      "date": "2025-07-09",
-      "emails": 3944721,
-      "letters": 49746,
-      "sms": 3036624
-    },
     {
       "date": "2025-07-10",
       "emails": 3942194,
@@ -49,6 +43,12 @@
       "emails": 4710708,
       "letters": 68568,
       "sms": 3201406
+    },
+    {
+      "date": "2025-07-16",
+      "emails": 3900560,
+      "letters": 51291,
+      "sms": 3160445
     }
   ],
   "organisations_using_notify": [
@@ -709,7 +709,7 @@
       "organisation_name": "Branston Community Academy"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Breckland District Council"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 79,
+      "count_of_live_services": 80,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -2841,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 651,
+      "count_of_live_services": 654,
       "organisation_name": "Home Office"
     },
     {
@@ -5249,7 +5249,7 @@
       "organisation_name": "Skinners' Academies Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Slough Borough Council"
     },
     {
@@ -5341,7 +5341,7 @@
       "organisation_name": "South Gloucestershire Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "South Hams District Council"
     },
     {
@@ -6461,7 +6461,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6777,7 +6777,7 @@
       "organisation_name": "West of Scotland Innovation Hub"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "West Suffolk Clinical Commissioning Group"
     },
     {
@@ -6861,7 +6861,7 @@
       "organisation_name": "Wigan and Leigh College"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Wigan Council"
     },
     {
@@ -6917,7 +6917,7 @@
       "organisation_name": "Winstanley Community Primary School"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 12,
       "organisation_name": "Wirral Council"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-09",
-      "percentage_under_10_seconds": 99.99897839368555
-    },
-    {
       "date": "2025-07-10",
       "percentage_under_10_seconds": 99.99846590133326
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2025-07-15",
       "percentage_under_10_seconds": 99.93336914768574
+    },
+    {
+      "date": "2025-07-16",
+      "percentage_under_10_seconds": 99.99735533693007
     }
   ],
-  "sms_notifications": 4300611664,
-  "total_notifications": 10782994555
+  "sms_notifications": 4303772109,
+  "total_notifications": 10790106851
 }
