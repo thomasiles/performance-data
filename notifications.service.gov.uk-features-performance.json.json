@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98942617635628,
+  "average_percentage_under_10_seconds": 99.98900869477453,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 10939
+    "services": 10949
   },
-  "email_notifications": 6407990511,
-  "letter_notifications": 78344231,
-  "live_service_count": 10939,
+  "email_notifications": 6411904941,
+  "letter_notifications": 78391988,
+  "live_service_count": 10949,
   "notifications_by_type": [
-    {
-      "date": "2025-07-10",
-      "emails": 3942194,
-      "letters": 63616,
-      "sms": 2910219
-    },
     {
       "date": "2025-07-11",
       "emails": 3151847,
@@ -49,6 +43,12 @@
       "emails": 3900560,
       "letters": 51291,
       "sms": 3160445
+    },
+    {
+      "date": "2025-07-17",
+      "emails": 3914543,
+      "letters": 47830,
+      "sms": 3158583
     }
   ],
   "organisations_using_notify": [
@@ -1801,7 +1801,7 @@
       "organisation_name": "Dunraven School"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Durham County Council"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -3213,7 +3213,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3769,7 +3769,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 963,
+      "count_of_live_services": 965,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4105,7 +4105,7 @@
       "organisation_name": "North East Derbyshire District Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "North East Lincolnshire Council"
     },
     {
@@ -5817,7 +5817,7 @@
       "organisation_name": "Sutton London Borough Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Sutton Primary Care Networks (PCNS) Community Interest Company (CIC)"
     },
     {
@@ -6313,7 +6313,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6569,7 +6569,7 @@
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
     {
@@ -6597,7 +6597,7 @@
       "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-10",
-      "percentage_under_10_seconds": 99.99846590133326
-    },
-    {
       "date": "2025-07-11",
       "percentage_under_10_seconds": 99.99948515085971
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2025-07-16",
       "percentage_under_10_seconds": 99.99735533693007
+    },
+    {
+      "date": "2025-07-17",
+      "percentage_under_10_seconds": 99.995543530261
     }
   ],
-  "sms_notifications": 4303772109,
-  "total_notifications": 10790106851
+  "sms_notifications": 4306862648,
+  "total_notifications": 10797159577
 }
