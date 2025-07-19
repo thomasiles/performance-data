@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98900869477453,
+  "average_percentage_under_10_seconds": 99.98897776476016,
   "count_of_live_services_and_organisations": {
-    "organisations": 1754,
-    "services": 10949
+    "organisations": 1755,
+    "services": 10954
   },
-  "email_notifications": 6411904941,
-  "letter_notifications": 78391988,
-  "live_service_count": 10949,
+  "email_notifications": 6415303987,
+  "letter_notifications": 78440517,
+  "live_service_count": 10954,
   "notifications_by_type": [
-    {
-      "date": "2025-07-11",
-      "emails": 3151847,
-      "letters": 46020,
-      "sms": 2486013
-    },
     {
       "date": "2025-07-12",
       "emails": 1705071,
@@ -49,6 +43,12 @@
       "emails": 3914543,
       "letters": 47830,
       "sms": 3158583
+    },
+    {
+      "date": "2025-07-18",
+      "emails": 3399046,
+      "letters": 48529,
+      "sms": 2701607
     }
   ],
   "organisations_using_notify": [
@@ -505,7 +505,7 @@
       "organisation_name": "Bexhill High Academy"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Bexley London Borough Council"
     },
     {
@@ -853,7 +853,7 @@
       "organisation_name": "Buckinghamshire Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Buckinghamshire Healthcare NHS Trust"
     },
     {
@@ -1705,7 +1705,7 @@
       "organisation_name": "Devon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Devon County Council"
     },
     {
@@ -3769,11 +3769,11 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 965,
+      "count_of_live_services": 963,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -4978,6 +4978,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Saint George Voluntary Added Catholic College"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Saints Peter and Paul Catholic High School, Widnes"
     },
     {
@@ -5441,7 +5445,7 @@
       "organisation_name": "South Yorkshire Police"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -6929,7 +6933,7 @@
       "organisation_name": "Withnell Health Centre"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Woking Borough Council"
     },
     {
@@ -7067,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-11",
-      "percentage_under_10_seconds": 99.99948515085971
-    },
-    {
       "date": "2025-07-12",
       "percentage_under_10_seconds": 99.99885490049283
     },
@@ -7093,8 +7093,12 @@
     {
       "date": "2025-07-17",
       "percentage_under_10_seconds": 99.995543530261
+    },
+    {
+      "date": "2025-07-18",
+      "percentage_under_10_seconds": 99.99926864075923
     }
   ],
-  "sms_notifications": 4306862648,
-  "total_notifications": 10797159577
+  "sms_notifications": 4309564255,
+  "total_notifications": 10803308759
 }
