@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98898235871134,
+  "average_percentage_under_10_seconds": 99.9888258605132,
   "count_of_live_services_and_organisations": {
-    "organisations": 1755,
-    "services": 10954
+    "organisations": 1756,
+    "services": 10961
   },
-  "email_notifications": 6417976854,
-  "letter_notifications": 78466381,
-  "live_service_count": 10954,
+  "email_notifications": 6421724407,
+  "letter_notifications": 78510488,
+  "live_service_count": 10961,
   "notifications_by_type": [
-    {
-      "date": "2025-07-14",
-      "emails": 3859739,
-      "letters": 64036,
-      "sms": 3388855
-    },
     {
       "date": "2025-07-15",
       "emails": 4710708,
@@ -49,6 +43,12 @@
       "emails": 1084534,
       "letters": 6266,
       "sms": 1168126
+    },
+    {
+      "date": "2025-07-21",
+      "emails": 3747553,
+      "letters": 44107,
+      "sms": 3393438
     }
   ],
   "organisations_using_notify": [
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Department for Transport"
     },
     {
@@ -2017,7 +2017,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -2143,6 +2143,10 @@
     {
       "count_of_live_services": 6,
       "organisation_name": "Flintshire County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Flitwick Town Council"
     },
     {
       "count_of_live_services": 8,
@@ -2841,7 +2845,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 654,
+      "count_of_live_services": 655,
       "organisation_name": "Home Office"
     },
     {
@@ -2989,7 +2993,7 @@
       "organisation_name": "Islington Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Islington London Borough Council"
     },
     {
@@ -4797,7 +4801,7 @@
       "organisation_name": "Ribble Valley Borough Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 37,
       "organisation_name": "Richmond and Wandsworth Council"
     },
     {
@@ -7071,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-14",
-      "percentage_under_10_seconds": 99.99884568937976
-    },
-    {
       "date": "2025-07-15",
       "percentage_under_10_seconds": 99.93336914768574
     },
@@ -7097,8 +7097,12 @@
     {
       "date": "2025-07-20",
       "percentage_under_10_seconds": 99.99953743557056
+    },
+    {
+      "date": "2025-07-21",
+      "percentage_under_10_seconds": 99.99775020199273
     }
   ],
-  "sms_notifications": 4311741804,
-  "total_notifications": 10808185039
+  "sms_notifications": 4315135242,
+  "total_notifications": 10815370137
 }
