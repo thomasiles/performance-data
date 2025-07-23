@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9888258605132,
+  "average_percentage_under_10_seconds": 99.99820447536712,
   "count_of_live_services_and_organisations": {
-    "organisations": 1756,
-    "services": 10961
+    "organisations": 1757,
+    "services": 10972
   },
-  "email_notifications": 6421724407,
-  "letter_notifications": 78510488,
-  "live_service_count": 10961,
+  "email_notifications": 6426773208,
+  "letter_notifications": 78573725,
+  "live_service_count": 10972,
   "notifications_by_type": [
-    {
-      "date": "2025-07-15",
-      "emails": 4710708,
-      "letters": 68568,
-      "sms": 3201406
-    },
     {
       "date": "2025-07-16",
       "emails": 3900560,
@@ -49,6 +43,12 @@
       "emails": 3747553,
       "letters": 44107,
       "sms": 3393438
+    },
+    {
+      "date": "2025-07-22",
+      "emails": 5048801,
+      "letters": 63237,
+      "sms": 3287285
     }
   ],
   "organisations_using_notify": [
@@ -993,7 +993,7 @@
       "organisation_name": "Caradoc Surgery"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
@@ -1817,7 +1817,7 @@
       "organisation_name": "Ealing Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Ealing Council"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -2845,7 +2845,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 655,
+      "count_of_live_services": 656,
       "organisation_name": "Home Office"
     },
     {
@@ -2935,6 +2935,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Icknield High School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ideal Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -4077,7 +4081,7 @@
       "organisation_name": "Norfolk Community Health and Care NHS Trust"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Norfolk County Council"
     },
     {
@@ -4085,7 +4089,7 @@
       "organisation_name": "Norfolk Police"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "North Ayrshire Council"
     },
     {
@@ -5173,7 +5177,7 @@
       "organisation_name": "Sheffield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Sheffield Health and Social Care NHS Foundation Trust"
     },
     {
@@ -5801,7 +5805,7 @@
       "organisation_name": "Surrey County Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Surrey Heath Borough Council"
     },
     {
@@ -6321,7 +6325,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6577,7 +6581,7 @@
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
     {
@@ -7075,10 +7079,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-15",
-      "percentage_under_10_seconds": 99.93336914768574
-    },
-    {
       "date": "2025-07-16",
       "percentage_under_10_seconds": 99.99735533693007
     },
@@ -7101,8 +7101,12 @@
     {
       "date": "2025-07-21",
       "percentage_under_10_seconds": 99.99775020199273
+    },
+    {
+      "date": "2025-07-22",
+      "percentage_under_10_seconds": 99.99901945166316
     }
   ],
-  "sms_notifications": 4315135242,
-  "total_notifications": 10815370137
+  "sms_notifications": 4318422527,
+  "total_notifications": 10823769460
 }
