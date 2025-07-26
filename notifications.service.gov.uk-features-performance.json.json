@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.998938009246,
+  "average_percentage_under_10_seconds": 99.98689041126276,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 10987
+    "services": 10991
   },
-  "email_notifications": 6434823541,
-  "letter_notifications": 78678105,
-  "live_service_count": 10987,
+  "email_notifications": 6438625949,
+  "letter_notifications": 78733050,
+  "live_service_count": 10991,
   "notifications_by_type": [
-    {
-      "date": "2025-07-18",
-      "emails": 3399046,
-      "letters": 48529,
-      "sms": 2701607
-    },
     {
       "date": "2025-07-19",
       "emails": 1588333,
@@ -49,6 +43,12 @@
       "emails": 3928003,
       "letters": 53987,
       "sms": 3064457
+    },
+    {
+      "date": "2025-07-25",
+      "emails": 3802408,
+      "letters": 54945,
+      "sms": 2704275
     }
   ],
   "organisations_using_notify": [
@@ -1249,7 +1249,7 @@
       "organisation_name": "City of Wolverhampton College"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "City of Wolverhampton Council"
     },
     {
@@ -2429,7 +2429,7 @@
       "organisation_name": "Greater London Authority"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Greater Manchester Combined Authority"
     },
     {
@@ -3953,7 +3953,7 @@
       "organisation_name": "Newport Girls High School."
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Newry, Mourne and Down District Council"
     },
     {
@@ -4285,7 +4285,7 @@
       "organisation_name": "Nottingham University Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Nottinghamshire County Council"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-18",
-      "percentage_under_10_seconds": 99.99926864075923
-    },
-    {
       "date": "2025-07-19",
       "percentage_under_10_seconds": 99.99895673039305
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2025-07-24",
       "percentage_under_10_seconds": 99.998629036372
+    },
+    {
+      "date": "2025-07-25",
+      "percentage_under_10_seconds": 99.91493545487657
     }
   ],
-  "sms_notifications": 4324602196,
-  "total_notifications": 10838103842
+  "sms_notifications": 4327306471,
+  "total_notifications": 10844665470
 }
