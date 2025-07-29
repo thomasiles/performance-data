@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98690332829358,
+  "average_percentage_under_10_seconds": 99.98686406316887,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 10991
+    "services": 10995
   },
-  "email_notifications": 6441443444,
-  "letter_notifications": 78756196,
-  "live_service_count": 10991,
+  "email_notifications": 6445060635,
+  "letter_notifications": 78801847,
+  "live_service_count": 10995,
   "notifications_by_type": [
-    {
-      "date": "2025-07-21",
-      "emails": 3747553,
-      "letters": 44107,
-      "sms": 3393438
-    },
     {
       "date": "2025-07-22",
       "emails": 5048801,
@@ -49,6 +43,12 @@
       "emails": 1141439,
       "letters": 5051,
       "sms": 1089441
+    },
+    {
+      "date": "2025-07-28",
+      "emails": 3617191,
+      "letters": 45651,
+      "sms": 3740899
     }
   ],
   "organisations_using_notify": [
@@ -597,7 +597,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1249,7 +1249,7 @@
       "organisation_name": "City of Wolverhampton College"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "City of Wolverhampton Council"
     },
     {
@@ -3781,7 +3781,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 969,
+      "count_of_live_services": 970,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3789,7 +3789,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 348,
+      "count_of_live_services": 349,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -5837,7 +5837,7 @@
       "organisation_name": "Sutton London Borough Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Sutton Primary Care Networks (PCNS) Community Interest Company (CIC)"
     },
     {
@@ -6589,7 +6589,7 @@
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 20,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-21",
-      "percentage_under_10_seconds": 99.99775020199273
-    },
-    {
       "date": "2025-07-22",
       "percentage_under_10_seconds": 99.99901945166316
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2025-07-27",
       "percentage_under_10_seconds": 99.99976417219014
+    },
+    {
+      "date": "2025-07-28",
+      "percentage_under_10_seconds": 99.99747534611973
     }
   ],
-  "sms_notifications": 4329351979,
-  "total_notifications": 10849551619
+  "sms_notifications": 4333092878,
+  "total_notifications": 10856955360
 }
