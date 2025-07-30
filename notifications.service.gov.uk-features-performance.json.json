@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98686406316887,
+  "average_percentage_under_10_seconds": 99.9801401630314,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 10995
+    "services": 11002
   },
-  "email_notifications": 6445060635,
-  "letter_notifications": 78801847,
-  "live_service_count": 10995,
+  "email_notifications": 6448507656,
+  "letter_notifications": 78851725,
+  "live_service_count": 11002,
   "notifications_by_type": [
-    {
-      "date": "2025-07-22",
-      "emails": 5048801,
-      "letters": 63237,
-      "sms": 3287285
-    },
     {
       "date": "2025-07-23",
       "emails": 4122330,
@@ -49,6 +43,12 @@
       "emails": 3617191,
       "letters": 45651,
       "sms": 3740899
+    },
+    {
+      "date": "2025-07-29",
+      "emails": 3447021,
+      "letters": 49878,
+      "sms": 3542327
     }
   ],
   "organisations_using_notify": [
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 80,
+      "count_of_live_services": 81,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2485,7 +2485,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 54,
       "organisation_name": "Hackney Council"
     },
     {
@@ -3185,7 +3185,7 @@
       "organisation_name": "Knole Academy"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
@@ -3773,7 +3773,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -3781,11 +3781,11 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 970,
+      "count_of_live_services": 972,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-22",
-      "percentage_under_10_seconds": 99.99901945166316
-    },
-    {
       "date": "2025-07-23",
       "percentage_under_10_seconds": 99.99940456797131
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2025-07-28",
       "percentage_under_10_seconds": 99.99747534611973
+    },
+    {
+      "date": "2025-07-29",
+      "percentage_under_10_seconds": 99.95195215070089
     }
   ],
-  "sms_notifications": 4333092878,
-  "total_notifications": 10856955360
+  "sms_notifications": 4336635205,
+  "total_notifications": 10863994586
 }
