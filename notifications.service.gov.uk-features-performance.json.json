@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97983794918635,
+  "average_percentage_under_10_seconds": 99.97982130328475,
   "count_of_live_services_and_organisations": {
-    "organisations": 1761,
-    "services": 11010
+    "organisations": 1763,
+    "services": 11019
   },
-  "email_notifications": 6453276073,
-  "letter_notifications": 78904840,
-  "live_service_count": 11010,
+  "email_notifications": 6457040790,
+  "letter_notifications": 78956998,
+  "live_service_count": 11019,
   "notifications_by_type": [
-    {
-      "date": "2025-07-24",
-      "emails": 3928003,
-      "letters": 53987,
-      "sms": 3064457
-    },
     {
       "date": "2025-07-25",
       "emails": 3802408,
@@ -49,6 +43,12 @@
       "emails": 4768417,
       "letters": 53115,
       "sms": 3068898
+    },
+    {
+      "date": "2025-07-31",
+      "emails": 3764717,
+      "letters": 52158,
+      "sms": 2895431
     }
   ],
   "organisations_using_notify": [
@@ -227,6 +227,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Archbishop Sentamu Academy"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Archvale Partnership"
     },
     {
       "count_of_live_services": 1,
@@ -3641,7 +3645,7 @@
       "organisation_name": "Meds at Home Ltd"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Medway Council"
     },
     {
@@ -3785,7 +3789,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 972,
+      "count_of_live_services": 973,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4609,7 +4613,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -4801,7 +4805,7 @@
       "organisation_name": "Reinwood Infant & Nursery School"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Renfrewshire Council"
     },
     {
@@ -5129,7 +5133,7 @@
       "organisation_name": "Scottish Environment Protection Agency"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Scottish Government"
     },
     {
@@ -5753,7 +5757,7 @@
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Stoke-on-Trent City Council"
     },
     {
@@ -6321,6 +6325,10 @@
       "organisation_name": "Tonbridge & Malling Borough Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Topsham Surgery"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Torbay and South Devon NHS Foundation Trust"
     },
@@ -6349,7 +6357,7 @@
       "organisation_name": "Trafford Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Transport for Greater Manchester"
     },
     {
@@ -7095,10 +7103,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-24",
-      "percentage_under_10_seconds": 99.998629036372
-    },
-    {
       "date": "2025-07-25",
       "percentage_under_10_seconds": 99.91493545487657
     },
@@ -7121,8 +7125,12 @@
     {
       "date": "2025-07-30",
       "percentage_under_10_seconds": 99.99728907105595
+    },
+    {
+      "date": "2025-07-31",
+      "percentage_under_10_seconds": 99.9985125150608
     }
   ],
-  "sms_notifications": 4339704103,
-  "total_notifications": 10871885016
+  "sms_notifications": 4342599534,
+  "total_notifications": 10878597322
 }
