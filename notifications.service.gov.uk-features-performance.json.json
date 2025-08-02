@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97982130328475,
+  "average_percentage_under_10_seconds": 99.99106503655757,
   "count_of_live_services_and_organisations": {
     "organisations": 1763,
-    "services": 11019
+    "services": 11022
   },
-  "email_notifications": 6457040790,
-  "letter_notifications": 78956998,
-  "live_service_count": 11019,
+  "email_notifications": 6460890215,
+  "letter_notifications": 79013386,
+  "live_service_count": 11022,
   "notifications_by_type": [
-    {
-      "date": "2025-07-25",
-      "emails": 3802408,
-      "letters": 54945,
-      "sms": 2704275
-    },
     {
       "date": "2025-07-26",
       "emails": 1676056,
@@ -49,6 +43,12 @@
       "emails": 3764717,
       "letters": 52158,
       "sms": 2895431
+    },
+    {
+      "date": "2025-08-01",
+      "emails": 3849425,
+      "letters": 56388,
+      "sms": 2671978
     }
   ],
   "organisations_using_notify": [
@@ -2129,7 +2129,7 @@
       "organisation_name": "Ferryhill School"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Fife Council"
     },
     {
@@ -6049,7 +6049,7 @@
       "organisation_name": "The Commonweal School"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "The Crown Prosecution Service"
     },
     {
@@ -6709,7 +6709,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7103,10 +7103,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-25",
-      "percentage_under_10_seconds": 99.91493545487657
-    },
-    {
       "date": "2025-07-26",
       "percentage_under_10_seconds": 99.99882041298915
     },
@@ -7129,8 +7125,12 @@
     {
       "date": "2025-07-31",
       "percentage_under_10_seconds": 99.9985125150608
+    },
+    {
+      "date": "2025-08-01",
+      "percentage_under_10_seconds": 99.99364158778636
     }
   ],
-  "sms_notifications": 4342599534,
-  "total_notifications": 10878597322
+  "sms_notifications": 4345271512,
+  "total_notifications": 10885175113
 }
