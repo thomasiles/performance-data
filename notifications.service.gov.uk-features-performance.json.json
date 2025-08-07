@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99764556732983,
+  "average_percentage_under_10_seconds": 99.99781810286528,
   "count_of_live_services_and_organisations": {
     "organisations": 1765,
-    "services": 11042
+    "services": 11048
   },
-  "email_notifications": 6471784467,
-  "letter_notifications": 79138141,
-  "live_service_count": 11042,
+  "email_notifications": 6475396546,
+  "letter_notifications": 79188771,
+  "live_service_count": 11048,
   "notifications_by_type": [
-    {
-      "date": "2025-07-30",
-      "emails": 4768417,
-      "letters": 53115,
-      "sms": 3068898
-    },
     {
       "date": "2025-07-31",
       "emails": 3764717,
@@ -49,6 +43,12 @@
       "emails": 4200381,
       "letters": 60139,
       "sms": 3452351
+    },
+    {
+      "date": "2025-08-06",
+      "emails": 3612079,
+      "letters": 50630,
+      "sms": 3568802
     }
   ],
   "organisations_using_notify": [
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 115,
+      "count_of_live_services": 116,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1721,7 +1721,7 @@
       "organisation_name": "Didsbury Medical Centre"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Digital Health and Care Wales"
     },
     {
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 659,
+      "count_of_live_services": 660,
       "organisation_name": "Home Office"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Met Office"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Metropolitan Police"
     },
     {
@@ -4017,7 +4017,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 73,
       "organisation_name": "NHS England"
     },
     {
@@ -5801,7 +5801,7 @@
       "organisation_name": "Sturminster Newton High School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Suffolk County Council"
     },
     {
@@ -7111,10 +7111,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-30",
-      "percentage_under_10_seconds": 99.99728907105595
-    },
-    {
       "date": "2025-07-31",
       "percentage_under_10_seconds": 99.9985125150608
     },
@@ -7137,8 +7133,12 @@
     {
       "date": "2025-08-05",
       "percentage_under_10_seconds": 99.99817733023575
+    },
+    {
+      "date": "2025-08-06",
+      "percentage_under_10_seconds": 99.99849681980409
     }
   ],
-  "sms_notifications": 4354264770,
-  "total_notifications": 10905187378
+  "sms_notifications": 4357833572,
+  "total_notifications": 10912418889
 }
