@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99781810286528,
+  "average_percentage_under_10_seconds": 99.99779050194557,
   "count_of_live_services_and_organisations": {
-    "organisations": 1765,
-    "services": 11048
+    "organisations": 1766,
+    "services": 11054
   },
-  "email_notifications": 6475396546,
-  "letter_notifications": 79188771,
-  "live_service_count": 11048,
+  "email_notifications": 6479418781,
+  "letter_notifications": 79248829,
+  "live_service_count": 11054,
   "notifications_by_type": [
-    {
-      "date": "2025-07-31",
-      "emails": 3764717,
-      "letters": 52158,
-      "sms": 2895431
-    },
     {
       "date": "2025-08-01",
       "emails": 3849425,
@@ -49,6 +43,12 @@
       "emails": 3612079,
       "letters": 50630,
       "sms": 3568802
+    },
+    {
+      "date": "2025-08-07",
+      "emails": 4022235,
+      "letters": 60058,
+      "sms": 3090075
     }
   ],
   "organisations_using_notify": [
@@ -189,7 +189,7 @@
       "organisation_name": "Amery Hill School Academy Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
@@ -633,7 +633,7 @@
       "organisation_name": "Bolingbroke Medical Centre"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Bolsover District Council"
     },
     {
@@ -2021,7 +2021,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -5765,7 +5765,7 @@
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Stoke-on-Trent City Council"
     },
     {
@@ -6349,7 +6349,7 @@
       "organisation_name": "Torfaen County Borough Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Torridge District Council"
     },
     {
@@ -6821,6 +6821,10 @@
       "organisation_name": "West of Scotland Innovation Hub"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "West Oxfordshire District Council"
+    },
+    {
       "count_of_live_services": 3,
       "organisation_name": "West Suffolk Clinical Commissioning Group"
     },
@@ -7111,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-07-31",
-      "percentage_under_10_seconds": 99.9985125150608
-    },
-    {
       "date": "2025-08-01",
       "percentage_under_10_seconds": 99.99364158778636
     },
@@ -7137,8 +7137,12 @@
     {
       "date": "2025-08-06",
       "percentage_under_10_seconds": 99.99849681980409
+    },
+    {
+      "date": "2025-08-07",
+      "percentage_under_10_seconds": 99.99831930862288
     }
   ],
-  "sms_notifications": 4357833572,
-  "total_notifications": 10912418889
+  "sms_notifications": 4360923647,
+  "total_notifications": 10919591257
 }
