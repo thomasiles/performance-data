@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99882869655842,
+  "average_percentage_under_10_seconds": 99.99879568709582,
   "count_of_live_services_and_organisations": {
     "organisations": 1766,
-    "services": 11061
+    "services": 11066
   },
-  "email_notifications": 6488778494,
-  "letter_notifications": 79373107,
-  "live_service_count": 11061,
+  "email_notifications": 6492556279,
+  "letter_notifications": 79423446,
+  "live_service_count": 11066,
   "notifications_by_type": [
-    {
-      "date": "2025-08-05",
-      "emails": 4200381,
-      "letters": 60139,
-      "sms": 3452351
-    },
     {
       "date": "2025-08-06",
       "emails": 3612079,
@@ -49,6 +43,12 @@
       "emails": 2849839,
       "letters": 47184,
       "sms": 3395351
+    },
+    {
+      "date": "2025-08-12",
+      "emails": 3777785,
+      "letters": 50339,
+      "sms": 3073473
     }
   ],
   "organisations_using_notify": [
@@ -601,7 +601,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -765,7 +765,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 116,
+      "count_of_live_services": 117,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1897,7 +1897,7 @@
       "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "East Suffolk Council"
     },
     {
@@ -3797,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 976,
+      "count_of_live_services": 977,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7115,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-05",
-      "percentage_under_10_seconds": 99.99817733023575
-    },
-    {
       "date": "2025-08-06",
       "percentage_under_10_seconds": 99.99849681980409
     },
@@ -7141,8 +7137,12 @@
     {
       "date": "2025-08-11",
       "percentage_under_10_seconds": 99.99825059105031
+    },
+    {
+      "date": "2025-08-12",
+      "percentage_under_10_seconds": 99.99794626399749
     }
   ],
-  "sms_notifications": 4368984108,
-  "total_notifications": 10937135709
+  "sms_notifications": 4372057581,
+  "total_notifications": 10944037306
 }
