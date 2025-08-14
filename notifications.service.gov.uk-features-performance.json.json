@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99879568709582,
+  "average_percentage_under_10_seconds": 99.99866143228458,
   "count_of_live_services_and_organisations": {
     "organisations": 1766,
-    "services": 11066
+    "services": 11070
   },
-  "email_notifications": 6492556279,
-  "letter_notifications": 79423446,
-  "live_service_count": 11066,
+  "email_notifications": 6496153141,
+  "letter_notifications": 79488006,
+  "live_service_count": 11070,
   "notifications_by_type": [
-    {
-      "date": "2025-08-06",
-      "emails": 3612079,
-      "letters": 50630,
-      "sms": 3568802
-    },
     {
       "date": "2025-08-07",
       "emails": 4022235,
@@ -49,6 +43,12 @@
       "emails": 3777785,
       "letters": 50339,
       "sms": 3073473
+    },
+    {
+      "date": "2025-08-13",
+      "emails": 3596862,
+      "letters": 64560,
+      "sms": 2994247
     }
   ],
   "organisations_using_notify": [
@@ -85,7 +85,7 @@
       "organisation_name": "Accord Group"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Achieving for Children"
     },
     {
@@ -601,7 +601,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 42,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -853,7 +853,7 @@
       "organisation_name": "Buckden & Little Paxton Surgeries"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 29,
       "organisation_name": "Buckinghamshire Council"
     },
     {
@@ -2313,7 +2313,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -3237,7 +3237,7 @@
       "organisation_name": "Lanarkshire Valuation Joint Board"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
@@ -3417,7 +3417,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "London Borough of Hillingdon"
     },
     {
@@ -3797,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 977,
+      "count_of_live_services": 976,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4017,7 +4017,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 74,
       "organisation_name": "NHS England"
     },
     {
@@ -7115,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-06",
-      "percentage_under_10_seconds": 99.99849681980409
-    },
-    {
       "date": "2025-08-07",
       "percentage_under_10_seconds": 99.99831930862288
     },
@@ -7141,8 +7137,12 @@
     {
       "date": "2025-08-12",
       "percentage_under_10_seconds": 99.99794626399749
+    },
+    {
+      "date": "2025-08-13",
+      "percentage_under_10_seconds": 99.99755703612541
     }
   ],
-  "sms_notifications": 4372057581,
-  "total_notifications": 10944037306
+  "sms_notifications": 4375051828,
+  "total_notifications": 10950692975
 }
