@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99879668777454,
+  "average_percentage_under_10_seconds": 99.9990634443937,
   "count_of_live_services_and_organisations": {
     "organisations": 1768,
-    "services": 11096
+    "services": 11103
   },
-  "email_notifications": 6512888428,
-  "letter_notifications": 79714203,
-  "live_service_count": 11096,
+  "email_notifications": 6515956154,
+  "letter_notifications": 79764451,
+  "live_service_count": 11103,
   "notifications_by_type": [
-    {
-      "date": "2025-08-13",
-      "emails": 3596862,
-      "letters": 64560,
-      "sms": 2994247
-    },
     {
       "date": "2025-08-14",
       "emails": 4020043,
@@ -49,6 +43,12 @@
       "emails": 3728987,
       "letters": 51745,
       "sms": 3232053
+    },
+    {
+      "date": "2025-08-20",
+      "emails": 3067726,
+      "letters": 50248,
+      "sms": 3128491
     }
   ],
   "organisations_using_notify": [
@@ -3797,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 976,
+      "count_of_live_services": 979,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3805,7 +3805,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 350,
+      "count_of_live_services": 351,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3953,7 +3953,7 @@
       "organisation_name": "Newham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Newham Council"
     },
     {
@@ -4189,7 +4189,7 @@
       "organisation_name": "North Somerset Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "North Staffordshire Combined Healthcare NHS Trust"
     },
     {
@@ -5985,7 +5985,7 @@
       "organisation_name": "Thames Valley Police"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Thanet District Council"
     },
     {
@@ -7123,10 +7123,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-13",
-      "percentage_under_10_seconds": 99.99755703612541
-    },
-    {
       "date": "2025-08-14",
       "percentage_under_10_seconds": 99.9992671847727
     },
@@ -7149,8 +7145,12 @@
     {
       "date": "2025-08-19",
       "percentage_under_10_seconds": 99.99932718739142
+    },
+    {
+      "date": "2025-08-20",
+      "percentage_under_10_seconds": 99.99942433245951
     }
   ],
-  "sms_notifications": 4389235869,
-  "total_notifications": 10981838500
+  "sms_notifications": 4392364360,
+  "total_notifications": 10988084965
 }
