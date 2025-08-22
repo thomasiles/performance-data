@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9990634443937,
+  "average_percentage_under_10_seconds": 99.99915212433056,
   "count_of_live_services_and_organisations": {
     "organisations": 1768,
-    "services": 11103
+    "services": 11114
   },
-  "email_notifications": 6515956154,
-  "letter_notifications": 79764451,
-  "live_service_count": 11103,
+  "email_notifications": 6519584703,
+  "letter_notifications": 79813967,
+  "live_service_count": 11114,
   "notifications_by_type": [
-    {
-      "date": "2025-08-14",
-      "emails": 4020043,
-      "letters": 55377,
-      "sms": 2910602
-    },
     {
       "date": "2025-08-15",
       "emails": 3054434,
@@ -49,6 +43,12 @@
       "emails": 3067726,
       "letters": 50248,
       "sms": 3128491
+    },
+    {
+      "date": "2025-08-21",
+      "emails": 3628549,
+      "letters": 49516,
+      "sms": 3129218
     }
   ],
   "organisations_using_notify": [
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2313,7 +2313,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -3189,7 +3189,7 @@
       "organisation_name": "Kirkburton Middle School"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Kirklees Council"
     },
     {
@@ -3797,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 979,
+      "count_of_live_services": 982,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3973,7 +3973,7 @@
       "organisation_name": "Newport Girls High School."
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 5,
       "organisation_name": "Newry, Mourne and Down District Council"
     },
     {
@@ -4181,7 +4181,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4221,7 +4221,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -6601,7 +6601,7 @@
       "organisation_name": "Vyners School"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Wakefield City Council"
     },
     {
@@ -7123,10 +7123,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-14",
-      "percentage_under_10_seconds": 99.9992671847727
-    },
-    {
       "date": "2025-08-15",
       "percentage_under_10_seconds": 99.99881676867277
     },
@@ -7149,8 +7145,12 @@
     {
       "date": "2025-08-20",
       "percentage_under_10_seconds": 99.99942433245951
+    },
+    {
+      "date": "2025-08-21",
+      "percentage_under_10_seconds": 99.99988794433075
     }
   ],
-  "sms_notifications": 4392364360,
-  "total_notifications": 10988084965
+  "sms_notifications": 4395493578,
+  "total_notifications": 10994892248
 }
