@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9995229866126,
+  "average_percentage_under_10_seconds": 99.94141963157664,
   "count_of_live_services_and_organisations": {
     "organisations": 1768,
-    "services": 11120
+    "services": 11124
   },
-  "email_notifications": 6526126793,
-  "letter_notifications": 79905101,
-  "live_service_count": 11120,
+  "email_notifications": 6529808928,
+  "letter_notifications": 79969499,
+  "live_service_count": 11124,
   "notifications_by_type": [
-    {
-      "date": "2025-08-19",
-      "emails": 3728987,
-      "letters": 51745,
-      "sms": 3232053
-    },
     {
       "date": "2025-08-20",
       "emails": 3067726,
@@ -49,6 +43,12 @@
       "emails": 1365213,
       "letters": 22268,
       "sms": 1776754
+    },
+    {
+      "date": "2025-08-26",
+      "emails": 3682135,
+      "letters": 64398,
+      "sms": 3658035
     }
   ],
   "organisations_using_notify": [
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 67,
+      "count_of_live_services": 68,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 662,
+      "count_of_live_services": 663,
       "organisation_name": "Home Office"
     },
     {
@@ -3805,7 +3805,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 351,
+      "count_of_live_services": 352,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -6649,7 +6649,7 @@
       "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -7123,10 +7123,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-19",
-      "percentage_under_10_seconds": 99.99932718739142
-    },
-    {
       "date": "2025-08-20",
       "percentage_under_10_seconds": 99.99942433245951
     },
@@ -7149,8 +7145,12 @@
     {
       "date": "2025-08-25",
       "percentage_under_10_seconds": 99.99934312234313
+    },
+    {
+      "date": "2025-08-26",
+      "percentage_under_10_seconds": 99.59260370213966
     }
   ],
-  "sms_notifications": 4401772302,
-  "total_notifications": 11007804196
+  "sms_notifications": 4405430337,
+  "total_notifications": 11015208764
 }
