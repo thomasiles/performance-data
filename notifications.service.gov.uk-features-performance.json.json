@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.88630657529957,
+  "average_percentage_under_10_seconds": 99.8568752794516,
   "count_of_live_services_and_organisations": {
     "organisations": 1769,
-    "services": 11129
+    "services": 11138
   },
-  "email_notifications": 6532882899,
-  "letter_notifications": 80021620,
-  "live_service_count": 11129,
+  "email_notifications": 6536567945,
+  "letter_notifications": 80076564,
+  "live_service_count": 11138,
   "notifications_by_type": [
-    {
-      "date": "2025-08-21",
-      "emails": 3628549,
-      "letters": 49516,
-      "sms": 3129218
-    },
     {
       "date": "2025-08-22",
       "emails": 2809444,
@@ -49,6 +43,12 @@
       "emails": 3073971,
       "letters": 52121,
       "sms": 3580367
+    },
+    {
+      "date": "2025-08-28",
+      "emails": 3685046,
+      "letters": 54944,
+      "sms": 3553837
     }
   ],
   "organisations_using_notify": [
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 117,
+      "count_of_live_services": 118,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2589,7 +2589,7 @@
       "organisation_name": "Harrytown Catholic High School"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Hart District Council"
     },
     {
@@ -2989,7 +2989,7 @@
       "organisation_name": "IntraHealth Community Services"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Inverclyde Council"
     },
     {
@@ -3137,7 +3137,7 @@
       "organisation_name": "King's Academy Ringmer"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "King's College Hospital NHS Foundation Trust"
     },
     {
@@ -3797,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 983,
+      "count_of_live_services": 984,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5381,7 +5381,7 @@
       "organisation_name": "South Eastern Regional College"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "South Gloucestershire Council"
     },
     {
@@ -5441,7 +5441,7 @@
       "organisation_name": "South Staffordshire District Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 16,
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
@@ -7127,10 +7127,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-21",
-      "percentage_under_10_seconds": 99.99988794433075
-    },
-    {
       "date": "2025-08-22",
       "percentage_under_10_seconds": 99.99916179228437
     },
@@ -7153,8 +7149,12 @@
     {
       "date": "2025-08-27",
       "percentage_under_10_seconds": 99.61363293851997
+    },
+    {
+      "date": "2025-08-28",
+      "percentage_under_10_seconds": 99.79386887339498
     }
   ],
-  "sms_notifications": 4409010704,
-  "total_notifications": 11021915223
+  "sms_notifications": 4412564541,
+  "total_notifications": 11029209050
 }
