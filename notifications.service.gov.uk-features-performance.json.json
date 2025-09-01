@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.85652684368104,
+  "average_percentage_under_10_seconds": 99.85655379470678,
   "count_of_live_services_and_organisations": {
-    "organisations": 1769,
-    "services": 11142
+    "organisations": 1759,
+    "services": 11120
   },
-  "email_notifications": 6541485447,
-  "letter_notifications": 80144101,
-  "live_service_count": 11142,
+  "email_notifications": 6542744467,
+  "letter_notifications": 80151124,
+  "live_service_count": 11120,
   "notifications_by_type": [
-    {
-      "date": "2025-08-24",
-      "emails": 930430,
-      "letters": 5204,
-      "sms": 841257
-    },
     {
       "date": "2025-08-25",
       "emails": 1365213,
@@ -49,6 +43,12 @@
       "emails": 1583974,
       "letters": 15033,
       "sms": 1027249
+    },
+    {
+      "date": "2025-08-31",
+      "emails": 1259020,
+      "letters": 7023,
+      "sms": 1201990
     }
   ],
   "organisations_using_notify": [
@@ -593,10 +593,6 @@
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 6,
-      "organisation_name": "Blackpool Coastal Housing"
-    },
-    {
       "count_of_live_services": 31,
       "organisation_name": "Blackpool Council"
     },
@@ -911,10 +907,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Cafcass"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Cairn Housing Association"
     },
     {
       "count_of_live_services": 1,
@@ -1294,10 +1286,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Clyde Valley Housing Association"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Clyst Vale Community College"
     },
     {
@@ -1663,10 +1651,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Derby College"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Derby Homes"
     },
     {
       "count_of_live_services": 1,
@@ -3267,10 +3251,6 @@
     {
       "count_of_live_services": 13,
       "organisation_name": "Lancaster City Council"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "Lancaster University"
     },
     {
       "count_of_live_services": 2,
@@ -5857,10 +5837,6 @@
       "organisation_name": "Sussex Partnership NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Sutton Housing Partnership"
-    },
-    {
       "count_of_live_services": 4,
       "organisation_name": "Sutton London Borough Council"
     },
@@ -5895,10 +5871,6 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "SXT Health CIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Taff Housing Association"
     },
     {
       "count_of_live_services": 1,
@@ -5975,10 +5947,6 @@
     {
       "count_of_live_services": 5,
       "organisation_name": "Tewkesbury Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Thames Valley Housing Association"
     },
     {
       "count_of_live_services": 3,
@@ -6518,10 +6486,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "University of Gloucestershire"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Uplands Academy"
     },
     {
@@ -6559,10 +6523,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Valley Invicta Academies Trust – Valley Park School"
-    },
-    {
-      "count_of_live_services": 5,
-      "organisation_name": "Valleys to Coast Housing"
     },
     {
       "count_of_live_services": 1,
@@ -7127,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-24",
-      "percentage_under_10_seconds": 99.99976893077917
-    },
-    {
       "date": "2025-08-25",
       "percentage_under_10_seconds": 99.99934312234313
     },
@@ -7153,8 +7109,12 @@
     {
       "date": "2025-08-30",
       "percentage_under_10_seconds": 99.99862814121366
+    },
+    {
+      "date": "2025-08-31",
+      "percentage_under_10_seconds": 99.99995758795939
     }
   ],
-  "sms_notifications": 4416510810,
-  "total_notifications": 11038140358
+  "sms_notifications": 4417712800,
+  "total_notifications": 11040608391
 }
