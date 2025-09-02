@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.85655379470678,
+  "average_percentage_under_10_seconds": 99.85619509364588,
   "count_of_live_services_and_organisations": {
-    "organisations": 1759,
-    "services": 11120
+    "organisations": 1758,
+    "services": 11125
   },
-  "email_notifications": 6542744467,
-  "letter_notifications": 80151124,
-  "live_service_count": 11120,
+  "email_notifications": 6546794427,
+  "letter_notifications": 80201906,
+  "live_service_count": 11125,
   "notifications_by_type": [
-    {
-      "date": "2025-08-25",
-      "emails": 1365213,
-      "letters": 22268,
-      "sms": 1776754
-    },
     {
       "date": "2025-08-26",
       "emails": 3682135,
@@ -49,6 +43,12 @@
       "emails": 1259020,
       "letters": 7023,
       "sms": 1201990
+    },
+    {
+      "date": "2025-09-01",
+      "emails": 4049960,
+      "letters": 50782,
+      "sms": 3695095
     }
   ],
   "organisations_using_notify": [
@@ -961,7 +961,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Camden Council"
     },
     {
@@ -1067,10 +1067,6 @@
     {
       "count_of_live_services": 15,
       "organisation_name": "Central Bedfordshire Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Central London Community Healthcare NHS Trust"
     },
     {
       "count_of_live_services": 1,
@@ -1929,7 +1925,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Education Authority"
     },
     {
@@ -3777,7 +3773,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 984,
+      "count_of_live_services": 987,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6201,7 +6197,7 @@
       "organisation_name": "The Orchard Practice"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "The Pensions Regulator"
     },
     {
@@ -7087,10 +7083,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-25",
-      "percentage_under_10_seconds": 99.99934312234313
-    },
-    {
       "date": "2025-08-26",
       "percentage_under_10_seconds": 99.59260370213966
     },
@@ -7113,8 +7105,12 @@
     {
       "date": "2025-08-31",
       "percentage_under_10_seconds": 99.99995758795939
+    },
+    {
+      "date": "2025-09-01",
+      "percentage_under_10_seconds": 99.99683221491682
     }
   ],
-  "sms_notifications": 4417712800,
-  "total_notifications": 11040608391
+  "sms_notifications": 4421407895,
+  "total_notifications": 11048404228
 }
