@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.91409757838582,
+  "average_percentage_under_10_seconds": 99.96906598932708,
   "count_of_live_services_and_organisations": {
-    "organisations": 1758,
-    "services": 11133
+    "organisations": 1759,
+    "services": 11140
   },
-  "email_notifications": 6551625581,
-  "letter_notifications": 80258000,
-  "live_service_count": 11133,
+  "email_notifications": 6555878081,
+  "letter_notifications": 80317922,
+  "live_service_count": 11140,
   "notifications_by_type": [
-    {
-      "date": "2025-08-27",
-      "emails": 3073971,
-      "letters": 52121,
-      "sms": 3580367
-    },
     {
       "date": "2025-08-28",
       "emails": 3685046,
@@ -49,6 +43,12 @@
       "emails": 4831154,
       "letters": 56094,
       "sms": 3547749
+    },
+    {
+      "date": "2025-09-03",
+      "emails": 4252500,
+      "letters": 59922,
+      "sms": 3513620
     }
   ],
   "organisations_using_notify": [
@@ -2473,7 +2473,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 56,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2969,7 +2969,7 @@
       "organisation_name": "IntraHealth Community Services"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Inverclyde Council"
     },
     {
@@ -3773,7 +3773,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 988,
+      "count_of_live_services": 989,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3801,7 +3801,7 @@
       "organisation_name": "Mona Pharmacy"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Money and Pensions Service"
     },
     {
@@ -4674,6 +4674,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Public Prosecution Service for Northern Ireland"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Queen Elizabeth School"
     },
     {
@@ -4733,7 +4737,7 @@
       "organisation_name": "Ravenswood Medical Practice"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Reading Borough Council"
     },
     {
@@ -7083,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-27",
-      "percentage_under_10_seconds": 99.61363293851997
-    },
-    {
       "date": "2025-08-28",
       "percentage_under_10_seconds": 99.79386887339498
     },
@@ -7109,8 +7109,12 @@
     {
       "date": "2025-09-02",
       "percentage_under_10_seconds": 99.99792109531924
+    },
+    {
+      "date": "2025-09-03",
+      "percentage_under_10_seconds": 99.99841181510875
     }
   ],
-  "sms_notifications": 4424955644,
-  "total_notifications": 11056839225
+  "sms_notifications": 4428469264,
+  "total_notifications": 11064665267
 }
