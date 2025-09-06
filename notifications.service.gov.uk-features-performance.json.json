@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99797439397089,
+  "average_percentage_under_10_seconds": 99.9981849640434,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 11148
+    "services": 11154
   },
-  "email_notifications": 6559698772,
-  "letter_notifications": 80378658,
-  "live_service_count": 11148,
+  "email_notifications": 6563030498,
+  "letter_notifications": 80436435,
+  "live_service_count": 11154,
   "notifications_by_type": [
-    {
-      "date": "2025-08-29",
-      "emails": 3333528,
-      "letters": 52504,
-      "sms": 2919020
-    },
     {
       "date": "2025-08-30",
       "emails": 1583974,
@@ -49,6 +43,12 @@
       "emails": 3820691,
       "letters": 60736,
       "sms": 3311581
+    },
+    {
+      "date": "2025-09-05",
+      "emails": 3331726,
+      "letters": 57777,
+      "sms": 3030132
     }
   ],
   "organisations_using_notify": [
@@ -597,7 +597,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 43,
+      "count_of_live_services": 44,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Department for Transport"
     },
     {
@@ -2541,7 +2541,7 @@
       "organisation_name": "Harlow District Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Harrogate and District NHS Foundation Trust"
     },
     {
@@ -4001,7 +4001,7 @@
       "organisation_name": "NHS Greater Glasgow and Clyde"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "NHS Greater Manchester"
     },
     {
@@ -4661,7 +4661,7 @@
       "organisation_name": "PRX Pharmacy"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
@@ -6781,7 +6781,7 @@
       "organisation_name": "West Midlands Police"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "West Northamptonshire Council"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-08-29",
-      "percentage_under_10_seconds": 99.99784219737671
-    },
-    {
       "date": "2025-08-30",
       "percentage_under_10_seconds": 99.99862814121366
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2025-09-04",
       "percentage_under_10_seconds": 99.99622770590172
+    },
+    {
+      "date": "2025-09-05",
+      "percentage_under_10_seconds": 99.99931618788422
     }
   ],
-  "sms_notifications": 4431780845,
-  "total_notifications": 11071858275
+  "sms_notifications": 4434810977,
+  "total_notifications": 11078277910
 }
