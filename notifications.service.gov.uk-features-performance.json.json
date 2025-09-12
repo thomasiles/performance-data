@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99704456460279,
+  "average_percentage_under_10_seconds": 99.99209040991434,
   "count_of_live_services_and_organisations": {
     "organisations": 1760,
-    "services": 11183
+    "services": 11192
   },
-  "email_notifications": 6577593108,
-  "letter_notifications": 80620887,
-  "live_service_count": 11183,
+  "email_notifications": 6581644744,
+  "letter_notifications": 80695540,
+  "live_service_count": 11192,
   "notifications_by_type": [
-    {
-      "date": "2025-09-04",
-      "emails": 3820691,
-      "letters": 60736,
-      "sms": 3311581
-    },
     {
       "date": "2025-09-05",
       "emails": 3331726,
@@ -49,6 +43,12 @@
       "emails": 4085292,
       "letters": 57596,
       "sms": 3446385
+    },
+    {
+      "date": "2025-09-11",
+      "emails": 4051636,
+      "letters": 74653,
+      "sms": 3328992
     }
   ],
   "organisations_using_notify": [
@@ -477,7 +477,7 @@
       "organisation_name": "Beechwood Family Practice"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Belfast City Council"
     },
     {
@@ -597,7 +597,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1585,7 +1585,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 177,
+      "count_of_live_services": 178,
       "organisation_name": "Department for Education"
     },
     {
@@ -3221,7 +3221,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3669,7 +3669,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3773,7 +3773,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 994,
+      "count_of_live_services": 995,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3993,7 +3993,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "NHS England"
     },
     {
@@ -4345,7 +4345,7 @@
       "organisation_name": "Office of the Public Guardian"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Ofgem"
     },
     {
@@ -5109,7 +5109,7 @@
       "organisation_name": "Scissett Middle School"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Scottish Ambulance Service"
     },
     {
@@ -7091,10 +7091,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-04",
-      "percentage_under_10_seconds": 99.99622770590172
-    },
-    {
       "date": "2025-09-05",
       "percentage_under_10_seconds": 99.99931618788422
     },
@@ -7117,8 +7113,12 @@
     {
       "date": "2025-09-10",
       "percentage_under_10_seconds": 99.99856669802833
+    },
+    {
+      "date": "2025-09-11",
+      "percentage_under_10_seconds": 99.96154862308252
     }
   ],
-  "sms_notifications": 4447806019,
-  "total_notifications": 11106020014
+  "sms_notifications": 4451135011,
+  "total_notifications": 11113475295
 }
