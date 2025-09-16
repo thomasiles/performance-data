@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99233800155838,
+  "average_percentage_under_10_seconds": 99.99355821574443,
   "count_of_live_services_and_organisations": {
-    "organisations": 1760,
-    "services": 11198
+    "organisations": 1761,
+    "services": 11207
   },
-  "email_notifications": 6588384911,
-  "letter_notifications": 80793191,
-  "live_service_count": 11198,
+  "email_notifications": 6592155256,
+  "letter_notifications": 80849375,
+  "live_service_count": 11207,
   "notifications_by_type": [
-    {
-      "date": "2025-09-08",
-      "emails": 3551691,
-      "letters": 49497,
-      "sms": 3793494
-    },
     {
       "date": "2025-09-09",
       "emails": 4246682,
@@ -49,6 +43,12 @@
       "emails": 1157943,
       "letters": 8465,
       "sms": 1217108
+    },
+    {
+      "date": "2025-09-15",
+      "emails": 3770345,
+      "letters": 56184,
+      "sms": 3802655
     }
   ],
   "organisations_using_notify": [
@@ -1386,6 +1386,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Cornwall Inshore Fisheries and Conservation Authority"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Corpus Christi Catholic College"
     },
     {
@@ -1581,7 +1585,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -2837,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 665,
+      "count_of_live_services": 664,
       "organisation_name": "Home Office"
     },
     {
@@ -3773,7 +3777,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 995,
+      "count_of_live_services": 997,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4145,7 +4149,7 @@
       "organisation_name": "North Kesteven District Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "North Lanarkshire Council"
     },
     {
@@ -4345,7 +4349,7 @@
       "organisation_name": "Office of the Public Guardian"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Ofgem"
     },
     {
@@ -4753,7 +4757,7 @@
       "organisation_name": "Redbridge Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Redbridge London Borough Council"
     },
     {
@@ -4897,7 +4901,7 @@
       "organisation_name": "Rother District Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Rotherham Borough Council"
     },
     {
@@ -5365,7 +5369,7 @@
       "organisation_name": "South Gloucestershire Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "South Hams District Council"
     },
     {
@@ -6473,7 +6477,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7091,10 +7095,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-08",
-      "percentage_under_10_seconds": 99.99026235416697
-    },
-    {
       "date": "2025-09-09",
       "percentage_under_10_seconds": 99.99792251590905
     },
@@ -7117,8 +7117,12 @@
     {
       "date": "2025-09-14",
       "percentage_under_10_seconds": 99.99943473812505
+    },
+    {
+      "date": "2025-09-15",
+      "percentage_under_10_seconds": 99.99880385346933
     }
   ],
-  "sms_notifications": 4456217562,
-  "total_notifications": 11125395664
+  "sms_notifications": 4460020217,
+  "total_notifications": 11133024848
 }
