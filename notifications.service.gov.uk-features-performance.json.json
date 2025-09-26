@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.94409081916248,
+  "average_percentage_under_10_seconds": 99.94409584205158,
   "count_of_live_services_and_organisations": {
-    "organisations": 1764,
-    "services": 11256
+    "organisations": 1766,
+    "services": 11263
   },
-  "email_notifications": 6630919858,
-  "letter_notifications": 81327679,
-  "live_service_count": 11256,
+  "email_notifications": 6637783331,
+  "letter_notifications": 81384260,
+  "live_service_count": 11263,
   "notifications_by_type": [
-    {
-      "date": "2025-09-18",
-      "emails": 3388644,
-      "letters": 51241,
-      "sms": 3212944
-    },
     {
       "date": "2025-09-19",
       "emails": 3242252,
@@ -49,6 +43,12 @@
       "emails": 11313237,
       "letters": 60759,
       "sms": 3658157
+    },
+    {
+      "date": "2025-09-25",
+      "emails": 6863473,
+      "letters": 56581,
+      "sms": 3468074
     }
   ],
   "organisations_using_notify": [
@@ -1581,7 +1581,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 54,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2849,7 +2849,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 665,
+      "count_of_live_services": 663,
       "organisation_name": "Home Office"
     },
     {
@@ -2877,7 +2877,7 @@
       "organisation_name": "Hornsey wood green GP"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Horsham District Council"
     },
     {
@@ -3353,7 +3353,7 @@
       "organisation_name": "Lewisham Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Lichfield District Council"
     },
     {
@@ -3701,7 +3701,7 @@
       "organisation_name": "Merthyr Tydfil County Borough Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Merton Council"
     },
     {
@@ -3781,7 +3781,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -4173,7 +4173,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4195,6 +4195,10 @@
     {
       "count_of_live_services": 18,
       "organisation_name": "North Wales Police"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "North Warwickshire and South Leicestershire College"
     },
     {
       "count_of_live_services": 7,
@@ -4451,6 +4455,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Oswald Road Primary School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Our Lady of Ransom Catholic Primary School"
     },
     {
       "count_of_live_services": 1,
@@ -5145,7 +5153,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Scottish Government"
     },
     {
@@ -5201,7 +5209,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -5801,7 +5809,7 @@
       "organisation_name": "Stroud Green Medical Centre"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Student Loans Company"
     },
     {
@@ -7107,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-18",
-      "percentage_under_10_seconds": 99.99872604994309
-    },
-    {
       "date": "2025-09-19",
       "percentage_under_10_seconds": 99.98540276270782
     },
@@ -7133,8 +7137,12 @@
     {
       "date": "2025-09-24",
       "percentage_under_10_seconds": 99.62958847562824
+    },
+    {
+      "date": "2025-09-25",
+      "percentage_under_10_seconds": 99.99876121016675
     }
   ],
-  "sms_notifications": 4486528158,
-  "total_notifications": 11198775695
+  "sms_notifications": 4489996232,
+  "total_notifications": 11209163823
 }
