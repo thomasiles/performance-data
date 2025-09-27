@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.94409584205158,
+  "average_percentage_under_10_seconds": 99.94601596477372,
   "count_of_live_services_and_organisations": {
     "organisations": 1766,
-    "services": 11263
+    "services": 11272
   },
-  "email_notifications": 6637783331,
-  "letter_notifications": 81384260,
-  "live_service_count": 11263,
+  "email_notifications": 6641221070,
+  "letter_notifications": 81431830,
+  "live_service_count": 11272,
   "notifications_by_type": [
-    {
-      "date": "2025-09-19",
-      "emails": 3242252,
-      "letters": 47253,
-      "sms": 2802308
-    },
     {
       "date": "2025-09-20",
       "emails": 1664248,
@@ -49,6 +43,12 @@
       "emails": 6863473,
       "letters": 56581,
       "sms": 3468074
+    },
+    {
+      "date": "2025-09-26",
+      "emails": 3437739,
+      "letters": 47570,
+      "sms": 3030930
     }
   ],
   "organisations_using_notify": [
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2545,7 +2545,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 51,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2849,7 +2849,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 663,
+      "count_of_live_services": 666,
       "organisation_name": "Home Office"
     },
     {
@@ -3185,7 +3185,7 @@
       "organisation_name": "Kirkburton Middle School"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Kirklees Council"
     },
     {
@@ -4297,7 +4297,7 @@
       "organisation_name": "Nottingham City Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 45,
+      "count_of_live_services": 46,
       "organisation_name": "Nottingham City Council"
     },
     {
@@ -4685,7 +4685,7 @@
       "organisation_name": "PRX Pharmacy"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
@@ -6177,7 +6177,7 @@
       "organisation_name": "The Local Government and Social Care Ombudsman"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "The London Borough of Havering"
     },
     {
@@ -7115,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-19",
-      "percentage_under_10_seconds": 99.98540276270782
-    },
-    {
       "date": "2025-09-20",
       "percentage_under_10_seconds": 99.99912768985013
     },
@@ -7141,8 +7137,12 @@
     {
       "date": "2025-09-25",
       "percentage_under_10_seconds": 99.99876121016675
+    },
+    {
+      "date": "2025-09-26",
+      "percentage_under_10_seconds": 99.99884362176283
     }
   ],
-  "sms_notifications": 4489996232,
-  "total_notifications": 11209163823
+  "sms_notifications": 4493027162,
+  "total_notifications": 11215680062
 }
