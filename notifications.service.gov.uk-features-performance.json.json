@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.94570303983562,
+  "average_percentage_under_10_seconds": 99.94558472449322,
   "count_of_live_services_and_organisations": {
     "organisations": 1766,
-    "services": 11274
+    "services": 11282
   },
-  "email_notifications": 6647367383,
-  "letter_notifications": 81529110,
-  "live_service_count": 11274,
+  "email_notifications": 6651895943,
+  "letter_notifications": 81593831,
+  "live_service_count": 11282,
   "notifications_by_type": [
-    {
-      "date": "2025-09-23",
-      "emails": 7347510,
-      "letters": 75836,
-      "sms": 3587068
-    },
     {
       "date": "2025-09-24",
       "emails": 11313237,
@@ -49,6 +43,12 @@
       "emails": 3328130,
       "letters": 72806,
       "sms": 3807806
+    },
+    {
+      "date": "2025-09-30",
+      "emails": 4528560,
+      "letters": 64721,
+      "sms": 3970181
     }
   ],
   "organisations_using_notify": [
@@ -1597,7 +1597,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 178,
+      "count_of_live_services": 179,
       "organisation_name": "Department for Education"
     },
     {
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 70,
+      "count_of_live_services": 71,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2545,7 +2545,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3245,7 +3245,7 @@
       "organisation_name": "Lancashire Constabulary"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Lancashire County Council"
     },
     {
@@ -3789,7 +3789,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1000,
+      "count_of_live_services": 1001,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4153,7 +4153,7 @@
       "organisation_name": "North Halifax Grammar School"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "North Hertfordshire District Council"
     },
     {
@@ -6713,7 +6713,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7029,7 +7029,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7115,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-23",
-      "percentage_under_10_seconds": 99.99759064144139
-    },
-    {
       "date": "2025-09-24",
       "percentage_under_10_seconds": 99.62958847562824
     },
@@ -7141,8 +7137,12 @@
     {
       "date": "2025-09-29",
       "percentage_under_10_seconds": 99.99893573242893
+    },
+    {
+      "date": "2025-09-30",
+      "percentage_under_10_seconds": 99.99676243404456
     }
   ],
-  "sms_notifications": 4499235208,
-  "total_notifications": 11228131701
+  "sms_notifications": 4503205389,
+  "total_notifications": 11236695163
 }
