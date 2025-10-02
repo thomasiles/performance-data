@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.94558472449322,
+  "average_percentage_under_10_seconds": 99.96673640821498,
   "count_of_live_services_and_organisations": {
-    "organisations": 1766,
-    "services": 11282
+    "organisations": 1767,
+    "services": 11295
   },
-  "email_notifications": 6651895943,
-  "letter_notifications": 81593831,
-  "live_service_count": 11282,
+  "email_notifications": 6656524468,
+  "letter_notifications": 81660137,
+  "live_service_count": 11295,
   "notifications_by_type": [
-    {
-      "date": "2025-09-24",
-      "emails": 11313237,
-      "letters": 60759,
-      "sms": 3658157
-    },
     {
       "date": "2025-09-25",
       "emails": 6863473,
@@ -49,6 +43,12 @@
       "emails": 4528560,
       "letters": 64721,
       "sms": 3970181
+    },
+    {
+      "date": "2025-10-01",
+      "emails": 4628525,
+      "letters": 66306,
+      "sms": 4541678
     }
   ],
   "organisations_using_notify": [
@@ -1017,7 +1017,7 @@
       "organisation_name": "Care Quality Commission"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Carmarthenshire County Council"
     },
     {
@@ -1137,8 +1137,12 @@
       "organisation_name": "Cheshire and Merseyside Integrated Care Board"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 28,
       "organisation_name": "Cheshire East Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Cheshire Fire and Rescue Service"
     },
     {
       "count_of_live_services": 13,
@@ -1317,7 +1321,7 @@
       "organisation_name": "Colchester Institute"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Coleraine Borough Council"
     },
     {
@@ -1581,7 +1585,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1597,7 +1601,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 179,
+      "count_of_live_services": 180,
       "organisation_name": "Department for Education"
     },
     {
@@ -1605,7 +1609,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -1837,7 +1841,7 @@
       "organisation_name": "East Devon District Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "East Dunbartonshire Council"
     },
     {
@@ -3169,7 +3173,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3897,7 +3901,7 @@
       "organisation_name": "Natural Resources Wales"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 42,
       "organisation_name": "Neath Port Talbot County Borough Council"
     },
     {
@@ -4217,7 +4221,7 @@
       "organisation_name": "North West Regional College"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "North Yorkshire County Council"
     },
     {
@@ -5493,7 +5497,7 @@
       "organisation_name": "South Yorkshire Police"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -5877,7 +5881,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 45,
+      "count_of_live_services": 46,
       "organisation_name": "Swansea Council"
     },
     {
@@ -6213,7 +6217,7 @@
       "organisation_name": "The New Medical Centre"
     },
     {
-      "count_of_live_services": 70,
+      "count_of_live_services": 71,
       "organisation_name": "The Newcastle Upon Tyne Hospitals NHS Foundation Trust"
     },
     {
@@ -6497,7 +6501,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 17,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7115,10 +7119,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-24",
-      "percentage_under_10_seconds": 99.62958847562824
-    },
-    {
       "date": "2025-09-25",
       "percentage_under_10_seconds": 99.99876121016675
     },
@@ -7141,8 +7141,12 @@
     {
       "date": "2025-09-30",
       "percentage_under_10_seconds": 99.99676243404456
+    },
+    {
+      "date": "2025-10-01",
+      "percentage_under_10_seconds": 99.77765026168059
     }
   ],
-  "sms_notifications": 4503205389,
-  "total_notifications": 11236695163
+  "sms_notifications": 4507747067,
+  "total_notifications": 11245931672
 }
