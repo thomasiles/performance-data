@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96673640821498,
+  "average_percentage_under_10_seconds": 99.9639403643932,
   "count_of_live_services_and_organisations": {
     "organisations": 1767,
-    "services": 11295
+    "services": 11302
   },
-  "email_notifications": 6656524468,
-  "letter_notifications": 81660137,
-  "live_service_count": 11295,
+  "email_notifications": 6660601895,
+  "letter_notifications": 81721748,
+  "live_service_count": 11302,
   "notifications_by_type": [
-    {
-      "date": "2025-09-25",
-      "emails": 6863473,
-      "letters": 56581,
-      "sms": 3468074
-    },
     {
       "date": "2025-09-26",
       "emails": 3437739,
@@ -49,6 +43,12 @@
       "emails": 4628525,
       "letters": 66306,
       "sms": 4541678
+    },
+    {
+      "date": "2025-10-02",
+      "emails": 4077427,
+      "letters": 61611,
+      "sms": 3381301
     }
   ],
   "organisations_using_notify": [
@@ -685,7 +685,7 @@
       "organisation_name": "Boxalls Pharmacy"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Bracknell Forest Council"
     },
     {
@@ -997,7 +997,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -2853,7 +2853,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 666,
+      "count_of_live_services": 668,
       "organisation_name": "Home Office"
     },
     {
@@ -3801,7 +3801,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 357,
+      "count_of_live_services": 358,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -5137,7 +5137,7 @@
       "organisation_name": "Scissett Middle School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Scottish Ambulance Service"
     },
     {
@@ -5157,7 +5157,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Scottish Government"
     },
     {
@@ -7119,10 +7119,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-25",
-      "percentage_under_10_seconds": 99.99876121016675
-    },
-    {
       "date": "2025-09-26",
       "percentage_under_10_seconds": 99.99884362176283
     },
@@ -7145,8 +7141,12 @@
     {
       "date": "2025-10-01",
       "percentage_under_10_seconds": 99.77765026168059
+    },
+    {
+      "date": "2025-10-02",
+      "percentage_under_10_seconds": 99.97918890341425
     }
   ],
-  "sms_notifications": 4507747067,
-  "total_notifications": 11245931672
+  "sms_notifications": 4511128368,
+  "total_notifications": 11253452011
 }
