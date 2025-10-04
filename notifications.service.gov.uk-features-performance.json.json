@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9639403643932,
+  "average_percentage_under_10_seconds": 99.96380202019239,
   "count_of_live_services_and_organisations": {
     "organisations": 1767,
-    "services": 11302
+    "services": 11309
   },
-  "email_notifications": 6660601895,
-  "letter_notifications": 81721748,
-  "live_service_count": 11302,
+  "email_notifications": 6664574474,
+  "letter_notifications": 81760967,
+  "live_service_count": 11309,
   "notifications_by_type": [
-    {
-      "date": "2025-09-26",
-      "emails": 3437739,
-      "letters": 47570,
-      "sms": 3030930
-    },
     {
       "date": "2025-09-27",
       "emails": 1628093,
@@ -49,6 +43,12 @@
       "emails": 4077427,
       "letters": 61611,
       "sms": 3381301
+    },
+    {
+      "date": "2025-10-03",
+      "emails": 3972579,
+      "letters": 39219,
+      "sms": 3084681
     }
   ],
   "organisations_using_notify": [
@@ -693,7 +693,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 180,
+      "count_of_live_services": 181,
       "organisation_name": "Department for Education"
     },
     {
@@ -1629,7 +1629,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 83,
+      "count_of_live_services": 84,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -1657,7 +1657,7 @@
       "organisation_name": "Department of Justice (Northern Ireland)"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Derby City Council"
     },
     {
@@ -3177,7 +3177,7 @@
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Kingston upon Thames London Borough Council"
     },
     {
@@ -3897,7 +3897,7 @@
       "organisation_name": "National Lottery Heritage Fund"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Natural Resources Wales"
     },
     {
@@ -6641,7 +6641,7 @@
       "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -7119,10 +7119,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-26",
-      "percentage_under_10_seconds": 99.99884362176283
-    },
-    {
       "date": "2025-09-27",
       "percentage_under_10_seconds": 99.9995170232583
     },
@@ -7145,8 +7141,12 @@
     {
       "date": "2025-10-02",
       "percentage_under_10_seconds": 99.97918890341425
+    },
+    {
+      "date": "2025-10-03",
+      "percentage_under_10_seconds": 99.99787521235712
     }
   ],
-  "sms_notifications": 4511128368,
-  "total_notifications": 11253452011
+  "sms_notifications": 4514213049,
+  "total_notifications": 11260548490
 }
