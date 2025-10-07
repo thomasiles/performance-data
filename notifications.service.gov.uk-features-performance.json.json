@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96421642864838,
+  "average_percentage_under_10_seconds": 99.87447030108294,
   "count_of_live_services_and_organisations": {
-    "organisations": 1767,
-    "services": 11309
+    "organisations": 1768,
+    "services": 11324
   },
-  "email_notifications": 6667669325,
-  "letter_notifications": 81794645,
-  "live_service_count": 11309,
+  "email_notifications": 6671959525,
+  "letter_notifications": 81859668,
+  "live_service_count": 11324,
   "notifications_by_type": [
-    {
-      "date": "2025-09-29",
-      "emails": 3328130,
-      "letters": 72806,
-      "sms": 3807806
-    },
     {
       "date": "2025-09-30",
       "emails": 4528560,
@@ -49,6 +43,12 @@
       "emails": 1212633,
       "letters": 10564,
       "sms": 1333278
+    },
+    {
+      "date": "2025-10-06",
+      "emails": 4290200,
+      "letters": 65023,
+      "sms": 3876867
     }
   ],
   "organisations_using_notify": [
@@ -502,6 +502,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "BePart Educational Trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Berkshire College of Agriculture"
     },
     {
@@ -901,7 +905,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 157,
+      "count_of_live_services": 158,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1569,7 +1573,7 @@
       "organisation_name": "Debenham Group Practice"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Denbighshire County Council"
     },
     {
@@ -1817,7 +1821,7 @@
       "organisation_name": "Ealing Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Ealing Council"
     },
     {
@@ -2489,7 +2493,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2809,7 +2813,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 83,
+      "count_of_live_services": 84,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -3065,7 +3069,7 @@
       "organisation_name": "Kensington Group Practice"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
@@ -3793,7 +3797,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1001,
+      "count_of_live_services": 1002,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3801,7 +3805,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 358,
+      "count_of_live_services": 362,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -5261,7 +5265,7 @@
       "organisation_name": "Shivakem Pharmacy"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -7025,7 +7029,7 @@
       "organisation_name": "Woolpit Health Centre"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 6,
       "organisation_name": "Worcestershire Acute Hospitals NHS Trust"
     },
     {
@@ -7119,10 +7123,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-09-29",
-      "percentage_under_10_seconds": 99.99893573242893
-    },
-    {
       "date": "2025-09-30",
       "percentage_under_10_seconds": 99.99676243404456
     },
@@ -7145,8 +7145,12 @@
     {
       "date": "2025-10-05",
       "percentage_under_10_seconds": 99.99944113405078
+    },
+    {
+      "date": "2025-10-06",
+      "percentage_under_10_seconds": 99.37071283947073
     }
   ],
-  "sms_notifications": 4516738799,
-  "total_notifications": 11266202769
+  "sms_notifications": 4520615666,
+  "total_notifications": 11274434859
 }
