@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.86067077566345,
+  "average_percentage_under_10_seconds": 99.95034724958072,
   "count_of_live_services_and_organisations": {
-    "organisations": 1772,
-    "services": 11357
+    "organisations": 1773,
+    "services": 11373
   },
-  "email_notifications": 6691513162,
-  "letter_notifications": 82105275,
-  "live_service_count": 11357,
+  "email_notifications": 6695258600,
+  "letter_notifications": 82165826,
+  "live_service_count": 11373,
   "notifications_by_type": [
-    {
-      "date": "2025-10-06",
-      "emails": 4290200,
-      "letters": 65023,
-      "sms": 3876867
-    },
     {
       "date": "2025-10-07",
       "emails": 4475859,
@@ -49,6 +43,12 @@
       "emails": 1081744,
       "letters": 19875,
       "sms": 1296915
+    },
+    {
+      "date": "2025-10-13",
+      "emails": 3745438,
+      "letters": 60551,
+      "sms": 5326875
     }
   ],
   "organisations_using_notify": [
@@ -85,7 +85,7 @@
       "organisation_name": "Accord Group"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Achieving for Children"
     },
     {
@@ -697,7 +697,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 75,
+      "count_of_live_services": 76,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -717,7 +717,7 @@
       "organisation_name": "Branston Community Academy"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Breckland District Council"
     },
     {
@@ -909,7 +909,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 158,
+      "count_of_live_services": 159,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1249,7 +1249,7 @@
       "organisation_name": "City of London"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "City of London Police"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 121,
+      "count_of_live_services": 125,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1637,11 +1637,11 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 84,
+      "count_of_live_services": 85,
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 107,
+      "count_of_live_services": 108,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -3205,7 +3205,7 @@
       "organisation_name": "Kirkburton Middle School"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Kirklees Council"
     },
     {
@@ -4713,7 +4713,7 @@
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 44,
       "organisation_name": "Public Health England"
     },
     {
@@ -6650,6 +6650,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Walthamstow School For Girls"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Warrington & Halton Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -7139,10 +7143,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-06",
-      "percentage_under_10_seconds": 99.37071283947073
-    },
-    {
       "date": "2025-10-07",
       "percentage_under_10_seconds": 99.66215878104104
     },
@@ -7165,8 +7165,12 @@
     {
       "date": "2025-10-12",
       "percentage_under_10_seconds": 99.99952821570321
+    },
+    {
+      "date": "2025-10-13",
+      "percentage_under_10_seconds": 99.99844815689158
     }
   ],
-  "sms_notifications": 4538040974,
-  "total_notifications": 11311659411
+  "sms_notifications": 4543367849,
+  "total_notifications": 11320792275
 }
