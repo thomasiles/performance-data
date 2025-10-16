@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99833847011277,
+  "average_percentage_under_10_seconds": 99.9980872735976,
   "count_of_live_services_and_organisations": {
-    "organisations": 1773,
-    "services": 11387
+    "organisations": 1774,
+    "services": 11395
   },
-  "email_notifications": 6699374405,
-  "letter_notifications": 82218511,
-  "live_service_count": 11387,
+  "email_notifications": 6702621552,
+  "letter_notifications": 82280837,
+  "live_service_count": 11395,
   "notifications_by_type": [
-    {
-      "date": "2025-10-08",
-      "emails": 4109486,
-      "letters": 53147,
-      "sms": 3440776
-    },
     {
       "date": "2025-10-09",
       "emails": 4611257,
@@ -49,6 +43,12 @@
       "emails": 4115805,
       "letters": 52685,
       "sms": 5092298
+    },
+    {
+      "date": "2025-10-15",
+      "emails": 3247147,
+      "letters": 62326,
+      "sms": 6394864
     }
   ],
   "organisations_using_notify": [
@@ -697,7 +697,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 77,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1713,7 +1713,7 @@
       "organisation_name": "Devon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Devon County Council"
     },
     {
@@ -2797,7 +2797,7 @@
       "organisation_name": "Hilton Pharmacy (KAVM Ltd)"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Hinckley & Bosworth Borough Council"
     },
     {
@@ -3809,7 +3809,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1007,
+      "count_of_live_services": 1009,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3957,7 +3957,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -6749,6 +6749,10 @@
       "organisation_name": "Welsh Revenue Authority"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Welshpool Town Council"
+    },
+    {
       "count_of_live_services": 18,
       "organisation_name": "Welwyn Hatfield Borough Council"
     },
@@ -6969,7 +6973,7 @@
       "organisation_name": "Wiltshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Wiltshire Council"
     },
     {
@@ -7143,10 +7147,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-08",
-      "percentage_under_10_seconds": 99.9970739731267
-    },
-    {
       "date": "2025-10-09",
       "percentage_under_10_seconds": 99.99721388471269
     },
@@ -7169,8 +7169,12 @@
     {
       "date": "2025-10-14",
       "percentage_under_10_seconds": 99.99809732476544
+    },
+    {
+      "date": "2025-10-15",
+      "percentage_under_10_seconds": 99.99531559752047
     }
   ],
-  "sms_notifications": 4548460147,
-  "total_notifications": 11330053063
+  "sms_notifications": 4554855011,
+  "total_notifications": 11339757400
 }
