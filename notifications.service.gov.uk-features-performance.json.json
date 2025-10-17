@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9980872735976,
+  "average_percentage_under_10_seconds": 99.99836662504931,
   "count_of_live_services_and_organisations": {
     "organisations": 1774,
-    "services": 11395
+    "services": 11397
   },
-  "email_notifications": 6702621552,
-  "letter_notifications": 82280837,
-  "live_service_count": 11395,
+  "email_notifications": 6706012942,
+  "letter_notifications": 82334688,
+  "live_service_count": 11397,
   "notifications_by_type": [
-    {
-      "date": "2025-10-09",
-      "emails": 4611257,
-      "letters": 57837,
-      "sms": 3699818
-    },
     {
       "date": "2025-10-10",
       "emails": 3610579,
@@ -49,6 +43,12 @@
       "emails": 3247147,
       "letters": 62326,
       "sms": 6394864
+    },
+    {
+      "date": "2025-10-16",
+      "emails": 3391390,
+      "letters": 53851,
+      "sms": 6041146
     }
   ],
   "organisations_using_notify": [
@@ -189,7 +189,7 @@
       "organisation_name": "Amery Hill School Academy Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
@@ -2825,7 +2825,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 84,
+      "count_of_live_services": 85,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -3809,7 +3809,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1009,
+      "count_of_live_services": 1010,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3817,7 +3817,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 363,
+      "count_of_live_services": 362,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -7147,10 +7147,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-09",
-      "percentage_under_10_seconds": 99.99721388471269
-    },
-    {
       "date": "2025-10-10",
       "percentage_under_10_seconds": 99.9984944791295
     },
@@ -7173,8 +7169,12 @@
     {
       "date": "2025-10-15",
       "percentage_under_10_seconds": 99.99531559752047
+    },
+    {
+      "date": "2025-10-16",
+      "percentage_under_10_seconds": 99.99916934487464
     }
   ],
-  "sms_notifications": 4554855011,
-  "total_notifications": 11339757400
+  "sms_notifications": 4560896157,
+  "total_notifications": 11349243787
 }
