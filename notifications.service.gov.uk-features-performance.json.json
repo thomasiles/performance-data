@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99836662504931,
+  "average_percentage_under_10_seconds": 99.99798345685124,
   "count_of_live_services_and_organisations": {
-    "organisations": 1774,
-    "services": 11397
+    "organisations": 1776,
+    "services": 11407
   },
-  "email_notifications": 6706012942,
-  "letter_notifications": 82334688,
-  "live_service_count": 11397,
+  "email_notifications": 6708870438,
+  "letter_notifications": 82389925,
+  "live_service_count": 11407,
   "notifications_by_type": [
-    {
-      "date": "2025-10-10",
-      "emails": 3610579,
-      "letters": 41910,
-      "sms": 4145284
-    },
     {
       "date": "2025-10-11",
       "emails": 1664712,
@@ -49,6 +43,12 @@
       "emails": 3391390,
       "letters": 53851,
       "sms": 6041146
+    },
+    {
+      "date": "2025-10-17",
+      "emails": 2857496,
+      "letters": 55237,
+      "sms": 4785839
     }
   ],
   "organisations_using_notify": [
@@ -1637,7 +1637,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 85,
+      "count_of_live_services": 86,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2869,7 +2869,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 669,
+      "count_of_live_services": 671,
       "organisation_name": "Home Office"
     },
     {
@@ -3325,7 +3325,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3809,7 +3809,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1010,
+      "count_of_live_services": 1011,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4309,6 +4309,10 @@
       "organisation_name": "Northumbria Healthcare NHS Foundation Trust"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Northumbria Police"
+    },
+    {
       "count_of_live_services": 3,
       "organisation_name": "Norwich City Council"
     },
@@ -4361,7 +4365,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 61,
+      "count_of_live_services": 62,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -4649,7 +4653,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -5897,6 +5901,10 @@
       "organisation_name": "Sutton Primary Care Networks (PCNS) Community Interest Company (CIC)"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Swale Academies Trust"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "Swale Borough Council"
     },
@@ -6521,7 +6529,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7147,10 +7155,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-10",
-      "percentage_under_10_seconds": 99.9984944791295
-    },
-    {
       "date": "2025-10-11",
       "percentage_under_10_seconds": 99.9995132564603
     },
@@ -7173,8 +7177,12 @@
     {
       "date": "2025-10-16",
       "percentage_under_10_seconds": 99.99916934487464
+    },
+    {
+      "date": "2025-10-17",
+      "percentage_under_10_seconds": 99.99581230174304
     }
   ],
-  "sms_notifications": 4560896157,
-  "total_notifications": 11349243787
+  "sms_notifications": 4565681996,
+  "total_notifications": 11356942359
 }
