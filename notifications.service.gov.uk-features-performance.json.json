@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99789507313046,
+  "average_percentage_under_10_seconds": 99.95035981554716,
   "count_of_live_services_and_organisations": {
-    "organisations": 1776,
-    "services": 11408
+    "organisations": 1779,
+    "services": 11419
   },
-  "email_notifications": 6711696150,
-  "letter_notifications": 82405631,
-  "live_service_count": 11408,
+  "email_notifications": 6714840030,
+  "letter_notifications": 82470763,
+  "live_service_count": 11419,
   "notifications_by_type": [
-    {
-      "date": "2025-10-13",
-      "emails": 3745438,
-      "letters": 60551,
-      "sms": 5326875
-    },
     {
       "date": "2025-10-14",
       "emails": 4115805,
@@ -49,6 +43,12 @@
       "emails": 1097929,
       "letters": 5466,
       "sms": 1333991
+    },
+    {
+      "date": "2025-10-20",
+      "emails": 3143880,
+      "letters": 65132,
+      "sms": 4109143
     }
   ],
   "organisations_using_notify": [
@@ -323,6 +323,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Atherton High School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Atomix Educational Trust"
     },
     {
       "count_of_live_services": 3,
@@ -773,7 +777,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -3369,7 +3373,7 @@
       "organisation_name": "Levenshulme High School"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Lewisham Council"
     },
     {
@@ -3809,7 +3813,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1011,
+      "count_of_live_services": 1013,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3963,6 +3967,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Newcastle under Lyme Borough Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Newent Town Council"
     },
     {
       "count_of_live_services": 1,
@@ -5285,7 +5293,7 @@
       "organisation_name": "Shivakem Pharmacy"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -5521,7 +5529,7 @@
       "organisation_name": "South Yorkshire Police"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -6226,6 +6234,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "The Mayor's Office for Policing and Crime (MOPAC)"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "The Meadows School"
     },
     {
@@ -6529,7 +6541,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 27,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7155,10 +7167,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-13",
-      "percentage_under_10_seconds": 99.99844815689158
-    },
-    {
       "date": "2025-10-14",
       "percentage_under_10_seconds": 99.99809732476544
     },
@@ -7181,8 +7189,12 @@
     {
       "date": "2025-10-19",
       "percentage_under_10_seconds": 99.99928782149622
+    },
+    {
+      "date": "2025-10-20",
+      "percentage_under_10_seconds": 99.66570135380847
     }
   ],
-  "sms_notifications": 4568170588,
-  "total_notifications": 11362272369
+  "sms_notifications": 4572279731,
+  "total_notifications": 11369590524
 }
