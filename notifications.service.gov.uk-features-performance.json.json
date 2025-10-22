@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.95035981554716,
+  "average_percentage_under_10_seconds": 99.90094688012714,
   "count_of_live_services_and_organisations": {
-    "organisations": 1779,
-    "services": 11419
+    "organisations": 1778,
+    "services": 11427
   },
-  "email_notifications": 6714840030,
-  "letter_notifications": 82470763,
-  "live_service_count": 11419,
+  "email_notifications": 6719488604,
+  "letter_notifications": 82530936,
+  "live_service_count": 11427,
   "notifications_by_type": [
-    {
-      "date": "2025-10-14",
-      "emails": 4115805,
-      "letters": 52685,
-      "sms": 5092298
-    },
     {
       "date": "2025-10-15",
       "emails": 3247147,
@@ -49,6 +43,12 @@
       "emails": 3143880,
       "letters": 65132,
       "sms": 4109143
+    },
+    {
+      "date": "2025-10-21",
+      "emails": 4648574,
+      "letters": 60173,
+      "sms": 4231135
     }
   ],
   "organisations_using_notify": [
@@ -777,7 +777,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1613,11 +1613,11 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 182,
+      "count_of_live_services": 183,
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -2009,12 +2009,8 @@
       "organisation_name": "Ely College"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 5,
       "organisation_name": "Empower Learning Academy Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Empower Learning Academy Trust."
     },
     {
       "count_of_live_services": 3,
@@ -2873,7 +2869,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 671,
+      "count_of_live_services": 672,
       "organisation_name": "Home Office"
     },
     {
@@ -3813,7 +3809,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1013,
+      "count_of_live_services": 1014,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5189,7 +5185,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Scottish Government"
     },
     {
@@ -6473,7 +6469,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 67,
+      "count_of_live_services": 68,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -7167,10 +7163,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-14",
-      "percentage_under_10_seconds": 99.99809732476544
-    },
-    {
       "date": "2025-10-15",
       "percentage_under_10_seconds": 99.99531559752047
     },
@@ -7193,8 +7185,12 @@
     {
       "date": "2025-10-20",
       "percentage_under_10_seconds": 99.66570135380847
+    },
+    {
+      "date": "2025-10-21",
+      "percentage_under_10_seconds": 99.65220677682527
     }
   ],
-  "sms_notifications": 4572279731,
-  "total_notifications": 11369590524
+  "sms_notifications": 4576510866,
+  "total_notifications": 11378530406
 }
