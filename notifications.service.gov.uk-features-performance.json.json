@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.90094688012714,
+  "average_percentage_under_10_seconds": 99.84943686748764,
   "count_of_live_services_and_organisations": {
     "organisations": 1778,
-    "services": 11427
+    "services": 11436
   },
-  "email_notifications": 6719488604,
-  "letter_notifications": 82530936,
-  "live_service_count": 11427,
+  "email_notifications": 6723727397,
+  "letter_notifications": 82598391,
+  "live_service_count": 11436,
   "notifications_by_type": [
-    {
-      "date": "2025-10-15",
-      "emails": 3247147,
-      "letters": 62326,
-      "sms": 6394864
-    },
     {
       "date": "2025-10-16",
       "emails": 3391390,
@@ -49,6 +43,12 @@
       "emails": 4648574,
       "letters": 60173,
       "sms": 4231135
+    },
+    {
+      "date": "2025-10-22",
+      "emails": 4238793,
+      "letters": 67455,
+      "sms": 4289924
     }
   ],
   "organisations_using_notify": [
@@ -369,7 +369,7 @@
       "organisation_name": "Barking & Dagenham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Barking & Dagenham London Borough Council"
     },
     {
@@ -913,7 +913,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 159,
+      "count_of_live_services": 160,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1597,7 +1597,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1709,7 +1709,7 @@
       "organisation_name": "Development Bank of Wales"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Devon and Somerset Fire and Rescue Service"
     },
     {
@@ -2529,7 +2529,7 @@
       "organisation_name": "Halton Borough Council"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Hammersmith and Fulham London Borough Council"
     },
     {
@@ -2869,7 +2869,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 672,
+      "count_of_live_services": 675,
       "organisation_name": "Home Office"
     },
     {
@@ -3473,7 +3473,7 @@
       "organisation_name": "Loreto Sixth Form College"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Lothian Valuation Joint Board"
     },
     {
@@ -7163,10 +7163,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-15",
-      "percentage_under_10_seconds": 99.99531559752047
-    },
-    {
       "date": "2025-10-16",
       "percentage_under_10_seconds": 99.99916934487464
     },
@@ -7189,8 +7185,12 @@
     {
       "date": "2025-10-21",
       "percentage_under_10_seconds": 99.65220677682527
+    },
+    {
+      "date": "2025-10-22",
+      "percentage_under_10_seconds": 99.63474550904394
     }
   ],
-  "sms_notifications": 4576510866,
-  "total_notifications": 11378530406
+  "sms_notifications": 4580800790,
+  "total_notifications": 11387126578
 }
