@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.84943686748764,
+  "average_percentage_under_10_seconds": 99.82528381040547,
   "count_of_live_services_and_organisations": {
-    "organisations": 1778,
-    "services": 11436
+    "organisations": 1779,
+    "services": 11442
   },
-  "email_notifications": 6723727397,
-  "letter_notifications": 82598391,
-  "live_service_count": 11436,
+  "email_notifications": 6727815739,
+  "letter_notifications": 82653357,
+  "live_service_count": 11442,
   "notifications_by_type": [
-    {
-      "date": "2025-10-16",
-      "emails": 3391390,
-      "letters": 53851,
-      "sms": 6041146
-    },
     {
       "date": "2025-10-17",
       "emails": 2857496,
@@ -49,6 +43,12 @@
       "emails": 4238793,
       "letters": 67455,
       "sms": 4289924
+    },
+    {
+      "date": "2025-10-23",
+      "emails": 4088342,
+      "letters": 54966,
+      "sms": 3578088
     }
   ],
   "organisations_using_notify": [
@@ -913,7 +913,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 160,
+      "count_of_live_services": 161,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1597,7 +1597,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -2547,6 +2547,10 @@
     {
       "count_of_live_services": 8,
       "organisation_name": "Hampshire Pension Services"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Hampstead School"
     },
     {
       "count_of_live_services": 3,
@@ -5241,7 +5245,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -5877,7 +5881,7 @@
       "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -5913,7 +5917,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 46,
+      "count_of_live_services": 47,
       "organisation_name": "Swansea Council"
     },
     {
@@ -7163,10 +7167,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-16",
-      "percentage_under_10_seconds": 99.99916934487464
-    },
-    {
       "date": "2025-10-17",
       "percentage_under_10_seconds": 99.99581230174304
     },
@@ -7189,8 +7189,12 @@
     {
       "date": "2025-10-22",
       "percentage_under_10_seconds": 99.63474550904394
+    },
+    {
+      "date": "2025-10-23",
+      "percentage_under_10_seconds": 99.83009794529944
     }
   ],
-  "sms_notifications": 4580800790,
-  "total_notifications": 11387126578
+  "sms_notifications": 4584378878,
+  "total_notifications": 11394847974
 }
