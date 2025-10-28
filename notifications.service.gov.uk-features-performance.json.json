@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.82465065585272,
+  "average_percentage_under_10_seconds": 99.86029641006076,
   "count_of_live_services_and_organisations": {
-    "organisations": 1779,
-    "services": 11452
+    "organisations": 1780,
+    "services": 11457
   },
-  "email_notifications": 6733668642,
-  "letter_notifications": 82725455,
-  "live_service_count": 11452,
+  "email_notifications": 6736976379,
+  "letter_notifications": 82785633,
+  "live_service_count": 11457,
   "notifications_by_type": [
-    {
-      "date": "2025-10-20",
-      "emails": 3143880,
-      "letters": 65132,
-      "sms": 4109143
-    },
     {
       "date": "2025-10-21",
       "emails": 4648574,
@@ -49,6 +43,12 @@
       "emails": 1135668,
       "letters": 5805,
       "sms": 1304820
+    },
+    {
+      "date": "2025-10-27",
+      "emails": 3307737,
+      "letters": 60178,
+      "sms": 3743342
     }
   ],
   "organisations_using_notify": [
@@ -685,7 +685,7 @@
       "organisation_name": "Bournemouth Borough Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
@@ -2025,7 +2025,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 58,
+      "count_of_live_services": 59,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 676,
+      "count_of_live_services": 677,
       "organisation_name": "Home Office"
     },
     {
@@ -3585,7 +3585,11 @@
       "organisation_name": "Malvern Hills District Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 1,
+      "organisation_name": "Manchester Active"
+    },
+    {
+      "count_of_live_services": 15,
       "organisation_name": "Manchester City Council"
     },
     {
@@ -7167,10 +7171,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-20",
-      "percentage_under_10_seconds": 99.66570135380847
-    },
-    {
       "date": "2025-10-21",
       "percentage_under_10_seconds": 99.65220677682527
     },
@@ -7193,8 +7193,12 @@
     {
       "date": "2025-10-26",
       "percentage_under_10_seconds": 99.99965721655558
+    },
+    {
+      "date": "2025-10-27",
+      "percentage_under_10_seconds": 99.91522163326464
     }
   ],
-  "sms_notifications": 4589702040,
-  "total_notifications": 11406096137
+  "sms_notifications": 4593445382,
+  "total_notifications": 11413207394
 }
