@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.86029641006076,
+  "average_percentage_under_10_seconds": 99.81581856171584,
   "count_of_live_services_and_organisations": {
     "organisations": 1780,
-    "services": 11457
+    "services": 11467
   },
-  "email_notifications": 6736976379,
-  "letter_notifications": 82785633,
-  "live_service_count": 11457,
+  "email_notifications": 6741087389,
+  "letter_notifications": 82841614,
+  "live_service_count": 11467,
   "notifications_by_type": [
-    {
-      "date": "2025-10-21",
-      "emails": 4648574,
-      "letters": 60173,
-      "sms": 4231135
-    },
     {
       "date": "2025-10-22",
       "emails": 4238793,
@@ -49,6 +43,12 @@
       "emails": 3307737,
       "letters": 60178,
       "sms": 3743342
+    },
+    {
+      "date": "2025-10-28",
+      "emails": 4111010,
+      "letters": 55981,
+      "sms": 3909084
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Buckinghamshire Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Buckinghamshire Healthcare NHS Trust"
     },
     {
@@ -1613,7 +1613,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 183,
+      "count_of_live_services": 184,
       "organisation_name": "Department for Education"
     },
     {
@@ -1793,7 +1793,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 677,
+      "count_of_live_services": 678,
       "organisation_name": "Home Office"
     },
     {
@@ -3261,7 +3261,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 67,
+      "count_of_live_services": 68,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Met Office"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Metropolitan Police"
     },
     {
@@ -3817,7 +3817,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1015,
+      "count_of_live_services": 1016,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4133,7 +4133,7 @@
       "organisation_name": "Noel-Baler Academy"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -6185,7 +6185,7 @@
       "organisation_name": "The Hurst School"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "The Improvement Service"
     },
     {
@@ -6321,7 +6321,7 @@
       "organisation_name": "The Thomas Aveling School"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "The Valuation Office Agency"
     },
     {
@@ -7171,10 +7171,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-21",
-      "percentage_under_10_seconds": 99.65220677682527
-    },
-    {
       "date": "2025-10-22",
       "percentage_under_10_seconds": 99.63474550904394
     },
@@ -7197,8 +7193,12 @@
     {
       "date": "2025-10-27",
       "percentage_under_10_seconds": 99.91522163326464
+    },
+    {
+      "date": "2025-10-28",
+      "percentage_under_10_seconds": 99.34086183841096
     }
   ],
-  "sms_notifications": 4593445382,
-  "total_notifications": 11413207394
+  "sms_notifications": 4597354466,
+  "total_notifications": 11421283469
 }
