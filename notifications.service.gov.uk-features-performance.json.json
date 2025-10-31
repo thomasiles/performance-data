@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.85679038789897,
+  "average_percentage_under_10_seconds": 99.88044213004103,
   "count_of_live_services_and_organisations": {
-    "organisations": 1780,
-    "services": 11475
+    "organisations": 1781,
+    "services": 11485
   },
-  "email_notifications": 6744586257,
-  "letter_notifications": 82887926,
-  "live_service_count": 11475,
+  "email_notifications": 6748308242,
+  "letter_notifications": 82958725,
+  "live_service_count": 11485,
   "notifications_by_type": [
-    {
-      "date": "2025-10-23",
-      "emails": 4088342,
-      "letters": 54966,
-      "sms": 3578088
-    },
     {
       "date": "2025-10-24",
       "emails": 3101209,
@@ -49,6 +43,12 @@
       "emails": 3498868,
       "letters": 46312,
       "sms": 4776292
+    },
+    {
+      "date": "2025-10-30",
+      "emails": 3721985,
+      "letters": 70799,
+      "sms": 3398676
     }
   ],
   "organisations_using_notify": [
@@ -605,7 +605,7 @@
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Blackpool Council"
     },
     {
@@ -977,7 +977,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Camden Council"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 678,
+      "count_of_live_services": 679,
       "organisation_name": "Home Office"
     },
     {
@@ -3395,6 +3395,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Lincolnshire Fire and Rescue"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Lincolnshire Police"
     },
     {
       "count_of_live_services": 1,
@@ -4981,7 +4985,7 @@
       "organisation_name": "Royal Berkshire NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
@@ -5761,7 +5765,7 @@
       "organisation_name": "Stafford Junior School"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Staffordshire County Council"
     },
     {
@@ -6477,7 +6481,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 70,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -6545,7 +6549,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6901,7 +6905,7 @@
       "organisation_name": "West Yorkshire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "West Yorkshire Police"
     },
     {
@@ -7171,10 +7175,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-23",
-      "percentage_under_10_seconds": 99.83009794529944
-    },
-    {
       "date": "2025-10-24",
       "percentage_under_10_seconds": 99.99108524320665
     },
@@ -7197,8 +7197,12 @@
     {
       "date": "2025-10-29",
       "percentage_under_10_seconds": 99.9215482923258
+    },
+    {
+      "date": "2025-10-30",
+      "percentage_under_10_seconds": 99.99566014029391
     }
   ],
-  "sms_notifications": 4602130758,
-  "total_notifications": 11429604941
+  "sms_notifications": 4605529434,
+  "total_notifications": 11436796401
 }
