@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.881372669111,
+  "average_percentage_under_10_seconds": 99.83790266636548,
   "count_of_live_services_and_organisations": {
-    "organisations": 1781,
-    "services": 11488
+    "organisations": 1782,
+    "services": 11502
   },
-  "email_notifications": 6754787461,
-  "letter_notifications": 83060342,
-  "live_service_count": 11488,
+  "email_notifications": 6758798435,
+  "letter_notifications": 83134066,
+  "live_service_count": 11502,
   "notifications_by_type": [
-    {
-      "date": "2025-10-27",
-      "emails": 3307737,
-      "letters": 60178,
-      "sms": 3743342
-    },
     {
       "date": "2025-10-28",
       "emails": 4111010,
@@ -49,6 +43,12 @@
       "emails": 1322639,
       "letters": 4763,
       "sms": 1345262
+    },
+    {
+      "date": "2025-11-03",
+      "emails": 4010974,
+      "letters": 73724,
+      "sms": 4045624
     }
   ],
   "organisations_using_notify": [
@@ -1237,7 +1237,7 @@
       "organisation_name": "City Health Care Partnership"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
@@ -1645,7 +1645,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 108,
+      "count_of_live_services": 109,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -3329,7 +3329,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -3545,7 +3545,7 @@
       "organisation_name": "Luton and Dunstable University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Luton Council"
     },
     {
@@ -3821,7 +3821,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1017,
+      "count_of_live_services": 1021,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3969,7 +3969,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4049,7 +4049,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 77,
       "organisation_name": "NHS England"
     },
     {
@@ -4985,7 +4985,7 @@
       "organisation_name": "Royal Berkshire NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
@@ -5765,7 +5765,7 @@
       "organisation_name": "Stafford Junior School"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Staffordshire County Council"
     },
     {
@@ -6305,6 +6305,10 @@
       "organisation_name": "The Robert Napier School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "The Rotherham NHS Foundation Trust"
+    },
+    {
       "count_of_live_services": 7,
       "organisation_name": "The Royal Borough of Windsor and Maidenhead"
     },
@@ -6549,7 +6553,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7175,10 +7179,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-27",
-      "percentage_under_10_seconds": 99.91522163326464
-    },
-    {
       "date": "2025-10-28",
       "percentage_under_10_seconds": 99.34086183841096
     },
@@ -7201,8 +7201,12 @@
     {
       "date": "2025-11-02",
       "percentage_under_10_seconds": 99.99781636763475
+    },
+    {
+      "date": "2025-11-03",
+      "percentage_under_10_seconds": 99.61093161404602
     }
   ],
-  "sms_notifications": 4610639529,
-  "total_notifications": 11448487332
+  "sms_notifications": 4614685153,
+  "total_notifications": 11456617654
 }
