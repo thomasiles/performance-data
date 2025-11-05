@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.83790266636548,
+  "average_percentage_under_10_seconds": 99.9010150409303,
   "count_of_live_services_and_organisations": {
     "organisations": 1782,
-    "services": 11502
+    "services": 11511
   },
-  "email_notifications": 6758798435,
-  "letter_notifications": 83134066,
-  "live_service_count": 11502,
+  "email_notifications": 6763097478,
+  "letter_notifications": 83191244,
+  "live_service_count": 11511,
   "notifications_by_type": [
-    {
-      "date": "2025-10-28",
-      "emails": 4111010,
-      "letters": 55981,
-      "sms": 3909084
-    },
     {
       "date": "2025-10-29",
       "emails": 3498868,
@@ -49,6 +43,12 @@
       "emails": 4010974,
       "letters": 73724,
       "sms": 4045624
+    },
+    {
+      "date": "2025-11-04",
+      "emails": 4299043,
+      "letters": 57178,
+      "sms": 4813881
     }
   ],
   "organisations_using_notify": [
@@ -1241,7 +1241,7 @@
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "City of Edinburgh Council"
     },
     {
@@ -1581,7 +1581,7 @@
       "organisation_name": "Debenham Group Practice"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Denbighshire County Council"
     },
     {
@@ -1637,7 +1637,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 58,
+      "count_of_live_services": 59,
       "organisation_name": "Department for Transport"
     },
     {
@@ -1645,7 +1645,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 109,
+      "count_of_live_services": 110,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1793,7 +1793,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -1917,11 +1917,11 @@
       "organisation_name": "East Surrey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 21,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -2029,7 +2029,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 120,
+      "count_of_live_services": 121,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 679,
+      "count_of_live_services": 678,
       "organisation_name": "Home Office"
     },
     {
@@ -3821,7 +3821,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1021,
+      "count_of_live_services": 1024,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4413,7 +4413,7 @@
       "organisation_name": "Ofgem"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Ofqual"
     },
     {
@@ -5925,7 +5925,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Swansea Council"
     },
     {
@@ -6589,7 +6589,7 @@
       "organisation_name": "Uxbridge High School"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Vale of Glamorgan Council"
     },
     {
@@ -6773,7 +6773,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7179,10 +7179,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-28",
-      "percentage_under_10_seconds": 99.34086183841096
-    },
-    {
       "date": "2025-10-29",
       "percentage_under_10_seconds": 99.9215482923258
     },
@@ -7205,8 +7201,12 @@
     {
       "date": "2025-11-03",
       "percentage_under_10_seconds": 99.61093161404602
+    },
+    {
+      "date": "2025-11-04",
+      "percentage_under_10_seconds": 99.78264846036471
     }
   ],
-  "sms_notifications": 4614685153,
-  "total_notifications": 11456617654
+  "sms_notifications": 4619499034,
+  "total_notifications": 11465787756
 }
