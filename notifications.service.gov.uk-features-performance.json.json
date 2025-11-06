@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9010150409303,
+  "average_percentage_under_10_seconds": 99.67450849443546,
   "count_of_live_services_and_organisations": {
     "organisations": 1782,
-    "services": 11511
+    "services": 11521
   },
-  "email_notifications": 6763097478,
-  "letter_notifications": 83191244,
-  "live_service_count": 11511,
+  "email_notifications": 6767386119,
+  "letter_notifications": 83253834,
+  "live_service_count": 11521,
   "notifications_by_type": [
-    {
-      "date": "2025-10-29",
-      "emails": 3498868,
-      "letters": 46312,
-      "sms": 4776292
-    },
     {
       "date": "2025-10-30",
       "emails": 3721985,
@@ -49,6 +43,12 @@
       "emails": 4299043,
       "letters": 57178,
       "sms": 4813881
+    },
+    {
+      "date": "2025-11-05",
+      "emails": 4288641,
+      "letters": 62590,
+      "sms": 7279377
     }
   ],
   "organisations_using_notify": [
@@ -777,7 +777,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1613,11 +1613,11 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 184,
+      "count_of_live_services": 185,
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -2677,7 +2677,7 @@
       "organisation_name": "Health and Safety Executive Northern Ireland"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 10,
       "organisation_name": "Health and Social Care in Northern Ireland"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 678,
+      "count_of_live_services": 681,
       "organisation_name": "Home Office"
     },
     {
@@ -2957,7 +2957,7 @@
       "organisation_name": "Hyde Primary Care Network"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Hyndburn Borough Council"
     },
     {
@@ -3357,7 +3357,7 @@
       "organisation_name": "Leicester City Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Leicestershire County Council"
     },
     {
@@ -3821,7 +3821,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1024,
+      "count_of_live_services": 1025,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3969,7 +3969,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4137,7 +4137,7 @@
       "organisation_name": "Noel-Baler Academy"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -7179,10 +7179,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-10-29",
-      "percentage_under_10_seconds": 99.9215482923258
-    },
-    {
       "date": "2025-10-30",
       "percentage_under_10_seconds": 99.99566014029391
     },
@@ -7205,8 +7201,12 @@
     {
       "date": "2025-11-04",
       "percentage_under_10_seconds": 99.78264846036471
+    },
+    {
+      "date": "2025-11-05",
+      "percentage_under_10_seconds": 98.33600246686187
     }
   ],
-  "sms_notifications": 4619499034,
-  "total_notifications": 11465787756
+  "sms_notifications": 4626778411,
+  "total_notifications": 11477418364
 }
