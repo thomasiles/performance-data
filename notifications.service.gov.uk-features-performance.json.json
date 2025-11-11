@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.67398141758996,
+  "average_percentage_under_10_seconds": 99.72737117966831,
   "count_of_live_services_and_organisations": {
-    "organisations": 1782,
-    "services": 11531
+    "organisations": 1783,
+    "services": 11538
   },
-  "email_notifications": 6777689985,
-  "letter_notifications": 83367788,
-  "live_service_count": 11531,
+  "email_notifications": 6781312713,
+  "letter_notifications": 83434332,
+  "live_service_count": 11538,
   "notifications_by_type": [
-    {
-      "date": "2025-11-03",
-      "emails": 4010974,
-      "letters": 73724,
-      "sms": 4045624
-    },
     {
       "date": "2025-11-04",
       "emails": 4299043,
@@ -49,6 +43,12 @@
       "emails": 1182703,
       "letters": 4718,
       "sms": 1346219
+    },
+    {
+      "date": "2025-11-10",
+      "emails": 3622728,
+      "letters": 66544,
+      "sms": 4095972
     }
   ],
   "organisations_using_notify": [
@@ -509,7 +509,7 @@
       "organisation_name": "BePart Educational Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Berkshire College of Agriculture"
     },
     {
@@ -701,7 +701,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 77,
+      "count_of_live_services": 78,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1377,7 +1377,7 @@
       "organisation_name": "Conway Medical Centre"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Conwy County Borough Council"
     },
     {
@@ -1773,7 +1773,7 @@
       "organisation_name": "Dr Solway & Dr Roy Practice"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Driver & Vehicle Licensing Agency"
     },
     {
@@ -4381,7 +4381,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 62,
+      "count_of_live_services": 63,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -5557,7 +5557,7 @@
       "organisation_name": "Southern Regional College"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Southwark Council"
     },
     {
@@ -6613,6 +6613,10 @@
       "organisation_name": "Vandyke Upper School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Vehicle Certification Agency"
+    },
+    {
       "count_of_live_services": 6,
       "organisation_name": "Velindre University NHS Trust"
     },
@@ -7179,10 +7183,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-03",
-      "percentage_under_10_seconds": 99.61093161404602
-    },
-    {
       "date": "2025-11-04",
       "percentage_under_10_seconds": 99.78264846036471
     },
@@ -7205,8 +7205,12 @@
     {
       "date": "2025-11-09",
       "percentage_under_10_seconds": 99.99979463538334
+    },
+    {
+      "date": "2025-11-10",
+      "percentage_under_10_seconds": 99.98465994859451
     }
   ],
-  "sms_notifications": 4637967603,
-  "total_notifications": 11499025376
+  "sms_notifications": 4642063575,
+  "total_notifications": 11506810620
 }
