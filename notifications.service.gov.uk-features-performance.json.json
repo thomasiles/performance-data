@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.75290967466962,
+  "average_percentage_under_10_seconds": 99.9718319496193,
   "count_of_live_services_and_organisations": {
     "organisations": 1784,
-    "services": 11543
+    "services": 11562
   },
-  "email_notifications": 6786316534,
-  "letter_notifications": 83484469,
-  "live_service_count": 11543,
+  "email_notifications": 6791099126,
+  "letter_notifications": 83539691,
+  "live_service_count": 11562,
   "notifications_by_type": [
-    {
-      "date": "2025-11-05",
-      "emails": 4288641,
-      "letters": 62590,
-      "sms": 7279377
-    },
     {
       "date": "2025-11-06",
       "emails": 3943684,
@@ -49,6 +43,12 @@
       "emails": 5003821,
       "letters": 50137,
       "sms": 3978428
+    },
+    {
+      "date": "2025-11-12",
+      "emails": 4782592,
+      "letters": 55222,
+      "sms": 4109615
     }
   ],
   "organisations_using_notify": [
@@ -905,7 +905,7 @@
       "organisation_name": "Burton and South Derbyshire College"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Bury Metropolitan Borough Council"
     },
     {
@@ -917,7 +917,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 163,
+      "count_of_live_services": 164,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -957,7 +957,7 @@
       "organisation_name": "Cambridge Regional College"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Cambridge University Hospitals NHS Foundation Trust"
     },
     {
@@ -1197,7 +1197,7 @@
       "organisation_name": "Chorley Astley Park School"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Chorley Borough Council"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 185,
+      "count_of_live_services": 186,
       "organisation_name": "Department for Education"
     },
     {
@@ -1797,7 +1797,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -1833,7 +1833,7 @@
       "organisation_name": "Ealing Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Ealing Council"
     },
     {
@@ -3265,7 +3265,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3425,7 +3425,7 @@
       "organisation_name": "Liverpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Liverpool Heart and Chest NHS Foundation Trust"
     },
     {
@@ -3825,7 +3825,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1026,
+      "count_of_live_services": 1028,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3973,7 +3973,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4209,7 +4209,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4385,7 +4385,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -4961,7 +4961,7 @@
       "organisation_name": "Roslea Surgery"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Rossendale Borough Council"
     },
     {
@@ -6489,7 +6489,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 70,
+      "count_of_live_services": 71,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -6713,7 +6713,7 @@
       "organisation_name": "Warwick District Council"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Warwickshire County Council"
     },
     {
@@ -6857,7 +6857,7 @@
       "organisation_name": "West London Waste Authority"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "West Lothian Council"
     },
     {
@@ -6925,7 +6925,7 @@
       "organisation_name": "Westcountry Schools Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Western Health and Social Care Trust"
     },
     {
@@ -7187,10 +7187,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-05",
-      "percentage_under_10_seconds": 98.33600246686187
-    },
-    {
       "date": "2025-11-06",
       "percentage_under_10_seconds": 99.99654307791151
     },
@@ -7213,8 +7209,12 @@
     {
       "date": "2025-11-11",
       "percentage_under_10_seconds": 99.96141792537385
+    },
+    {
+      "date": "2025-11-12",
+      "percentage_under_10_seconds": 99.86845839150966
     }
   ],
-  "sms_notifications": 4646042003,
-  "total_notifications": 11515843006
+  "sms_notifications": 4650151618,
+  "total_notifications": 11524790435
 }
