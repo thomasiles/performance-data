@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97192006257201,
+  "average_percentage_under_10_seconds": 99.97241863854299,
   "count_of_live_services_and_organisations": {
     "organisations": 1785,
-    "services": 11566
+    "services": 11574
   },
-  "email_notifications": 6795155503,
-  "letter_notifications": 83589746,
-  "live_service_count": 11566,
+  "email_notifications": 6798912697,
+  "letter_notifications": 83631416,
+  "live_service_count": 11574,
   "notifications_by_type": [
-    {
-      "date": "2025-11-07",
-      "emails": 3437958,
-      "letters": 50706,
-      "sms": 2937087
-    },
     {
       "date": "2025-11-08",
       "emails": 1739521,
@@ -49,6 +43,12 @@
       "emails": 4056377,
       "letters": 50055,
       "sms": 3482253
+    },
+    {
+      "date": "2025-11-14",
+      "emails": 3757194,
+      "letters": 41670,
+      "sms": 2999622
     }
   ],
   "organisations_using_notify": [
@@ -95,6 +95,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Acorn Medical Practice"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Activate Learning"
     },
     {
       "count_of_live_services": 1,
@@ -981,7 +985,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Camden Council"
     },
     {
@@ -1669,7 +1673,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -2053,7 +2057,7 @@
       "organisation_name": "Erasmus Darwin Academy"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Erewash Borough Council"
     },
     {
@@ -2223,10 +2227,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Frimley Health NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Frizinghall Medical Centre Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -2825,7 +2825,7 @@
       "organisation_name": "Hitchin Boys' School"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 42,
       "organisation_name": "HM Courts & Tribunals Service"
     },
     {
@@ -2881,7 +2881,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 682,
+      "count_of_live_services": 683,
       "organisation_name": "Home Office"
     },
     {
@@ -3445,7 +3445,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "London Borough of Hillingdon"
     },
     {
@@ -3837,7 +3837,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 366,
+      "count_of_live_services": 365,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3977,7 +3977,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4301,7 +4301,7 @@
       "organisation_name": "Northern Ireland Local Government Officers' Superannuation Committee (NILGOSC)"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Northern Ireland Office"
     },
     {
@@ -4517,7 +4517,7 @@
       "organisation_name": "Ousedale School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Oxford City Council"
     },
     {
@@ -7191,10 +7191,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-07",
-      "percentage_under_10_seconds": 99.99293571815177
-    },
-    {
       "date": "2025-11-08",
       "percentage_under_10_seconds": 99.99901395041047
     },
@@ -7217,8 +7213,12 @@
     {
       "date": "2025-11-13",
       "percentage_under_10_seconds": 99.99715986858048
+    },
+    {
+      "date": "2025-11-14",
+      "percentage_under_10_seconds": 99.99642574994863
     }
   ],
-  "sms_notifications": 4653633871,
-  "total_notifications": 11532379120
+  "sms_notifications": 4656633493,
+  "total_notifications": 11539177606
 }
