@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97242430518322,
+  "average_percentage_under_10_seconds": 99.97342664244589,
   "count_of_live_services_and_organisations": {
-    "organisations": 1785,
-    "services": 11574
+    "organisations": 1786,
+    "services": 11580
   },
-  "email_notifications": 6801880088,
-  "letter_notifications": 83654025,
-  "live_service_count": 11574,
+  "email_notifications": 6805445945,
+  "letter_notifications": 83715931,
+  "live_service_count": 11580,
   "notifications_by_type": [
-    {
-      "date": "2025-11-10",
-      "emails": 3622728,
-      "letters": 66544,
-      "sms": 4095972
-    },
     {
       "date": "2025-11-11",
       "emails": 5003821,
@@ -49,6 +43,12 @@
       "emails": 1201703,
       "letters": 16818,
       "sms": 1367267
+    },
+    {
+      "date": "2025-11-17",
+      "emails": 3565857,
+      "letters": 61906,
+      "sms": 3946473
     }
   ],
   "organisations_using_notify": [
@@ -1673,7 +1673,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -1773,7 +1773,7 @@
       "organisation_name": "Dorset Healthcare University NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Dover District Council"
     },
     {
@@ -3150,6 +3150,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "King Edward VI Education Trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "King Edward VI Handsworth Wood Girls Academy"
     },
     {
@@ -3365,7 +3369,7 @@
       "organisation_name": "Leicester City Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Leicestershire County Council"
     },
     {
@@ -4749,7 +4753,7 @@
       "organisation_name": "Public Health Scotland"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Public Prosecution Service for Northern Ireland"
     },
     {
@@ -6785,7 +6789,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 51,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7191,10 +7195,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-10",
-      "percentage_under_10_seconds": 99.98465994859451
-    },
-    {
       "date": "2025-11-11",
       "percentage_under_10_seconds": 99.96141792537385
     },
@@ -7217,8 +7217,12 @@
     {
       "date": "2025-11-16",
       "percentage_under_10_seconds": 99.99975642015575
+    },
+    {
+      "date": "2025-11-17",
+      "percentage_under_10_seconds": 99.99167630943312
     }
   ],
-  "sms_notifications": 4659136803,
-  "total_notifications": 11544670916
+  "sms_notifications": 4663083276,
+  "total_notifications": 11552245152
 }
