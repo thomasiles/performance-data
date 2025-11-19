@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97342664244589,
+  "average_percentage_under_10_seconds": 99.97533342923526,
   "count_of_live_services_and_organisations": {
     "organisations": 1786,
-    "services": 11580
+    "services": 11591
   },
-  "email_notifications": 6805445945,
-  "letter_notifications": 83715931,
-  "live_service_count": 11580,
+  "email_notifications": 6809411254,
+  "letter_notifications": 83771398,
+  "live_service_count": 11591,
   "notifications_by_type": [
-    {
-      "date": "2025-11-11",
-      "emails": 5003821,
-      "letters": 50137,
-      "sms": 3978428
-    },
     {
       "date": "2025-11-12",
       "emails": 4782592,
@@ -49,6 +43,12 @@
       "emails": 3565857,
       "letters": 61906,
       "sms": 3946473
+    },
+    {
+      "date": "2025-11-18",
+      "emails": 3965309,
+      "letters": 55467,
+      "sms": 3770947
     }
   ],
   "organisations_using_notify": [
@@ -585,7 +585,7 @@
       "organisation_name": "Bishop Stopford School"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Blaby District Council"
     },
     {
@@ -1181,7 +1181,7 @@
       "organisation_name": "Chesterfield Royal Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Chichester District Council"
     },
     {
@@ -1633,7 +1633,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -3097,7 +3097,7 @@
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
@@ -3281,7 +3281,7 @@
       "organisation_name": "Lancashire Constabulary"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Lancashire County Council"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1028,
+      "count_of_live_services": 1029,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4037,7 +4037,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -5561,7 +5561,7 @@
       "organisation_name": "Southend-on-Sea City Council"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 54,
       "organisation_name": "Southern Health and Social Care Trust"
     },
     {
@@ -6497,7 +6497,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -6565,7 +6565,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 32,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7195,10 +7195,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-11",
-      "percentage_under_10_seconds": 99.96141792537385
-    },
-    {
       "date": "2025-11-12",
       "percentage_under_10_seconds": 99.86845839150966
     },
@@ -7221,8 +7217,12 @@
     {
       "date": "2025-11-17",
       "percentage_under_10_seconds": 99.99167630943312
+    },
+    {
+      "date": "2025-11-18",
+      "percentage_under_10_seconds": 99.9747654328995
     }
   ],
-  "sms_notifications": 4663083276,
-  "total_notifications": 11552245152
+  "sms_notifications": 4666854223,
+  "total_notifications": 11560036875
 }
