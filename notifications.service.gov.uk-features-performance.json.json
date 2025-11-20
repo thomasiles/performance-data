@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97533342923526,
+  "average_percentage_under_10_seconds": 99.99354940218437,
   "count_of_live_services_and_organisations": {
-    "organisations": 1786,
-    "services": 11591
+    "organisations": 1787,
+    "services": 11603
   },
-  "email_notifications": 6809411254,
-  "letter_notifications": 83771398,
-  "live_service_count": 11591,
+  "email_notifications": 6813884761,
+  "letter_notifications": 83832021,
+  "live_service_count": 11603,
   "notifications_by_type": [
-    {
-      "date": "2025-11-12",
-      "emails": 4782592,
-      "letters": 55222,
-      "sms": 4109615
-    },
     {
       "date": "2025-11-13",
       "emails": 4056377,
@@ -49,6 +43,12 @@
       "emails": 3965309,
       "letters": 55467,
       "sms": 3770947
+    },
+    {
+      "date": "2025-11-19",
+      "emails": 4473507,
+      "letters": 60623,
+      "sms": 3567645
     }
   ],
   "organisations_using_notify": [
@@ -307,6 +307,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Ashfield District Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ashfield Medical Centre"
     },
     {
       "count_of_live_services": 1,
@@ -1629,7 +1633,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -1649,7 +1653,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "Department for Transport"
     },
     {
@@ -3281,7 +3285,7 @@
       "organisation_name": "Lancashire Constabulary"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Lancashire County Council"
     },
     {
@@ -3369,7 +3373,7 @@
       "organisation_name": "Leicester City Council"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Leicestershire County Council"
     },
     {
@@ -3385,7 +3389,7 @@
       "organisation_name": "Levenshulme High School"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Lewisham Council"
     },
     {
@@ -3653,7 +3657,7 @@
       "organisation_name": "Marine Management Organisation"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Maritime & Coastguard Agency"
     },
     {
@@ -3833,7 +3837,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1029,
+      "count_of_live_services": 1030,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4061,7 +4065,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "NHS England"
     },
     {
@@ -6601,7 +6605,7 @@
       "organisation_name": "Uxbridge High School"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Vale of Glamorgan Council"
     },
     {
@@ -6813,7 +6817,7 @@
       "organisation_name": "Wesham Pharmacy"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "West Berkshire Council"
     },
     {
@@ -6953,7 +6957,7 @@
       "organisation_name": "Westminster Drug Project"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Westmorland and Furness Council"
     },
     {
@@ -7195,10 +7199,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-12",
-      "percentage_under_10_seconds": 99.86845839150966
-    },
-    {
       "date": "2025-11-13",
       "percentage_under_10_seconds": 99.99715986858048
     },
@@ -7221,8 +7221,12 @@
     {
       "date": "2025-11-18",
       "percentage_under_10_seconds": 99.9747654328995
+    },
+    {
+      "date": "2025-11-19",
+      "percentage_under_10_seconds": 99.99597020215343
     }
   ],
-  "sms_notifications": 4666854223,
-  "total_notifications": 11560036875
+  "sms_notifications": 4670421868,
+  "total_notifications": 11568138650
 }
