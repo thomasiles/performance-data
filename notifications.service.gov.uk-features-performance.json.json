@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99354940218437,
+  "average_percentage_under_10_seconds": 99.9938177075931,
   "count_of_live_services_and_organisations": {
     "organisations": 1787,
-    "services": 11603
+    "services": 11608
   },
-  "email_notifications": 6813884761,
-  "letter_notifications": 83832021,
-  "live_service_count": 11603,
+  "email_notifications": 6817500448,
+  "letter_notifications": 83884306,
+  "live_service_count": 11608,
   "notifications_by_type": [
-    {
-      "date": "2025-11-13",
-      "emails": 4056377,
-      "letters": 50055,
-      "sms": 3482253
-    },
     {
       "date": "2025-11-14",
       "emails": 3757194,
@@ -49,6 +43,12 @@
       "emails": 4473507,
       "letters": 60623,
       "sms": 3567645
+    },
+    {
+      "date": "2025-11-20",
+      "emails": 3615687,
+      "letters": 52285,
+      "sms": 3398566
     }
   ],
   "organisations_using_notify": [
@@ -1657,7 +1657,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 87,
+      "count_of_live_services": 88,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3013,7 +3013,7 @@
       "organisation_name": "Inspire Educational Group"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Intellectual Property Office"
     },
     {
@@ -3837,7 +3837,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1030,
+      "count_of_live_services": 1031,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3985,11 +3985,11 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Newcastle City Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Newcastle under Lyme Borough Council"
     },
     {
@@ -7199,10 +7199,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-13",
-      "percentage_under_10_seconds": 99.99715986858048
-    },
-    {
       "date": "2025-11-14",
       "percentage_under_10_seconds": 99.99642574994863
     },
@@ -7225,8 +7221,12 @@
     {
       "date": "2025-11-19",
       "percentage_under_10_seconds": 99.99597020215343
+    },
+    {
+      "date": "2025-11-20",
+      "percentage_under_10_seconds": 99.99903800644151
     }
   ],
-  "sms_notifications": 4670421868,
-  "total_notifications": 11568138650
+  "sms_notifications": 4673820434,
+  "total_notifications": 11575205188
 }
