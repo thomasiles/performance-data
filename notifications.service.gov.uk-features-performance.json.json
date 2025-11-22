@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9938177075931,
+  "average_percentage_under_10_seconds": 99.99347241439011,
   "count_of_live_services_and_organisations": {
-    "organisations": 1787,
-    "services": 11608
+    "organisations": 1788,
+    "services": 11616
   },
-  "email_notifications": 6817500448,
-  "letter_notifications": 83884306,
-  "live_service_count": 11608,
+  "email_notifications": 6820750969,
+  "letter_notifications": 84039488,
+  "live_service_count": 11616,
   "notifications_by_type": [
-    {
-      "date": "2025-11-14",
-      "emails": 3757194,
-      "letters": 41670,
-      "sms": 2999622
-    },
     {
       "date": "2025-11-15",
       "emails": 1765688,
@@ -49,6 +43,12 @@
       "emails": 3615687,
       "letters": 52285,
       "sms": 3398566
+    },
+    {
+      "date": "2025-11-21",
+      "emails": 3250521,
+      "letters": 155182,
+      "sms": 2737735
     }
   ],
   "organisations_using_notify": [
@@ -713,7 +713,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -925,7 +925,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 164,
+      "count_of_live_services": 165,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1161,7 +1161,7 @@
       "organisation_name": "Cheshire and Merseyside Integrated Care Board"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Cheshire East Council"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -3829,7 +3829,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -4275,6 +4275,10 @@
     {
       "count_of_live_services": 38,
       "organisation_name": "North Yorkshire County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "North Yorkshire Police"
     },
     {
       "count_of_live_services": 4,
@@ -6417,7 +6421,7 @@
       "organisation_name": "Torbay Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Torfaen County Borough Council"
     },
     {
@@ -6501,7 +6505,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 73,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -7199,10 +7203,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-14",
-      "percentage_under_10_seconds": 99.99642574994863
-    },
-    {
       "date": "2025-11-15",
       "percentage_under_10_seconds": 99.99909183211972
     },
@@ -7225,8 +7225,12 @@
     {
       "date": "2025-11-20",
       "percentage_under_10_seconds": 99.99903800644151
+    },
+    {
+      "date": "2025-11-21",
+      "percentage_under_10_seconds": 99.99400869752772
     }
   ],
-  "sms_notifications": 4673820434,
-  "total_notifications": 11575205188
+  "sms_notifications": 4676558169,
+  "total_notifications": 11581348626
 }
