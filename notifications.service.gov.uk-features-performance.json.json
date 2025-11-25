@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9934000255854,
+  "average_percentage_under_10_seconds": 99.99444321689064,
   "count_of_live_services_and_organisations": {
-    "organisations": 1788,
-    "services": 11616
+    "organisations": 1790,
+    "services": 11624
   },
-  "email_notifications": 6823502276,
-  "letter_notifications": 84056233,
-  "live_service_count": 11616,
+  "email_notifications": 6826889783,
+  "letter_notifications": 84133769,
+  "live_service_count": 11624,
   "notifications_by_type": [
-    {
-      "date": "2025-11-17",
-      "emails": 3565857,
-      "letters": 61906,
-      "sms": 3946473
-    },
     {
       "date": "2025-11-18",
       "emails": 3965309,
@@ -49,6 +43,12 @@
       "emails": 1097749,
       "letters": 4780,
       "sms": 1223542
+    },
+    {
+      "date": "2025-11-24",
+      "emails": 3387507,
+      "letters": 77536,
+      "sms": 3785288
     }
   ],
   "organisations_using_notify": [
@@ -1657,7 +1657,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 88,
+      "count_of_live_services": 89,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2885,7 +2885,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 683,
+      "count_of_live_services": 685,
       "organisation_name": "Home Office"
     },
     {
@@ -4229,7 +4229,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4333,7 +4333,7 @@
       "organisation_name": "Northfleet Technology College"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Northumberland County Council"
     },
     {
@@ -4371,6 +4371,10 @@
     {
       "count_of_live_services": 5,
       "organisation_name": "Nottinghamshire County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Nottinghamshire Healthcare NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -5321,7 +5325,7 @@
       "organisation_name": "Shivakem Pharmacy"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -6878,6 +6882,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "West Mercia Police"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "West Midlands Academy Trust"
     },
     {
@@ -7203,10 +7211,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-17",
-      "percentage_under_10_seconds": 99.99167630943312
-    },
-    {
       "date": "2025-11-18",
       "percentage_under_10_seconds": 99.9747654328995
     },
@@ -7229,8 +7233,12 @@
     {
       "date": "2025-11-23",
       "percentage_under_10_seconds": 99.9994604665885
+    },
+    {
+      "date": "2025-11-24",
+      "percentage_under_10_seconds": 99.99897864856977
     }
   ],
-  "sms_notifications": 4678763542,
-  "total_notifications": 11586322051
+  "sms_notifications": 4682548830,
+  "total_notifications": 11593572382
 }
