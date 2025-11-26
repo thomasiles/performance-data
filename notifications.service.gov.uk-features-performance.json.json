@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99444321689064,
+  "average_percentage_under_10_seconds": 99.99773415242706,
   "count_of_live_services_and_organisations": {
-    "organisations": 1790,
-    "services": 11624
+    "organisations": 1791,
+    "services": 11632
   },
-  "email_notifications": 6826889783,
-  "letter_notifications": 84133769,
-  "live_service_count": 11624,
+  "email_notifications": 6831059602,
+  "letter_notifications": 84188857,
+  "live_service_count": 11632,
   "notifications_by_type": [
-    {
-      "date": "2025-11-18",
-      "emails": 3965309,
-      "letters": 55467,
-      "sms": 3770947
-    },
     {
       "date": "2025-11-19",
       "emails": 4473507,
@@ -49,6 +43,12 @@
       "emails": 3387507,
       "letters": 77536,
       "sms": 3785288
+    },
+    {
+      "date": "2025-11-25",
+      "emails": 4169819,
+      "letters": 55088,
+      "sms": 4295174
     }
   ],
   "organisations_using_notify": [
@@ -1113,7 +1113,7 @@
       "organisation_name": "Central Scotland Electoral Registration Officer"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Centre for Environment, Fisheries and Aquaculture Science"
     },
     {
@@ -1765,7 +1765,7 @@
       "organisation_name": "Doncaster Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Dorset County Council"
     },
     {
@@ -2885,7 +2885,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 685,
+      "count_of_live_services": 687,
       "organisation_name": "Home Office"
     },
     {
@@ -3945,7 +3945,7 @@
       "organisation_name": "National Savings and Investments (NS&I)"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Natural Resources Wales"
     },
     {
@@ -5081,6 +5081,10 @@
       "organisation_name": "Rutland County Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Ryedale District Council"
     },
@@ -5781,7 +5785,7 @@
       "organisation_name": "St. Ursula's Humanities Convent School and Training School"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Stafford Borough Council"
     },
     {
@@ -6705,7 +6709,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -7211,10 +7215,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-18",
-      "percentage_under_10_seconds": 99.9747654328995
-    },
-    {
       "date": "2025-11-19",
       "percentage_under_10_seconds": 99.99597020215343
     },
@@ -7237,8 +7237,12 @@
     {
       "date": "2025-11-24",
       "percentage_under_10_seconds": 99.99897864856977
+    },
+    {
+      "date": "2025-11-25",
+      "percentage_under_10_seconds": 99.99780198165443
     }
   ],
-  "sms_notifications": 4682548830,
-  "total_notifications": 11593572382
+  "sms_notifications": 4686844004,
+  "total_notifications": 11602092463
 }
