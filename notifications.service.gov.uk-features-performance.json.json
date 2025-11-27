@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99773415242706,
+  "average_percentage_under_10_seconds": 99.99786939076024,
   "count_of_live_services_and_organisations": {
     "organisations": 1791,
-    "services": 11632
+    "services": 11641
   },
-  "email_notifications": 6831059602,
-  "letter_notifications": 84188857,
-  "live_service_count": 11632,
+  "email_notifications": 6834594193,
+  "letter_notifications": 84316057,
+  "live_service_count": 11641,
   "notifications_by_type": [
-    {
-      "date": "2025-11-19",
-      "emails": 4473507,
-      "letters": 60623,
-      "sms": 3567645
-    },
     {
       "date": "2025-11-20",
       "emails": 3615687,
@@ -49,6 +43,12 @@
       "emails": 4169819,
       "letters": 55088,
       "sms": 4295174
+    },
+    {
+      "date": "2025-11-26",
+      "emails": 3534591,
+      "letters": 127200,
+      "sms": 5234697
     }
   ],
   "organisations_using_notify": [
@@ -925,7 +925,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 165,
+      "count_of_live_services": 166,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1613,7 +1613,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -2605,7 +2605,7 @@
       "organisation_name": "Harrow Health CiC"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Harrow London Borough Council"
     },
     {
@@ -2999,10 +2999,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Infected Blood Inquiry"
-    },
-    {
-      "count_of_live_services": 4,
-      "organisation_name": "Infrastructure and Projects Authority"
     },
     {
       "count_of_live_services": 56,
@@ -3837,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1031,
+      "count_of_live_services": 1032,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3923,6 +3919,10 @@
     {
       "count_of_live_services": 14,
       "organisation_name": "National Highways"
+    },
+    {
+      "count_of_live_services": 5,
+      "organisation_name": "National Infrastructure and Service Transformation Authority"
     },
     {
       "count_of_live_services": 2,
@@ -4469,7 +4469,7 @@
       "organisation_name": "Oldham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Oldham Metropolitan Borough Council"
     },
     {
@@ -5009,7 +5009,7 @@
       "organisation_name": "Royal Berkshire NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
@@ -5881,7 +5881,7 @@
       "organisation_name": "Stroud Green Medical Centre"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Student Loans Company"
     },
     {
@@ -6553,7 +6553,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -7215,10 +7215,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-19",
-      "percentage_under_10_seconds": 99.99597020215343
-    },
-    {
       "date": "2025-11-20",
       "percentage_under_10_seconds": 99.99903800644151
     },
@@ -7241,8 +7237,12 @@
     {
       "date": "2025-11-25",
       "percentage_under_10_seconds": 99.99780198165443
+    },
+    {
+      "date": "2025-11-26",
+      "percentage_under_10_seconds": 99.9969168704857
     }
   ],
-  "sms_notifications": 4686844004,
-  "total_notifications": 11602092463
+  "sms_notifications": 4692078701,
+  "total_notifications": 11610988951
 }
