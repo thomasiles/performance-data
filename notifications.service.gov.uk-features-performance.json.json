@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99786939076024,
+  "average_percentage_under_10_seconds": 99.9976881468831,
   "count_of_live_services_and_organisations": {
-    "organisations": 1791,
-    "services": 11641
+    "organisations": 1792,
+    "services": 11654
   },
-  "email_notifications": 6834594193,
-  "letter_notifications": 84316057,
-  "live_service_count": 11641,
+  "email_notifications": 6838399801,
+  "letter_notifications": 84406501,
+  "live_service_count": 11654,
   "notifications_by_type": [
-    {
-      "date": "2025-11-20",
-      "emails": 3615687,
-      "letters": 52285,
-      "sms": 3398566
-    },
     {
       "date": "2025-11-21",
       "emails": 3250521,
@@ -49,6 +43,12 @@
       "emails": 3534591,
       "letters": 127200,
       "sms": 5234697
+    },
+    {
+      "date": "2025-11-27",
+      "emails": 3805608,
+      "letters": 90444,
+      "sms": 4122509
     }
   ],
   "organisations_using_notify": [
@@ -357,7 +357,7 @@
       "organisation_name": "Ayrshire Valuation Joint Board"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Babergh District Council"
     },
     {
@@ -989,7 +989,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Camden Council"
     },
     {
@@ -1661,7 +1661,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 110,
+      "count_of_live_services": 111,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1809,7 +1809,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2885,7 +2885,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 687,
+      "count_of_live_services": 688,
       "organisation_name": "Home Office"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1032,
+      "count_of_live_services": 1033,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3841,7 +3841,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 365,
+      "count_of_live_services": 366,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4153,7 +4153,7 @@
       "organisation_name": "Noel-Baler Academy"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 12,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -4161,7 +4161,7 @@
       "organisation_name": "Norfolk Community Health and Care NHS Trust"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Norfolk County Council"
     },
     {
@@ -4693,7 +4693,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -5917,7 +5917,7 @@
       "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6499,6 +6499,10 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "Tyne Coast College"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "UK Atomic Energy Authority"
     },
     {
       "count_of_live_services": 1,
@@ -7215,10 +7219,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-20",
-      "percentage_under_10_seconds": 99.99903800644151
-    },
-    {
       "date": "2025-11-21",
       "percentage_under_10_seconds": 99.99400869752772
     },
@@ -7241,8 +7241,12 @@
     {
       "date": "2025-11-26",
       "percentage_under_10_seconds": 99.9969168704857
+    },
+    {
+      "date": "2025-11-27",
+      "percentage_under_10_seconds": 99.99776929930154
     }
   ],
-  "sms_notifications": 4692078701,
-  "total_notifications": 11610988951
+  "sms_notifications": 4696201210,
+  "total_notifications": 11619007512
 }
