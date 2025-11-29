@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9976881468831,
+  "average_percentage_under_10_seconds": 99.99773231897272,
   "count_of_live_services_and_organisations": {
     "organisations": 1792,
-    "services": 11654
+    "services": 11658
   },
-  "email_notifications": 6838399801,
-  "letter_notifications": 84406501,
-  "live_service_count": 11654,
+  "email_notifications": 6841790401,
+  "letter_notifications": 84459540,
+  "live_service_count": 11658,
   "notifications_by_type": [
-    {
-      "date": "2025-11-21",
-      "emails": 3250521,
-      "letters": 155182,
-      "sms": 2737735
-    },
     {
       "date": "2025-11-22",
       "emails": 1653558,
@@ -49,6 +43,12 @@
       "emails": 3805608,
       "letters": 90444,
       "sms": 4122509
+    },
+    {
+      "date": "2025-11-28",
+      "emails": 3390600,
+      "letters": 53039,
+      "sms": 2739000
     }
   ],
   "organisations_using_notify": [
@@ -601,7 +601,7 @@
       "organisation_name": "Blackburn College"
     },
     {
-      "count_of_live_services": 60,
+      "count_of_live_services": 61,
       "organisation_name": "Blackburn with Darwen Borough Council"
     },
     {
@@ -713,7 +713,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 79,
+      "count_of_live_services": 80,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -925,7 +925,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 166,
+      "count_of_live_services": 167,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2885,7 +2885,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 688,
+      "count_of_live_services": 689,
       "organisation_name": "Home Office"
     },
     {
@@ -4213,7 +4213,7 @@
       "organisation_name": "North Hertfordshire District Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 4,
       "organisation_name": "North Kesteven District Council"
     },
     {
@@ -5853,7 +5853,7 @@
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Stoke-on-Trent City Council"
     },
     {
@@ -7219,10 +7219,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-21",
-      "percentage_under_10_seconds": 99.99400869752772
-    },
-    {
       "date": "2025-11-22",
       "percentage_under_10_seconds": 99.99888106405407
     },
@@ -7245,8 +7241,12 @@
     {
       "date": "2025-11-27",
       "percentage_under_10_seconds": 99.99776929930154
+    },
+    {
+      "date": "2025-11-28",
+      "percentage_under_10_seconds": 99.99431790215499
     }
   ],
-  "sms_notifications": 4696201210,
-  "total_notifications": 11619007512
+  "sms_notifications": 4698940210,
+  "total_notifications": 11625190151
 }
