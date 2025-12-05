@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99174295279501,
+  "average_percentage_under_10_seconds": 99.99025013528347,
   "count_of_live_services_and_organisations": {
-    "organisations": 1792,
-    "services": 11676
+    "organisations": 1793,
+    "services": 11682
   },
-  "email_notifications": 6856472720,
-  "letter_notifications": 84674329,
-  "live_service_count": 11676,
+  "email_notifications": 6861061271,
+  "letter_notifications": 84754562,
+  "live_service_count": 11682,
   "notifications_by_type": [
-    {
-      "date": "2025-11-27",
-      "emails": 3805608,
-      "letters": 90444,
-      "sms": 4122509
-    },
     {
       "date": "2025-11-28",
       "emails": 3390600,
@@ -49,6 +43,12 @@
       "emails": 4175532,
       "letters": 80951,
       "sms": 3904454
+    },
+    {
+      "date": "2025-12-04",
+      "emails": 4588551,
+      "letters": 80233,
+      "sms": 4111451
     }
   ],
   "organisations_using_notify": [
@@ -877,7 +877,7 @@
       "organisation_name": "Buckden & Little Paxton Surgeries"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Buckinghamshire Council"
     },
     {
@@ -1661,7 +1661,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 112,
+      "count_of_live_services": 110,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2181,7 +2181,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2589,7 +2589,7 @@
       "organisation_name": "Harlow District Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Harrogate and District NHS Foundation Trust"
     },
     {
@@ -3605,7 +3605,7 @@
       "organisation_name": "Manchester Active"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Manchester City Council"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1036,
+      "count_of_live_services": 1037,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4069,6 +4069,10 @@
       "organisation_name": "NHS England"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS Forth Valley"
+    },
+    {
       "count_of_live_services": 7,
       "organisation_name": "NHS Greater Glasgow and Clyde"
     },
@@ -4221,7 +4225,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 30,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4233,7 +4237,7 @@
       "organisation_name": "North Northamptonshire Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "North Somerset Council"
     },
     {
@@ -4693,7 +4697,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -6337,7 +6341,7 @@
       "organisation_name": "The Rotherham NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "The Royal Borough of Windsor and Maidenhead"
     },
     {
@@ -7219,10 +7223,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-11-27",
-      "percentage_under_10_seconds": 99.99776929930154
-    },
-    {
       "date": "2025-11-28",
       "percentage_under_10_seconds": 99.99431790215499
     },
@@ -7245,8 +7245,12 @@
     {
       "date": "2025-12-03",
       "percentage_under_10_seconds": 99.99772753713333
+    },
+    {
+      "date": "2025-12-04",
+      "percentage_under_10_seconds": 99.98731957672088
     }
   ],
-  "sms_notifications": 4712343330,
-  "total_notifications": 11653490379
+  "sms_notifications": 4716454781,
+  "total_notifications": 11662270614
 }
