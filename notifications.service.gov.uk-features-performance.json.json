@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99025013528347,
+  "average_percentage_under_10_seconds": 99.98815910019793,
   "count_of_live_services_and_organisations": {
-    "organisations": 1793,
-    "services": 11682
+    "organisations": 1794,
+    "services": 11691
   },
-  "email_notifications": 6861061271,
-  "letter_notifications": 84754562,
-  "live_service_count": 11682,
+  "email_notifications": 6865251038,
+  "letter_notifications": 84801495,
+  "live_service_count": 11691,
   "notifications_by_type": [
-    {
-      "date": "2025-11-28",
-      "emails": 3390600,
-      "letters": 53039,
-      "sms": 2739000
-    },
     {
       "date": "2025-11-29",
       "emails": 1627084,
@@ -49,6 +43,12 @@
       "emails": 4588551,
       "letters": 80233,
       "sms": 4111451
+    },
+    {
+      "date": "2025-12-05",
+      "emails": 4189767,
+      "letters": 46933,
+      "sms": 2760996
     }
   ],
   "organisations_using_notify": [
@@ -1113,7 +1113,7 @@
       "organisation_name": "Central Scotland Electoral Registration Officer"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Centre for Environment, Fisheries and Aquaculture Science"
     },
     {
@@ -1661,7 +1661,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 110,
+      "count_of_live_services": 109,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2885,7 +2885,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 689,
+      "count_of_live_services": 690,
       "organisation_name": "Home Office"
     },
     {
@@ -5013,7 +5013,7 @@
       "organisation_name": "Royal Berkshire NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
@@ -6401,7 +6401,7 @@
       "organisation_name": "Thrive Tribe Ltd"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Thurrock Council"
     },
     {
@@ -6589,7 +6589,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7137,7 +7137,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 23,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7218,14 +7218,14 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Ysgol Gymraeg Ystalyfera Bro Dur"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Zenith Multiacademy Trust"
     }
   ],
   "processing_time": [
-    {
-      "date": "2025-11-28",
-      "percentage_under_10_seconds": 99.99431790215499
-    },
     {
       "date": "2025-11-29",
       "percentage_under_10_seconds": 99.95516090187286
@@ -7249,8 +7249,12 @@
     {
       "date": "2025-12-04",
       "percentage_under_10_seconds": 99.98731957672088
+    },
+    {
+      "date": "2025-12-05",
+      "percentage_under_10_seconds": 99.97968065655613
     }
   ],
-  "sms_notifications": 4716454781,
-  "total_notifications": 11662270614
+  "sms_notifications": 4719215777,
+  "total_notifications": 11669268310
 }
