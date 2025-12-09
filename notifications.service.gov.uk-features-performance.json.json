@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99397038113605,
+  "average_percentage_under_10_seconds": 99.99367852472042,
   "count_of_live_services_and_organisations": {
     "organisations": 1794,
-    "services": 11691
+    "services": 11701
   },
-  "email_notifications": 6867966296,
-  "letter_notifications": 84827303,
-  "live_service_count": 11691,
+  "email_notifications": 6871384544,
+  "letter_notifications": 84868952,
+  "live_service_count": 11701,
   "notifications_by_type": [
-    {
-      "date": "2025-12-01",
-      "emails": 3721254,
-      "letters": 52879,
-      "sms": 3739680
-    },
     {
       "date": "2025-12-02",
       "emails": 3952210,
@@ -49,6 +43,12 @@
       "emails": 1090485,
       "letters": 13635,
       "sms": 1277116
+    },
+    {
+      "date": "2025-12-08",
+      "emails": 3418248,
+      "letters": 41649,
+      "sms": 3746503
     }
   ],
   "organisations_using_notify": [
@@ -925,7 +925,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 167,
+      "count_of_live_services": 168,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1653,7 +1653,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 60,
+      "count_of_live_services": 61,
       "organisation_name": "Department for Transport"
     },
     {
@@ -2045,7 +2045,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 121,
+      "count_of_live_services": 122,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1037,
+      "count_of_live_services": 1041,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4065,7 +4065,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 79,
+      "count_of_live_services": 80,
       "organisation_name": "NHS England"
     },
     {
@@ -7017,7 +7017,7 @@
       "organisation_name": "Wigan and Leigh College"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Wigan Council"
     },
     {
@@ -7137,7 +7137,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7227,10 +7227,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-01",
-      "percentage_under_10_seconds": 99.99909156381482
-    },
-    {
       "date": "2025-12-02",
       "percentage_under_10_seconds": 99.99843089110949
     },
@@ -7253,8 +7249,12 @@
     {
       "date": "2025-12-07",
       "percentage_under_10_seconds": 99.99926835083697
+    },
+    {
+      "date": "2025-12-08",
+      "percentage_under_10_seconds": 99.99704856890543
     }
   ],
-  "sms_notifications": 4721542789,
-  "total_notifications": 11674336388
+  "sms_notifications": 4725289292,
+  "total_notifications": 11681542788
 }
