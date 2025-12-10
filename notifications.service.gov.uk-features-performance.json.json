@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99367852472042,
+  "average_percentage_under_10_seconds": 99.99336250915445,
   "count_of_live_services_and_organisations": {
-    "organisations": 1794,
-    "services": 11701
+    "organisations": 1795,
+    "services": 11708
   },
-  "email_notifications": 6871384544,
-  "letter_notifications": 84868952,
-  "live_service_count": 11701,
+  "email_notifications": 6875903335,
+  "letter_notifications": 84923615,
+  "live_service_count": 11708,
   "notifications_by_type": [
-    {
-      "date": "2025-12-02",
-      "emails": 3952210,
-      "letters": 63646,
-      "sms": 3438247
-    },
     {
       "date": "2025-12-03",
       "emails": 4175532,
@@ -49,6 +43,12 @@
       "emails": 3418248,
       "letters": 41649,
       "sms": 3746503
+    },
+    {
+      "date": "2025-12-09",
+      "emails": 4518791,
+      "letters": 54663,
+      "sms": 3607100
     }
   ],
   "organisations_using_notify": [
@@ -433,7 +433,7 @@
       "organisation_name": "Barrack Lane Medical Centre"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Barts Health NHS Trust"
     },
     {
@@ -1645,7 +1645,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 125,
+      "count_of_live_services": 126,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -3017,7 +3017,7 @@
       "organisation_name": "IntraHealth Community Services"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Inverclyde Council"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1041,
+      "count_of_live_services": 1043,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4127,6 +4127,10 @@
     {
       "count_of_live_services": 4,
       "organisation_name": "NHS South West London Integrated Care Board"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "NHS South, Central and West Commissioning Support Unit"
     },
     {
       "count_of_live_services": 1,
@@ -5373,7 +5377,7 @@
       "organisation_name": "Skills for Care"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Skinners' Academies Trust"
     },
     {
@@ -7227,10 +7231,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-02",
-      "percentage_under_10_seconds": 99.99843089110949
-    },
-    {
       "date": "2025-12-03",
       "percentage_under_10_seconds": 99.99772753713333
     },
@@ -7253,8 +7253,12 @@
     {
       "date": "2025-12-08",
       "percentage_under_10_seconds": 99.99704856890543
+    },
+    {
+      "date": "2025-12-09",
+      "percentage_under_10_seconds": 99.99621878214771
     }
   ],
-  "sms_notifications": 4725289292,
-  "total_notifications": 11681542788
+  "sms_notifications": 4728896392,
+  "total_notifications": 11689723342
 }
