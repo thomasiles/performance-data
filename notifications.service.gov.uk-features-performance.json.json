@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99319219096857,
+  "average_percentage_under_10_seconds": 99.99452354674756,
   "count_of_live_services_and_organisations": {
-    "organisations": 1796,
-    "services": 11720
+    "organisations": 1797,
+    "services": 11731
   },
-  "email_notifications": 6883920954,
-  "letter_notifications": 85045132,
-  "live_service_count": 11720,
+  "email_notifications": 6888780364,
+  "letter_notifications": 85123609,
+  "live_service_count": 11731,
   "notifications_by_type": [
-    {
-      "date": "2025-12-04",
-      "emails": 4588551,
-      "letters": 80233,
-      "sms": 4111451
-    },
     {
       "date": "2025-12-05",
       "emails": 4189767,
@@ -49,6 +43,12 @@
       "emails": 8017619,
       "letters": 121517,
       "sms": 3340203
+    },
+    {
+      "date": "2025-12-11",
+      "emails": 4859410,
+      "letters": 78477,
+      "sms": 3240065
     }
   ],
   "organisations_using_notify": [
@@ -1065,6 +1065,10 @@
       "organisation_name": "Casterton College, Rutland"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Castle Hill Primary School"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Castle Point Borough Council"
     },
@@ -1661,7 +1665,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 113,
+      "count_of_live_services": 114,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1685,7 +1689,7 @@
       "organisation_name": "Department of Justice (Northern Ireland)"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Derby City Council"
     },
     {
@@ -3233,7 +3237,7 @@
       "organisation_name": "Knole Academy"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
@@ -3365,7 +3369,7 @@
       "organisation_name": "Leger Education Trust"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Leicester City Council"
     },
     {
@@ -3401,7 +3405,7 @@
       "organisation_name": "Lincoln City Council"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Lincolnshire County Council"
     },
     {
@@ -3833,7 +3837,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1043,
+      "count_of_live_services": 1044,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3985,7 +3989,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4065,7 +4069,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 80,
+      "count_of_live_services": 81,
       "organisation_name": "NHS England"
     },
     {
@@ -4549,7 +4553,7 @@
       "organisation_name": "Oxford Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Oxford University Hospitals NHS Foundation Trust"
     },
     {
@@ -5861,7 +5865,7 @@
       "organisation_name": "Stockport NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
@@ -7235,10 +7239,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-04",
-      "percentage_under_10_seconds": 99.98731957672088
-    },
-    {
       "date": "2025-12-05",
       "percentage_under_10_seconds": 99.97968065655613
     },
@@ -7261,8 +7261,12 @@
     {
       "date": "2025-12-10",
       "percentage_under_10_seconds": 99.99653530983214
+    },
+    {
+      "date": "2025-12-11",
+      "percentage_under_10_seconds": 99.9966390671738
     }
   ],
-  "sms_notifications": 4732236595,
-  "total_notifications": 11701202681
+  "sms_notifications": 4735476660,
+  "total_notifications": 11709380633
 }
