@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99452354674756,
+  "average_percentage_under_10_seconds": 99.99569199758537,
   "count_of_live_services_and_organisations": {
     "organisations": 1797,
-    "services": 11731
+    "services": 11735
   },
-  "email_notifications": 6888780364,
-  "letter_notifications": 85123609,
-  "live_service_count": 11731,
+  "email_notifications": 6891843372,
+  "letter_notifications": 85184641,
+  "live_service_count": 11735,
   "notifications_by_type": [
-    {
-      "date": "2025-12-05",
-      "emails": 4189767,
-      "letters": 46933,
-      "sms": 2760996
-    },
     {
       "date": "2025-12-06",
       "emails": 1624773,
@@ -49,6 +43,12 @@
       "emails": 4859410,
       "letters": 78477,
       "sms": 3240065
+    },
+    {
+      "date": "2025-12-12",
+      "emails": 3063008,
+      "letters": 61032,
+      "sms": 2784275
     }
   ],
   "organisations_using_notify": [
@@ -2845,7 +2845,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 85,
+      "count_of_live_services": 86,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -2889,7 +2889,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 690,
+      "count_of_live_services": 691,
       "organisation_name": "Home Office"
     },
     {
@@ -5593,7 +5593,7 @@
       "organisation_name": "Southend-on-Sea City Council"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 56,
       "organisation_name": "Southern Health and Social Care Trust"
     },
     {
@@ -7239,10 +7239,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-05",
-      "percentage_under_10_seconds": 99.97968065655613
-    },
-    {
       "date": "2025-12-06",
       "percentage_under_10_seconds": 99.99627409178076
     },
@@ -7265,8 +7261,12 @@
     {
       "date": "2025-12-11",
       "percentage_under_10_seconds": 99.9966390671738
+    },
+    {
+      "date": "2025-12-12",
+      "percentage_under_10_seconds": 99.9878598124208
     }
   ],
-  "sms_notifications": 4735476660,
-  "total_notifications": 11709380633
+  "sms_notifications": 4738260935,
+  "total_notifications": 11715288948
 }
