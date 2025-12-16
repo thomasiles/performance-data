@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99556176159797,
+  "average_percentage_under_10_seconds": 99.98778960528517,
   "count_of_live_services_and_organisations": {
-    "organisations": 1797,
-    "services": 11735
+    "organisations": 1798,
+    "services": 11747
   },
-  "email_notifications": 6894723831,
-  "letter_notifications": 85265499,
-  "live_service_count": 11735,
+  "email_notifications": 6898187717,
+  "letter_notifications": 85306110,
+  "live_service_count": 11747,
   "notifications_by_type": [
-    {
-      "date": "2025-12-08",
-      "emails": 3418248,
-      "letters": 41649,
-      "sms": 3746503
-    },
     {
       "date": "2025-12-09",
       "emails": 4518791,
@@ -49,6 +43,12 @@
       "emails": 1186824,
       "letters": 6760,
       "sms": 1283719
+    },
+    {
+      "date": "2025-12-15",
+      "emails": 3463886,
+      "letters": 40611,
+      "sms": 3712978
     }
   ],
   "organisations_using_notify": [
@@ -713,7 +713,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 81,
+      "count_of_live_services": 82,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1453,7 +1453,7 @@
       "organisation_name": "Council of the Isles of Scilly"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "County Durham and Darlington Fire and Rescue Service"
     },
     {
@@ -1902,6 +1902,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "East of England Local Government Association"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "East Parade Surgery"
     },
     {
@@ -2185,7 +2189,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -3101,7 +3105,7 @@
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
@@ -3237,7 +3241,7 @@
       "organisation_name": "Knole Academy"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 28,
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
@@ -3389,7 +3393,7 @@
       "organisation_name": "Levenshulme High School"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Lewisham Council"
     },
     {
@@ -3693,7 +3697,7 @@
       "organisation_name": "Meds at Home Ltd"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Medway Council"
     },
     {
@@ -3837,7 +3841,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1044,
+      "count_of_live_services": 1045,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4165,7 +4169,7 @@
       "organisation_name": "Noel-Baler Academy"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -5537,7 +5541,7 @@
       "organisation_name": "South Staffordshire District Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
@@ -7239,10 +7243,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-08",
-      "percentage_under_10_seconds": 99.99704856890543
-    },
-    {
       "date": "2025-12-09",
       "percentage_under_10_seconds": 99.99621878214771
     },
@@ -7265,8 +7265,12 @@
     {
       "date": "2025-12-14",
       "percentage_under_10_seconds": 99.99919272432173
+    },
+    {
+      "date": "2025-12-15",
+      "percentage_under_10_seconds": 99.94264347471584
     }
   ],
-  "sms_notifications": 4740579117,
-  "total_notifications": 11720568447
+  "sms_notifications": 4744292095,
+  "total_notifications": 11727785922
 }
