@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.98778960528517,
+  "average_percentage_under_10_seconds": 99.91828465368343,
   "count_of_live_services_and_organisations": {
     "organisations": 1798,
-    "services": 11747
+    "services": 11755
   },
-  "email_notifications": 6898187717,
-  "letter_notifications": 85306110,
-  "live_service_count": 11747,
+  "email_notifications": 6902792459,
+  "letter_notifications": 85374827,
+  "live_service_count": 11755,
   "notifications_by_type": [
-    {
-      "date": "2025-12-09",
-      "emails": 4518791,
-      "letters": 54663,
-      "sms": 3607100
-    },
     {
       "date": "2025-12-10",
       "emails": 8017619,
@@ -49,6 +43,12 @@
       "emails": 3463886,
       "letters": 40611,
       "sms": 3712978
+    },
+    {
+      "date": "2025-12-16",
+      "emails": 4604742,
+      "letters": 68717,
+      "sms": 3549669
     }
   ],
   "organisations_using_notify": [
@@ -925,7 +925,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 168,
+      "count_of_live_services": 169,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 58,
+      "count_of_live_services": 59,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -2189,7 +2189,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2201,7 +2201,7 @@
       "organisation_name": "Forest Of Dean District Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Forestry Commission"
     },
     {
@@ -3241,7 +3241,7 @@
       "organisation_name": "Knole Academy"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
@@ -4073,7 +4073,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 81,
+      "count_of_live_services": 82,
       "organisation_name": "NHS England"
     },
     {
@@ -5937,7 +5937,7 @@
       "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -7157,7 +7157,7 @@
       "organisation_name": "Worcestershire County Council"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Worcestershire Health and Care NHS Trust"
     },
     {
@@ -7243,10 +7243,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-09",
-      "percentage_under_10_seconds": 99.99621878214771
-    },
-    {
       "date": "2025-12-10",
       "percentage_under_10_seconds": 99.99653530983214
     },
@@ -7269,8 +7265,12 @@
     {
       "date": "2025-12-15",
       "percentage_under_10_seconds": 99.94264347471584
+    },
+    {
+      "date": "2025-12-16",
+      "percentage_under_10_seconds": 99.50968412093556
     }
   ],
-  "sms_notifications": 4744292095,
-  "total_notifications": 11727785922
+  "sms_notifications": 4747841764,
+  "total_notifications": 11736009050
 }
