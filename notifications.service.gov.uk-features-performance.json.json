@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.91805917897098,
+  "average_percentage_under_10_seconds": 99.91383514197767,
   "count_of_live_services_and_organisations": {
     "organisations": 1798,
-    "services": 11758
+    "services": 11767
   },
-  "email_notifications": 6907147520,
-  "letter_notifications": 85509843,
-  "live_service_count": 11758,
+  "email_notifications": 6911703743,
+  "letter_notifications": 85571307,
+  "live_service_count": 11767,
   "notifications_by_type": [
-    {
-      "date": "2025-12-11",
-      "emails": 4859410,
-      "letters": 78477,
-      "sms": 3240065
-    },
     {
       "date": "2025-12-12",
       "emails": 3063008,
@@ -49,6 +43,12 @@
       "emails": 4355061,
       "letters": 135016,
       "sms": 3311252
+    },
+    {
+      "date": "2025-12-18",
+      "emails": 4556223,
+      "letters": 61464,
+      "sms": 3378998
     }
   ],
   "organisations_using_notify": [
@@ -2157,7 +2157,7 @@
       "organisation_name": "Ferryhill School"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Fife Council"
     },
     {
@@ -2589,7 +2589,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 54,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2981,7 +2981,7 @@
       "organisation_name": "Hyndburn Borough Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Hywel Dda University Health Board"
     },
     {
@@ -3269,7 +3269,7 @@
       "organisation_name": "Lambeth College"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Lambeth London Borough Council"
     },
     {
@@ -3993,7 +3993,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4849,7 +4849,7 @@
       "organisation_name": "Ravenswood Medical Practice"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Reading Borough Council"
     },
     {
@@ -5029,7 +5029,7 @@
       "organisation_name": "Royal Berkshire NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 30,
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
@@ -6761,7 +6761,7 @@
       "organisation_name": "Warwick District Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Warwickshire County Council"
     },
     {
@@ -7243,10 +7243,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-11",
-      "percentage_under_10_seconds": 99.9966390671738
-    },
-    {
       "date": "2025-12-12",
       "percentage_under_10_seconds": 99.9878598124208
     },
@@ -7269,8 +7265,12 @@
     {
       "date": "2025-12-17",
       "percentage_under_10_seconds": 99.99495698684491
+    },
+    {
+      "date": "2025-12-18",
+      "percentage_under_10_seconds": 99.96707080822065
     }
   ],
-  "sms_notifications": 4751153016,
-  "total_notifications": 11743810379
+  "sms_notifications": 4754532014,
+  "total_notifications": 11751807064
 }
