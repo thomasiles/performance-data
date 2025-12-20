@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.91383514197767,
+  "average_percentage_under_10_seconds": 99.89937527095083,
   "count_of_live_services_and_organisations": {
     "organisations": 1798,
-    "services": 11767
+    "services": 11771
   },
-  "email_notifications": 6911703743,
-  "letter_notifications": 85571307,
-  "live_service_count": 11767,
+  "email_notifications": 6915168920,
+  "letter_notifications": 85639266,
+  "live_service_count": 11771,
   "notifications_by_type": [
-    {
-      "date": "2025-12-12",
-      "emails": 3063008,
-      "letters": 61032,
-      "sms": 2784275
-    },
     {
       "date": "2025-12-13",
       "emails": 1693635,
@@ -49,6 +43,12 @@
       "emails": 4556223,
       "letters": 61464,
       "sms": 3378998
+    },
+    {
+      "date": "2025-12-19",
+      "emails": 3465177,
+      "letters": 67959,
+      "sms": 2593688
     }
   ],
   "organisations_using_notify": [
@@ -1661,7 +1661,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 89,
+      "count_of_live_services": 90,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3833,7 +3833,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -4485,7 +4485,7 @@
       "organisation_name": "Oldham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Oldham Metropolitan Borough Council"
     },
     {
@@ -6225,7 +6225,7 @@
       "organisation_name": "The Henry Cort Community College"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "The Highland Council"
     },
     {
@@ -7243,10 +7243,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-12",
-      "percentage_under_10_seconds": 99.9878598124208
-    },
-    {
       "date": "2025-12-13",
       "percentage_under_10_seconds": 99.99543806638418
     },
@@ -7269,8 +7265,12 @@
     {
       "date": "2025-12-18",
       "percentage_under_10_seconds": 99.96707080822065
+    },
+    {
+      "date": "2025-12-19",
+      "percentage_under_10_seconds": 99.88664071523291
     }
   ],
-  "sms_notifications": 4754532014,
-  "total_notifications": 11751807064
+  "sms_notifications": 4757125702,
+  "total_notifications": 11757933888
 }
