@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.88952806793505,
+  "average_percentage_under_10_seconds": 99.95283539243496,
   "count_of_live_services_and_organisations": {
     "organisations": 1798,
-    "services": 11775
+    "services": 11779
   },
-  "email_notifications": 6920828416,
-  "letter_notifications": 85720581,
-  "live_service_count": 11775,
+  "email_notifications": 6923874506,
+  "letter_notifications": 85788431,
+  "live_service_count": 11779,
   "notifications_by_type": [
-    {
-      "date": "2025-12-16",
-      "emails": 4604742,
-      "letters": 68717,
-      "sms": 3549669
-    },
     {
       "date": "2025-12-17",
       "emails": 4355061,
@@ -49,6 +43,12 @@
       "emails": 3058011,
       "letters": 59306,
       "sms": 2938879
+    },
+    {
+      "date": "2025-12-23",
+      "emails": 3046090,
+      "letters": 67850,
+      "sms": 2296865
     }
   ],
   "organisations_using_notify": [
@@ -1637,7 +1637,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -2053,7 +2053,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 122,
+      "count_of_live_services": 123,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 51,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3841,7 +3841,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1045,
+      "count_of_live_services": 1046,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7243,10 +7243,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-16",
-      "percentage_under_10_seconds": 99.50968412093556
-    },
-    {
       "date": "2025-12-17",
       "percentage_under_10_seconds": 99.99495698684491
     },
@@ -7271,6 +7267,6 @@
       "percentage_under_10_seconds": 99.87618403260751
     }
   ],
-  "sms_notifications": 4762203231,
-  "total_notifications": 11768752228
+  "sms_notifications": 4764500096,
+  "total_notifications": 11774163033
 }
