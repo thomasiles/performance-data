@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99386838823868,
+  "average_percentage_under_10_seconds": 99.99445167655163,
   "count_of_live_services_and_organisations": {
     "organisations": 1798,
-    "services": 11782
+    "services": 11784
   },
-  "email_notifications": 6931759909,
-  "letter_notifications": 85943795,
-  "live_service_count": 11782,
+  "email_notifications": 6933898312,
+  "letter_notifications": 85986921,
+  "live_service_count": 11784,
   "notifications_by_type": [
-    {
-      "date": "2025-12-23",
-      "emails": 3046090,
-      "letters": 67850,
-      "sms": 2296865
-    },
     {
       "date": "2025-12-24",
       "emails": 2253511,
@@ -49,6 +43,12 @@
       "emails": 2085156,
       "letters": 41714,
       "sms": 2779264
+    },
+    {
+      "date": "2025-12-30",
+      "emails": 2138403,
+      "letters": 43126,
+      "sms": 2393502
     }
   ],
   "organisations_using_notify": [
@@ -2893,7 +2893,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 691,
+      "count_of_live_services": 692,
       "organisation_name": "Home Office"
     },
     {
@@ -3993,7 +3993,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -7265,8 +7265,12 @@
     {
       "date": "2025-12-29",
       "percentage_under_10_seconds": 99.99693813119859
+    },
+    {
+      "date": "2025-12-30",
+      "percentage_under_10_seconds": 99.99795140642932
     }
   ],
-  "sms_notifications": 4772102892,
-  "total_notifications": 11789806596
+  "sms_notifications": 4774496394,
+  "total_notifications": 11794381627
 }
