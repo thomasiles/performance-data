@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99632758908804,
+  "average_percentage_under_10_seconds": 99.99649370509894,
   "count_of_live_services_and_organisations": {
-    "organisations": 1798,
-    "services": 11784
+    "organisations": 1727,
+    "services": 11615
   },
-  "email_notifications": 6936994425,
-  "letter_notifications": 86071868,
-  "live_service_count": 11784,
+  "email_notifications": 6938846608,
+  "letter_notifications": 86111055,
+  "live_service_count": 11615,
   "notifications_by_type": [
-    {
-      "date": "2025-12-26",
-      "emails": 836792,
-      "letters": 17256,
-      "sms": 910605
-    },
     {
       "date": "2025-12-27",
       "emails": 975402,
@@ -49,6 +43,12 @@
       "emails": 1320535,
       "letters": 23573,
       "sms": 1208182
+    },
+    {
+      "date": "2026-01-02",
+      "emails": 1852183,
+      "letters": 39187,
+      "sms": 2274607
     }
   ],
   "organisations_using_notify": [
@@ -129,7 +129,7 @@
       "organisation_name": "Air Accidents Investigation Branch"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Airedale NHS Foundation Trust"
     },
     {
@@ -266,31 +266,7 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Ascent (Blackpool) Ltd"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Ascent (Clowne) Ltd"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Ascent (Coalville) Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ascent (Congleton) Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ascent (Coulby Newham) Ltd"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Ascent (Leek) Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "ASCENT (NEWCASTLE) LIMITED"
     },
     {
       "count_of_live_services": 1,
@@ -301,7 +277,7 @@
       "organisation_name": "Ascent (Wollaton) Ltd"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 2,
       "organisation_name": "Ascent Healthcare Ltd"
     },
     {
@@ -385,7 +361,7 @@
       "organisation_name": "Barking & Dagenham London Borough Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Barking, Havering and Redbridge University Hospitals NHS Trust"
     },
     {
@@ -413,7 +389,7 @@
       "organisation_name": "Barnsley College"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 4,
       "organisation_name": "Barnsley Hospital NHS Foundation Trust"
     },
     {
@@ -467,10 +443,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Baysgarth School"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "BD Chem Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -553,7 +525,7 @@
       "organisation_name": "Bingley Grammar School"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 3,
       "organisation_name": "Birmingham and Solihull Clinical Commissioning Group"
     },
     {
@@ -593,7 +565,7 @@
       "organisation_name": "Blaby District Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 7,
       "organisation_name": "Black Country Partnership NHS Foundation Trust"
     },
     {
@@ -701,10 +673,6 @@
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Boxalls Pharmacy"
-    },
-    {
       "count_of_live_services": 11,
       "organisation_name": "Bracknell Forest Council"
     },
@@ -793,7 +761,7 @@
       "organisation_name": "Bristol City Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 5,
       "organisation_name": "Bristol, North Somerset & South Gloucestershire Clinical Commissioning Group"
     },
     {
@@ -866,10 +834,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Brunshaw Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Brynmenyn Primary School"
     },
     {
@@ -915,10 +879,6 @@
     {
       "count_of_live_services": 9,
       "organisation_name": "Bury Metropolitan Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Buxton Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -969,7 +929,7 @@
       "organisation_name": "Cambridge University Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 1,
       "organisation_name": "Cambridgeshire and Peterborough Clinical Commissioning Group"
     },
     {
@@ -1083,10 +1043,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "CCR Service"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Celticpharm Limited"
     },
     {
       "count_of_live_services": 2,
@@ -1461,7 +1417,7 @@
       "organisation_name": "County Durham and Darlington NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 2,
       "organisation_name": "Coventry and Warwickshire ICB"
     },
     {
@@ -1501,7 +1457,7 @@
       "organisation_name": "Creffield Medical Group"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "Crest Pharmacy"
     },
     {
@@ -1702,10 +1658,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Derby Street Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Derbyshire Constabulary"
     },
     {
@@ -1733,7 +1685,7 @@
       "organisation_name": "Devon and Somerset Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 5,
       "organisation_name": "Devon Clinical Commissioning Group"
     },
     {
@@ -1845,10 +1797,6 @@
       "organisation_name": "Dyfed-Powys Police"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Ealing Clinical Commissioning Group"
-    },
-    {
       "count_of_live_services": 19,
       "organisation_name": "Ealing Council"
     },
@@ -1857,7 +1805,7 @@
       "organisation_name": "Earl Mortimer College"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "East and North Hertfordshire NHS Trust"
     },
     {
@@ -1885,7 +1833,7 @@
       "organisation_name": "East Kent Hospitals University NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "East Lancashire Clinical Commissioning Group"
     },
     {
@@ -1935,10 +1883,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "East Suffolk Primary Care Network"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "East Surrey Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 1,
@@ -2098,19 +2042,11 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Evergreen Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Eye Health Centre"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Eynsham Medical Group"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "F & L HEALTH LTD"
     },
     {
       "count_of_live_services": 1,
@@ -2123,10 +2059,6 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "Falkirk Council"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "Fampharm Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -2374,10 +2306,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Gos Healthcare Limited"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Gosport and Fareham Multi-Academy Trust"
     },
     {
@@ -2435,10 +2363,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Great British Nuclear"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Great Eccleston Medical Supplies Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -2541,20 +2465,12 @@
       "organisation_name": "Hall Cross Academy"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Halliwell Late Night Pharmacy"
-    },
-    {
       "count_of_live_services": 18,
       "organisation_name": "Halton Borough Council"
     },
     {
       "count_of_live_services": 29,
       "organisation_name": "Hammersmith and Fulham London Borough Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Hampshire & Isle of Wight Integrated Care Board"
     },
     {
       "count_of_live_services": 15,
@@ -2634,10 +2550,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Harwood Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Haslingden High School"
     },
     {
@@ -2706,10 +2618,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Health Provision Ltd"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Health Research Authority"
     },
     {
@@ -2749,7 +2657,7 @@
       "organisation_name": "Hendon Way Surgery"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 1,
       "organisation_name": "Herefordshire Clinical Commissioning Group"
     },
     {
@@ -2874,10 +2782,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Holmes Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Holmlands Medical Centre"
     },
     {
@@ -2990,10 +2894,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Ideal Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Idsall School"
     },
     {
@@ -3057,20 +2957,12 @@
       "organisation_name": "Ivybridge Town Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "James Paget University Hospitals NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "Jarvis Breast Centre"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Jas Pharma Ltd"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "Jays Pharmacy"
     },
     {
       "count_of_live_services": 2,
@@ -3079,10 +2971,6 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "Judicial Appointments Commission"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "K Parmar Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -3134,19 +3022,11 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Kildonan Healthcare Ltd"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Kimbotlon St James CE Primary"
     },
     {
       "count_of_live_services": 1,
       "organisation_name": "King Charles I School"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "King Cross Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -3259,10 +3139,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Lakes College West Cumbria"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Lambeth Clinical Commissioning Group"
     },
     {
       "count_of_live_services": 1,
@@ -3494,59 +3370,11 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Lords Pharmacy Newmarket"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Loreto Sixth Form College"
     },
     {
       "count_of_live_services": 3,
       "organisation_name": "Lothian Valuation Joint Board"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Lotus Pharma Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Four Limited"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "LP SD One Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD ONE TWENTY LIMITED"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Seventy Four Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD Six Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Sixty Four Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD SIXTY SIX"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "LP SD Three Limited"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "LP SD Twenty Six Limited"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "LP SD Two Limited"
     },
     {
       "count_of_live_services": 1,
@@ -3561,7 +3389,7 @@
       "organisation_name": "Luton Adult Learning"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "Luton and Dunstable University Hospital NHS Foundation Trust"
     },
     {
@@ -3583,10 +3411,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Lyndhurst Medical Centre"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Lyneham Pharmacy"
     },
     {
       "count_of_live_services": 16,
@@ -3617,11 +3441,7 @@
       "organisation_name": "Manchester City Council"
     },
     {
-      "count_of_live_services": 6,
-      "organisation_name": "Manchester Clinical Commissioning Group"
-    },
-    {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Manchester University NHS Foundation Trust"
     },
     {
@@ -3691,10 +3511,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Medlock Vale Medical Practice"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Meds at Home Ltd"
     },
     {
       "count_of_live_services": 17,
@@ -3777,7 +3593,7 @@
       "organisation_name": "Mid Cheshire Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Mid Essex Clinical Commissioning Group"
     },
     {
@@ -3837,10 +3653,6 @@
       "organisation_name": "Milton Keynes City Council"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
-    },
-    {
       "count_of_live_services": 1047,
       "organisation_name": "Ministry of Defence"
     },
@@ -3865,10 +3677,6 @@
       "organisation_name": "Mole Valley District Council"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Mona Pharmacy"
-    },
-    {
       "count_of_live_services": 11,
       "organisation_name": "Money and Pensions Service"
     },
@@ -3887,10 +3695,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Morecambe Bay Clinical Commissioning Group"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Morningside Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -3973,10 +3777,6 @@
       "organisation_name": "Netherhall School"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Nettles Pharmacy"
-    },
-    {
       "count_of_live_services": 6,
       "organisation_name": "New Forest District Council"
     },
@@ -4041,10 +3841,6 @@
       "organisation_name": "NHS Arden and Greater East Midlands Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 6,
-      "organisation_name": "NHS Bath and North East Somerset, Swindon and Wiltshire (BSW) Integrated Care Board"
-    },
-    {
       "count_of_live_services": 7,
       "organisation_name": "NHS Blood & Transplant"
     },
@@ -4057,11 +3853,7 @@
       "organisation_name": "NHS Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 5,
-      "organisation_name": "NHS Derby and Derbyshire Integrated Care Board"
-    },
-    {
-      "count_of_live_services": 3,
+      "count_of_live_services": 1,
       "organisation_name": "NHS Devon Integrated Care Board"
     },
     {
@@ -4089,12 +3881,8 @@
       "organisation_name": "NHS Greater Manchester"
     },
     {
-      "count_of_live_services": 4,
-      "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
-    },
-    {
       "count_of_live_services": 2,
-      "organisation_name": "NHS Kent and Medway Integrated Care Board"
+      "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
     },
     {
       "count_of_live_services": 4,
@@ -4113,7 +3901,7 @@
       "organisation_name": "NHS Norfolk & Waveney Integrated Care Board"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 3,
       "organisation_name": "NHS North East London Integrated Care Board"
     },
     {
@@ -4153,7 +3941,7 @@
       "organisation_name": "NHS Wales"
     },
     {
-      "count_of_live_services": 65,
+      "count_of_live_services": 63,
       "organisation_name": "NHS Wales Shared Services Partnership-Primary Care Services"
     },
     {
@@ -4305,7 +4093,7 @@
       "organisation_name": "Northampton School for Girls"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Northamptonshire Healthcare NHS Foundation Trust"
     },
     {
@@ -4521,10 +4309,6 @@
       "organisation_name": "Ordsall and Claremont PCN"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Orion Pharmacy"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Orkney Islands Council"
     },
@@ -4561,7 +4345,7 @@
       "organisation_name": "Oxford University Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
@@ -4769,10 +4553,6 @@
       "organisation_name": "Provide Community Interest Company"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "PRX Pharmacy"
-    },
-    {
       "count_of_live_services": 13,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
@@ -4947,10 +4727,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Riverside GP Practice"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Riverside Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -5170,22 +4946,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Sandbern COVID Vaccine"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Sandbern Pharmacy - COVID-19 Vaccine"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SANDBERN PHARMACY COVID CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SANDBERN PHARMACY COVID-19 CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Sandwell and West Birmingham Hospitals NHS Trust"
     },
     {
@@ -5203,10 +4963,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Saxmundham Health Group"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SB Pharma Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -5338,15 +5094,7 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Shiraz and sons Ltd"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Shireland Technology Primary"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Shivakem Pharmacy"
     },
     {
       "count_of_live_services": 7,
@@ -5399,10 +5147,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Slough Children First"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SMD Pharmacy"
     },
     {
       "count_of_live_services": 1,
@@ -5565,7 +5309,7 @@
       "organisation_name": "South West College"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "South West London and St George's Mental Health NHS Trust"
     },
     {
@@ -5677,7 +5421,7 @@
       "organisation_name": "St Georges Medical Centre"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 3,
       "organisation_name": "St Helens and Knowsley Hospitals NHS Trust"
     },
     {
@@ -5929,12 +5673,8 @@
       "organisation_name": "Sunrise Medical Practice (Ghattaora)"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 2,
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Surrey and Sussex Healthcare NHS Trust"
     },
     {
       "count_of_live_services": 38,
@@ -6023,10 +5763,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Tanfield School"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Tanworth Healthcare Ltd"
     },
     {
       "count_of_live_services": 1,
@@ -6338,10 +6074,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "The Queen Elizabeth Hospital, King's Lynn. NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "The Revel Surgery"
     },
     {
@@ -6613,7 +6345,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 49,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6717,10 +6449,6 @@
       "organisation_name": "Walney School"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Walsall Healthcare NHS Trust"
-    },
-    {
       "count_of_live_services": 21,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
@@ -6814,18 +6542,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Wellfield Healthcare Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Wellfield Middleton Limited"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Wellfield Porterbrook Limited"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
@@ -6881,7 +6597,7 @@
       "organisation_name": "West Hatch High School"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 6,
       "organisation_name": "West Hertfordshire Hospitals NHS Trust"
     },
     {
@@ -7145,7 +6861,7 @@
       "organisation_name": "Woolpit Health Centre"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 5,
       "organisation_name": "Worcestershire Acute Hospitals NHS Trust"
     },
     {
@@ -7243,10 +6959,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-26",
-      "percentage_under_10_seconds": 99.99881160647662
-    },
-    {
       "date": "2025-12-27",
       "percentage_under_10_seconds": 99.9810080992187
     },
@@ -7269,8 +6981,12 @@
     {
       "date": "2026-01-01",
       "percentage_under_10_seconds": 99.99991747986819
+    },
+    {
+      "date": "2026-01-02",
+      "percentage_under_10_seconds": 99.9999744185529
     }
   ],
-  "sms_notifications": 4777561850,
-  "total_notifications": 11800628143
+  "sms_notifications": 4779836457,
+  "total_notifications": 11804794120
 }
