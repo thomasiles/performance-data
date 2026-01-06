@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99908677599353,
+  "average_percentage_under_10_seconds": 99.99944330332164,
   "count_of_live_services_and_organisations": {
-    "organisations": 1727,
-    "services": 11615
+    "organisations": 1721,
+    "services": 11609
   },
-  "email_notifications": 6941301710,
-  "letter_notifications": 86135093,
-  "live_service_count": 11615,
+  "email_notifications": 6944638405,
+  "letter_notifications": 86182813,
+  "live_service_count": 11609,
   "notifications_by_type": [
-    {
-      "date": "2025-12-29",
-      "emails": 2085156,
-      "letters": 41714,
-      "sms": 2779264
-    },
     {
       "date": "2025-12-30",
       "emails": 2138403,
@@ -49,6 +43,12 @@
       "emails": 1091674,
       "letters": 4151,
       "sms": 1374162
+    },
+    {
+      "date": "2026-01-05",
+      "emails": 3336695,
+      "letters": 47720,
+      "sms": 3952356
     }
   ],
   "organisations_using_notify": [
@@ -263,22 +263,6 @@
     {
       "count_of_live_services": 12,
       "organisation_name": "Arun District Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ascent (Clowne) Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ascent (Sherwood) Ltd"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ascent (Wollaton) Ltd"
-    },
-    {
-      "count_of_live_services": 2,
-      "organisation_name": "Ascent Healthcare Ltd"
     },
     {
       "count_of_live_services": 3,
@@ -618,10 +602,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Bluecross Health Ltd"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Bolingbroke Medical Centre"
     },
     {
@@ -761,7 +741,7 @@
       "organisation_name": "Bristol City Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 2,
       "organisation_name": "Bristol, North Somerset & South Gloucestershire Clinical Commissioning Group"
     },
     {
@@ -885,7 +865,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 168,
+      "count_of_live_services": 169,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1458,10 +1438,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Crest Pharmacy"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Crewe Engineering and Design UTC"
     },
     {
@@ -1837,7 +1813,7 @@
       "organisation_name": "East Lancashire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "East Lancashire Hospitals NHS Trust"
     },
     {
@@ -3553,7 +3529,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3921,7 +3897,7 @@
       "organisation_name": "NHS South Central and West Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 3,
       "organisation_name": "NHS South West London Integrated Care Board"
     },
     {
@@ -4341,7 +4317,7 @@
       "organisation_name": "Oxford Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Oxford University Hospitals NHS Foundation Trust"
     },
     {
@@ -6333,7 +6309,7 @@
       "organisation_name": "University Hospitals Of Leicester NHS Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
@@ -6959,10 +6935,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-29",
-      "percentage_under_10_seconds": 99.99693813119859
-    },
-    {
       "date": "2025-12-30",
       "percentage_under_10_seconds": 99.99795140642932
     },
@@ -6985,8 +6957,12 @@
     {
       "date": "2026-01-04",
       "percentage_under_10_seconds": 99.99991571398891
+    },
+    {
+      "date": "2026-01-05",
+      "percentage_under_10_seconds": 99.9994338224954
     }
   ],
-  "sms_notifications": 4782318175,
-  "total_notifications": 11809754978
+  "sms_notifications": 4786270531,
+  "total_notifications": 11817091749
 }
