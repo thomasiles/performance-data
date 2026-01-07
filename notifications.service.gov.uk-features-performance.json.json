@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99944330332164,
+  "average_percentage_under_10_seconds": 99.99960776199235,
   "count_of_live_services_and_organisations": {
-    "organisations": 1721,
-    "services": 11609
+    "organisations": 1723,
+    "services": 11621
   },
-  "email_notifications": 6944638405,
-  "letter_notifications": 86182813,
-  "live_service_count": 11609,
+  "email_notifications": 6948439488,
+  "letter_notifications": 86253324,
+  "live_service_count": 11621,
   "notifications_by_type": [
-    {
-      "date": "2025-12-30",
-      "emails": 2138403,
-      "letters": 43126,
-      "sms": 2393502
-    },
     {
       "date": "2025-12-31",
       "emails": 1775578,
@@ -49,6 +43,12 @@
       "emails": 3336695,
       "letters": 47720,
       "sms": 3952356
+    },
+    {
+      "date": "2026-01-06",
+      "emails": 3801083,
+      "letters": 70511,
+      "sms": 3616190
     }
   ],
   "organisations_using_notify": [
@@ -373,7 +373,7 @@
       "organisation_name": "Barnsley College"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Barnsley Hospital NHS Foundation Trust"
     },
     {
@@ -573,7 +573,7 @@
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Blackpool Council"
     },
     {
@@ -653,7 +653,7 @@
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Bracknell Forest Council"
     },
     {
@@ -929,7 +929,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Camden Council"
     },
     {
@@ -2634,6 +2634,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Hereford and Worcester Fire and Rescue Service"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Herefordshire Clinical Commissioning Group"
     },
     {
@@ -2773,7 +2777,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 692,
+      "count_of_live_services": 693,
       "organisation_name": "Home Office"
     },
     {
@@ -3365,7 +3369,7 @@
       "organisation_name": "Luton Adult Learning"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Luton and Dunstable University Hospital NHS Foundation Trust"
     },
     {
@@ -3629,7 +3633,7 @@
       "organisation_name": "Milton Keynes City Council"
     },
     {
-      "count_of_live_services": 1047,
+      "count_of_live_services": 1048,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3979,6 +3983,10 @@
     {
       "count_of_live_services": 21,
       "organisation_name": "North East London NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "North East Scotland College"
     },
     {
       "count_of_live_services": 1,
@@ -5397,7 +5405,7 @@
       "organisation_name": "St Georges Medical Centre"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "St Helens and Knowsley Hospitals NHS Trust"
     },
     {
@@ -5889,7 +5897,7 @@
       "organisation_name": "The Equality and Human Rights Commission"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "The Executive Office (Northern Ireland)"
     },
     {
@@ -6321,7 +6329,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6935,10 +6943,6 @@
   ],
   "processing_time": [
     {
-      "date": "2025-12-30",
-      "percentage_under_10_seconds": 99.99795140642932
-    },
-    {
       "date": "2025-12-31",
       "percentage_under_10_seconds": 99.9999409657879
     },
@@ -6961,8 +6965,12 @@
     {
       "date": "2026-01-05",
       "percentage_under_10_seconds": 99.9994338224954
+    },
+    {
+      "date": "2026-01-06",
+      "percentage_under_10_seconds": 99.99910261712432
     }
   ],
-  "sms_notifications": 4786270531,
-  "total_notifications": 11817091749
+  "sms_notifications": 4789886721,
+  "total_notifications": 11824579533
 }
