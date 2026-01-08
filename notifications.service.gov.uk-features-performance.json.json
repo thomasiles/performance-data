@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99960776199235,
+  "average_percentage_under_10_seconds": 99.99924073974186,
   "count_of_live_services_and_organisations": {
     "organisations": 1723,
-    "services": 11621
+    "services": 11628
   },
-  "email_notifications": 6948439488,
-  "letter_notifications": 86253324,
-  "live_service_count": 11621,
+  "email_notifications": 6953038833,
+  "letter_notifications": 86340128,
+  "live_service_count": 11628,
   "notifications_by_type": [
-    {
-      "date": "2025-12-31",
-      "emails": 1775578,
-      "letters": 61374,
-      "sms": 1857274
-    },
     {
       "date": "2026-01-01",
       "emails": 1320535,
@@ -49,6 +43,12 @@
       "emails": 3801083,
       "letters": 70511,
       "sms": 3616190
+    },
+    {
+      "date": "2026-01-07",
+      "emails": 4599345,
+      "letters": 86804,
+      "sms": 3567545
     }
   ],
   "organisations_using_notify": [
@@ -573,11 +573,11 @@
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1781,7 +1781,7 @@
       "organisation_name": "Earl Mortimer College"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "East and North Hertfordshire NHS Trust"
     },
     {
@@ -2777,7 +2777,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 693,
+      "count_of_live_services": 694,
       "organisation_name": "Home Office"
     },
     {
@@ -3153,7 +3153,7 @@
       "organisation_name": "Lancashire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Lancashire Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -3633,7 +3633,7 @@
       "organisation_name": "Milton Keynes City Council"
     },
     {
-      "count_of_live_services": 1048,
+      "count_of_live_services": 1047,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4861,10 +4861,6 @@
       "organisation_name": "Rutland County Council"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Ryan's Test Org"
-    },
-    {
       "count_of_live_services": 2,
       "organisation_name": "Ryedale District Council"
     },
@@ -5333,7 +5329,7 @@
       "organisation_name": "Southern Regional College"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Southwark Council"
     },
     {
@@ -6253,7 +6249,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 74,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -6431,6 +6427,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Walney School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
       "count_of_live_services": 21,
@@ -6933,7 +6933,7 @@
       "organisation_name": "Ysgol Gymraeg Bro Morgannwg"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Ysgol Gymraeg Ystalyfera Bro Dur"
     },
     {
@@ -6942,10 +6942,6 @@
     }
   ],
   "processing_time": [
-    {
-      "date": "2025-12-31",
-      "percentage_under_10_seconds": 99.9999409657879
-    },
     {
       "date": "2026-01-01",
       "percentage_under_10_seconds": 99.99991747986819
@@ -6969,8 +6965,12 @@
     {
       "date": "2026-01-06",
       "percentage_under_10_seconds": 99.99910261712432
+    },
+    {
+      "date": "2026-01-07",
+      "percentage_under_10_seconds": 99.99737181003442
     }
   ],
-  "sms_notifications": 4789886721,
-  "total_notifications": 11824579533
+  "sms_notifications": 4793454266,
+  "total_notifications": 11832833227
 }
