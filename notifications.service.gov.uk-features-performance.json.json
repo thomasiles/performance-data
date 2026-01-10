@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99886931096232,
+  "average_percentage_under_10_seconds": 99.9987589323387,
   "count_of_live_services_and_organisations": {
-    "organisations": 1724,
-    "services": 11635
+    "organisations": 1725,
+    "services": 11638
   },
-  "email_notifications": 6956866724,
-  "letter_notifications": 86404518,
-  "live_service_count": 11635,
+  "email_notifications": 6960212918,
+  "letter_notifications": 86451632,
+  "live_service_count": 11638,
   "notifications_by_type": [
-    {
-      "date": "2026-01-02",
-      "emails": 1852183,
-      "letters": 39187,
-      "sms": 2274607
-    },
     {
       "date": "2026-01-03",
       "emails": 1363428,
@@ -49,6 +43,12 @@
       "emails": 3827891,
       "letters": 64390,
       "sms": 3463279
+    },
+    {
+      "date": "2026-01-09",
+      "emails": 3346194,
+      "letters": 47114,
+      "sms": 3095737
     }
   ],
   "organisations_using_notify": [
@@ -2457,7 +2457,7 @@
       "organisation_name": "Hampshire County Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Hampshire Hospitals NHS Foundation Trust"
     },
     {
@@ -3635,6 +3635,10 @@
     {
       "count_of_live_services": 36,
       "organisation_name": "Milton Keynes City Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1047,
@@ -5137,7 +5141,7 @@
       "organisation_name": "Social Work England"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Solihull Metropolitan Borough Council"
     },
     {
@@ -6947,10 +6951,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-02",
-      "percentage_under_10_seconds": 99.9999744185529
-    },
-    {
       "date": "2026-01-03",
       "percentage_under_10_seconds": 99.99896931612888
     },
@@ -6973,8 +6973,12 @@
     {
       "date": "2026-01-08",
       "percentage_under_10_seconds": 99.99731747841142
+    },
+    {
+      "date": "2026-01-09",
+      "percentage_under_10_seconds": 99.99920176818759
     }
   ],
-  "sms_notifications": 4796917545,
-  "total_notifications": 11840188787
+  "sms_notifications": 4800013282,
+  "total_notifications": 11846677832
 }
