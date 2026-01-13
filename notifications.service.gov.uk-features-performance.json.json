@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99877418890968,
+  "average_percentage_under_10_seconds": 99.99866424997872,
   "count_of_live_services_and_organisations": {
-    "organisations": 1725,
-    "services": 11638
+    "organisations": 1726,
+    "services": 11646
   },
-  "email_notifications": 6963141659,
-  "letter_notifications": 86464552,
-  "live_service_count": 11638,
+  "email_notifications": 6966666249,
+  "letter_notifications": 86515369,
+  "live_service_count": 11646,
   "notifications_by_type": [
-    {
-      "date": "2026-01-05",
-      "emails": 3336695,
-      "letters": 47720,
-      "sms": 3952356
-    },
     {
       "date": "2026-01-06",
       "emails": 3801083,
@@ -49,6 +43,12 @@
       "emails": 1241877,
       "letters": 5625,
       "sms": 1424175
+    },
+    {
+      "date": "2026-01-12",
+      "emails": 3524590,
+      "letters": 50817,
+      "sms": 3904455
     }
   ],
   "organisations_using_notify": [
@@ -197,7 +197,7 @@
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Angus Council"
     },
     {
@@ -261,7 +261,7 @@
       "organisation_name": "Armagh City and District Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Arun District Council"
     },
     {
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 169,
+      "count_of_live_services": 170,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1585,7 +1585,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 126,
+      "count_of_live_services": 125,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1829,7 +1829,7 @@
       "organisation_name": "East Lothian Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "East of England Local Government Association"
     },
     {
@@ -3781,7 +3781,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -5302,6 +5302,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "South West Yorkshire Partnership NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "South Wirral High School"
     },
     {
@@ -5593,7 +5597,7 @@
       "organisation_name": "Stockport Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Stockport Metropolitan Borough Council"
     },
     {
@@ -5865,7 +5869,7 @@
       "organisation_name": "The Churchill Medical Centre"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "The Clatterbridge Cancer Centre NHS Foundation Trust"
     },
     {
@@ -6951,10 +6955,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-05",
-      "percentage_under_10_seconds": 99.9994338224954
-    },
-    {
       "date": "2026-01-06",
       "percentage_under_10_seconds": 99.99910261712432
     },
@@ -6979,6 +6979,6 @@
       "percentage_under_10_seconds": 99.99992159528506
     }
   ],
-  "sms_notifications": 4802602962,
-  "total_notifications": 11852209173
+  "sms_notifications": 4806507417,
+  "total_notifications": 11859689035
 }
