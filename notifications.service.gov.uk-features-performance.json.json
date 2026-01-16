@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99772362936288,
+  "average_percentage_under_10_seconds": 99.99758413450627,
   "count_of_live_services_and_organisations": {
     "organisations": 1727,
-    "services": 11655
+    "services": 11663
   },
-  "email_notifications": 6975126693,
-  "letter_notifications": 86685749,
-  "live_service_count": 11655,
+  "email_notifications": 6980419149,
+  "letter_notifications": 86745103,
+  "live_service_count": 11663,
   "notifications_by_type": [
-    {
-      "date": "2026-01-08",
-      "emails": 3827891,
-      "letters": 64390,
-      "sms": 3463279
-    },
     {
       "date": "2026-01-09",
       "emails": 3346194,
@@ -49,6 +43,12 @@
       "emails": 4362123,
       "letters": 113995,
       "sms": 3414761
+    },
+    {
+      "date": "2026-01-15",
+      "emails": 5292456,
+      "letters": 59354,
+      "sms": 3439832
     }
   ],
   "organisations_using_notify": [
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 115,
+      "count_of_live_services": 116,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1701,7 +1701,7 @@
       "organisation_name": "Doncaster Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Doncaster Metropolitan Borough Council"
     },
     {
@@ -2253,7 +2253,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -2985,7 +2985,7 @@
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Kent County Council"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1048,
+      "count_of_live_services": 1050,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4337,7 +4337,7 @@
       "organisation_name": "Oxford Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Oxford University Hospitals NHS Foundation Trust"
     },
     {
@@ -5217,7 +5217,7 @@
       "organisation_name": "South Eastern Regional College"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "South Gloucestershire Council"
     },
     {
@@ -6959,10 +6959,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-08",
-      "percentage_under_10_seconds": 99.99731747841142
-    },
-    {
       "date": "2026-01-09",
       "percentage_under_10_seconds": 99.99920176818759
     },
@@ -6981,8 +6977,12 @@
     {
       "date": "2026-01-14",
       "percentage_under_10_seconds": 99.9987952971972
+    },
+    {
+      "date": "2026-01-15",
+      "percentage_under_10_seconds": 99.99648050927182
     }
   ],
-  "sms_notifications": 4813642859,
-  "total_notifications": 11875455301
+  "sms_notifications": 4817082691,
+  "total_notifications": 11884246943
 }
