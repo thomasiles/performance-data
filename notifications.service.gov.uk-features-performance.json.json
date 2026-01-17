@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99758413450627,
+  "average_percentage_under_10_seconds": 99.99731391885175,
   "count_of_live_services_and_organisations": {
     "organisations": 1727,
-    "services": 11663
+    "services": 11666
   },
-  "email_notifications": 6980419149,
-  "letter_notifications": 86745103,
-  "live_service_count": 11663,
+  "email_notifications": 6984887328,
+  "letter_notifications": 86856167,
+  "live_service_count": 11666,
   "notifications_by_type": [
-    {
-      "date": "2026-01-09",
-      "emails": 3346194,
-      "letters": 47114,
-      "sms": 3095737
-    },
     {
       "date": "2026-01-10",
       "emails": 1686864,
@@ -49,6 +43,12 @@
       "emails": 5292456,
       "letters": 59354,
       "sms": 3439832
+    },
+    {
+      "date": "2026-01-16",
+      "emails": 4468179,
+      "letters": 111064,
+      "sms": 3025968
     }
   ],
   "organisations_using_notify": [
@@ -2041,7 +2041,7 @@
       "organisation_name": "Falcon Road Medical Centre"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Falkirk Council"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1050,
+      "count_of_live_services": 1052,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6959,10 +6959,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-09",
-      "percentage_under_10_seconds": 99.99920176818759
-    },
-    {
       "date": "2026-01-10",
       "percentage_under_10_seconds": 99.9990702308295
     },
@@ -6981,8 +6977,12 @@
     {
       "date": "2026-01-15",
       "percentage_under_10_seconds": 99.99648050927182
+    },
+    {
+      "date": "2026-01-16",
+      "percentage_under_10_seconds": 99.99758047426042
     }
   ],
-  "sms_notifications": 4817082691,
-  "total_notifications": 11884246943
+  "sms_notifications": 4820108659,
+  "total_notifications": 11891852154
 }
