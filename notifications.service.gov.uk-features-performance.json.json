@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9972163699774,
+  "average_percentage_under_10_seconds": 99.99730658978467,
   "count_of_live_services_and_organisations": {
-    "organisations": 1727,
-    "services": 11666
+    "organisations": 1728,
+    "services": 11676
   },
-  "email_notifications": 6988003123,
-  "letter_notifications": 86875885,
-  "live_service_count": 11666,
+  "email_notifications": 6992096839,
+  "letter_notifications": 86930379,
+  "live_service_count": 11676,
   "notifications_by_type": [
-    {
-      "date": "2026-01-12",
-      "emails": 3524590,
-      "letters": 50817,
-      "sms": 3904455
-    },
     {
       "date": "2026-01-13",
       "emails": 4098321,
@@ -49,6 +43,12 @@
       "emails": 1232861,
       "letters": 5213,
       "sms": 1317839
+    },
+    {
+      "date": "2026-01-19",
+      "emails": 4093716,
+      "letters": 54494,
+      "sms": 3785485
     }
   ],
   "organisations_using_notify": [
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 186,
+      "count_of_live_services": 187,
       "organisation_name": "Department for Education"
     },
     {
@@ -2785,7 +2785,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 695,
+      "count_of_live_services": 696,
       "organisation_name": "Home Office"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1052,
+      "count_of_live_services": 1055,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3785,7 +3785,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 37,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -3857,7 +3857,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 82,
+      "count_of_live_services": 83,
       "organisation_name": "NHS England"
     },
     {
@@ -4151,6 +4151,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Norwich City Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Notewell AI"
     },
     {
       "count_of_live_services": 3,
@@ -4813,7 +4817,7 @@
       "organisation_name": "Royal Botanic Gardens, Kew"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
@@ -6981,8 +6985,12 @@
     {
       "date": "2026-01-18",
       "percentage_under_10_seconds": 99.99972132826099
+    },
+    {
+      "date": "2026-01-19",
+      "percentage_under_10_seconds": 99.99784790862834
     }
   ],
-  "sms_notifications": 4822572478,
-  "total_notifications": 11897451486
+  "sms_notifications": 4826357963,
+  "total_notifications": 11905385181
 }
