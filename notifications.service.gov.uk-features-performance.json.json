@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99730658978467,
+  "average_percentage_under_10_seconds": 99.99779543109653,
   "count_of_live_services_and_organisations": {
     "organisations": 1728,
-    "services": 11676
+    "services": 11682
   },
-  "email_notifications": 6992096839,
-  "letter_notifications": 86930379,
-  "live_service_count": 11676,
+  "email_notifications": 6997068147,
+  "letter_notifications": 86991903,
+  "live_service_count": 11682,
   "notifications_by_type": [
-    {
-      "date": "2026-01-13",
-      "emails": 4098321,
-      "letters": 56385,
-      "sms": 3720681
-    },
     {
       "date": "2026-01-14",
       "emails": 4362123,
@@ -49,6 +43,12 @@
       "emails": 4093716,
       "letters": 54494,
       "sms": 3785485
+    },
+    {
+      "date": "2026-01-20",
+      "emails": 4971308,
+      "letters": 61524,
+      "sms": 3641777
     }
   ],
   "organisations_using_notify": [
@@ -933,7 +933,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Camden Council"
     },
     {
@@ -2253,7 +2253,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -5605,7 +5605,7 @@
       "organisation_name": "Stockport Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Stockport Metropolitan Borough Council"
     },
     {
@@ -5877,7 +5877,7 @@
       "organisation_name": "The Churchill Medical Centre"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "The Clatterbridge Cancer Centre NHS Foundation Trust"
     },
     {
@@ -6373,7 +6373,7 @@
       "organisation_name": "Uxbridge High School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Vale of Glamorgan Council"
     },
     {
@@ -6549,7 +6549,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Welsh Government"
     },
     {
@@ -6963,10 +6963,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-13",
-      "percentage_under_10_seconds": 99.99203540626648
-    },
-    {
       "date": "2026-01-14",
       "percentage_under_10_seconds": 99.9987952971972
     },
@@ -6989,8 +6985,12 @@
     {
       "date": "2026-01-19",
       "percentage_under_10_seconds": 99.99784790862834
+    },
+    {
+      "date": "2026-01-20",
+      "percentage_under_10_seconds": 99.99545729544947
     }
   ],
-  "sms_notifications": 4826357963,
-  "total_notifications": 11905385181
+  "sms_notifications": 4829999740,
+  "total_notifications": 11914059790
 }
