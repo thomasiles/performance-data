@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99779543109653,
+  "average_percentage_under_10_seconds": 99.997288013968,
   "count_of_live_services_and_organisations": {
     "organisations": 1728,
-    "services": 11682
+    "services": 11690
   },
-  "email_notifications": 6997068147,
-  "letter_notifications": 86991903,
-  "live_service_count": 11682,
+  "email_notifications": 7001516374,
+  "letter_notifications": 87073560,
+  "live_service_count": 11690,
   "notifications_by_type": [
-    {
-      "date": "2026-01-14",
-      "emails": 4362123,
-      "letters": 113995,
-      "sms": 3414761
-    },
     {
       "date": "2026-01-15",
       "emails": 5292456,
@@ -49,6 +43,12 @@
       "emails": 4971308,
       "letters": 61524,
       "sms": 3641777
+    },
+    {
+      "date": "2026-01-21",
+      "emails": 4448227,
+      "letters": 81657,
+      "sms": 3543619
     }
   ],
   "organisations_using_notify": [
@@ -1569,7 +1569,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -1709,7 +1709,7 @@
       "organisation_name": "Dorset County Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Dorset County Hospital NHS Foundation Trust"
     },
     {
@@ -2313,7 +2313,7 @@
       "organisation_name": "Government Internal Audit Agency"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Government Legal Department"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1055,
+      "count_of_live_services": 1056,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3785,7 +3785,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4513,7 +4513,7 @@
       "organisation_name": "Prenton and Woodchurch Medical Centre"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Preston City Council"
     },
     {
@@ -6365,7 +6365,7 @@
       "organisation_name": "Utility Regulator"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "Uttlesford District Council"
     },
     {
@@ -6963,10 +6963,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-14",
-      "percentage_under_10_seconds": 99.9987952971972
-    },
-    {
       "date": "2026-01-15",
       "percentage_under_10_seconds": 99.99648050927182
     },
@@ -6989,8 +6985,12 @@
     {
       "date": "2026-01-20",
       "percentage_under_10_seconds": 99.99545729544947
+    },
+    {
+      "date": "2026-01-21",
+      "percentage_under_10_seconds": 99.99524337729756
     }
   ],
-  "sms_notifications": 4829999740,
-  "total_notifications": 11914059790
+  "sms_notifications": 4833543359,
+  "total_notifications": 11922133293
 }
