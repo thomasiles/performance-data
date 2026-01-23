@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.997288013968,
+  "average_percentage_under_10_seconds": 99.99699860322266,
   "count_of_live_services_and_organisations": {
-    "organisations": 1728,
-    "services": 11690
+    "organisations": 1729,
+    "services": 11695
   },
-  "email_notifications": 7001516374,
-  "letter_notifications": 87073560,
-  "live_service_count": 11690,
+  "email_notifications": 7006281988,
+  "letter_notifications": 87139022,
+  "live_service_count": 11695,
   "notifications_by_type": [
-    {
-      "date": "2026-01-15",
-      "emails": 5292456,
-      "letters": 59354,
-      "sms": 3439832
-    },
     {
       "date": "2026-01-16",
       "emails": 4468179,
@@ -49,6 +43,12 @@
       "emails": 4448227,
       "letters": 81657,
       "sms": 3543619
+    },
+    {
+      "date": "2026-01-22",
+      "emails": 4765614,
+      "letters": 65462,
+      "sms": 3406963
     }
   ],
   "organisations_using_notify": [
@@ -1125,7 +1125,7 @@
       "organisation_name": "Chesterfield College"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Chesterfield Royal Hospital NHS Foundation Trust"
     },
     {
@@ -1577,7 +1577,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -3321,7 +3321,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "London Borough of Hillingdon"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1056,
+      "count_of_live_services": 1057,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4479,6 +4479,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Police Service of Northern Ireland"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Police Service of Scotland"
     },
     {
       "count_of_live_services": 1,
@@ -6963,10 +6967,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-15",
-      "percentage_under_10_seconds": 99.99648050927182
-    },
-    {
       "date": "2026-01-16",
       "percentage_under_10_seconds": 99.99758047426042
     },
@@ -6989,8 +6989,12 @@
     {
       "date": "2026-01-21",
       "percentage_under_10_seconds": 99.99524337729756
+    },
+    {
+      "date": "2026-01-22",
+      "percentage_under_10_seconds": 99.99445463405438
     }
   ],
-  "sms_notifications": 4833543359,
-  "total_notifications": 11922133293
+  "sms_notifications": 4836950322,
+  "total_notifications": 11930371332
 }
