@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99699860322266,
+  "average_percentage_under_10_seconds": 99.99705754141596,
   "count_of_live_services_and_organisations": {
     "organisations": 1729,
-    "services": 11695
+    "services": 11698
   },
-  "email_notifications": 7006281988,
-  "letter_notifications": 87139022,
-  "live_service_count": 11695,
+  "email_notifications": 7009847165,
+  "letter_notifications": 87203259,
+  "live_service_count": 11698,
   "notifications_by_type": [
-    {
-      "date": "2026-01-16",
-      "emails": 4468179,
-      "letters": 111064,
-      "sms": 3025968
-    },
     {
       "date": "2026-01-17",
       "emails": 1882934,
@@ -49,6 +43,12 @@
       "emails": 4765614,
       "letters": 65462,
       "sms": 3406963
+    },
+    {
+      "date": "2026-01-23",
+      "emails": 3565177,
+      "letters": 64237,
+      "sms": 2955122
     }
   ],
   "organisations_using_notify": [
@@ -193,7 +193,7 @@
       "organisation_name": "Amery Hill School Academy Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1057,
+      "count_of_live_services": 1059,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6967,10 +6967,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-16",
-      "percentage_under_10_seconds": 99.99758047426042
-    },
-    {
       "date": "2026-01-17",
       "percentage_under_10_seconds": 99.99868520460745
     },
@@ -6993,8 +6989,12 @@
     {
       "date": "2026-01-22",
       "percentage_under_10_seconds": 99.99445463405438
+    },
+    {
+      "date": "2026-01-23",
+      "percentage_under_10_seconds": 99.9979930416135
     }
   ],
-  "sms_notifications": 4836950322,
-  "total_notifications": 11930371332
+  "sms_notifications": 4839905444,
+  "total_notifications": 11936955868
 }
