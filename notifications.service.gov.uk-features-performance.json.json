@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9970768108149,
+  "average_percentage_under_10_seconds": 99.99680650391187,
   "count_of_live_services_and_organisations": {
     "organisations": 1729,
-    "services": 11698
+    "services": 11706
   },
-  "email_notifications": 7012934174,
-  "letter_notifications": 87232691,
-  "live_service_count": 11698,
+  "email_notifications": 7016811554,
+  "letter_notifications": 87287569,
+  "live_service_count": 11706,
   "notifications_by_type": [
-    {
-      "date": "2026-01-19",
-      "emails": 4093716,
-      "letters": 54494,
-      "sms": 3785485
-    },
     {
       "date": "2026-01-20",
       "emails": 4971308,
@@ -49,6 +43,12 @@
       "emails": 1206781,
       "letters": 6230,
       "sms": 1339808
+    },
+    {
+      "date": "2026-01-26",
+      "emails": 3877380,
+      "letters": 54878,
+      "sms": 3784202
     }
   ],
   "organisations_using_notify": [
@@ -1129,7 +1129,7 @@
       "organisation_name": "Chesterfield Royal Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Chichester District Council"
     },
     {
@@ -1213,7 +1213,7 @@
       "organisation_name": "City of London"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "City of London Police"
     },
     {
@@ -2073,7 +2073,7 @@
       "organisation_name": "Ferryhill School"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Fife Council"
     },
     {
@@ -2981,7 +2981,7 @@
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Kent Community Health NHS Foundation Trust"
     },
     {
@@ -3085,7 +3085,7 @@
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Kingston upon Thames London Borough Council"
     },
     {
@@ -3645,7 +3645,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1059,
+      "count_of_live_services": 1061,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5097,7 +5097,7 @@
       "organisation_name": "Shireland Technology Primary"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -6967,10 +6967,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-19",
-      "percentage_under_10_seconds": 99.99784790862834
-    },
-    {
       "date": "2026-01-20",
       "percentage_under_10_seconds": 99.99545729544947
     },
@@ -6993,8 +6989,12 @@
     {
       "date": "2026-01-25",
       "percentage_under_10_seconds": 99.99959861683361
+    },
+    {
+      "date": "2026-01-26",
+      "percentage_under_10_seconds": 99.99595576030711
     }
   ],
-  "sms_notifications": 4842419673,
-  "total_notifications": 11942586538
+  "sms_notifications": 4846203875,
+  "total_notifications": 11950302998
 }
