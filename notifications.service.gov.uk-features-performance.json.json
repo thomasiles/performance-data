@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99680650391187,
+  "average_percentage_under_10_seconds": 99.99702630977269,
   "count_of_live_services_and_organisations": {
-    "organisations": 1729,
-    "services": 11706
+    "organisations": 1730,
+    "services": 11715
   },
-  "email_notifications": 7016811554,
-  "letter_notifications": 87287569,
-  "live_service_count": 11706,
+  "email_notifications": 7021621896,
+  "letter_notifications": 87364034,
+  "live_service_count": 11715,
   "notifications_by_type": [
-    {
-      "date": "2026-01-20",
-      "emails": 4971308,
-      "letters": 61524,
-      "sms": 3641777
-    },
     {
       "date": "2026-01-21",
       "emails": 4448227,
@@ -49,6 +43,12 @@
       "emails": 3877380,
       "letters": 54878,
       "sms": 3784202
+    },
+    {
+      "date": "2026-01-27",
+      "emails": 4810342,
+      "letters": 76465,
+      "sms": 3788441
     }
   ],
   "organisations_using_notify": [
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -3358,6 +3358,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Loreto College"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Loreto Sixth Form College"
     },
     {
@@ -3645,7 +3649,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1061,
+      "count_of_live_services": 1063,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4949,7 +4953,7 @@
       "organisation_name": "Sandwell and West Birmingham Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Sandwell Metropolitan Borough Council"
     },
     {
@@ -6053,7 +6057,7 @@
       "organisation_name": "The New Medical Centre"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "The Newcastle Upon Tyne Hospitals NHS Foundation Trust"
     },
     {
@@ -6341,7 +6345,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6629,7 +6633,7 @@
       "organisation_name": "West London Waste Authority"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "West Lothian Council"
     },
     {
@@ -6877,7 +6881,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -6967,10 +6971,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-20",
-      "percentage_under_10_seconds": 99.99545729544947
-    },
-    {
       "date": "2026-01-21",
       "percentage_under_10_seconds": 99.99524337729756
     },
@@ -6993,8 +6993,12 @@
     {
       "date": "2026-01-26",
       "percentage_under_10_seconds": 99.99595576030711
+    },
+    {
+      "date": "2026-01-27",
+      "percentage_under_10_seconds": 99.9969959364752
     }
   ],
-  "sms_notifications": 4846203875,
-  "total_notifications": 11950302998
+  "sms_notifications": 4849992316,
+  "total_notifications": 11958978246
 }
