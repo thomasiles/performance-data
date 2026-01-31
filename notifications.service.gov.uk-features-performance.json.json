@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99775997761006,
+  "average_percentage_under_10_seconds": 99.99781558154022,
   "count_of_live_services_and_organisations": {
     "organisations": 1731,
-    "services": 11736
+    "services": 11744
   },
-  "email_notifications": 7030472174,
-  "letter_notifications": 87535191,
-  "live_service_count": 11736,
+  "email_notifications": 7034188121,
+  "letter_notifications": 87614246,
+  "live_service_count": 11744,
   "notifications_by_type": [
-    {
-      "date": "2026-01-23",
-      "emails": 3565177,
-      "letters": 64237,
-      "sms": 2955122
-    },
     {
       "date": "2026-01-24",
       "emails": 1880228,
@@ -49,6 +43,12 @@
       "emails": 4539758,
       "letters": 82672,
       "sms": 3441736
+    },
+    {
+      "date": "2026-01-30",
+      "emails": 3715947,
+      "letters": 79055,
+      "sms": 3001207
     }
   ],
   "organisations_using_notify": [
@@ -757,7 +757,7 @@
       "organisation_name": "British Transport Police"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Broadland District Council"
     },
     {
@@ -1749,7 +1749,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -2265,7 +2265,7 @@
       "organisation_name": "Gloucestershire Constabulary"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Gloucestershire County Council"
     },
     {
@@ -2873,7 +2873,7 @@
       "organisation_name": "Hyndburn Borough Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Hywel Dda University Health Board"
     },
     {
@@ -2917,7 +2917,7 @@
       "organisation_name": "Inverclyde Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Ipswich Borough Council"
     },
     {
@@ -3649,7 +3649,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1066,
+      "count_of_live_services": 1067,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5169,7 +5169,7 @@
       "organisation_name": "Solway"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Somerset County Council"
     },
     {
@@ -6349,7 +6349,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6975,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-23",
-      "percentage_under_10_seconds": 99.9979930416135
-    },
-    {
       "date": "2026-01-24",
       "percentage_under_10_seconds": 99.99894280182751
     },
@@ -7001,8 +6997,12 @@
     {
       "date": "2026-01-29",
       "percentage_under_10_seconds": 99.99708464388704
+    },
+    {
+      "date": "2026-01-30",
+      "percentage_under_10_seconds": 99.99838226912469
     }
   ],
-  "sms_notifications": 4857058327,
-  "total_notifications": 11975065692
+  "sms_notifications": 4860059534,
+  "total_notifications": 11981861901
 }
