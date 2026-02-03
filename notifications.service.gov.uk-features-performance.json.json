@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99785996281875,
+  "average_percentage_under_10_seconds": 99.99793843644709,
   "count_of_live_services_and_organisations": {
     "organisations": 1731,
-    "services": 11744
+    "services": 11751
   },
-  "email_notifications": 7037512449,
-  "letter_notifications": 87642188,
-  "live_service_count": 11744,
+  "email_notifications": 7041606374,
+  "letter_notifications": 87717768,
+  "live_service_count": 11751,
   "notifications_by_type": [
-    {
-      "date": "2026-01-26",
-      "emails": 3877380,
-      "letters": 54878,
-      "sms": 3784202
-    },
     {
       "date": "2026-01-27",
       "emails": 4810342,
@@ -49,6 +43,12 @@
       "emails": 1556991,
       "letters": 5213,
       "sms": 1378035
+    },
+    {
+      "date": "2026-02-02",
+      "emails": 4093925,
+      "letters": 75580,
+      "sms": 4027695
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 170,
+      "count_of_live_services": 171,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2681,7 +2681,7 @@
       "organisation_name": "Hertsmere Borough Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "High Peak Borough Council"
     },
     {
@@ -2977,7 +2977,7 @@
       "organisation_name": "Kensington Group Practice"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
@@ -3649,7 +3649,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1067,
+      "count_of_live_services": 1069,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5577,7 +5577,7 @@
       "organisation_name": "Staffordshire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Staffordshire Moorlands District Council"
     },
     {
@@ -5689,7 +5689,7 @@
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 38,
+      "count_of_live_services": 39,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6975,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-01-26",
-      "percentage_under_10_seconds": 99.99595576030711
-    },
-    {
       "date": "2026-01-27",
       "percentage_under_10_seconds": 99.9969959364752
     },
@@ -7001,8 +6997,12 @@
     {
       "date": "2026-02-01",
       "percentage_under_10_seconds": 99.99985932443373
+    },
+    {
+      "date": "2026-02-02",
+      "percentage_under_10_seconds": 99.99650507570543
     }
   ],
-  "sms_notifications": 4862582218,
-  "total_notifications": 11987736855
+  "sms_notifications": 4866609913,
+  "total_notifications": 11995934055
 }
