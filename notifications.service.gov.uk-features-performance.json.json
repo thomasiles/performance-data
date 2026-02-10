@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99750798052702,
+  "average_percentage_under_10_seconds": 99.99773811069186,
   "count_of_live_services_and_organisations": {
     "organisations": 1731,
-    "services": 11780
+    "services": 11794
   },
-  "email_notifications": 7063036831,
-  "letter_notifications": 88960384,
-  "live_service_count": 11780,
+  "email_notifications": 7066690339,
+  "letter_notifications": 89000667,
+  "live_service_count": 11794,
   "notifications_by_type": [
-    {
-      "date": "2026-02-02",
-      "emails": 4093925,
-      "letters": 75580,
-      "sms": 4027695
-    },
     {
       "date": "2026-02-03",
       "emails": 5050995,
@@ -49,6 +43,12 @@
       "emails": 1487434,
       "letters": 158375,
       "sms": 1418315
+    },
+    {
+      "date": "2026-02-09",
+      "emails": 3653508,
+      "letters": 40283,
+      "sms": 3896195
     }
   ],
   "organisations_using_notify": [
@@ -525,7 +525,7 @@
       "organisation_name": "Birmingham City Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Birmingham Community Healthcare NHS Foundation Trust"
     },
     {
@@ -581,7 +581,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -665,7 +665,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 82,
+      "count_of_live_services": 83,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -861,7 +861,7 @@
       "organisation_name": "Burton and South Derbyshire College"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Bury Metropolitan Borough Council"
     },
     {
@@ -1457,7 +1457,7 @@
       "organisation_name": "Croydon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Croydon Council"
     },
     {
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 91,
+      "count_of_live_services": 92,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2785,7 +2785,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 699,
+      "count_of_live_services": 700,
       "organisation_name": "Home Office"
     },
     {
@@ -2933,7 +2933,7 @@
       "organisation_name": "Islington Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Islington London Borough Council"
     },
     {
@@ -3045,7 +3045,7 @@
       "organisation_name": "King's Academy Ringmer"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "King's College Hospital NHS Foundation Trust"
     },
     {
@@ -3645,11 +3645,11 @@
       "organisation_name": "Milton Keynes City Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1074,
+      "count_of_live_services": 1075,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3657,7 +3657,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 367,
+      "count_of_live_services": 368,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3789,7 +3789,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -6321,7 +6321,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6975,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-02",
-      "percentage_under_10_seconds": 99.99650507570543
-    },
-    {
       "date": "2026-02-03",
       "percentage_under_10_seconds": 99.99682130246993
     },
@@ -7001,8 +6997,12 @@
     {
       "date": "2026-02-08",
       "percentage_under_10_seconds": 99.99996481732451
+    },
+    {
+      "date": "2026-02-09",
+      "percentage_under_10_seconds": 99.99811598685923
     }
   ],
-  "sms_notifications": 4883584391,
-  "total_notifications": 12035581606
+  "sms_notifications": 4887480586,
+  "total_notifications": 12043171592
 }
