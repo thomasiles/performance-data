@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99773811069186,
+  "average_percentage_under_10_seconds": 99.99781860627944,
   "count_of_live_services_and_organisations": {
     "organisations": 1731,
-    "services": 11794
+    "services": 11806
   },
-  "email_notifications": 7066690339,
-  "letter_notifications": 89000667,
-  "live_service_count": 11794,
+  "email_notifications": 7070425860,
+  "letter_notifications": 89252774,
+  "live_service_count": 11806,
   "notifications_by_type": [
-    {
-      "date": "2026-02-03",
-      "emails": 5050995,
-      "letters": 229746,
-      "sms": 3857772
-    },
     {
       "date": "2026-02-04",
       "emails": 4542845,
@@ -49,6 +43,12 @@
       "emails": 3653508,
       "letters": 40283,
       "sms": 3896195
+    },
+    {
+      "date": "2026-02-10",
+      "emails": 3735521,
+      "letters": 252107,
+      "sms": 3782432
     }
   ],
   "organisations_using_notify": [
@@ -1125,7 +1125,7 @@
       "organisation_name": "Chesterfield College"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Chesterfield Royal Hospital NHS Foundation Trust"
     },
     {
@@ -1581,7 +1581,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 77,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -2933,7 +2933,7 @@
       "organisation_name": "Islington Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Islington London Borough Council"
     },
     {
@@ -3497,7 +3497,7 @@
       "organisation_name": "Meadows Health Centre (Dr Jadoon and Dr Mir)"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Medicines and Healthcare products Regulatory Agency"
     },
     {
@@ -3545,7 +3545,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3649,7 +3649,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1075,
+      "count_of_live_services": 1076,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3657,7 +3657,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 368,
+      "count_of_live_services": 369,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3725,7 +3725,7 @@
       "organisation_name": "National Galleries Scotland"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "National Highways"
     },
     {
@@ -3789,7 +3789,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 42,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -3841,7 +3841,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -4049,7 +4049,7 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 16,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
@@ -5349,7 +5349,7 @@
       "organisation_name": "Southend University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Southend-on-Sea City Council"
     },
     {
@@ -6281,7 +6281,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -6641,7 +6641,7 @@
       "organisation_name": "West Lothian Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "West Mercia Police"
     },
     {
@@ -6975,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-03",
-      "percentage_under_10_seconds": 99.99682130246993
-    },
-    {
       "date": "2026-02-04",
       "percentage_under_10_seconds": 99.99550681889934
     },
@@ -7001,8 +6997,12 @@
     {
       "date": "2026-02-09",
       "percentage_under_10_seconds": 99.99811598685923
+    },
+    {
+      "date": "2026-02-10",
+      "percentage_under_10_seconds": 99.99738477158304
     }
   ],
-  "sms_notifications": 4887480586,
-  "total_notifications": 12043171592
+  "sms_notifications": 4891263018,
+  "total_notifications": 12050941652
 }
