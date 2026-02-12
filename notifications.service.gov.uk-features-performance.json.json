@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99781860627944,
+  "average_percentage_under_10_seconds": 99.99773948074294,
   "count_of_live_services_and_organisations": {
     "organisations": 1731,
-    "services": 11806
+    "services": 11810
   },
-  "email_notifications": 7070425860,
-  "letter_notifications": 89252774,
-  "live_service_count": 11806,
+  "email_notifications": 7074227217,
+  "letter_notifications": 89529604,
+  "live_service_count": 11810,
   "notifications_by_type": [
-    {
-      "date": "2026-02-04",
-      "emails": 4542845,
-      "letters": 246106,
-      "sms": 3805917
-    },
     {
       "date": "2026-02-05",
       "emails": 4319472,
@@ -49,6 +43,12 @@
       "emails": 3735521,
       "letters": 252107,
       "sms": 3782432
+    },
+    {
+      "date": "2026-02-11",
+      "emails": 3801357,
+      "letters": 276830,
+      "sms": 4051345
     }
   ],
   "organisations_using_notify": [
@@ -357,7 +357,7 @@
       "organisation_name": "Barnet Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Barnet London Borough Council"
     },
     {
@@ -965,7 +965,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -1401,7 +1401,7 @@
       "organisation_name": "County Durham and Darlington NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Coventry and Warwickshire ICB"
     },
     {
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 116,
+      "count_of_live_services": 115,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2785,7 +2785,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 700,
+      "count_of_live_services": 701,
       "organisation_name": "Home Office"
     },
     {
@@ -3649,7 +3649,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1076,
+      "count_of_live_services": 1077,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6975,10 +6975,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-04",
-      "percentage_under_10_seconds": 99.99550681889934
-    },
-    {
       "date": "2026-02-05",
       "percentage_under_10_seconds": 99.99722477803562
     },
@@ -7001,8 +6997,12 @@
     {
       "date": "2026-02-10",
       "percentage_under_10_seconds": 99.99738477158304
+    },
+    {
+      "date": "2026-02-11",
+      "percentage_under_10_seconds": 99.99495294014376
     }
   ],
-  "sms_notifications": 4891263018,
-  "total_notifications": 12050941652
+  "sms_notifications": 4895314363,
+  "total_notifications": 12059071184
 }
