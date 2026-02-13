@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99773948074294,
+  "average_percentage_under_10_seconds": 99.99782742582501,
   "count_of_live_services_and_organisations": {
-    "organisations": 1731,
-    "services": 11810
+    "organisations": 1732,
+    "services": 11815
   },
-  "email_notifications": 7074227217,
-  "letter_notifications": 89529604,
-  "live_service_count": 11810,
+  "email_notifications": 7078359483,
+  "letter_notifications": 89735702,
+  "live_service_count": 11815,
   "notifications_by_type": [
-    {
-      "date": "2026-02-05",
-      "emails": 4319472,
-      "letters": 219363,
-      "sms": 3497761
-    },
     {
       "date": "2026-02-06",
       "emails": 3986193,
@@ -49,6 +43,12 @@
       "emails": 3801357,
       "letters": 276830,
       "sms": 4051345
+    },
+    {
+      "date": "2026-02-12",
+      "emails": 4132266,
+      "letters": 206098,
+      "sms": 3782793
     }
   ],
   "organisations_using_notify": [
@@ -193,7 +193,7 @@
       "organisation_name": "Amery Hill School Academy Trust"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
@@ -1573,7 +1573,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 188,
+      "count_of_live_services": 189,
       "organisation_name": "Department for Education"
     },
     {
@@ -3746,6 +3746,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "National Institute of Teaching"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "National Lottery Heritage Fund"
     },
     {
@@ -5009,7 +5013,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Scottish Government"
     },
     {
@@ -6573,7 +6577,7 @@
       "organisation_name": "Welshpool Town Council"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Welwyn Hatfield Borough Council"
     },
     {
@@ -6975,10 +6979,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-05",
-      "percentage_under_10_seconds": 99.99722477803562
-    },
-    {
       "date": "2026-02-06",
       "percentage_under_10_seconds": 99.99734149553282
     },
@@ -7001,8 +7001,12 @@
     {
       "date": "2026-02-11",
       "percentage_under_10_seconds": 99.99495294014376
+    },
+    {
+      "date": "2026-02-12",
+      "percentage_under_10_seconds": 99.99784039361016
     }
   ],
-  "sms_notifications": 4895314363,
-  "total_notifications": 12059071184
+  "sms_notifications": 4899097156,
+  "total_notifications": 12067192341
 }
