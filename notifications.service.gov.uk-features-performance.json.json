@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99792411648103,
+  "average_percentage_under_10_seconds": 99.99804567322911,
   "count_of_live_services_and_organisations": {
-    "organisations": 1732,
-    "services": 11828
+    "organisations": 1734,
+    "services": 11836
   },
-  "email_notifications": 7086122540,
-  "letter_notifications": 90270172,
-  "live_service_count": 11828,
+  "email_notifications": 7089887125,
+  "letter_notifications": 90309562,
+  "live_service_count": 11836,
   "notifications_by_type": [
-    {
-      "date": "2026-02-09",
-      "emails": 3653508,
-      "letters": 40283,
-      "sms": 3896195
-    },
     {
       "date": "2026-02-10",
       "emails": 3735521,
@@ -49,6 +43,12 @@
       "emails": 1722708,
       "letters": 157805,
       "sms": 1640086
+    },
+    {
+      "date": "2026-02-16",
+      "emails": 3764585,
+      "letters": 39390,
+      "sms": 3990648
     }
   ],
   "organisations_using_notify": [
@@ -1490,6 +1490,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Cwm Taf Morgannwg University Health Board"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "DABD"
     },
     {
@@ -2541,7 +2545,7 @@
       "organisation_name": "Hastings Borough Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Havant District Council"
     },
     {
@@ -2799,6 +2803,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Homewood School & Sixth Form Centre"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Horizon Healthcare"
     },
     {
       "count_of_live_services": 2,
@@ -3649,7 +3657,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1077,
+      "count_of_live_services": 1078,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3793,7 +3801,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 42,
+      "count_of_live_services": 43,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -5177,7 +5185,7 @@
       "organisation_name": "Somerset County Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Somerset NHS Foundation Trust"
     },
     {
@@ -5769,7 +5777,7 @@
       "organisation_name": "Tameside Primary Academy"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Tamworth Borough Council"
     },
     {
@@ -6837,7 +6845,7 @@
       "organisation_name": "Withnell Health Centre"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Woking Borough Council"
     },
     {
@@ -6979,10 +6987,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-09",
-      "percentage_under_10_seconds": 99.99811598685923
-    },
-    {
       "date": "2026-02-10",
       "percentage_under_10_seconds": 99.99738477158304
     },
@@ -7005,8 +7009,12 @@
     {
       "date": "2026-02-15",
       "percentage_under_10_seconds": 99.99992488522463
+    },
+    {
+      "date": "2026-02-16",
+      "percentage_under_10_seconds": 99.99896688409582
     }
   ],
-  "sms_notifications": 4905187623,
-  "total_notifications": 12081580335
+  "sms_notifications": 4909178271,
+  "total_notifications": 12089374958
 }
