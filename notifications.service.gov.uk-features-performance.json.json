@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99804567322911,
+  "average_percentage_under_10_seconds": 99.99808805416026,
   "count_of_live_services_and_organisations": {
     "organisations": 1734,
-    "services": 11836
+    "services": 11842
   },
-  "email_notifications": 7089887125,
-  "letter_notifications": 90309562,
-  "live_service_count": 11836,
+  "email_notifications": 7094644336,
+  "letter_notifications": 90532663,
+  "live_service_count": 11842,
   "notifications_by_type": [
-    {
-      "date": "2026-02-10",
-      "emails": 3735521,
-      "letters": 252107,
-      "sms": 3782432
-    },
     {
       "date": "2026-02-11",
       "emails": 3801357,
@@ -49,6 +43,12 @@
       "emails": 3764585,
       "letters": 39390,
       "sms": 3990648
+    },
+    {
+      "date": "2026-02-17",
+      "emails": 4757211,
+      "letters": 223101,
+      "sms": 3620174
     }
   ],
   "organisations_using_notify": [
@@ -1561,7 +1561,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 60,
+      "count_of_live_services": 61,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department of Education (Northern Ireland)"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Department of Finance – Northern Ireland"
     },
     {
@@ -2789,7 +2789,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 701,
+      "count_of_live_services": 702,
       "organisation_name": "Home Office"
     },
     {
@@ -5613,7 +5613,7 @@
       "organisation_name": "Stenhouse Medical Centre"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Stevenage Borough Council"
     },
     {
@@ -5701,7 +5701,7 @@
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6361,7 +6361,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6987,10 +6987,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-10",
-      "percentage_under_10_seconds": 99.99738477158304
-    },
-    {
       "date": "2026-02-11",
       "percentage_under_10_seconds": 99.99495294014376
     },
@@ -7013,8 +7009,12 @@
     {
       "date": "2026-02-16",
       "percentage_under_10_seconds": 99.99896688409582
+    },
+    {
+      "date": "2026-02-17",
+      "percentage_under_10_seconds": 99.99768143810105
     }
   ],
-  "sms_notifications": 4909178271,
-  "total_notifications": 12089374958
+  "sms_notifications": 4912798445,
+  "total_notifications": 12097975444
 }
