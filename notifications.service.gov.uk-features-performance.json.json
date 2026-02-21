@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99861657979967,
+  "average_percentage_under_10_seconds": 99.9986468494269,
   "count_of_live_services_and_organisations": {
     "organisations": 1734,
-    "services": 11802
+    "services": 11806
   },
-  "email_notifications": 7104848666,
-  "letter_notifications": 91007667,
-  "live_service_count": 11802,
+  "email_notifications": 7108259920,
+  "letter_notifications": 91214637,
+  "live_service_count": 11806,
   "notifications_by_type": [
-    {
-      "date": "2026-02-13",
-      "emails": 3749644,
-      "letters": 201909,
-      "sms": 3102070
-    },
     {
       "date": "2026-02-14",
       "emails": 2290705,
@@ -49,6 +43,12 @@
       "emails": 5474730,
       "letters": 211172,
       "sms": 3360062
+    },
+    {
+      "date": "2026-02-20",
+      "emails": 3411254,
+      "letters": 206970,
+      "sms": 2885772
     }
   ],
   "organisations_using_notify": [
@@ -2493,7 +2493,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3577,7 +3577,7 @@
       "organisation_name": "Met Office"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Metropolitan Police"
     },
     {
@@ -6369,7 +6369,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 51,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -6653,7 +6653,7 @@
       "organisation_name": "West Lothian Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "West Mercia Police"
     },
     {
@@ -6987,10 +6987,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-13",
-      "percentage_under_10_seconds": 99.99834403048534
-    },
-    {
       "date": "2026-02-14",
       "percentage_under_10_seconds": 99.99890580746109
     },
@@ -7013,8 +7009,12 @@
     {
       "date": "2026-02-19",
       "percentage_under_10_seconds": 99.99770925240344
+    },
+    {
+      "date": "2026-02-20",
+      "percentage_under_10_seconds": 99.99855591787596
     }
   ],
-  "sms_notifications": 4919808577,
-  "total_notifications": 12115664910
+  "sms_notifications": 4922694349,
+  "total_notifications": 12122168906
 }
