@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.998694527701,
+  "average_percentage_under_10_seconds": 99.99863115855287,
   "count_of_live_services_and_organisations": {
     "organisations": 1734,
-    "services": 11806
+    "services": 11815
   },
-  "email_notifications": 7111310623,
-  "letter_notifications": 91549006,
-  "live_service_count": 11806,
+  "email_notifications": 7114901396,
+  "letter_notifications": 91592312,
+  "live_service_count": 11815,
   "notifications_by_type": [
-    {
-      "date": "2026-02-16",
-      "emails": 3764585,
-      "letters": 39390,
-      "sms": 3990648
-    },
     {
       "date": "2026-02-17",
       "emails": 4757211,
@@ -49,6 +43,12 @@
       "emails": 1291014,
       "letters": 158227,
       "sms": 1362619
+    },
+    {
+      "date": "2026-02-23",
+      "emails": 3590773,
+      "letters": 43306,
+      "sms": 3903484
     }
   ],
   "organisations_using_notify": [
@@ -1581,7 +1581,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -1909,7 +1909,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Education Authority"
     },
     {
@@ -2493,7 +2493,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2789,7 +2789,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 702,
+      "count_of_live_services": 703,
       "organisation_name": "Home Office"
     },
     {
@@ -3649,7 +3649,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -3657,7 +3657,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1079,
+      "count_of_live_services": 1081,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3801,7 +3801,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -3873,7 +3873,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 84,
+      "count_of_live_services": 85,
       "organisation_name": "NHS England"
     },
     {
@@ -6987,10 +6987,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-16",
-      "percentage_under_10_seconds": 99.99896688409582
-    },
-    {
       "date": "2026-02-17",
       "percentage_under_10_seconds": 99.99768143810105
     },
@@ -7013,8 +7009,12 @@
     {
       "date": "2026-02-22",
       "percentage_under_10_seconds": 99.99996115316065
+    },
+    {
+      "date": "2026-02-23",
+      "percentage_under_10_seconds": 99.99852330005885
     }
   ],
-  "sms_notifications": 4925224084,
-  "total_notifications": 12128083713
+  "sms_notifications": 4929127568,
+  "total_notifications": 12135621276
 }
