@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9977909714734,
+  "average_percentage_under_10_seconds": 99.99849005114817,
   "count_of_live_services_and_organisations": {
-    "organisations": 1737,
-    "services": 11857
+    "organisations": 1738,
+    "services": 11866
   },
-  "email_notifications": 7139136761,
-  "letter_notifications": 92256639,
-  "live_service_count": 11857,
+  "email_notifications": 7143825076,
+  "letter_notifications": 92316524,
+  "live_service_count": 11866,
   "notifications_by_type": [
-    {
-      "date": "2026-02-24",
-      "emails": 4172682,
-      "letters": 211675,
-      "sms": 3745355
-    },
     {
       "date": "2026-02-25",
       "emails": 3676921,
@@ -49,6 +43,12 @@
       "emails": 4167415,
       "letters": 39428,
       "sms": 4085959
+    },
+    {
+      "date": "2026-03-03",
+      "emails": 4688315,
+      "letters": 59885,
+      "sms": 3742140
     }
   ],
   "organisations_using_notify": [
@@ -417,7 +417,7 @@
       "organisation_name": "Bassetlaw District Council"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Bath & North East Somerset Council"
     },
     {
@@ -1989,7 +1989,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 124,
+      "count_of_live_services": 125,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2793,7 +2793,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 704,
+      "count_of_live_services": 705,
       "organisation_name": "Home Office"
     },
     {
@@ -3661,7 +3661,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1085,
+      "count_of_live_services": 1086,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5085,7 +5085,7 @@
       "organisation_name": "Sharnbrook Academy"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Sheffield City Council"
     },
     {
@@ -5514,6 +5514,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "St Paul's Academy"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "St Paul’s Catholic College"
     },
     {
@@ -5817,7 +5821,7 @@
       "organisation_name": "Teignbridge District Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Telford & Wrekin Council"
     },
     {
@@ -6141,7 +6145,7 @@
       "organisation_name": "The Thomas Aveling School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "The Valuation Office Agency"
     },
     {
@@ -6369,7 +6373,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6999,10 +7003,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-24",
-      "percentage_under_10_seconds": 99.99387264579447
-    },
-    {
       "date": "2026-02-25",
       "percentage_under_10_seconds": 99.99698000317989
     },
@@ -7025,8 +7025,12 @@
     {
       "date": "2026-03-02",
       "percentage_under_10_seconds": 99.99753822635464
+    },
+    {
+      "date": "2026-03-03",
+      "percentage_under_10_seconds": 99.99876620351775
     }
   ],
-  "sms_notifications": 4950423297,
-  "total_notifications": 12181816697
+  "sms_notifications": 4954165437,
+  "total_notifications": 12190307037
 }
