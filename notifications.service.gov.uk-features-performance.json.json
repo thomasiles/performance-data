@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99849005114817,
+  "average_percentage_under_10_seconds": 99.99810361930456,
   "count_of_live_services_and_organisations": {
     "organisations": 1738,
-    "services": 11866
+    "services": 11871
   },
-  "email_notifications": 7143825076,
-  "letter_notifications": 92316524,
-  "live_service_count": 11866,
+  "email_notifications": 7148154674,
+  "letter_notifications": 92405129,
+  "live_service_count": 11871,
   "notifications_by_type": [
-    {
-      "date": "2026-02-25",
-      "emails": 3676921,
-      "letters": 237667,
-      "sms": 3689470
-    },
     {
       "date": "2026-02-26",
       "emails": 3831112,
@@ -49,6 +43,12 @@
       "emails": 4688315,
       "letters": 59885,
       "sms": 3742140
+    },
+    {
+      "date": "2026-03-04",
+      "emails": 4329598,
+      "letters": 88605,
+      "sms": 3849835
     }
   ],
   "organisations_using_notify": [
@@ -1205,7 +1205,7 @@
       "organisation_name": "City of Bradford Metropolitan District Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "City of Edinburgh Council"
     },
     {
@@ -1229,7 +1229,7 @@
       "organisation_name": "City of Wolverhampton College"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "City of Wolverhampton Council"
     },
     {
@@ -1581,7 +1581,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 189,
+      "count_of_live_services": 190,
       "organisation_name": "Department for Education"
     },
     {
@@ -3661,7 +3661,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1086,
+      "count_of_live_services": 1088,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7003,10 +7003,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-25",
-      "percentage_under_10_seconds": 99.99698000317989
-    },
-    {
       "date": "2026-02-26",
       "percentage_under_10_seconds": 99.9988165654538
     },
@@ -7029,8 +7025,12 @@
     {
       "date": "2026-03-03",
       "percentage_under_10_seconds": 99.99876620351775
+    },
+    {
+      "date": "2026-03-04",
+      "percentage_under_10_seconds": 99.99427498027464
     }
   ],
-  "sms_notifications": 4954165437,
-  "total_notifications": 12190307037
+  "sms_notifications": 4958015272,
+  "total_notifications": 12198575075
 }
