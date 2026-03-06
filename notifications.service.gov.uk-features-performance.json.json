@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99810361930456,
+  "average_percentage_under_10_seconds": 99.99797631446084,
   "count_of_live_services_and_organisations": {
-    "organisations": 1738,
-    "services": 11871
+    "organisations": 1739,
+    "services": 11880
   },
-  "email_notifications": 7148154674,
-  "letter_notifications": 92405129,
-  "live_service_count": 11871,
+  "email_notifications": 7152755446,
+  "letter_notifications": 92459839,
+  "live_service_count": 11880,
   "notifications_by_type": [
-    {
-      "date": "2026-02-26",
-      "emails": 3831112,
-      "letters": 91349,
-      "sms": 3712580
-    },
     {
       "date": "2026-02-27",
       "emails": 3917628,
@@ -49,6 +43,12 @@
       "emails": 4329598,
       "letters": 88605,
       "sms": 3849835
+    },
+    {
+      "date": "2026-03-05",
+      "emails": 4600772,
+      "letters": 54710,
+      "sms": 3447698
     }
   ],
   "organisations_using_notify": [
@@ -1713,7 +1713,7 @@
       "organisation_name": "Doncaster Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Dorset County Council"
     },
     {
@@ -2441,7 +2441,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 58,
+      "count_of_live_services": 59,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2497,7 +2497,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2741,7 +2741,7 @@
       "organisation_name": "Hitchin Boys' School"
     },
     {
-      "count_of_live_services": 42,
+      "count_of_live_services": 45,
       "organisation_name": "HM Courts & Tribunals Service"
     },
     {
@@ -3661,7 +3661,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1088,
+      "count_of_live_services": 1092,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3669,7 +3669,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 370,
+      "count_of_live_services": 367,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4363,6 +4363,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Oxford Health NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Oxford Street Development Corporation"
     },
     {
       "count_of_live_services": 9,
@@ -6553,7 +6557,7 @@
       "organisation_name": "Watford Borough Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Waverley Borough Council"
     },
     {
@@ -7003,10 +7007,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-26",
-      "percentage_under_10_seconds": 99.9988165654538
-    },
-    {
       "date": "2026-02-27",
       "percentage_under_10_seconds": 99.99883288368642
     },
@@ -7029,8 +7029,12 @@
     {
       "date": "2026-03-04",
       "percentage_under_10_seconds": 99.99427498027464
+    },
+    {
+      "date": "2026-03-05",
+      "percentage_under_10_seconds": 99.99792543154777
     }
   ],
-  "sms_notifications": 4958015272,
-  "total_notifications": 12198575075
+  "sms_notifications": 4961462970,
+  "total_notifications": 12206678255
 }
