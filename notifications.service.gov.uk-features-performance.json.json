@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99797631446084,
+  "average_percentage_under_10_seconds": 99.99797265046642,
   "count_of_live_services_and_organisations": {
     "organisations": 1739,
-    "services": 11880
+    "services": 11884
   },
-  "email_notifications": 7152755446,
-  "letter_notifications": 92459839,
-  "live_service_count": 11880,
+  "email_notifications": 7156813413,
+  "letter_notifications": 92517582,
+  "live_service_count": 11884,
   "notifications_by_type": [
-    {
-      "date": "2026-02-27",
-      "emails": 3917628,
-      "letters": 54363,
-      "sms": 3155059
-    },
     {
       "date": "2026-02-28",
       "emails": 2406754,
@@ -49,6 +43,12 @@
       "emails": 4600772,
       "letters": 54710,
       "sms": 3447698
+    },
+    {
+      "date": "2026-03-06",
+      "emails": 4057967,
+      "letters": 57743,
+      "sms": 3082655
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 171,
+      "count_of_live_services": 172,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2793,7 +2793,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 705,
+      "count_of_live_services": 706,
       "organisation_name": "Home Office"
     },
     {
@@ -3661,11 +3661,11 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1092,
+      "count_of_live_services": 1093,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 73,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -7007,10 +7007,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-02-27",
-      "percentage_under_10_seconds": 99.99883288368642
-    },
-    {
       "date": "2026-02-28",
       "percentage_under_10_seconds": 99.9986155307629
     },
@@ -7033,8 +7029,12 @@
     {
       "date": "2026-03-05",
       "percentage_under_10_seconds": 99.99792543154777
+    },
+    {
+      "date": "2026-03-06",
+      "percentage_under_10_seconds": 99.99880723572555
     }
   ],
-  "sms_notifications": 4961462970,
-  "total_notifications": 12206678255
+  "sms_notifications": 4964545625,
+  "total_notifications": 12213876620
 }
