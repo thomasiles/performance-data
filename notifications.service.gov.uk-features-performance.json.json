@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99803977464327,
+  "average_percentage_under_10_seconds": 99.99819091652033,
   "count_of_live_services_and_organisations": {
     "organisations": 1739,
-    "services": 11884
+    "services": 11895
   },
-  "email_notifications": 7160432338,
-  "letter_notifications": 92545070,
-  "live_service_count": 11884,
+  "email_notifications": 7164533929,
+  "letter_notifications": 92621861,
+  "live_service_count": 11895,
   "notifications_by_type": [
-    {
-      "date": "2026-03-02",
-      "emails": 4167415,
-      "letters": 39428,
-      "sms": 4085959
-    },
     {
       "date": "2026-03-03",
       "emails": 4688315,
@@ -49,6 +43,12 @@
       "emails": 1532862,
       "letters": 5362,
       "sms": 1378774
+    },
+    {
+      "date": "2026-03-09",
+      "emails": 4101591,
+      "letters": 76791,
+      "sms": 3860609
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 172,
+      "count_of_live_services": 173,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2793,7 +2793,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 706,
+      "count_of_live_services": 707,
       "organisation_name": "Home Office"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Homerton University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Homes England"
     },
     {
@@ -3661,7 +3661,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1093,
+      "count_of_live_services": 1097,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4493,7 +4493,7 @@
       "organisation_name": "Plane Trees Group Practice"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Planning Inspectorate"
     },
     {
@@ -5753,7 +5753,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 52,
       "organisation_name": "Swansea Council"
     },
     {
@@ -6865,7 +6865,7 @@
       "organisation_name": "Withnell Health Centre"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Woking Borough Council"
     },
     {
@@ -7007,10 +7007,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-02",
-      "percentage_under_10_seconds": 99.99753822635464
-    },
-    {
       "date": "2026-03-03",
       "percentage_under_10_seconds": 99.99876620351775
     },
@@ -7033,8 +7029,12 @@
     {
       "date": "2026-03-08",
       "percentage_under_10_seconds": 99.99972069769714
+    },
+    {
+      "date": "2026-03-09",
+      "percentage_under_10_seconds": 99.998596219494
     }
   ],
-  "sms_notifications": 4967116055,
-  "total_notifications": 12220093463
+  "sms_notifications": 4970976664,
+  "total_notifications": 12228132454
 }
