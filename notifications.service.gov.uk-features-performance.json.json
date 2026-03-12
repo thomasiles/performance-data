@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99815974448917,
+  "average_percentage_under_10_seconds": 99.99886745649572,
   "count_of_live_services_and_organisations": {
-    "organisations": 1741,
-    "services": 11911
+    "organisations": 1742,
+    "services": 11922
   },
-  "email_notifications": 7168676455,
-  "letter_notifications": 92737748,
-  "live_service_count": 11911,
+  "email_notifications": 7172798719,
+  "letter_notifications": 92878061,
+  "live_service_count": 11922,
   "notifications_by_type": [
-    {
-      "date": "2026-03-04",
-      "emails": 4329598,
-      "letters": 88605,
-      "sms": 3849835
-    },
     {
       "date": "2026-03-05",
       "emails": 4600772,
@@ -49,6 +43,12 @@
       "emails": 4142526,
       "letters": 115887,
       "sms": 3680229
+    },
+    {
+      "date": "2026-03-11",
+      "emails": 4122264,
+      "letters": 140313,
+      "sms": 3736972
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 173,
+      "count_of_live_services": 174,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -937,7 +937,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Camden Council"
     },
     {
@@ -1749,7 +1749,7 @@
       "organisation_name": "Driver & Vehicle Licensing Agency"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Driver & Vehicle Standards Agency"
     },
     {
@@ -2133,7 +2133,7 @@
       "organisation_name": "Forest Of Dean District Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Forestry Commission"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 708,
+      "count_of_live_services": 709,
       "organisation_name": "Home Office"
     },
     {
@@ -3661,7 +3661,7 @@
       "organisation_name": "Millway Medical Practice"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Milton Keynes City Council"
     },
     {
@@ -3669,7 +3669,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1097,
+      "count_of_live_services": 1098,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4197,7 +4197,7 @@
       "organisation_name": "Nottingham City Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Nottingham City Council"
     },
     {
@@ -5139,6 +5139,10 @@
     {
       "count_of_live_services": 8,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Shrewton Parish Council"
     },
     {
       "count_of_live_services": 1,
@@ -6357,7 +6361,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6877,7 +6881,7 @@
       "organisation_name": "Woking Borough Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Wokingham Borough Council"
     },
     {
@@ -7015,10 +7019,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-04",
-      "percentage_under_10_seconds": 99.99427498027464
-    },
-    {
       "date": "2026-03-05",
       "percentage_under_10_seconds": 99.99792543154777
     },
@@ -7041,8 +7041,12 @@
     {
       "date": "2026-03-10",
       "percentage_under_10_seconds": 99.99854799929963
+    },
+    {
+      "date": "2026-03-11",
+      "percentage_under_10_seconds": 99.99922896432054
     }
   ],
-  "sms_notifications": 4974656893,
-  "total_notifications": 12236071096
+  "sms_notifications": 4978393865,
+  "total_notifications": 12244070645
 }
