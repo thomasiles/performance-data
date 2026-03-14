@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99898998900116,
+  "average_percentage_under_10_seconds": 99.99893547680969,
   "count_of_live_services_and_organisations": {
     "organisations": 1743,
-    "services": 11933
+    "services": 11922
   },
-  "email_notifications": 7177363073,
-  "letter_notifications": 92939871,
-  "live_service_count": 11933,
+  "email_notifications": 7181224123,
+  "letter_notifications": 93049946,
+  "live_service_count": 11922,
   "notifications_by_type": [
-    {
-      "date": "2026-03-06",
-      "emails": 4057967,
-      "letters": 57743,
-      "sms": 3082655
-    },
     {
       "date": "2026-03-07",
       "emails": 2086063,
@@ -49,6 +43,12 @@
       "emails": 4564354,
       "letters": 61810,
       "sms": 3479111
+    },
+    {
+      "date": "2026-03-13",
+      "emails": 3861050,
+      "letters": 110075,
+      "sms": 3021223
     }
   ],
   "organisations_using_notify": [
@@ -193,7 +193,7 @@
       "organisation_name": "Amery Hill School Academy Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Aneurin Bevan University Health Board"
     },
     {
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 116,
+      "count_of_live_services": 117,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -1997,7 +1997,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 125,
+      "count_of_live_services": 124,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2761,7 +2761,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 88,
+      "count_of_live_services": 74,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -3897,7 +3897,7 @@
       "organisation_name": "NHS England"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "NHS Forth Valley"
     },
     {
@@ -4181,7 +4181,7 @@
       "organisation_name": "Northumbria Healthcare NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Northumbria Police"
     },
     {
@@ -7023,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-06",
-      "percentage_under_10_seconds": 99.99880723572555
-    },
-    {
       "date": "2026-03-07",
       "percentage_under_10_seconds": 99.99924564738542
     },
@@ -7049,8 +7045,12 @@
     {
       "date": "2026-03-12",
       "percentage_under_10_seconds": 99.99878315908582
+    },
+    {
+      "date": "2026-03-13",
+      "percentage_under_10_seconds": 99.99842565038529
     }
   ],
-  "sms_notifications": 4981872976,
-  "total_notifications": 12252175920
+  "sms_notifications": 4984894199,
+  "total_notifications": 12259168268
 }
