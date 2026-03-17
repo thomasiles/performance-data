@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99888767386739,
+  "average_percentage_under_10_seconds": 99.99903038937478,
   "count_of_live_services_and_organisations": {
     "organisations": 1743,
-    "services": 11922
+    "services": 11931
   },
-  "email_notifications": 7184731328,
-  "letter_notifications": 93080016,
-  "live_service_count": 11922,
+  "email_notifications": 7188597499,
+  "letter_notifications": 93134101,
+  "live_service_count": 11931,
   "notifications_by_type": [
-    {
-      "date": "2026-03-09",
-      "emails": 4101591,
-      "letters": 76791,
-      "sms": 3860609
-    },
     {
       "date": "2026-03-10",
       "emails": 4142526,
@@ -49,6 +43,12 @@
       "emails": 1476162,
       "letters": 6159,
       "sms": 1313203
+    },
+    {
+      "date": "2026-03-16",
+      "emails": 3866171,
+      "letters": 54085,
+      "sms": 3996634
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 175,
+      "count_of_live_services": 176,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Education"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
@@ -1813,7 +1813,7 @@
       "organisation_name": "East Ayrshire Council"
     },
     {
-      "count_of_live_services": 45,
+      "count_of_live_services": 46,
       "organisation_name": "East Cheshire NHS Trust"
     },
     {
@@ -1897,7 +1897,7 @@
       "organisation_name": "East Sussex Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Eastbourne Borough Council"
     },
     {
@@ -3993,7 +3993,7 @@
       "organisation_name": "Norfolk Community Health and Care NHS Trust"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Norfolk County Council"
     },
     {
@@ -4065,7 +4065,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -4369,7 +4369,7 @@
       "organisation_name": "Ousedale School"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Oxford City Council"
     },
     {
@@ -5673,7 +5673,7 @@
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Stoke-on-Trent City Council"
     },
     {
@@ -5841,7 +5841,7 @@
       "organisation_name": "Teignbridge District Council"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Telford & Wrekin Council"
     },
     {
@@ -7023,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-09",
-      "percentage_under_10_seconds": 99.998596219494
-    },
-    {
       "date": "2026-03-10",
       "percentage_under_10_seconds": 99.99854799929963
     },
@@ -7049,8 +7045,12 @@
     {
       "date": "2026-03-15",
       "percentage_under_10_seconds": 99.99978165644879
+    },
+    {
+      "date": "2026-03-16",
+      "percentage_under_10_seconds": 99.99959522804572
     }
   ],
-  "sms_notifications": 4987337532,
-  "total_notifications": 12265148876
+  "sms_notifications": 4991334166,
+  "total_notifications": 12273065766
 }
