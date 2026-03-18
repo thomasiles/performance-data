@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99903038937478,
+  "average_percentage_under_10_seconds": 99.99883645890775,
   "count_of_live_services_and_organisations": {
-    "organisations": 1743,
-    "services": 11931
+    "organisations": 1744,
+    "services": 11941
   },
-  "email_notifications": 7188597499,
-  "letter_notifications": 93134101,
-  "live_service_count": 11931,
+  "email_notifications": 7194984276,
+  "letter_notifications": 93204040,
+  "live_service_count": 11941,
   "notifications_by_type": [
-    {
-      "date": "2026-03-10",
-      "emails": 4142526,
-      "letters": 115887,
-      "sms": 3680229
-    },
     {
       "date": "2026-03-11",
       "emails": 4122264,
@@ -49,6 +43,12 @@
       "emails": 3866171,
       "letters": 54085,
       "sms": 3996634
+    },
+    {
+      "date": "2026-03-17",
+      "emails": 6386777,
+      "letters": 69939,
+      "sms": 3846003
     }
   ],
   "organisations_using_notify": [
@@ -201,7 +201,7 @@
       "organisation_name": "Angus Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Animal & Plant Health Agency"
     },
     {
@@ -889,7 +889,7 @@
       "organisation_name": "Calderdale and Huddersfield NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Calderdale Council"
     },
     {
@@ -989,7 +989,7 @@
       "organisation_name": "Care Quality Commission"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Carmarthenshire County Council"
     },
     {
@@ -1589,7 +1589,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 191,
+      "count_of_live_services": 192,
       "organisation_name": "Department for Education"
     },
     {
@@ -2665,7 +2665,7 @@
       "organisation_name": "Herefordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Herefordshire Council"
     },
     {
@@ -2982,6 +2982,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Kat's test organisation"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Kelmscott School"
     },
     {
@@ -3281,7 +3285,7 @@
       "organisation_name": "Levenshulme High School"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Lewisham Council"
     },
     {
@@ -3673,7 +3677,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1098,
+      "count_of_live_services": 1099,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4337,7 +4341,7 @@
       "organisation_name": "Orchard Multi-Academy Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Ordnance Survey"
     },
     {
@@ -4949,7 +4953,7 @@
       "organisation_name": "Salesian School"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Salford City Council"
     },
     {
@@ -7023,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-10",
-      "percentage_under_10_seconds": 99.99854799929963
-    },
-    {
       "date": "2026-03-11",
       "percentage_under_10_seconds": 99.99922896432054
     },
@@ -7049,8 +7049,12 @@
     {
       "date": "2026-03-16",
       "percentage_under_10_seconds": 99.99959522804572
+    },
+    {
+      "date": "2026-03-17",
+      "percentage_under_10_seconds": 99.99719048603046
     }
   ],
-  "sms_notifications": 4991334166,
-  "total_notifications": 12273065766
+  "sms_notifications": 4995180169,
+  "total_notifications": 12283368485
 }
