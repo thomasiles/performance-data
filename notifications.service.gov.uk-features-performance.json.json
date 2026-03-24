@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9982398689772,
+  "average_percentage_under_10_seconds": 99.9979561438267,
   "count_of_live_services_and_organisations": {
-    "organisations": 1744,
-    "services": 11965
+    "organisations": 1743,
+    "services": 11967
   },
-  "email_notifications": 7213375014,
-  "letter_notifications": 93524893,
-  "live_service_count": 11965,
+  "email_notifications": 7217352022,
+  "letter_notifications": 93574825,
+  "live_service_count": 11967,
   "notifications_by_type": [
-    {
-      "date": "2026-03-16",
-      "emails": 3866171,
-      "letters": 54085,
-      "sms": 3996634
-    },
     {
       "date": "2026-03-17",
       "emails": 6386777,
@@ -49,6 +43,12 @@
       "emails": 1441541,
       "letters": 5813,
       "sms": 1353169
+    },
+    {
+      "date": "2026-03-23",
+      "emails": 3977008,
+      "letters": 49932,
+      "sms": 3904491
     }
   ],
   "organisations_using_notify": [
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 125,
+      "count_of_live_services": 124,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2261,7 +2261,7 @@
       "organisation_name": "GLF Schools"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Gloucester City Council"
     },
     {
@@ -2509,7 +2509,7 @@
       "organisation_name": "Haringey London Borough Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Harlow District Council"
     },
     {
@@ -2979,10 +2979,6 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "Judicial Appointments Commission"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Kat's test organisation"
     },
     {
       "count_of_live_services": 1,
@@ -3685,7 +3681,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 369,
+      "count_of_live_services": 370,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -6209,7 +6205,7 @@
       "organisation_name": "Thrive Tribe Ltd"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Thurrock Council"
     },
     {
@@ -7027,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-16",
-      "percentage_under_10_seconds": 99.99959522804572
-    },
-    {
       "date": "2026-03-17",
       "percentage_under_10_seconds": 99.99719048603046
     },
@@ -7053,8 +7045,12 @@
     {
       "date": "2026-03-22",
       "percentage_under_10_seconds": 99.99996377545273
+    },
+    {
+      "date": "2026-03-23",
+      "percentage_under_10_seconds": 99.9976091519923
     }
   ],
-  "sms_notifications": 5007802409,
-  "total_notifications": 12314702316
+  "sms_notifications": 5011706900,
+  "total_notifications": 12322633747
 }
