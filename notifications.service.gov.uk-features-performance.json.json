@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9979561438267,
+  "average_percentage_under_10_seconds": 99.99780009188882,
   "count_of_live_services_and_organisations": {
-    "organisations": 1743,
-    "services": 11967
+    "organisations": 1744,
+    "services": 11975
   },
-  "email_notifications": 7217352022,
-  "letter_notifications": 93574825,
-  "live_service_count": 11967,
+  "email_notifications": 7222106128,
+  "letter_notifications": 93656852,
+  "live_service_count": 11975,
   "notifications_by_type": [
-    {
-      "date": "2026-03-17",
-      "emails": 6386777,
-      "letters": 69939,
-      "sms": 3846003
-    },
     {
       "date": "2026-03-18",
       "emails": 5735410,
@@ -49,6 +43,12 @@
       "emails": 3977008,
       "letters": 49932,
       "sms": 3904491
+    },
+    {
+      "date": "2026-03-24",
+      "emails": 4754106,
+      "letters": 82027,
+      "sms": 3674245
     }
   ],
   "organisations_using_notify": [
@@ -113,7 +113,7 @@
       "organisation_name": "Adur and Worthing Councils"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Advisory, Conciliation and Arbitration Service"
     },
     {
@@ -1121,7 +1121,7 @@
       "organisation_name": "Cheshire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Cheshire West and Chester Council"
     },
     {
@@ -2801,7 +2801,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 714,
+      "count_of_live_services": 715,
       "organisation_name": "Home Office"
     },
     {
@@ -3569,7 +3569,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3905,7 +3905,7 @@
       "organisation_name": "NHS Greater Glasgow and Clyde"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "NHS Greater Manchester"
     },
     {
@@ -4633,7 +4633,7 @@
       "organisation_name": "Queen's Croft High School"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Queensbridge Primary School"
     },
     {
@@ -6149,6 +6149,10 @@
       "organisation_name": "The Royal Borough of Windsor and Maidenhead"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "The Royal Marsden NHS Foundation Trust"
+    },
+    {
       "count_of_live_services": 4,
       "organisation_name": "The Royal Wolverhampton NHS Trust"
     },
@@ -6549,7 +6553,7 @@
       "organisation_name": "Warwick District Council"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Warwickshire County Council"
     },
     {
@@ -7023,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-17",
-      "percentage_under_10_seconds": 99.99719048603046
-    },
-    {
       "date": "2026-03-18",
       "percentage_under_10_seconds": 99.9979802516298
     },
@@ -7049,8 +7049,12 @@
     {
       "date": "2026-03-23",
       "percentage_under_10_seconds": 99.9976091519923
+    },
+    {
+      "date": "2026-03-24",
+      "percentage_under_10_seconds": 99.9960981224653
     }
   ],
-  "sms_notifications": 5011706900,
-  "total_notifications": 12322633747
+  "sms_notifications": 5015381145,
+  "total_notifications": 12331144125
 }
