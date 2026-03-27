@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99768234138521,
+  "average_percentage_under_10_seconds": 99.9979219635561,
   "count_of_live_services_and_organisations": {
-    "organisations": 1744,
-    "services": 11985
+    "organisations": 1743,
+    "services": 11990
   },
-  "email_notifications": 7226551856,
-  "letter_notifications": 93762012,
-  "live_service_count": 11985,
+  "email_notifications": 7231241365,
+  "letter_notifications": 93827100,
+  "live_service_count": 11990,
   "notifications_by_type": [
-    {
-      "date": "2026-03-19",
-      "emails": 5509240,
-      "letters": 62841,
-      "sms": 3572761
-    },
     {
       "date": "2026-03-20",
       "emails": 3712762,
@@ -49,6 +43,12 @@
       "emails": 4445728,
       "letters": 105160,
       "sms": 3626217
+    },
+    {
+      "date": "2026-03-26",
+      "emails": 4689509,
+      "letters": 65088,
+      "sms": 3435192
     }
   ],
   "organisations_using_notify": [
@@ -745,7 +745,7 @@
       "organisation_name": "Bristol City Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Bristol, North Somerset & South Gloucestershire Clinical Commissioning Group"
     },
     {
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 177,
+      "count_of_live_services": 178,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -921,7 +921,7 @@
       "organisation_name": "Cambridgeshire and Peterborough Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Cambridgeshire and Peterborough NHS Foundation Trust"
     },
     {
@@ -1893,7 +1893,7 @@
       "organisation_name": "East Sussex County Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "East Sussex Healthcare NHS Trust"
     },
     {
@@ -2505,7 +2505,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3673,7 +3673,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1101,
+      "count_of_live_services": 1102,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4618,6 +4618,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Public Sector Partnership Services Limited"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Queen Elizabeth School"
     },
     {
@@ -4979,14 +4983,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Sanctuary Group"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "SANDBERN CLINIC"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Sandbern Covid Clinic"
     },
     {
       "count_of_live_services": 1,
@@ -7027,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-19",
-      "percentage_under_10_seconds": 99.99780118503986
-    },
-    {
       "date": "2026-03-20",
       "percentage_under_10_seconds": 99.9962912358686
     },
@@ -7053,8 +7045,12 @@
     {
       "date": "2026-03-25",
       "percentage_under_10_seconds": 99.99715599810456
+    },
+    {
+      "date": "2026-03-26",
+      "percentage_under_10_seconds": 99.99947854023597
     }
   ],
-  "sms_notifications": 5019007362,
-  "total_notifications": 12339321230
+  "sms_notifications": 5022442554,
+  "total_notifications": 12347511019
 }
