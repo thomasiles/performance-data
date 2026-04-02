@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99797165388527,
+  "average_percentage_under_10_seconds": 99.99808405545971,
   "count_of_live_services_and_organisations": {
-    "organisations": 1743,
-    "services": 11999
+    "organisations": 1744,
+    "services": 12006
   },
-  "email_notifications": 7247370672,
-  "letter_notifications": 94063654,
-  "live_service_count": 11999,
+  "email_notifications": 7252067681,
+  "letter_notifications": 94161274,
+  "live_service_count": 12006,
   "notifications_by_type": [
-    {
-      "date": "2026-03-25",
-      "emails": 4445728,
-      "letters": 105160,
-      "sms": 3626217
-    },
     {
       "date": "2026-03-26",
       "emails": 4689509,
@@ -49,6 +43,12 @@
       "emails": 4604423,
       "letters": 72771,
       "sms": 3619072
+    },
+    {
+      "date": "2026-04-01",
+      "emails": 4697009,
+      "letters": 97620,
+      "sms": 4051508
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 178,
+      "count_of_live_services": 175,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -946,6 +946,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Cansfield High School"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Cantell School"
     },
     {
@@ -969,7 +973,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -989,7 +993,7 @@
       "organisation_name": "Care Quality Commission"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 8,
       "organisation_name": "Carmarthenshire County Council"
     },
     {
@@ -1605,7 +1609,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 124,
+      "count_of_live_services": 127,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1621,7 +1625,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 117,
+      "count_of_live_services": 118,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2269,7 +2273,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -2765,7 +2769,7 @@
       "organisation_name": "HM Revenue & Customs"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "HM Treasury"
     },
     {
@@ -3673,7 +3677,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1102,
+      "count_of_live_services": 1103,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5729,7 +5733,7 @@
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6365,7 +6369,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -7023,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-25",
-      "percentage_under_10_seconds": 99.99715599810456
-    },
-    {
       "date": "2026-03-26",
       "percentage_under_10_seconds": 99.99947854023597
     },
@@ -7049,8 +7049,12 @@
     {
       "date": "2026-03-31",
       "percentage_under_10_seconds": 99.99651774112999
+    },
+    {
+      "date": "2026-04-01",
+      "percentage_under_10_seconds": 99.9979428091256
     }
   ],
-  "sms_notifications": 5035612072,
-  "total_notifications": 12377046398
+  "sms_notifications": 5039663580,
+  "total_notifications": 12385892535
 }
