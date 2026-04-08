@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99826079623809,
+  "average_percentage_under_10_seconds": 99.99848299828273,
   "count_of_live_services_and_organisations": {
-    "organisations": 1745,
-    "services": 12015
+    "organisations": 1746,
+    "services": 12018
   },
-  "email_notifications": 7263662355,
-  "letter_notifications": 94304543,
-  "live_service_count": 12015,
+  "email_notifications": 7267845388,
+  "letter_notifications": 94373172,
+  "live_service_count": 12018,
   "notifications_by_type": [
-    {
-      "date": "2026-03-31",
-      "emails": 4604423,
-      "letters": 72771,
-      "sms": 3619072
-    },
     {
       "date": "2026-04-01",
       "emails": 4697009,
@@ -49,6 +43,12 @@
       "emails": 2210286,
       "letters": 9388,
       "sms": 2228108
+    },
+    {
+      "date": "2026-04-07",
+      "emails": 4183033,
+      "letters": 68629,
+      "sms": 4253256
     }
   ],
   "organisations_using_notify": [
@@ -2053,6 +2053,10 @@
       "organisation_name": "Eynsham Medical Group"
     },
     {
+      "count_of_live_services": 3,
+      "organisation_name": "Fair Work Agency"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Fairfield High School"
     },
@@ -2809,7 +2813,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 718,
+      "count_of_live_services": 719,
       "organisation_name": "Home Office"
     },
     {
@@ -3793,7 +3797,7 @@
       "organisation_name": "Natural Resources Wales"
     },
     {
-      "count_of_live_services": 42,
+      "count_of_live_services": 43,
       "organisation_name": "Neath Port Talbot County Borough Council"
     },
     {
@@ -4969,6 +4973,10 @@
       "organisation_name": "Salford Clinical Commissioning Group"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "salford primary care together"
+    },
+    {
       "count_of_live_services": 3,
       "organisation_name": "Salford Royal NHS Foundation Trust"
     },
@@ -5995,10 +6003,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "The Gamston Medical Centre"
-    },
-    {
-      "count_of_live_services": 3,
-      "organisation_name": "The Gangmasters and Labour Abuse Authority"
     },
     {
       "count_of_live_services": 1,
@@ -7031,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-03-31",
-      "percentage_under_10_seconds": 99.99651774112999
-    },
-    {
       "date": "2026-04-01",
       "percentage_under_10_seconds": 99.9979428091256
     },
@@ -7057,8 +7057,12 @@
     {
       "date": "2026-04-06",
       "percentage_under_10_seconds": 99.99847742050866
+    },
+    {
+      "date": "2026-04-07",
+      "percentage_under_10_seconds": 99.99807315544248
     }
   ],
-  "sms_notifications": 5049051035,
-  "total_notifications": 12407017933
+  "sms_notifications": 5053304291,
+  "total_notifications": 12415522851
 }
