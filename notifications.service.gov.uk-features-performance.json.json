@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99839944980111,
+  "average_percentage_under_10_seconds": 99.99801783350765,
   "count_of_live_services_and_organisations": {
     "organisations": 1746,
-    "services": 12027
+    "services": 12039
   },
-  "email_notifications": 7279205784,
-  "letter_notifications": 94540216,
-  "live_service_count": 12027,
+  "email_notifications": 7284090352,
+  "letter_notifications": 94604272,
+  "live_service_count": 12039,
   "notifications_by_type": [
-    {
-      "date": "2026-04-03",
-      "emails": 2064962,
-      "letters": 32258,
-      "sms": 1596349
-    },
     {
       "date": "2026-04-04",
       "emails": 1612297,
@@ -49,6 +43,12 @@
       "emails": 6649696,
       "letters": 62533,
       "sms": 4315221
+    },
+    {
+      "date": "2026-04-10",
+      "emails": 4884568,
+      "letters": 64056,
+      "sms": 3685418
     }
   ],
   "organisations_using_notify": [
@@ -341,7 +341,7 @@
       "organisation_name": "Barking & Dagenham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Barking & Dagenham London Borough Council"
     },
     {
@@ -657,7 +657,7 @@
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Bracknell Forest Council"
     },
     {
@@ -825,7 +825,7 @@
       "organisation_name": "Buckden & Little Paxton Surgeries"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Buckinghamshire Council"
     },
     {
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 174,
+      "count_of_live_services": 175,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2461,7 +2461,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2813,7 +2813,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 722,
+      "count_of_live_services": 723,
       "organisation_name": "Home Office"
     },
     {
@@ -3145,7 +3145,7 @@
       "organisation_name": "Knole Academy"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Knowsley Metropolitan Borough Council"
     },
     {
@@ -3357,7 +3357,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "London Borough of Hillingdon"
     },
     {
@@ -3685,7 +3685,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1105,
+      "count_of_live_services": 1106,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3881,7 +3881,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 74,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -4349,7 +4349,7 @@
       "organisation_name": "Orchard Multi-Academy Trust"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Ordnance Survey"
     },
     {
@@ -6561,7 +6561,7 @@
       "organisation_name": "Warwick District Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Warwickshire County Council"
     },
     {
@@ -7035,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-03",
-      "percentage_under_10_seconds": 99.9997385284439
-    },
-    {
       "date": "2026-04-04",
       "percentage_under_10_seconds": 99.9981312053992
     },
@@ -7061,8 +7057,12 @@
     {
       "date": "2026-04-09",
       "percentage_under_10_seconds": 99.99683699117732
+    },
+    {
+      "date": "2026-04-10",
+      "percentage_under_10_seconds": 99.99706721438966
     }
   ],
-  "sms_notifications": 5061878619,
-  "total_notifications": 12435624619
+  "sms_notifications": 5065564037,
+  "total_notifications": 12444258661
 }
