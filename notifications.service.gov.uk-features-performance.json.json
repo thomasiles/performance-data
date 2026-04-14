@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99823597621238,
+  "average_percentage_under_10_seconds": 99.99817364271426,
   "count_of_live_services_and_organisations": {
     "organisations": 1746,
-    "services": 12039
+    "services": 12043
   },
-  "email_notifications": 7287513401,
-  "letter_notifications": 94637110,
-  "live_service_count": 12039,
+  "email_notifications": 7291141787,
+  "letter_notifications": 94694796,
+  "live_service_count": 12043,
   "notifications_by_type": [
-    {
-      "date": "2026-04-06",
-      "emails": 2210286,
-      "letters": 9388,
-      "sms": 2228108
-    },
     {
       "date": "2026-04-07",
       "emails": 4183033,
@@ -49,6 +43,12 @@
       "emails": 1368184,
       "letters": 7542,
       "sms": 1502392
+    },
+    {
+      "date": "2026-04-13",
+      "emails": 3628386,
+      "letters": 57686,
+      "sms": 4554537
     }
   ],
   "organisations_using_notify": [
@@ -2521,7 +2521,7 @@
       "organisation_name": "Haringey London Borough Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Harlow District Council"
     },
     {
@@ -2773,7 +2773,7 @@
       "organisation_name": "HM Prison & Probation Service"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "HM Revenue & Customs"
     },
     {
@@ -3509,7 +3509,7 @@
       "organisation_name": "Marine Management Organisation"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Maritime & Coastguard Agency"
     },
     {
@@ -3829,7 +3829,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 47,
+      "count_of_live_services": 48,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -7035,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-06",
-      "percentage_under_10_seconds": 99.99847742050866
-    },
-    {
       "date": "2026-04-07",
       "percentage_under_10_seconds": 99.99807315544248
     },
@@ -7061,8 +7057,12 @@
     {
       "date": "2026-04-12",
       "percentage_under_10_seconds": 99.99985860528251
+    },
+    {
+      "date": "2026-04-13",
+      "percentage_under_10_seconds": 99.9980410860219
     }
   ],
-  "sms_notifications": 5068418946,
-  "total_notifications": 12450569457
+  "sms_notifications": 5072973483,
+  "total_notifications": 12458810066
 }
