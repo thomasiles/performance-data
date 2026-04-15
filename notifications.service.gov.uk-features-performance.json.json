@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99817364271426,
+  "average_percentage_under_10_seconds": 99.99806660648984,
   "count_of_live_services_and_organisations": {
     "organisations": 1746,
-    "services": 12043
+    "services": 12049
   },
-  "email_notifications": 7291141787,
-  "letter_notifications": 94694796,
-  "live_service_count": 12043,
+  "email_notifications": 7296149855,
+  "letter_notifications": 94823003,
+  "live_service_count": 12049,
   "notifications_by_type": [
-    {
-      "date": "2026-04-07",
-      "emails": 4183033,
-      "letters": 68629,
-      "sms": 4253256
-    },
     {
       "date": "2026-04-08",
       "emails": 4710700,
@@ -49,6 +43,12 @@
       "emails": 3628386,
       "letters": 57686,
       "sms": 4554537
+    },
+    {
+      "date": "2026-04-14",
+      "emails": 5008068,
+      "letters": 128207,
+      "sms": 5004200
     }
   ],
   "organisations_using_notify": [
@@ -861,7 +861,7 @@
       "organisation_name": "Burton and South Derbyshire College"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Bury Metropolitan Borough Council"
     },
     {
@@ -973,7 +973,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 16,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -3685,7 +3685,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1106,
+      "count_of_live_services": 1107,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4257,7 +4257,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -4881,7 +4881,7 @@
       "organisation_name": "Royal Botanic Gardens, Kew"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
@@ -6377,7 +6377,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6405,7 +6405,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 43,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7035,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-07",
-      "percentage_under_10_seconds": 99.99807315544248
-    },
-    {
       "date": "2026-04-08",
       "percentage_under_10_seconds": 99.9979463863784
     },
@@ -7061,8 +7057,12 @@
     {
       "date": "2026-04-13",
       "percentage_under_10_seconds": 99.9980410860219
+    },
+    {
+      "date": "2026-04-14",
+      "percentage_under_10_seconds": 99.9973239018715
     }
   ],
-  "sms_notifications": 5072973483,
-  "total_notifications": 12458810066
+  "sms_notifications": 5077977683,
+  "total_notifications": 12468950541
 }
