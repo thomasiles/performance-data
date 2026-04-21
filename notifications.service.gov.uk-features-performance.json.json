@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99878896991783,
+  "average_percentage_under_10_seconds": 99.99813987357525,
   "count_of_live_services_and_organisations": {
     "organisations": 1744,
-    "services": 12057
+    "services": 12056
   },
-  "email_notifications": 7311224262,
-  "letter_notifications": 95102414,
-  "live_service_count": 12057,
+  "email_notifications": 7315176507,
+  "letter_notifications": 95155371,
+  "live_service_count": 12056,
   "notifications_by_type": [
-    {
-      "date": "2026-04-13",
-      "emails": 3628386,
-      "letters": 57686,
-      "sms": 4554537
-    },
     {
       "date": "2026-04-14",
       "emails": 5008068,
@@ -49,6 +43,12 @@
       "emails": 1325408,
       "letters": 5839,
       "sms": 1400316
+    },
+    {
+      "date": "2026-04-20",
+      "emails": 3952245,
+      "letters": 52957,
+      "sms": 4180307
     }
   ],
   "organisations_using_notify": [
@@ -1997,7 +1997,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 124,
+      "count_of_live_services": 123,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3437,6 +3437,10 @@
       "organisation_name": "Lyndhurst Medical Centre"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Maidenhall Primary School"
+    },
+    {
       "count_of_live_services": 16,
       "organisation_name": "Maidstone Borough Council"
     },
@@ -3705,7 +3709,7 @@
       "organisation_name": "Mole Valley District Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 11,
       "organisation_name": "Money and Pensions Service"
     },
     {
@@ -3717,7 +3721,7 @@
       "organisation_name": "Monmouthshire County Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Moray Council"
     },
     {
@@ -4114,7 +4118,7 @@
     },
     {
       "count_of_live_services": 40,
-      "organisation_name": "North Yorkshire County Council"
+      "organisation_name": "North Yorkshire Council"
     },
     {
       "count_of_live_services": 1,
@@ -5079,10 +5083,6 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Selby College"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Selby District Council"
     },
     {
       "count_of_live_services": 1,
@@ -7027,10 +7027,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-13",
-      "percentage_under_10_seconds": 99.9980410860219
-    },
-    {
       "date": "2026-04-14",
       "percentage_under_10_seconds": 99.9973239018715
     },
@@ -7053,8 +7049,12 @@
     {
       "date": "2026-04-19",
       "percentage_under_10_seconds": 99.99996272612198
+    },
+    {
+      "date": "2026-04-20",
+      "percentage_under_10_seconds": 99.99349741162395
     }
   ],
-  "sms_notifications": 5092253364,
-  "total_notifications": 12498580040
+  "sms_notifications": 5096433671,
+  "total_notifications": 12506765549
 }
