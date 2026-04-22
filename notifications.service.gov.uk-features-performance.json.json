@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99813987357525,
+  "average_percentage_under_10_seconds": 99.99822672674219,
   "count_of_live_services_and_organisations": {
-    "organisations": 1744,
-    "services": 12056
+    "organisations": 1743,
+    "services": 12066
   },
-  "email_notifications": 7315176507,
-  "letter_notifications": 95155371,
-  "live_service_count": 12056,
+  "email_notifications": 7319023411,
+  "letter_notifications": 95229690,
+  "live_service_count": 12066,
   "notifications_by_type": [
-    {
-      "date": "2026-04-14",
-      "emails": 5008068,
-      "letters": 128207,
-      "sms": 5004200
-    },
     {
       "date": "2026-04-15",
       "emails": 4264238,
@@ -49,6 +43,12 @@
       "emails": 3952245,
       "letters": 52957,
       "sms": 4180307
+    },
+    {
+      "date": "2026-04-21",
+      "emails": 3846904,
+      "letters": 74319,
+      "sms": 5371522
     }
   ],
   "organisations_using_notify": [
@@ -1249,7 +1249,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 10,
       "organisation_name": "City of York Council"
     },
     {
@@ -2813,7 +2813,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 727,
+      "count_of_live_services": 729,
       "organisation_name": "Home Office"
     },
     {
@@ -2965,7 +2965,7 @@
       "organisation_name": "Islington Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Islington London Borough Council"
     },
     {
@@ -3013,7 +3013,7 @@
       "organisation_name": "Kensington Group Practice"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
@@ -3685,7 +3685,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1107,
+      "count_of_live_services": 1108,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3693,7 +3693,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 368,
+      "count_of_live_services": 369,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3901,7 +3901,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 87,
+      "count_of_live_services": 88,
       "organisation_name": "NHS England"
     },
     {
@@ -4065,7 +4065,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4771,10 +4771,6 @@
     {
       "count_of_live_services": 39,
       "organisation_name": "Richmond and Wandsworth Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Richmondshire District Council"
     },
     {
       "count_of_live_services": 1,
@@ -6369,7 +6365,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6397,7 +6393,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 46,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6525,7 +6521,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -7027,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-14",
-      "percentage_under_10_seconds": 99.9973239018715
-    },
-    {
       "date": "2026-04-15",
       "percentage_under_10_seconds": 99.99909393548367
     },
@@ -7053,8 +7045,12 @@
     {
       "date": "2026-04-20",
       "percentage_under_10_seconds": 99.99349741162395
+    },
+    {
+      "date": "2026-04-21",
+      "percentage_under_10_seconds": 99.99793187404002
     }
   ],
-  "sms_notifications": 5096433671,
-  "total_notifications": 12506765549
+  "sms_notifications": 5101805193,
+  "total_notifications": 12516058294
 }
