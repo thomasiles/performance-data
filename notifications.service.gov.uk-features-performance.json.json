@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99822672674219,
+  "average_percentage_under_10_seconds": 99.9981877569393,
   "count_of_live_services_and_organisations": {
-    "organisations": 1743,
-    "services": 12066
+    "organisations": 1742,
+    "services": 12068
   },
-  "email_notifications": 7319023411,
-  "letter_notifications": 95229690,
-  "live_service_count": 12066,
+  "email_notifications": 7322548327,
+  "letter_notifications": 95281681,
+  "live_service_count": 12068,
   "notifications_by_type": [
-    {
-      "date": "2026-04-15",
-      "emails": 4264238,
-      "letters": 86830,
-      "sms": 4250975
-    },
     {
       "date": "2026-04-16",
       "emails": 4058420,
@@ -49,6 +43,12 @@
       "emails": 3846904,
       "letters": 74319,
       "sms": 5371522
+    },
+    {
+      "date": "2026-04-22",
+      "emails": 3524916,
+      "letters": 51991,
+      "sms": 4783759
     }
   ],
   "organisations_using_notify": [
@@ -1309,7 +1309,7 @@
       "organisation_name": "Colchester Institute"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Coleraine Borough Council"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 92,
+      "count_of_live_services": 93,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3657,10 +3657,6 @@
       "organisation_name": "Middlewich High School"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Midland Heart Ltd"
-    },
-    {
       "count_of_live_services": 7,
       "organisation_name": "Midlands and Lancashire Commissioning Support Unit"
     },
@@ -5421,7 +5417,7 @@
       "organisation_name": "Springmead Surgery"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "St Albans District Council"
     },
     {
@@ -7023,10 +7019,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-15",
-      "percentage_under_10_seconds": 99.99909393548367
-    },
-    {
       "date": "2026-04-16",
       "percentage_under_10_seconds": 99.99818043612837
     },
@@ -7049,8 +7041,12 @@
     {
       "date": "2026-04-21",
       "percentage_under_10_seconds": 99.99793187404002
+    },
+    {
+      "date": "2026-04-22",
+      "percentage_under_10_seconds": 99.99882114686346
     }
   ],
-  "sms_notifications": 5101805193,
-  "total_notifications": 12516058294
+  "sms_notifications": 5106588952,
+  "total_notifications": 12524418960
 }
