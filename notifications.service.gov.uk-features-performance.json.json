@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9981877569393,
+  "average_percentage_under_10_seconds": 99.99813916368922,
   "count_of_live_services_and_organisations": {
     "organisations": 1742,
-    "services": 12068
+    "services": 12078
   },
-  "email_notifications": 7322548327,
-  "letter_notifications": 95281681,
-  "live_service_count": 12068,
+  "email_notifications": 7326701751,
+  "letter_notifications": 95329053,
+  "live_service_count": 12078,
   "notifications_by_type": [
-    {
-      "date": "2026-04-16",
-      "emails": 4058420,
-      "letters": 99693,
-      "sms": 4105927
-    },
     {
       "date": "2026-04-17",
       "emails": 3509210,
@@ -49,6 +43,12 @@
       "emails": 3524916,
       "letters": 51991,
       "sms": 4783759
+    },
+    {
+      "date": "2026-04-23",
+      "emails": 4153424,
+      "letters": 47372,
+      "sms": 3943139
     }
   ],
   "organisations_using_notify": [
@@ -973,7 +973,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 18,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 118,
+      "count_of_live_services": 119,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2213,7 +2213,7 @@
       "organisation_name": "Gateacre School"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Gateshead Health NHS Foundation Trust"
     },
     {
@@ -2813,7 +2813,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 729,
+      "count_of_live_services": 730,
       "organisation_name": "Home Office"
     },
     {
@@ -3177,7 +3177,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3465,7 +3465,7 @@
       "organisation_name": "Manchester Active"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Manchester City Council"
     },
     {
@@ -3681,7 +3681,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1108,
+      "count_of_live_services": 1109,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3897,7 +3897,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 88,
+      "count_of_live_services": 89,
       "organisation_name": "NHS England"
     },
     {
@@ -3937,7 +3937,7 @@
       "organisation_name": "NHS North East London Integrated Care Board"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 12,
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
@@ -6733,7 +6733,7 @@
       "organisation_name": "West Suffolk NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "West Sussex County Council"
     },
     {
@@ -6809,7 +6809,7 @@
       "organisation_name": "Wigan and Leigh College"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Wigan Council"
     },
     {
@@ -7019,10 +7019,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-16",
-      "percentage_under_10_seconds": 99.99818043612837
-    },
-    {
       "date": "2026-04-17",
       "percentage_under_10_seconds": 99.9995975772865
     },
@@ -7045,8 +7041,12 @@
     {
       "date": "2026-04-22",
       "percentage_under_10_seconds": 99.99882114686346
+    },
+    {
+      "date": "2026-04-23",
+      "percentage_under_10_seconds": 99.9978402833777
     }
   ],
-  "sms_notifications": 5106588952,
-  "total_notifications": 12524418960
+  "sms_notifications": 5110532091,
+  "total_notifications": 12532562895
 }
