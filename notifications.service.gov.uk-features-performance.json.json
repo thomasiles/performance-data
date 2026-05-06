@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99839143448388,
+  "average_percentage_under_10_seconds": 99.99825120532785,
   "count_of_live_services_and_organisations": {
     "organisations": 1743,
-    "services": 12103
+    "services": 12110
   },
-  "email_notifications": 7357676220,
-  "letter_notifications": 95856678,
-  "live_service_count": 12103,
+  "email_notifications": 7361617608,
+  "letter_notifications": 95917415,
+  "live_service_count": 12110,
   "notifications_by_type": [
-    {
-      "date": "2026-04-28",
-      "emails": 4200585,
-      "letters": 72667,
-      "sms": 4295320
-    },
     {
       "date": "2026-04-29",
       "emails": 3536997,
@@ -49,6 +43,12 @@
       "emails": 1652576,
       "letters": 9013,
       "sms": 2149301
+    },
+    {
+      "date": "2026-05-05",
+      "emails": 3941388,
+      "letters": 60737,
+      "sms": 4584444
     }
   ],
   "organisations_using_notify": [
@@ -825,7 +825,7 @@
       "organisation_name": "Buckden & Little Paxton Surgeries"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Buckinghamshire Council"
     },
     {
@@ -861,7 +861,7 @@
       "organisation_name": "Burton and South Derbyshire College"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Bury Metropolitan Borough Council"
     },
     {
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 176,
+      "count_of_live_services": 174,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1585,7 +1585,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 93,
+      "count_of_live_services": 94,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3689,7 +3689,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1110,
+      "count_of_live_services": 1112,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4065,7 +4065,7 @@
       "organisation_name": "North Lincolnshire Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "North Norfolk District Council"
     },
     {
@@ -4085,7 +4085,7 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
@@ -4517,7 +4517,7 @@
       "organisation_name": "Pleckgate High School"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Plymouth City Council"
     },
     {
@@ -7023,10 +7023,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-28",
-      "percentage_under_10_seconds": 99.99890181729857
-    },
-    {
       "date": "2026-04-29",
       "percentage_under_10_seconds": 99.99801298539519
     },
@@ -7049,8 +7045,12 @@
     {
       "date": "2026-05-04",
       "percentage_under_10_seconds": 99.99994608122378
+    },
+    {
+      "date": "2026-05-05",
+      "percentage_under_10_seconds": 99.99792021320633
     }
   ],
-  "sms_notifications": 5140736927,
-  "total_notifications": 12594269825
+  "sms_notifications": 5145321371,
+  "total_notifications": 12602856394
 }
