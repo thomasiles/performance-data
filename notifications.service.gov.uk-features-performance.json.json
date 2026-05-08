@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99835353355434,
+  "average_percentage_under_10_seconds": 99.99899023164726,
   "count_of_live_services_and_organisations": {
-    "organisations": 1744,
-    "services": 12119
+    "organisations": 1745,
+    "services": 12130
   },
-  "email_notifications": 7365967779,
-  "letter_notifications": 95998572,
-  "live_service_count": 12119,
+  "email_notifications": 7369810669,
+  "letter_notifications": 96066832,
+  "live_service_count": 12130,
   "notifications_by_type": [
-    {
-      "date": "2026-04-30",
-      "emails": 4098503,
-      "letters": 57102,
-      "sms": 4015962
-    },
     {
       "date": "2026-05-01",
       "emails": 3984419,
@@ -49,6 +43,12 @@
       "emails": 4350171,
       "letters": 81157,
       "sms": 4262180
+    },
+    {
+      "date": "2026-05-07",
+      "emails": 3842890,
+      "letters": 68260,
+      "sms": 4037813
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 174,
+      "count_of_live_services": 175,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1605,7 +1605,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 128,
+      "count_of_live_services": 129,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2141,7 +2141,7 @@
       "organisation_name": "Forest Of Dean District Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Forestry Commission"
     },
     {
@@ -3006,6 +3006,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Kat's test organisation"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Kelmscott School"
     },
     {
@@ -3693,7 +3697,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1113,
+      "count_of_live_services": 1116,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4089,11 +4093,11 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "North Wales Police"
     },
     {
@@ -4841,7 +4845,7 @@
       "organisation_name": "Rother District Council"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Rotherham Borough Council"
     },
     {
@@ -6405,7 +6409,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -7027,10 +7031,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-04-30",
-      "percentage_under_10_seconds": 99.99478478919077
-    },
-    {
       "date": "2026-05-01",
       "percentage_under_10_seconds": 99.99849257608797
     },
@@ -7053,8 +7053,12 @@
     {
       "date": "2026-05-06",
       "percentage_under_10_seconds": 99.99872928298059
+    },
+    {
+      "date": "2026-05-07",
+      "percentage_under_10_seconds": 99.99924167584125
     }
   ],
-  "sms_notifications": 5149583551,
-  "total_notifications": 12611549902
+  "sms_notifications": 5153621364,
+  "total_notifications": 12619498865
 }
