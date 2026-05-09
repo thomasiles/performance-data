@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99899023164726,
+  "average_percentage_under_10_seconds": 99.99882272600722,
   "count_of_live_services_and_organisations": {
     "organisations": 1745,
-    "services": 12130
+    "services": 12137
   },
-  "email_notifications": 7369810669,
-  "letter_notifications": 96066832,
-  "live_service_count": 12130,
+  "email_notifications": 7373633678,
+  "letter_notifications": 96135409,
+  "live_service_count": 12137,
   "notifications_by_type": [
-    {
-      "date": "2026-05-01",
-      "emails": 3984419,
-      "letters": 63774,
-      "sms": 3046616
-    },
     {
       "date": "2026-05-02",
       "emails": 2344325,
@@ -49,6 +43,12 @@
       "emails": 3842890,
       "letters": 68260,
       "sms": 4037813
+    },
+    {
+      "date": "2026-05-08",
+      "emails": 3823009,
+      "letters": 68577,
+      "sms": 3228884
     }
   ],
   "organisations_using_notify": [
@@ -1589,7 +1589,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 192,
+      "count_of_live_services": 193,
       "organisation_name": "Department for Education"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 94,
+      "count_of_live_services": 95,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -3193,7 +3193,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 73,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3697,7 +3697,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1116,
+      "count_of_live_services": 1118,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4401,7 +4401,7 @@
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Oxfordshire County Council"
     },
     {
@@ -4713,7 +4713,7 @@
       "organisation_name": "Redbridge London Borough Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Redcar and Cleveland Borough Council"
     },
     {
@@ -7031,10 +7031,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-01",
-      "percentage_under_10_seconds": 99.99849257608797
-    },
-    {
       "date": "2026-05-02",
       "percentage_under_10_seconds": 99.99881058199094
     },
@@ -7057,8 +7053,12 @@
     {
       "date": "2026-05-07",
       "percentage_under_10_seconds": 99.99924167584125
+    },
+    {
+      "date": "2026-05-08",
+      "percentage_under_10_seconds": 99.99732003660769
     }
   ],
-  "sms_notifications": 5153621364,
-  "total_notifications": 12619498865
+  "sms_notifications": 5156850248,
+  "total_notifications": 12626619335
 }
