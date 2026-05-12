@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99889555870963,
+  "average_percentage_under_10_seconds": 99.75470043278263,
   "count_of_live_services_and_organisations": {
-    "organisations": 1745,
-    "services": 12137
+    "organisations": 1746,
+    "services": 12141
   },
-  "email_notifications": 7376812590,
-  "letter_notifications": 96164430,
-  "live_service_count": 12137,
+  "email_notifications": 7380830325,
+  "letter_notifications": 96212884,
+  "live_service_count": 12141,
   "notifications_by_type": [
-    {
-      "date": "2026-05-04",
-      "emails": 1652576,
-      "letters": 9013,
-      "sms": 2149301
-    },
     {
       "date": "2026-05-05",
       "emails": 3941388,
@@ -49,6 +43,12 @@
       "emails": 1266601,
       "letters": 6378,
       "sms": 1431603
+    },
+    {
+      "date": "2026-05-11",
+      "emails": 4017735,
+      "letters": 48454,
+      "sms": 4257844
     }
   ],
   "organisations_using_notify": [
@@ -665,7 +665,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 86,
+      "count_of_live_services": 80,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -733,7 +733,7 @@
       "organisation_name": "Brighter Birkenhead Primary Care Network"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Brighton & Hove City Council"
     },
     {
@@ -859,6 +859,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Burton and South Derbyshire College"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Bury College"
     },
     {
       "count_of_live_services": 15,
@@ -1597,7 +1601,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 82,
+      "count_of_live_services": 83,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -1613,7 +1617,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "Department for Transport"
     },
     {
@@ -1641,7 +1645,7 @@
       "organisation_name": "Department of Health and Social Care"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Department of Justice (Northern Ireland)"
     },
     {
@@ -3193,7 +3197,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 74,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3857,7 +3861,7 @@
       "organisation_name": "Newham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Newham Council"
     },
     {
@@ -4149,7 +4153,7 @@
       "organisation_name": "Northern Ireland Assembly"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 3,
       "organisation_name": "Northern Ireland Courts and Tribunals"
     },
     {
@@ -5341,7 +5345,7 @@
       "organisation_name": "South Staffordshire District Council"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
@@ -7031,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-04",
-      "percentage_under_10_seconds": 99.99994608122378
-    },
-    {
       "date": "2026-05-05",
       "percentage_under_10_seconds": 99.99792021320633
     },
@@ -7057,8 +7057,12 @@
     {
       "date": "2026-05-10",
       "percentage_under_10_seconds": 99.99988651881328
+    },
+    {
+      "date": "2026-05-11",
+      "percentage_under_10_seconds": 98.29058019973466
     }
   ],
-  "sms_notifications": 5159503719,
-  "total_notifications": 12632480739
+  "sms_notifications": 5163761563,
+  "total_notifications": 12640804772
 }
