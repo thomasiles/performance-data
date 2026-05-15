@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.75490675417669,
+  "average_percentage_under_10_seconds": 99.75487049480809,
   "count_of_live_services_and_organisations": {
     "organisations": 1746,
-    "services": 12160
+    "services": 12163
   },
-  "email_notifications": 7389016525,
-  "letter_notifications": 96406047,
-  "live_service_count": 12160,
+  "email_notifications": 7393163869,
+  "letter_notifications": 96474037,
+  "live_service_count": 12163,
   "notifications_by_type": [
-    {
-      "date": "2026-05-07",
-      "emails": 3842890,
-      "letters": 68260,
-      "sms": 4037813
-    },
     {
       "date": "2026-05-08",
       "emails": 3823009,
@@ -49,6 +43,12 @@
       "emails": 3669430,
       "letters": 135964,
       "sms": 4086682
+    },
+    {
+      "date": "2026-05-14",
+      "emails": 4147344,
+      "letters": 67990,
+      "sms": 3946379
     }
   ],
   "organisations_using_notify": [
@@ -941,7 +941,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 35,
       "organisation_name": "Camden Council"
     },
     {
@@ -1253,7 +1253,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "City of York Council"
     },
     {
@@ -1789,7 +1789,7 @@
       "organisation_name": "Dunraven School"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Durham County Council"
     },
     {
@@ -2825,7 +2825,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 734,
+      "count_of_live_services": 735,
       "organisation_name": "Home Office"
     },
     {
@@ -3917,7 +3917,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 89,
+      "count_of_live_services": 90,
       "organisation_name": "NHS England"
     },
     {
@@ -5221,7 +5221,7 @@
       "organisation_name": "Somerset County Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Somerset NHS Foundation Trust"
     },
     {
@@ -7035,10 +7035,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-07",
-      "percentage_under_10_seconds": 99.99924167584125
-    },
-    {
       "date": "2026-05-08",
       "percentage_under_10_seconds": 99.99732003660769
     },
@@ -7061,8 +7057,12 @@
     {
       "date": "2026-05-13",
       "percentage_under_10_seconds": 99.99941124287861
+    },
+    {
+      "date": "2026-05-14",
+      "percentage_under_10_seconds": 99.99898786026102
     }
   ],
-  "sms_notifications": 5171968542,
-  "total_notifications": 12657391114
+  "sms_notifications": 5175914921,
+  "total_notifications": 12665552827
 }
