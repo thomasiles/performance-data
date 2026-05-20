@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99891573357463,
+  "average_percentage_under_10_seconds": 99.99882516348224,
   "count_of_live_services_and_organisations": {
-    "organisations": 1747,
-    "services": 12178
+    "organisations": 1748,
+    "services": 12187
   },
-  "email_notifications": 7403479842,
-  "letter_notifications": 96650636,
-  "live_service_count": 12178,
+  "email_notifications": 7407924062,
+  "letter_notifications": 96737567,
+  "live_service_count": 12187,
   "notifications_by_type": [
-    {
-      "date": "2026-05-12",
-      "emails": 4516770,
-      "letters": 57199,
-      "sms": 4120297
-    },
     {
       "date": "2026-05-13",
       "emails": 3669430,
@@ -49,6 +43,12 @@
       "emails": 3556000,
       "letters": 49249,
       "sms": 4079163
+    },
+    {
+      "date": "2026-05-19",
+      "emails": 4444220,
+      "letters": 86931,
+      "sms": 4231281
     }
   ],
   "organisations_using_notify": [
@@ -825,7 +825,7 @@
       "organisation_name": "Buckden & Little Paxton Surgeries"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Buckinghamshire Council"
     },
     {
@@ -1473,7 +1473,7 @@
       "organisation_name": "Croydon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Croydon Council"
     },
     {
@@ -2033,7 +2033,7 @@
       "organisation_name": "Esher High School"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Essex County Council"
     },
     {
@@ -2331,6 +2331,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "GOV.UK Email"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Government Commercial Agency"
     },
     {
       "count_of_live_services": 18,
@@ -2981,7 +2985,7 @@
       "organisation_name": "Islington Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Islington London Borough Council"
     },
     {
@@ -4005,7 +4009,7 @@
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Norfolk Community Health and Care NHS Trust"
     },
     {
@@ -4773,7 +4777,7 @@
       "organisation_name": "Reynard Surgery"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Rhondda Cynon Taf County Borough Council"
     },
     {
@@ -4853,7 +4857,7 @@
       "organisation_name": "Rother District Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Rotherham Borough Council"
     },
     {
@@ -6253,7 +6257,7 @@
       "organisation_name": "Torbay Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Torfaen County Borough Council"
     },
     {
@@ -7039,10 +7043,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-12",
-      "percentage_under_10_seconds": 99.99868250306677
-    },
-    {
       "date": "2026-05-13",
       "percentage_under_10_seconds": 99.99941124287861
     },
@@ -7065,8 +7065,12 @@
     {
       "date": "2026-05-18",
       "percentage_under_10_seconds": 99.99900045544466
+    },
+    {
+      "date": "2026-05-19",
+      "percentage_under_10_seconds": 99.99804851242004
     }
   ],
-  "sms_notifications": 5185940221,
-  "total_notifications": 12686070699
+  "sms_notifications": 5190171502,
+  "total_notifications": 12694833131
 }
