@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99882516348224,
+  "average_percentage_under_10_seconds": 99.9984892319697,
   "count_of_live_services_and_organisations": {
     "organisations": 1748,
-    "services": 12187
+    "services": 12194
   },
-  "email_notifications": 7407924062,
-  "letter_notifications": 96737567,
-  "live_service_count": 12187,
+  "email_notifications": 7412047449,
+  "letter_notifications": 96794196,
+  "live_service_count": 12194,
   "notifications_by_type": [
-    {
-      "date": "2026-05-13",
-      "emails": 3669430,
-      "letters": 135964,
-      "sms": 4086682
-    },
     {
       "date": "2026-05-14",
       "emails": 4147344,
@@ -49,6 +43,12 @@
       "emails": 4444220,
       "letters": 86931,
       "sms": 4231281
+    },
+    {
+      "date": "2026-05-20",
+      "emails": 4123387,
+      "letters": 56629,
+      "sms": 4241780
     }
   ],
   "organisations_using_notify": [
@@ -941,7 +941,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Camden Council"
     },
     {
@@ -977,7 +977,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 22,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -1253,7 +1253,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "City of York Council"
     },
     {
@@ -1261,7 +1261,7 @@
       "organisation_name": "Civil Aviation Authority"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Clackmannanshire Council"
     },
     {
@@ -1425,7 +1425,7 @@
       "organisation_name": "Coventry and Warwickshire ICB"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Coventry City Council"
     },
     {
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 193,
+      "count_of_live_services": 194,
       "organisation_name": "Department for Education"
     },
     {
@@ -7043,10 +7043,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-13",
-      "percentage_under_10_seconds": 99.99941124287861
-    },
-    {
       "date": "2026-05-14",
       "percentage_under_10_seconds": 99.99898786026102
     },
@@ -7069,8 +7065,12 @@
     {
       "date": "2026-05-19",
       "percentage_under_10_seconds": 99.99804851242004
+    },
+    {
+      "date": "2026-05-20",
+      "percentage_under_10_seconds": 99.99705972229077
     }
   ],
-  "sms_notifications": 5190171502,
-  "total_notifications": 12694833131
+  "sms_notifications": 5194413282,
+  "total_notifications": 12703254927
 }
