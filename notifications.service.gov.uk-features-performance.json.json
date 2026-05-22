@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9984892319697,
+  "average_percentage_under_10_seconds": 99.99830571562583,
   "count_of_live_services_and_organisations": {
     "organisations": 1748,
-    "services": 12194
+    "services": 12192
   },
-  "email_notifications": 7412047449,
-  "letter_notifications": 96794196,
-  "live_service_count": 12194,
+  "email_notifications": 7416397105,
+  "letter_notifications": 96853705,
+  "live_service_count": 12192,
   "notifications_by_type": [
-    {
-      "date": "2026-05-14",
-      "emails": 4147344,
-      "letters": 67990,
-      "sms": 3946379
-    },
     {
       "date": "2026-05-15",
       "emails": 3470874,
@@ -49,6 +43,12 @@
       "emails": 4123387,
       "letters": 56629,
       "sms": 4241780
+    },
+    {
+      "date": "2026-05-21",
+      "emails": 4349656,
+      "letters": 59509,
+      "sms": 4162283
     }
   ],
   "organisations_using_notify": [
@@ -665,7 +665,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 80,
+      "count_of_live_services": 75,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -941,7 +941,7 @@
       "organisation_name": "Camden Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 35,
       "organisation_name": "Camden Council"
     },
     {
@@ -1641,7 +1641,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -2829,7 +2829,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 736,
+      "count_of_live_services": 737,
       "organisation_name": "Home Office"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 370,
+      "count_of_live_services": 371,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3849,7 +3849,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 48,
+      "count_of_live_services": 49,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -3921,7 +3921,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 90,
+      "count_of_live_services": 89,
       "organisation_name": "NHS England"
     },
     {
@@ -4333,7 +4333,7 @@
       "organisation_name": "Oldham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Oldham Metropolitan Borough Council"
     },
     {
@@ -7043,10 +7043,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-14",
-      "percentage_under_10_seconds": 99.99898786026102
-    },
-    {
       "date": "2026-05-15",
       "percentage_under_10_seconds": 99.99857517048241
     },
@@ -7069,8 +7065,12 @@
     {
       "date": "2026-05-20",
       "percentage_under_10_seconds": 99.99705972229077
+    },
+    {
+      "date": "2026-05-21",
+      "percentage_under_10_seconds": 99.99770324585401
     }
   ],
-  "sms_notifications": 5194413282,
-  "total_notifications": 12703254927
+  "sms_notifications": 5198575565,
+  "total_notifications": 12711826375
 }
