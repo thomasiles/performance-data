@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99851092139315,
+  "average_percentage_under_10_seconds": 99.99862106712254,
   "count_of_live_services_and_organisations": {
     "organisations": 1750,
-    "services": 12252
+    "services": 12258
   },
-  "email_notifications": 7454247172,
-  "letter_notifications": 97458005,
-  "live_service_count": 12249,
+  "email_notifications": 7459286640,
+  "letter_notifications": 97517913,
+  "live_service_count": 12258,
   "notifications_by_type": [
-    {
-      "date": "2026-05-28",
-      "emails": 4344115,
-      "letters": 61372,
-      "sms": 3991162
-    },
     {
       "date": "2026-05-29",
       "emails": 3661924,
@@ -49,6 +43,12 @@
       "emails": 3776707,
       "letters": 58787,
       "sms": 3647094
+    },
+    {
+      "date": "2026-06-04",
+      "emails": 5039468,
+      "letters": 59908,
+      "sms": 3889766
     }
   ],
   "organisations_using_notify": [
@@ -581,7 +581,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -865,7 +865,7 @@
       "organisation_name": "Bury College"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Bury Metropolitan Borough Council"
     },
     {
@@ -2833,7 +2833,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 741,
+      "count_of_live_services": 743,
       "organisation_name": "Home Office"
     },
     {
@@ -3709,7 +3709,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1133,
+      "count_of_live_services": 1134,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4085,7 +4085,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4197,7 +4197,7 @@
       "organisation_name": "Northfleet Technology College"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Northumberland County Council"
     },
     {
@@ -5717,7 +5717,7 @@
       "organisation_name": "Strode College"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Stroud District Council"
     },
     {
@@ -6037,7 +6037,7 @@
       "organisation_name": "The Henry Cort Community College"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "The Highland Council"
     },
     {
@@ -7051,10 +7051,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-05-28",
-      "percentage_under_10_seconds": 99.99736076214522
-    },
-    {
       "date": "2026-05-29",
       "percentage_under_10_seconds": 99.99884621042622
     },
@@ -7077,8 +7073,12 @@
     {
       "date": "2026-06-03",
       "percentage_under_10_seconds": 99.99732201862204
+    },
+    {
+      "date": "2026-06-04",
+      "percentage_under_10_seconds": 99.998131782251
     }
   ],
-  "sms_notifications": 5235036195,
-  "total_notifications": 12786741372
+  "sms_notifications": 5238925961,
+  "total_notifications": 12795730514
 }
