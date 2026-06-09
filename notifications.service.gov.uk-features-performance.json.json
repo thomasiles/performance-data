@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9985204275405,
+  "average_percentage_under_10_seconds": 99.9983930244705,
   "count_of_live_services_and_organisations": {
     "organisations": 1750,
-    "services": 12260
+    "services": 12262
   },
-  "email_notifications": 7466248185,
-  "letter_notifications": 97599186,
-  "live_service_count": 12260,
+  "email_notifications": 7470500314,
+  "letter_notifications": 97644772,
+  "live_service_count": 12262,
   "notifications_by_type": [
-    {
-      "date": "2026-06-01",
-      "emails": 4165973,
-      "letters": 55898,
-      "sms": 4308975
-    },
     {
       "date": "2026-06-02",
       "emails": 4359079,
@@ -49,6 +43,12 @@
       "emails": 1353336,
       "letters": 5766,
       "sms": 1436678
+    },
+    {
+      "date": "2026-06-08",
+      "emails": 4252129,
+      "letters": 45586,
+      "sms": 4129221
     }
   ],
   "organisations_using_notify": [
@@ -1749,7 +1749,7 @@
       "organisation_name": "Dr Solway & Dr Roy Practice"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Driver & Vehicle Licensing Agency"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 375,
+      "count_of_live_services": 374,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -6549,7 +6549,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -6961,7 +6961,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7051,10 +7051,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-01",
-      "percentage_under_10_seconds": 99.99923019915661
-    },
-    {
       "date": "2026-06-02",
       "percentage_under_10_seconds": 99.99804044676755
     },
@@ -7077,8 +7073,12 @@
     {
       "date": "2026-06-07",
       "percentage_under_10_seconds": 99.99981797391129
+    },
+    {
+      "date": "2026-06-08",
+      "percentage_under_10_seconds": 99.99833837766666
     }
   ],
-  "sms_notifications": 5244699211,
-  "total_notifications": 12808546582
+  "sms_notifications": 5248828432,
+  "total_notifications": 12816973518
 }
