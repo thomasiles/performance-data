@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9983930244705,
+  "average_percentage_under_10_seconds": 99.99806538652757,
   "count_of_live_services_and_organisations": {
     "organisations": 1750,
-    "services": 12262
+    "services": 12273
   },
-  "email_notifications": 7470500314,
-  "letter_notifications": 97644772,
-  "live_service_count": 12262,
+  "email_notifications": 7475477315,
+  "letter_notifications": 97690470,
+  "live_service_count": 12273,
   "notifications_by_type": [
-    {
-      "date": "2026-06-02",
-      "emails": 4359079,
-      "letters": 84724,
-      "sms": 4161107
-    },
     {
       "date": "2026-06-03",
       "emails": 3776707,
@@ -49,6 +43,12 @@
       "emails": 4252129,
       "letters": 45586,
       "sms": 4129221
+    },
+    {
+      "date": "2026-06-09",
+      "emails": 4977001,
+      "letters": 45698,
+      "sms": 4023291
     }
   ],
   "organisations_using_notify": [
@@ -849,7 +849,7 @@
       "organisation_name": "Burma Hills Surgery"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Burnley Borough Council"
     },
     {
@@ -1261,7 +1261,7 @@
       "organisation_name": "Civil Aviation Authority"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 17,
       "organisation_name": "Clackmannanshire Council"
     },
     {
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 197,
+      "count_of_live_services": 198,
       "organisation_name": "Department for Education"
     },
     {
@@ -2833,7 +2833,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 743,
+      "count_of_live_services": 744,
       "organisation_name": "Home Office"
     },
     {
@@ -3349,7 +3349,7 @@
       "organisation_name": "Lincroft Academy"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Lisburn and Castlereagh City Council"
     },
     {
@@ -3609,7 +3609,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -3709,7 +3709,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1134,
+      "count_of_live_services": 1136,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3901,7 +3901,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 75,
+      "count_of_live_services": 76,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -7051,10 +7051,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-02",
-      "percentage_under_10_seconds": 99.99804044676755
-    },
-    {
       "date": "2026-06-03",
       "percentage_under_10_seconds": 99.99732201862204
     },
@@ -7077,8 +7073,12 @@
     {
       "date": "2026-06-08",
       "percentage_under_10_seconds": 99.99833837766666
+    },
+    {
+      "date": "2026-06-09",
+      "percentage_under_10_seconds": 99.99574698116703
     }
   ],
-  "sms_notifications": 5248828432,
-  "total_notifications": 12816973518
+  "sms_notifications": 5252851723,
+  "total_notifications": 12826019508
 }
