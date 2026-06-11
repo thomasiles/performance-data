@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99806538652757,
+  "average_percentage_under_10_seconds": 99.99798243764081,
   "count_of_live_services_and_organisations": {
-    "organisations": 1750,
-    "services": 12273
+    "organisations": 1751,
+    "services": 12280
   },
-  "email_notifications": 7475477315,
-  "letter_notifications": 97690470,
-  "live_service_count": 12273,
+  "email_notifications": 7479537854,
+  "letter_notifications": 97745617,
+  "live_service_count": 12280,
   "notifications_by_type": [
-    {
-      "date": "2026-06-03",
-      "emails": 3776707,
-      "letters": 58787,
-      "sms": 3647094
-    },
     {
       "date": "2026-06-04",
       "emails": 5039468,
@@ -49,6 +43,12 @@
       "emails": 4977001,
       "letters": 45698,
       "sms": 4023291
+    },
+    {
+      "date": "2026-06-10",
+      "emails": 4060539,
+      "letters": 55147,
+      "sms": 3795209
     }
   ],
   "organisations_using_notify": [
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 180,
+      "count_of_live_services": 181,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -2043,6 +2043,10 @@
     {
       "count_of_live_services": 2,
       "organisation_name": "Essex County Fire and Rescue Service"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Essex House Surgery"
     },
     {
       "count_of_live_services": 2,
@@ -3853,7 +3857,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 50,
+      "count_of_live_services": 55,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -7051,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-03",
-      "percentage_under_10_seconds": 99.99732201862204
-    },
-    {
       "date": "2026-06-04",
       "percentage_under_10_seconds": 99.998131782251
     },
@@ -7077,8 +7077,12 @@
     {
       "date": "2026-06-09",
       "percentage_under_10_seconds": 99.99574698116703
+    },
+    {
+      "date": "2026-06-10",
+      "percentage_under_10_seconds": 99.99674137641476
     }
   ],
-  "sms_notifications": 5252851723,
-  "total_notifications": 12826019508
+  "sms_notifications": 5256646932,
+  "total_notifications": 12833930403
 }
