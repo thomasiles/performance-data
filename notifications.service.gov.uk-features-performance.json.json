@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99798243764081,
+  "average_percentage_under_10_seconds": 99.99783670441771,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12280
+    "services": 12291
   },
-  "email_notifications": 7479537854,
-  "letter_notifications": 97745617,
-  "live_service_count": 12280,
+  "email_notifications": 7483295325,
+  "letter_notifications": 97803051,
+  "live_service_count": 12291,
   "notifications_by_type": [
-    {
-      "date": "2026-06-04",
-      "emails": 5039468,
-      "letters": 59908,
-      "sms": 3889766
-    },
     {
       "date": "2026-06-05",
       "emails": 3666641,
@@ -49,6 +43,12 @@
       "emails": 4060539,
       "letters": 55147,
       "sms": 3795209
+    },
+    {
+      "date": "2026-06-11",
+      "emails": 3757471,
+      "letters": 57434,
+      "sms": 3507532
     }
   ],
   "organisations_using_notify": [
@@ -661,7 +661,7 @@
       "organisation_name": "Bracknell Forest Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
@@ -1737,7 +1737,7 @@
       "organisation_name": "Dorset Healthcare University NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Dover District Council"
     },
     {
@@ -1917,7 +1917,7 @@
       "organisation_name": "Eastlea Community School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Eastleigh Borough Council"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 744,
+      "count_of_live_services": 746,
       "organisation_name": "Home Office"
     },
     {
@@ -3145,7 +3145,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3857,7 +3857,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4821,7 +4821,7 @@
       "organisation_name": "Robert Barclay Academy"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Robert Jones and Agnes Hunt Orthopaedic and District Hospital NHS Trust"
     },
     {
@@ -5289,7 +5289,7 @@
       "organisation_name": "South Devon College"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "South East Coast Ambulance Service NHS Foundation Trust"
     },
     {
@@ -6393,7 +6393,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6637,7 +6637,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-04",
-      "percentage_under_10_seconds": 99.998131782251
-    },
-    {
       "date": "2026-06-05",
       "percentage_under_10_seconds": 99.99865952863034
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-10",
       "percentage_under_10_seconds": 99.99674137641476
+    },
+    {
+      "date": "2026-06-11",
+      "percentage_under_10_seconds": 99.99711164968926
     }
   ],
-  "sms_notifications": 5256646932,
-  "total_notifications": 12833930403
+  "sms_notifications": 5260154464,
+  "total_notifications": 12841252840
 }
