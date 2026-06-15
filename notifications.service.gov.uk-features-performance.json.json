@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99755548285636,
+  "average_percentage_under_10_seconds": 99.99754385384794,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12296
+    "services": 12298
   },
-  "email_notifications": 7489379163,
-  "letter_notifications": 97868946,
-  "live_service_count": 12296,
+  "email_notifications": 7490725111,
+  "letter_notifications": 97874881,
+  "live_service_count": 12298,
   "notifications_by_type": [
-    {
-      "date": "2026-06-07",
-      "emails": 1353336,
-      "letters": 5766,
-      "sms": 1436678
-    },
     {
       "date": "2026-06-08",
       "emails": 4252129,
@@ -49,6 +43,12 @@
       "emails": 1952409,
       "letters": 7337,
       "sms": 1153839
+    },
+    {
+      "date": "2026-06-14",
+      "emails": 1345948,
+      "letters": 5935,
+      "sms": 1369269
     }
   ],
   "organisations_using_notify": [
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 746,
+      "count_of_live_services": 747,
       "organisation_name": "Home Office"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1137,
+      "count_of_live_services": 1138,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-07",
-      "percentage_under_10_seconds": 99.99981797391129
-    },
-    {
       "date": "2026-06-08",
       "percentage_under_10_seconds": 99.99833837766666
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-13",
       "percentage_under_10_seconds": 99.99792797305444
+    },
+    {
+      "date": "2026-06-14",
+      "percentage_under_10_seconds": 99.99973657085248
     }
   ],
-  "sms_notifications": 5264381586,
-  "total_notifications": 12851629695
+  "sms_notifications": 5265750855,
+  "total_notifications": 12854350847
 }
