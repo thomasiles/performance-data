@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99754385384794,
+  "average_percentage_under_10_seconds": 99.99744887805001,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12298
+    "services": 12307
   },
-  "email_notifications": 7490725111,
-  "letter_notifications": 97874881,
-  "live_service_count": 12298,
+  "email_notifications": 7494697548,
+  "letter_notifications": 97929661,
+  "live_service_count": 12307,
   "notifications_by_type": [
-    {
-      "date": "2026-06-08",
-      "emails": 4252129,
-      "letters": 45586,
-      "sms": 4129221
-    },
     {
       "date": "2026-06-09",
       "emails": 4977001,
@@ -49,6 +43,12 @@
       "emails": 1345948,
       "letters": 5935,
       "sms": 1369269
+    },
+    {
+      "date": "2026-06-15",
+      "emails": 3972437,
+      "letters": 54780,
+      "sms": 4003185
     }
   ],
   "organisations_using_notify": [
@@ -977,7 +977,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -2717,7 +2717,7 @@
       "organisation_name": "Hertfordshire Constabulary"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 22,
       "organisation_name": "Hertfordshire County Council"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 747,
+      "count_of_live_services": 748,
       "organisation_name": "Home Office"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1138,
+      "count_of_live_services": 1139,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 373,
+      "count_of_live_services": 375,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4089,7 +4089,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -5301,7 +5301,7 @@
       "organisation_name": "South Eastern Regional College"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "South Gloucestershire Council"
     },
     {
@@ -5797,7 +5797,7 @@
       "organisation_name": "Swale Borough Council"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Swansea Council"
     },
     {
@@ -6393,7 +6393,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6737,7 +6737,7 @@
       "organisation_name": "West Midlands Fire Service"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "West Midlands Police"
     },
     {
@@ -6965,7 +6965,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-08",
-      "percentage_under_10_seconds": 99.99833837766666
-    },
-    {
       "date": "2026-06-09",
       "percentage_under_10_seconds": 99.99574698116703
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-14",
       "percentage_under_10_seconds": 99.99973657085248
+    },
+    {
+      "date": "2026-06-15",
+      "percentage_under_10_seconds": 99.9976735470811
     }
   ],
-  "sms_notifications": 5265750855,
-  "total_notifications": 12854350847
+  "sms_notifications": 5269754040,
+  "total_notifications": 12862381249
 }
