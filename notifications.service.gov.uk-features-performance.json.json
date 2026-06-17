@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99744887805001,
+  "average_percentage_under_10_seconds": 99.99765655424439,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12307
+    "services": 12312
   },
-  "email_notifications": 7494697548,
-  "letter_notifications": 97929661,
-  "live_service_count": 12307,
+  "email_notifications": 7500009284,
+  "letter_notifications": 97981425,
+  "live_service_count": 12312,
   "notifications_by_type": [
-    {
-      "date": "2026-06-09",
-      "emails": 4977001,
-      "letters": 45698,
-      "sms": 4023291
-    },
     {
       "date": "2026-06-10",
       "emails": 4060539,
@@ -49,6 +43,12 @@
       "emails": 3972437,
       "letters": 54780,
       "sms": 4003185
+    },
+    {
+      "date": "2026-06-16",
+      "emails": 5311736,
+      "letters": 51764,
+      "sms": 4102748
     }
   ],
   "organisations_using_notify": [
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 198,
+      "count_of_live_services": 199,
       "organisation_name": "Department for Education"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 117,
+      "count_of_live_services": 118,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 375,
+      "count_of_live_services": 376,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3929,7 +3929,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 91,
+      "count_of_live_services": 92,
       "organisation_name": "NHS England"
     },
     {
@@ -4793,7 +4793,7 @@
       "organisation_name": "Ribble Valley Borough Council"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "Richmond and Wandsworth Council"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-09",
-      "percentage_under_10_seconds": 99.99574698116703
-    },
-    {
       "date": "2026-06-10",
       "percentage_under_10_seconds": 99.99674137641476
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-15",
       "percentage_under_10_seconds": 99.9976735470811
+    },
+    {
+      "date": "2026-06-16",
+      "percentage_under_10_seconds": 99.99720071452766
     }
   ],
-  "sms_notifications": 5269754040,
-  "total_notifications": 12862381249
+  "sms_notifications": 5273856788,
+  "total_notifications": 12871847497
 }
