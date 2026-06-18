@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99765655424439,
+  "average_percentage_under_10_seconds": 99.997808738829,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12312
+    "services": 12319
   },
-  "email_notifications": 7500009284,
-  "letter_notifications": 97981425,
-  "live_service_count": 12312,
+  "email_notifications": 7505088166,
+  "letter_notifications": 98053552,
+  "live_service_count": 12319,
   "notifications_by_type": [
-    {
-      "date": "2026-06-10",
-      "emails": 4060539,
-      "letters": 55147,
-      "sms": 3795209
-    },
     {
       "date": "2026-06-11",
       "emails": 3757471,
@@ -49,6 +43,12 @@
       "emails": 5311736,
       "letters": 51764,
       "sms": 4102748
+    },
+    {
+      "date": "2026-06-17",
+      "emails": 5078882,
+      "letters": 72127,
+      "sms": 3769706
     }
   ],
   "organisations_using_notify": [
@@ -73,7 +73,7 @@
       "organisation_name": "Abbey House Medical Practice"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Aberdeen City Council"
     },
     {
@@ -661,7 +661,7 @@
       "organisation_name": "Bracknell Forest Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
@@ -2717,7 +2717,7 @@
       "organisation_name": "Hertfordshire Constabulary"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 21,
       "organisation_name": "Hertfordshire County Council"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 376,
+      "count_of_live_services": 379,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4341,7 +4341,7 @@
       "organisation_name": "Oldham Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Oldham Metropolitan Borough Council"
     },
     {
@@ -4421,7 +4421,7 @@
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Oxfordshire County Council"
     },
     {
@@ -6573,7 +6573,7 @@
       "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 28,
+      "count_of_live_services": 29,
       "organisation_name": "Warrington Borough Council"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-10",
-      "percentage_under_10_seconds": 99.99674137641476
-    },
-    {
       "date": "2026-06-11",
       "percentage_under_10_seconds": 99.99711164968926
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-16",
       "percentage_under_10_seconds": 99.99720071452766
+    },
+    {
+      "date": "2026-06-17",
+      "percentage_under_10_seconds": 99.99780666850695
     }
   ],
-  "sms_notifications": 5273856788,
-  "total_notifications": 12871847497
+  "sms_notifications": 5277626494,
+  "total_notifications": 12880768212
 }
