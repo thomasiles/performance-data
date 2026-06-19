@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.997808738829,
+  "average_percentage_under_10_seconds": 99.9978935215136,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12319
+    "services": 12327
   },
-  "email_notifications": 7505088166,
-  "letter_notifications": 98053552,
-  "live_service_count": 12319,
+  "email_notifications": 7509996915,
+  "letter_notifications": 98090571,
+  "live_service_count": 12327,
   "notifications_by_type": [
-    {
-      "date": "2026-06-11",
-      "emails": 3757471,
-      "letters": 57434,
-      "sms": 3507532
-    },
     {
       "date": "2026-06-12",
       "emails": 4131429,
@@ -49,6 +43,12 @@
       "emails": 5078882,
       "letters": 72127,
       "sms": 3769706
+    },
+    {
+      "date": "2026-06-18",
+      "emails": 4908749,
+      "letters": 37019,
+      "sms": 3651780
     }
   ],
   "organisations_using_notify": [
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 181,
+      "count_of_live_services": 182,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 129,
+      "count_of_live_services": 130,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2141,7 +2141,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 29,
+      "count_of_live_services": 30,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 748,
+      "count_of_live_services": 749,
       "organisation_name": "Home Office"
     },
     {
@@ -3713,7 +3713,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1139,
+      "count_of_live_services": 1140,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5689,7 +5689,7 @@
       "organisation_name": "Stockport Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Stockport Metropolitan Borough Council"
     },
     {
@@ -5837,7 +5837,7 @@
       "organisation_name": "Tameside Primary Academy"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Tamworth Borough Council"
     },
     {
@@ -5857,7 +5857,7 @@
       "organisation_name": "Tavistock and Portman NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Tayside Valuation Joint Board"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-11",
-      "percentage_under_10_seconds": 99.99711164968926
-    },
-    {
       "date": "2026-06-12",
       "percentage_under_10_seconds": 99.99720404809102
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-17",
       "percentage_under_10_seconds": 99.99780666850695
+    },
+    {
+      "date": "2026-06-18",
+      "percentage_under_10_seconds": 99.99770512848151
     }
   ],
-  "sms_notifications": 5277626494,
-  "total_notifications": 12880768212
+  "sms_notifications": 5281278274,
+  "total_notifications": 12889365760
 }
