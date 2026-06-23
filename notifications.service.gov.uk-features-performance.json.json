@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9981606266087,
+  "average_percentage_under_10_seconds": 99.99828843149866,
   "count_of_live_services_and_organisations": {
     "organisations": 1751,
-    "services": 12335
+    "services": 12340
   },
-  "email_notifications": 7517580019,
-  "letter_notifications": 98142878,
-  "live_service_count": 12335,
+  "email_notifications": 7522047403,
+  "letter_notifications": 98229531,
+  "live_service_count": 12340,
   "notifications_by_type": [
-    {
-      "date": "2026-06-15",
-      "emails": 3972437,
-      "letters": 54780,
-      "sms": 4003185
-    },
     {
       "date": "2026-06-16",
       "emails": 5311736,
@@ -49,6 +43,12 @@
       "emails": 1376372,
       "letters": 5414,
       "sms": 1405928
+    },
+    {
+      "date": "2026-06-22",
+      "emails": 4467384,
+      "letters": 86653,
+      "sms": 4154629
     }
   ],
   "organisations_using_notify": [
@@ -757,7 +757,7 @@
       "organisation_name": "British Transport Police"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Broadland District Council"
     },
     {
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 182,
+      "count_of_live_services": 185,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1589,7 +1589,7 @@
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 130,
+      "count_of_live_services": 127,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2985,7 +2985,7 @@
       "organisation_name": "Isle of Anglesey County Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Isle of Wight Council"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 71,
+      "count_of_live_services": 72,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -6053,7 +6053,7 @@
       "organisation_name": "The Hurst School"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "The Improvement Service"
     },
     {
@@ -7055,10 +7055,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-15",
-      "percentage_under_10_seconds": 99.9976735470811
-    },
-    {
       "date": "2026-06-16",
       "percentage_under_10_seconds": 99.99720071452766
     },
@@ -7081,8 +7077,12 @@
     {
       "date": "2026-06-21",
       "percentage_under_10_seconds": 99.99985263870657
+    },
+    {
+      "date": "2026-06-22",
+      "percentage_under_10_seconds": 99.99856818131092
     }
   ],
-  "sms_notifications": 5287027467,
-  "total_notifications": 12902750364
+  "sms_notifications": 5291182096,
+  "total_notifications": 12911459030
 }
