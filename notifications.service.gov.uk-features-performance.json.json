@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9986242658081,
+  "average_percentage_under_10_seconds": 99.91901615327394,
   "count_of_live_services_and_organisations": {
-    "organisations": 1754,
-    "services": 12370
+    "organisations": 1755,
+    "services": 12372
   },
-  "email_notifications": 7537530721,
-  "letter_notifications": 98481754,
-  "live_service_count": 12370,
+  "email_notifications": 7541350546,
+  "letter_notifications": 98616352,
+  "live_service_count": 12372,
   "notifications_by_type": [
-    {
-      "date": "2026-06-19",
-      "emails": 4096623,
-      "letters": 40269,
-      "sms": 3104456
-    },
     {
       "date": "2026-06-20",
       "emails": 2110109,
@@ -49,6 +43,12 @@
       "emails": 5694277,
       "letters": 37699,
       "sms": 3700511
+    },
+    {
+      "date": "2026-06-26",
+      "emails": 3819825,
+      "letters": 134598,
+      "sms": 3054499
     }
   ],
   "organisations_using_notify": [
@@ -1789,7 +1789,7 @@
       "organisation_name": "Dunraven School"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Durham County Council"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 751,
+      "count_of_live_services": 749,
       "organisation_name": "Home Office"
     },
     {
@@ -3145,7 +3145,7 @@
       "organisation_name": "Kingston Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Kingston Upon Hull City Council"
     },
     {
@@ -3497,7 +3497,7 @@
       "organisation_name": "Manchester Active"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Manchester City Council"
     },
     {
@@ -3615,6 +3615,10 @@
     {
       "count_of_live_services": 56,
       "organisation_name": "Mersey Care NHS Foundation Trust"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Mersey Hampton Parish Council"
     },
     {
       "count_of_live_services": 2,
@@ -7067,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-19",
-      "percentage_under_10_seconds": 99.99877068131678
-    },
-    {
       "date": "2026-06-20",
       "percentage_under_10_seconds": 99.9981150076403
     },
@@ -7093,8 +7093,12 @@
     {
       "date": "2026-06-25",
       "percentage_under_10_seconds": 99.99762779587117
+    },
+    {
+      "date": "2026-06-26",
+      "percentage_under_10_seconds": 99.44151389357762
     }
   ],
-  "sms_notifications": 5302574603,
-  "total_notifications": 12938587078
+  "sms_notifications": 5305629102,
+  "total_notifications": 12945596000
 }
