@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9187108327339,
+  "average_percentage_under_10_seconds": 99.91872515361611,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12374
+    "services": 12380
   },
-  "email_notifications": 7544725915,
-  "letter_notifications": 98645331,
-  "live_service_count": 12372,
+  "email_notifications": 7548713079,
+  "letter_notifications": 98684780,
+  "live_service_count": 12380,
   "notifications_by_type": [
-    {
-      "date": "2026-06-22",
-      "emails": 4467384,
-      "letters": 86653,
-      "sms": 4154629
-    },
     {
       "date": "2026-06-23",
       "emails": 5265852,
@@ -49,6 +43,12 @@
       "emails": 1344137,
       "letters": 6460,
       "sms": 1526313
+    },
+    {
+      "date": "2026-06-29",
+      "emails": 3987164,
+      "letters": 39449,
+      "sms": 4249975
     }
   ],
   "organisations_using_notify": [
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 185,
+      "count_of_live_services": 186,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 84,
+      "count_of_live_services": 85,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1143,
+      "count_of_live_services": 1145,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3933,7 +3933,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 92,
+      "count_of_live_services": 93,
       "organisation_name": "NHS England"
     },
     {
@@ -5085,7 +5085,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Scottish Government"
     },
     {
@@ -5121,7 +5121,7 @@
       "organisation_name": "Senedd Cymru / Welsh Parliament"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Serious Fraud Office"
     },
     {
@@ -6413,7 +6413,7 @@
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "University Hospitals Birmingham NHS Foundation Trust"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-22",
-      "percentage_under_10_seconds": 99.99856818131092
-    },
-    {
       "date": "2026-06-23",
       "percentage_under_10_seconds": 99.99868795101683
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-06-28",
       "percentage_under_10_seconds": 99.99996449665487
+    },
+    {
+      "date": "2026-06-29",
+      "percentage_under_10_seconds": 99.99866842748636
     }
   ],
-  "sms_notifications": 5308459690,
-  "total_notifications": 12951830936
+  "sms_notifications": 5312709665,
+  "total_notifications": 12960107524
 }
