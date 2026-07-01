@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.91872515361611,
+  "average_percentage_under_10_seconds": 99.91858272836582,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12380
+    "services": 12390
   },
-  "email_notifications": 7548713079,
-  "letter_notifications": 98684780,
-  "live_service_count": 12380,
+  "email_notifications": 7553498451,
+  "letter_notifications": 98764479,
+  "live_service_count": 12390,
   "notifications_by_type": [
-    {
-      "date": "2026-06-23",
-      "emails": 5265852,
-      "letters": 39636,
-      "sms": 4104764
-    },
     {
       "date": "2026-06-24",
       "emails": 4523189,
@@ -49,6 +43,12 @@
       "emails": 3987164,
       "letters": 39449,
       "sms": 4249975
+    },
+    {
+      "date": "2026-06-30",
+      "emails": 4785372,
+      "letters": 79699,
+      "sms": 3851412
     }
   ],
   "organisations_using_notify": [
@@ -561,7 +561,7 @@
       "organisation_name": "Blackburn College"
     },
     {
-      "count_of_live_services": 61,
+      "count_of_live_services": 62,
       "organisation_name": "Blackburn with Darwen Borough Council"
     },
     {
@@ -1073,7 +1073,7 @@
       "organisation_name": "Centre for Environment, Fisheries and Aquaculture Science"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Ceredigion County Council"
     },
     {
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 199,
+      "count_of_live_services": 200,
       "organisation_name": "Department for Education"
     },
     {
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 96,
+      "count_of_live_services": 97,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2541,7 +2541,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 73,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3209,7 +3209,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 76,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1145,
+      "count_of_live_services": 1147,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -6445,7 +6445,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-23",
-      "percentage_under_10_seconds": 99.99868795101683
-    },
-    {
       "date": "2026-06-24",
       "percentage_under_10_seconds": 99.99874760479418
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-06-29",
       "percentage_under_10_seconds": 99.99866842748636
+    },
+    {
+      "date": "2026-06-30",
+      "percentage_under_10_seconds": 99.99769097426487
     }
   ],
-  "sms_notifications": 5312709665,
-  "total_notifications": 12960107524
+  "sms_notifications": 5316561077,
+  "total_notifications": 12968824007
 }
