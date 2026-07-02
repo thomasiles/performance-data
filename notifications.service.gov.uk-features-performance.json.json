@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.91858272836582,
+  "average_percentage_under_10_seconds": 99.91853724171264,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12390
+    "services": 12399
   },
-  "email_notifications": 7553498451,
-  "letter_notifications": 98764479,
-  "live_service_count": 12390,
+  "email_notifications": 7558232267,
+  "letter_notifications": 98833433,
+  "live_service_count": 12399,
   "notifications_by_type": [
-    {
-      "date": "2026-06-24",
-      "emails": 4523189,
-      "letters": 174888,
-      "sms": 3587232
-    },
     {
       "date": "2026-06-25",
       "emails": 5694277,
@@ -49,6 +43,12 @@
       "emails": 4785372,
       "letters": 79699,
       "sms": 3851412
+    },
+    {
+      "date": "2026-07-01",
+      "emails": 4733816,
+      "letters": 68954,
+      "sms": 3682568
     }
   ],
   "organisations_using_notify": [
@@ -373,7 +373,7 @@
       "organisation_name": "Barnsley College"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Barnsley Hospital NHS Foundation Trust"
     },
     {
@@ -489,7 +489,7 @@
       "organisation_name": "Bexhill High Academy"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Bexley London Borough Council"
     },
     {
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 186,
+      "count_of_live_services": 185,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1613,7 +1613,7 @@
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
@@ -1693,7 +1693,7 @@
       "organisation_name": "Devon Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 38,
+      "count_of_live_services": 39,
       "organisation_name": "Devon County Council"
     },
     {
@@ -2341,7 +2341,7 @@
       "organisation_name": "GOV.UK Email"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Government Commercial Agency"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1147,
+      "count_of_live_services": 1148,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4325,7 +4325,7 @@
       "organisation_name": "Ofqual"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Ofsted"
     },
     {
@@ -4433,7 +4433,7 @@
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Oxfordshire County Council"
     },
     {
@@ -4557,7 +4557,7 @@
       "organisation_name": "Pleckgate High School"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Plymouth City Council"
     },
     {
@@ -4641,7 +4641,7 @@
       "organisation_name": "Provide Community Interest Company"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-24",
-      "percentage_under_10_seconds": 99.99874760479418
-    },
-    {
       "date": "2026-06-25",
       "percentage_under_10_seconds": 99.99762779587117
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-06-30",
       "percentage_under_10_seconds": 99.99769097426487
+    },
+    {
+      "date": "2026-07-01",
+      "percentage_under_10_seconds": 99.99842919822186
     }
   ],
-  "sms_notifications": 5316561077,
-  "total_notifications": 12968824007
+  "sms_notifications": 5320243645,
+  "total_notifications": 12977309345
 }
