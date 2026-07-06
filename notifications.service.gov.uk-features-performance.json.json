@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99811027720588,
+  "average_percentage_under_10_seconds": 99.99808388380934,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12407
+    "services": 12409
   },
-  "email_notifications": 7568695581,
-  "letter_notifications": 98981659,
-  "live_service_count": 12407,
+  "email_notifications": 7570023523,
+  "letter_notifications": 98986944,
+  "live_service_count": 12409,
   "notifications_by_type": [
-    {
-      "date": "2026-06-28",
-      "emails": 1344137,
-      "letters": 6460,
-      "sms": 1526313
-    },
     {
       "date": "2026-06-29",
       "emails": 3987164,
@@ -49,6 +43,12 @@
       "emails": 1931275,
       "letters": 21329,
       "sms": 1272779
+    },
+    {
+      "date": "2026-07-05",
+      "emails": 1327942,
+      "letters": 5285,
+      "sms": 1441830
     }
   ],
   "organisations_using_notify": [
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 65,
+      "count_of_live_services": 66,
       "organisation_name": "Department for Transport"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 750,
+      "count_of_live_services": 751,
       "organisation_name": "Home Office"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-28",
-      "percentage_under_10_seconds": 99.99996449665487
-    },
-    {
       "date": "2026-06-29",
       "percentage_under_10_seconds": 99.99866842748636
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-07-04",
       "percentage_under_10_seconds": 99.99809805599132
+    },
+    {
+      "date": "2026-07-05",
+      "percentage_under_10_seconds": 99.99977974287918
     }
   ],
-  "sms_notifications": 5328186445,
-  "total_notifications": 12995863685
+  "sms_notifications": 5329628275,
+  "total_notifications": 12998638742
 }
