@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99809079174527,
+  "average_percentage_under_10_seconds": 99.99816300746886,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12413
+    "services": 12418
   },
-  "email_notifications": 7573997750,
-  "letter_notifications": 99056591,
-  "live_service_count": 12413,
+  "email_notifications": 7579127998,
+  "letter_notifications": 99136545,
+  "live_service_count": 12418,
   "notifications_by_type": [
-    {
-      "date": "2026-06-30",
-      "emails": 4785372,
-      "letters": 79699,
-      "sms": 3851412
-    },
     {
       "date": "2026-07-01",
       "emails": 4733816,
@@ -49,6 +43,12 @@
       "emails": 3974227,
       "letters": 69647,
       "sms": 3972861
+    },
+    {
+      "date": "2026-07-07",
+      "emails": 5130248,
+      "letters": 79954,
+      "sms": 3953978
     }
   ],
   "organisations_using_notify": [
@@ -521,7 +521,7 @@
       "organisation_name": "Birmingham Children's Trust"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "Birmingham City Council"
     },
     {
@@ -549,7 +549,7 @@
       "organisation_name": "Bitterne Park School"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Blaby District Council"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 118,
+      "count_of_live_services": 117,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2037,7 +2037,7 @@
       "organisation_name": "Esher High School"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Essex County Council"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 752,
+      "count_of_live_services": 753,
       "organisation_name": "Home Office"
     },
     {
@@ -4285,7 +4285,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -6409,7 +6409,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-06-30",
-      "percentage_under_10_seconds": 99.99769097426487
-    },
-    {
       "date": "2026-07-01",
       "percentage_under_10_seconds": 99.99842919822186
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-07-06",
       "percentage_under_10_seconds": 99.9987167830378
+    },
+    {
+      "date": "2026-07-07",
+      "percentage_under_10_seconds": 99.99819648432997
     }
   ],
-  "sms_notifications": 5333601136,
-  "total_notifications": 13006655477
+  "sms_notifications": 5337555114,
+  "total_notifications": 13015819657
 }
