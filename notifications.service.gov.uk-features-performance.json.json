@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99749493988597,
+  "average_percentage_under_10_seconds": 99.99745425363115,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12432
+    "services": 12436
   },
-  "email_notifications": 7594021821,
-  "letter_notifications": 99318242,
-  "live_service_count": 12432,
+  "email_notifications": 7595264653,
+  "letter_notifications": 99322425,
+  "live_service_count": 12436,
   "notifications_by_type": [
-    {
-      "date": "2026-07-05",
-      "emails": 1327942,
-      "letters": 5285,
-      "sms": 1441830
-    },
     {
       "date": "2026-07-06",
       "emails": 3974227,
@@ -49,6 +43,12 @@
       "emails": 1941757,
       "letters": 18499,
       "sms": 1229458
+    },
+    {
+      "date": "2026-07-12",
+      "emails": 1242832,
+      "letters": 4183,
+      "sms": 1390684
     }
   ],
   "organisations_using_notify": [
@@ -1049,7 +1049,7 @@
       "organisation_name": "Central Basildon PCN"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "Central Bedfordshire Council"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1153,
+      "count_of_live_services": 1156,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-05",
-      "percentage_under_10_seconds": 99.99977974287918
-    },
-    {
       "date": "2026-07-06",
       "percentage_under_10_seconds": 99.9987167830378
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-07-11",
       "percentage_under_10_seconds": 99.99849421860037
+    },
+    {
+      "date": "2026-07-12",
+      "percentage_under_10_seconds": 99.99949493909548
     }
   ],
-  "sms_notifications": 5348791623,
-  "total_notifications": 13042131686
+  "sms_notifications": 5350182307,
+  "total_notifications": 13044769385
 }
