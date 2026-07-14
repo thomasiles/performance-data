@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99745425363115,
+  "average_percentage_under_10_seconds": 99.99741266789736,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12436
+    "services": 12439
   },
-  "email_notifications": 7595264653,
-  "letter_notifications": 99322425,
-  "live_service_count": 12436,
+  "email_notifications": 7600175424,
+  "letter_notifications": 99371762,
+  "live_service_count": 12439,
   "notifications_by_type": [
-    {
-      "date": "2026-07-06",
-      "emails": 3974227,
-      "letters": 69647,
-      "sms": 3972861
-    },
     {
       "date": "2026-07-07",
       "emails": 5130248,
@@ -49,6 +43,12 @@
       "emails": 1242832,
       "letters": 4183,
       "sms": 1390684
+    },
+    {
+      "date": "2026-07-13",
+      "emails": 4910771,
+      "letters": 49337,
+      "sms": 4263164
     }
   ],
   "organisations_using_notify": [
@@ -653,7 +653,7 @@
       "organisation_name": "Bournemouth Borough Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
@@ -741,7 +741,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -5089,7 +5089,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 34,
       "organisation_name": "Scottish Government"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-06",
-      "percentage_under_10_seconds": 99.9987167830378
-    },
-    {
       "date": "2026-07-07",
       "percentage_under_10_seconds": 99.99819648432997
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-07-12",
       "percentage_under_10_seconds": 99.99949493909548
+    },
+    {
+      "date": "2026-07-13",
+      "percentage_under_10_seconds": 99.9984256829013
     }
   ],
-  "sms_notifications": 5350182307,
-  "total_notifications": 13044769385
+  "sms_notifications": 5354445471,
+  "total_notifications": 13053992657
 }
