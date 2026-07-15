@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99741266789736,
+  "average_percentage_under_10_seconds": 99.99750285034209,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12439
+    "services": 12447
   },
-  "email_notifications": 7600175424,
-  "letter_notifications": 99371762,
-  "live_service_count": 12439,
+  "email_notifications": 7604995966,
+  "letter_notifications": 99498856,
+  "live_service_count": 12447,
   "notifications_by_type": [
-    {
-      "date": "2026-07-07",
-      "emails": 5130248,
-      "letters": 79954,
-      "sms": 3953978
-    },
     {
       "date": "2026-07-08",
       "emails": 4282952,
@@ -49,6 +43,12 @@
       "emails": 4910771,
       "letters": 49337,
       "sms": 4263164
+    },
+    {
+      "date": "2026-07-14",
+      "emails": 4820542,
+      "letters": 127094,
+      "sms": 4141987
     }
   ],
   "organisations_using_notify": [
@@ -1337,7 +1337,7 @@
       "organisation_name": "Companies House"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Competition and Markets Authority"
     },
     {
@@ -3341,7 +3341,7 @@
       "organisation_name": "Lincoln City Council"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Lincolnshire County Council"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1156,
+      "count_of_live_services": 1158,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4329,7 +4329,7 @@
       "organisation_name": "Ofqual"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Ofsted"
     },
     {
@@ -4853,7 +4853,7 @@
       "organisation_name": "Robin Hood Lane Health Centre"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Rochdale Metropolitan Borough Council"
     },
     {
@@ -5741,7 +5741,7 @@
       "organisation_name": "Strode College"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Stroud District Council"
     },
     {
@@ -6413,7 +6413,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-07",
-      "percentage_under_10_seconds": 99.99819648432997
-    },
-    {
       "date": "2026-07-08",
       "percentage_under_10_seconds": 99.99887671379349
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-07-13",
       "percentage_under_10_seconds": 99.9984256829013
+    },
+    {
+      "date": "2026-07-14",
+      "percentage_under_10_seconds": 99.99882776144301
     }
   ],
-  "sms_notifications": 5354445471,
-  "total_notifications": 13053992657
+  "sms_notifications": 5358587458,
+  "total_notifications": 13063082280
 }
