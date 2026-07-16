@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99750285034209,
+  "average_percentage_under_10_seconds": 99.99741978649456,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12447
+    "services": 12455
   },
-  "email_notifications": 7604995966,
-  "letter_notifications": 99498856,
-  "live_service_count": 12447,
+  "email_notifications": 7609678532,
+  "letter_notifications": 99555289,
+  "live_service_count": 12455,
   "notifications_by_type": [
-    {
-      "date": "2026-07-08",
-      "emails": 4282952,
-      "letters": 54250,
-      "sms": 3568966
-    },
     {
       "date": "2026-07-09",
       "emails": 4494707,
@@ -49,6 +43,12 @@
       "emails": 4820542,
       "letters": 127094,
       "sms": 4141987
+    },
+    {
+      "date": "2026-07-15",
+      "emails": 4682566,
+      "letters": 56433,
+      "sms": 3891559
     }
   ],
   "organisations_using_notify": [
@@ -549,7 +549,7 @@
       "organisation_name": "Bitterne Park School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Blaby District Council"
     },
     {
@@ -873,7 +873,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 185,
+      "count_of_live_services": 186,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1577,7 +1577,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 62,
+      "count_of_live_services": 63,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 200,
+      "count_of_live_services": 201,
       "organisation_name": "Department for Education"
     },
     {
@@ -1769,7 +1769,7 @@
       "organisation_name": "Dudley Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 39,
+      "count_of_live_services": 40,
       "organisation_name": "Dudley Metropolitan Borough Council"
     },
     {
@@ -4021,7 +4021,7 @@
       "organisation_name": "Noel-Baler Academy"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust"
     },
     {
@@ -4437,7 +4437,7 @@
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Oxfordshire County Council"
     },
     {
@@ -6381,7 +6381,7 @@
       "organisation_name": "UK Parliament "
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "UK Research and Innovation"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-08",
-      "percentage_under_10_seconds": 99.99887671379349
-    },
-    {
       "date": "2026-07-09",
       "percentage_under_10_seconds": 99.99261118294683
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-07-14",
       "percentage_under_10_seconds": 99.99882776144301
+    },
+    {
+      "date": "2026-07-15",
+      "percentage_under_10_seconds": 99.9982952668609
     }
   ],
-  "sms_notifications": 5358587458,
-  "total_notifications": 13063082280
+  "sms_notifications": 5362479017,
+  "total_notifications": 13071712838
 }
