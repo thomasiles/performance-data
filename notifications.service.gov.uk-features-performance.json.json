@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99822174890288,
+  "average_percentage_under_10_seconds": 99.99826492866187,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12469
+    "services": 12471
   },
-  "email_notifications": 7621299361,
-  "letter_notifications": 99716296,
-  "live_service_count": 12469,
+  "email_notifications": 7625725852,
+  "letter_notifications": 99764034,
+  "live_service_count": 12471,
   "notifications_by_type": [
-    {
-      "date": "2026-07-13",
-      "emails": 4910771,
-      "letters": 49337,
-      "sms": 4263164
-    },
     {
       "date": "2026-07-14",
       "emails": 4820542,
@@ -49,6 +43,12 @@
       "emails": 1273101,
       "letters": 4512,
       "sms": 1372560
+    },
+    {
+      "date": "2026-07-20",
+      "emails": 4426491,
+      "letters": 47738,
+      "sms": 3808691
     }
   ],
   "organisations_using_notify": [
@@ -2009,7 +2009,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 125,
+      "count_of_live_services": 126,
       "organisation_name": "Environment Agency"
     },
     {
@@ -5417,7 +5417,7 @@
       "organisation_name": "South Worcestershire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "South Yorkshire Fire and Rescue Service"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-13",
-      "percentage_under_10_seconds": 99.9984256829013
-    },
-    {
       "date": "2026-07-14",
       "percentage_under_10_seconds": 99.99882776144301
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-07-19",
       "percentage_under_10_seconds": 99.99980677896673
+    },
+    {
+      "date": "2026-07-20",
+      "percentage_under_10_seconds": 99.9987279412143
     }
   ],
-  "sms_notifications": 5371988928,
-  "total_notifications": 13093004585
+  "sms_notifications": 5375797619,
+  "total_notifications": 13101287505
 }
