@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99826492866187,
+  "average_percentage_under_10_seconds": 99.99818555138845,
   "count_of_live_services_and_organisations": {
-    "organisations": 1756,
-    "services": 12471
+    "organisations": 1754,
+    "services": 12480
   },
-  "email_notifications": 7625725852,
-  "letter_notifications": 99764034,
-  "live_service_count": 12471,
+  "email_notifications": 7631588086,
+  "letter_notifications": 99849027,
+  "live_service_count": 12480,
   "notifications_by_type": [
-    {
-      "date": "2026-07-14",
-      "emails": 4820542,
-      "letters": 127094,
-      "sms": 4141987
-    },
     {
       "date": "2026-07-15",
       "emails": 4682566,
@@ -49,6 +43,12 @@
       "emails": 4426491,
       "letters": 47738,
       "sms": 3808691
+    },
+    {
+      "date": "2026-07-21",
+      "emails": 5862234,
+      "letters": 84993,
+      "sms": 3829321
     }
   ],
   "organisations_using_notify": [
@@ -722,10 +722,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Bridgewater Community Healthcare NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Brierley Park Medical Centre"
     },
     {
@@ -873,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 186,
+      "count_of_live_services": 188,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1253,7 +1249,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "City of York Council"
     },
     {
@@ -1593,7 +1589,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 201,
+      "count_of_live_services": 202,
       "organisation_name": "Department for Education"
     },
     {
@@ -2009,7 +2005,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 126,
+      "count_of_live_services": 127,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3833,7 +3829,7 @@
       "organisation_name": "Natural Resources Wales"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "Neath Port Talbot County Borough Council"
     },
     {
@@ -4047,6 +4043,10 @@
     {
       "count_of_live_services": 5,
       "organisation_name": "North Bristol NHS Trust"
+    },
+    {
+      "count_of_live_services": 3,
+      "organisation_name": "North Cheshire and Mersey NHS Foundation Trust"
     },
     {
       "count_of_live_services": 1,
@@ -5093,7 +5093,7 @@
       "organisation_name": "Scottish Government"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Scottish Natural Heritage"
     },
     {
@@ -5429,7 +5429,7 @@
       "organisation_name": "South Yorkshire Police"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Southampton City Council"
     },
     {
@@ -5793,7 +5793,7 @@
       "organisation_name": "Surrey Heath Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Sussex Community NHS Foundation Trust"
     },
     {
@@ -6582,15 +6582,7 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Warrington & Halton Teaching Hospitals NHS Foundation Trust"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "Warrington & Vale Royal College"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Warrington and Halton Hospitals NHS Foundation Trust"
     },
     {
       "count_of_live_services": 29,
@@ -7075,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-14",
-      "percentage_under_10_seconds": 99.99882776144301
-    },
-    {
       "date": "2026-07-15",
       "percentage_under_10_seconds": 99.9982952668609
     },
@@ -7101,8 +7089,12 @@
     {
       "date": "2026-07-20",
       "percentage_under_10_seconds": 99.9987279412143
+    },
+    {
+      "date": "2026-07-21",
+      "percentage_under_10_seconds": 99.99827212052898
     }
   ],
-  "sms_notifications": 5375797619,
-  "total_notifications": 13101287505
+  "sms_notifications": 5379626940,
+  "total_notifications": 13111064053
 }
