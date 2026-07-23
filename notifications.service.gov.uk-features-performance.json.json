@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99818555138845,
+  "average_percentage_under_10_seconds": 99.99822068583747,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 12480
+    "services": 12488
   },
-  "email_notifications": 7631588086,
-  "letter_notifications": 99849027,
-  "live_service_count": 12480,
+  "email_notifications": 7636832689,
+  "letter_notifications": 99906731,
+  "live_service_count": 12486,
   "notifications_by_type": [
-    {
-      "date": "2026-07-15",
-      "emails": 4682566,
-      "letters": 56433,
-      "sms": 3891559
-    },
     {
       "date": "2026-07-16",
       "emails": 4391158,
@@ -49,6 +43,12 @@
       "emails": 5862234,
       "letters": 84993,
       "sms": 3829321
+    },
+    {
+      "date": "2026-07-22",
+      "emails": 5244603,
+      "letters": 57704,
+      "sms": 3797808
     }
   ],
   "organisations_using_notify": [
@@ -1489,7 +1489,7 @@
       "organisation_name": "Culbin Medical Practice"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Cumberland Council"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
@@ -3541,7 +3541,7 @@
       "organisation_name": "Marine Management Organisation"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Maritime & Coastguard Agency"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1161,
+      "count_of_live_services": 1162,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -5093,7 +5093,7 @@
       "organisation_name": "Scottish Government"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 5,
       "organisation_name": "Scottish Natural Heritage"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-15",
-      "percentage_under_10_seconds": 99.9982952668609
-    },
-    {
       "date": "2026-07-16",
       "percentage_under_10_seconds": 99.99830768104623
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2026-07-21",
       "percentage_under_10_seconds": 99.99827212052898
+    },
+    {
+      "date": "2026-07-22",
+      "percentage_under_10_seconds": 99.99854120800413
     }
   ],
-  "sms_notifications": 5379626940,
-  "total_notifications": 13111064053
+  "sms_notifications": 5383424748,
+  "total_notifications": 13120164168
 }
