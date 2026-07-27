@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99842954451731,
+  "average_percentage_under_10_seconds": 99.99845714752206,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 12507
+    "services": 12508
   },
-  "email_notifications": 7649395411,
-  "letter_notifications": 100031965,
-  "live_service_count": 12507,
+  "email_notifications": 7650788325,
+  "letter_notifications": 100036473,
+  "live_service_count": 12508,
   "notifications_by_type": [
-    {
-      "date": "2026-07-19",
-      "emails": 1273101,
-      "letters": 4512,
-      "sms": 1372560
-    },
     {
       "date": "2026-07-20",
       "emails": 4426491,
@@ -49,6 +43,12 @@
       "emails": 2069611,
       "letters": 20393,
       "sms": 1259054
+    },
+    {
+      "date": "2026-07-26",
+      "emails": 1392914,
+      "letters": 4508,
+      "sms": 1425406
     }
   ],
   "organisations_using_notify": [
@@ -665,7 +665,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 76,
+      "count_of_live_services": 77,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-19",
-      "percentage_under_10_seconds": 99.99980677896673
-    },
-    {
       "date": "2026-07-20",
       "percentage_under_10_seconds": 99.9987279412143
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2026-07-25",
       "percentage_under_10_seconds": 99.99862484147478
+    },
+    {
+      "date": "2026-07-26",
+      "percentage_under_10_seconds": 100.0
     }
   ],
-  "sms_notifications": 5391146983,
-  "total_notifications": 13140574359
+  "sms_notifications": 5392572389,
+  "total_notifications": 13143397187
 }
