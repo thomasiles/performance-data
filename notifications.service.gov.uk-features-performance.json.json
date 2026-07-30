@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99685799815616,
+  "average_percentage_under_10_seconds": 99.99686013179513,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12519
+    "services": 12524
   },
-  "email_notifications": 7660341009,
-  "letter_notifications": 100159266,
-  "live_service_count": 12519,
+  "email_notifications": 7664537322,
+  "letter_notifications": 100219122,
+  "live_service_count": 12524,
   "notifications_by_type": [
-    {
-      "date": "2026-07-22",
-      "emails": 5244603,
-      "letters": 57704,
-      "sms": 3797808
-    },
     {
       "date": "2026-07-23",
       "emails": 5374709,
@@ -49,6 +43,12 @@
       "emails": 4507286,
       "letters": 75489,
       "sms": 3751334
+    },
+    {
+      "date": "2026-07-29",
+      "emails": 4196313,
+      "letters": 59856,
+      "sms": 3605022
     }
   ],
   "organisations_using_notify": [
@@ -577,7 +577,7 @@
       "organisation_name": "Blackpool Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Blackpool Council"
     },
     {
@@ -1573,7 +1573,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
@@ -2837,7 +2837,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 758,
+      "count_of_live_services": 759,
       "organisation_name": "Home Office"
     },
     {
@@ -3641,7 +3641,7 @@
       "organisation_name": "Merton Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 4,
       "organisation_name": "Met Office"
     },
     {
@@ -4105,7 +4105,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4909,7 +4909,7 @@
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Royal Borough of Kensington and Chelsea"
     },
     {
@@ -6377,7 +6377,7 @@
       "organisation_name": "UK Government Investments"
     },
     {
-      "count_of_live_services": 77,
+      "count_of_live_services": 78,
       "organisation_name": "UK Health Security Agency"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-22",
-      "percentage_under_10_seconds": 99.99854120800413
-    },
-    {
       "date": "2026-07-23",
       "percentage_under_10_seconds": 99.99746037568319
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-07-28",
       "percentage_under_10_seconds": 99.99529140245227
+    },
+    {
+      "date": "2026-07-29",
+      "percentage_under_10_seconds": 99.9985561434769
     }
   ],
-  "sms_notifications": 5400218950,
-  "total_notifications": 13160719225
+  "sms_notifications": 5403823972,
+  "total_notifications": 13168580416
 }
