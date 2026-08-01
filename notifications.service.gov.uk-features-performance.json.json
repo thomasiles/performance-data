@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99681902283783,
+  "average_percentage_under_10_seconds": 99.99686099420579,
   "count_of_live_services_and_organisations": {
     "organisations": 1753,
-    "services": 12523
+    "services": 12522
   },
-  "email_notifications": 7668502384,
-  "letter_notifications": 100274076,
-  "live_service_count": 12523,
+  "email_notifications": 7672379972,
+  "letter_notifications": 100318521,
+  "live_service_count": 12522,
   "notifications_by_type": [
-    {
-      "date": "2026-07-24",
-      "emails": 5118402,
-      "letters": 49590,
-      "sms": 2967154
-    },
     {
       "date": "2026-07-25",
       "emails": 2069611,
@@ -49,6 +43,12 @@
       "emails": 3965062,
       "letters": 54954,
       "sms": 3542150
+    },
+    {
+      "date": "2026-07-31",
+      "emails": 3877588,
+      "letters": 44445,
+      "sms": 2916568
     }
   ],
   "organisations_using_notify": [
@@ -661,7 +661,7 @@
       "organisation_name": "Bracknell Forest Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
@@ -6777,7 +6777,7 @@
       "organisation_name": "West Suffolk NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 18,
       "organisation_name": "West Sussex County Council"
     },
     {
@@ -7063,10 +7063,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-24",
-      "percentage_under_10_seconds": 99.99757354574905
-    },
-    {
       "date": "2026-07-25",
       "percentage_under_10_seconds": 99.99862484147478
     },
@@ -7089,8 +7085,12 @@
     {
       "date": "2026-07-30",
       "percentage_under_10_seconds": 99.9971726129821
+    },
+    {
+      "date": "2026-07-31",
+      "percentage_under_10_seconds": 99.99786734532478
     }
   ],
-  "sms_notifications": 5407366122,
-  "total_notifications": 13176142582
+  "sms_notifications": 5410282690,
+  "total_notifications": 13182981183
 }
