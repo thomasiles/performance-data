@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99787199561769,
+  "average_percentage_under_10_seconds": 99.9978259221286,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12540
+    "services": 12552
   },
-  "email_notifications": 7684969168,
-  "letter_notifications": 100479541,
-  "live_service_count": 12539,
+  "email_notifications": 7689580072,
+  "letter_notifications": 100535562,
+  "live_service_count": 12550,
   "notifications_by_type": [
-    {
-      "date": "2026-07-29",
-      "emails": 4196313,
-      "letters": 59856,
-      "sms": 3605022
-    },
     {
       "date": "2026-07-30",
       "emails": 3965062,
@@ -49,6 +43,12 @@
       "emails": 5237594,
       "letters": 79716,
       "sms": 3992885
+    },
+    {
+      "date": "2026-08-05",
+      "emails": 4610904,
+      "letters": 56021,
+      "sms": 3776529
     }
   ],
   "organisations_using_notify": [
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 187,
+      "count_of_live_services": 188,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1049,7 +1049,7 @@
       "organisation_name": "Central Basildon PCN"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Central Bedfordshire Council"
     },
     {
@@ -1521,7 +1521,7 @@
       "organisation_name": "Darlington Borough Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Dartford and Gravesham NHS Trust"
     },
     {
@@ -2841,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 759,
+      "count_of_live_services": 762,
       "organisation_name": "Home Office"
     },
     {
@@ -3169,7 +3169,7 @@
       "organisation_name": "Kirkburton Middle School"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Kirklees Council"
     },
     {
@@ -3729,7 +3729,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1165,
+      "count_of_live_services": 1166,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3945,7 +3945,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 96,
+      "count_of_live_services": 97,
       "organisation_name": "NHS England"
     },
     {
@@ -4109,7 +4109,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4573,7 +4573,7 @@
       "organisation_name": "Plymouth City Council"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Police Service of Northern Ireland"
     },
     {
@@ -4597,7 +4597,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -6417,7 +6417,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 43,
+      "count_of_live_services": 44,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6785,7 +6785,7 @@
       "organisation_name": "West Suffolk NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 17,
       "organisation_name": "West Sussex County Council"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-07-29",
-      "percentage_under_10_seconds": 99.9985561434769
-    },
-    {
       "date": "2026-07-30",
       "percentage_under_10_seconds": 99.9971726129821
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-08-04",
       "percentage_under_10_seconds": 99.9985258587062
+    },
+    {
+      "date": "2026-08-05",
+      "percentage_under_10_seconds": 99.99823362905327
     }
   ],
-  "sms_notifications": 5421018205,
-  "total_notifications": 13206466914
+  "sms_notifications": 5424794734,
+  "total_notifications": 13214910368
 }
