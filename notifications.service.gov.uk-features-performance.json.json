@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99863919294667,
+  "average_percentage_under_10_seconds": 99.998715314381,
   "count_of_live_services_and_organisations": {
     "organisations": 1755,
-    "services": 12564
+    "services": 12569
   },
-  "email_notifications": 7700414197,
-  "letter_notifications": 100697012,
-  "live_service_count": 12564,
+  "email_notifications": 7704303005,
+  "letter_notifications": 100776855,
+  "live_service_count": 12569,
   "notifications_by_type": [
-    {
-      "date": "2026-08-03",
-      "emails": 3985501,
-      "letters": 49985,
-      "sms": 4086892
-    },
     {
       "date": "2026-08-04",
       "emails": 5237594,
@@ -49,6 +43,12 @@
       "emails": 1238338,
       "letters": 5984,
       "sms": 1413560
+    },
+    {
+      "date": "2026-08-10",
+      "emails": 3888808,
+      "letters": 79843,
+      "sms": 3966944
     }
   ],
   "organisations_using_notify": [
@@ -201,7 +201,7 @@
       "organisation_name": "Angus Council"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Animal & Plant Health Agency"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for the Economy (Northern Ireland)"
     },
     {
-      "count_of_live_services": 67,
+      "count_of_live_services": 68,
       "organisation_name": "Department for Transport"
     },
     {
@@ -3873,7 +3873,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -4109,7 +4109,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 38,
+      "count_of_live_services": 39,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4921,7 +4921,7 @@
       "organisation_name": "Royal Botanic Gardens, Kew"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
@@ -7071,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-03",
-      "percentage_under_10_seconds": 99.99803224005042
-    },
-    {
       "date": "2026-08-04",
       "percentage_under_10_seconds": 99.9985258587062
     },
@@ -7097,8 +7093,12 @@
     {
       "date": "2026-08-09",
       "percentage_under_10_seconds": 99.99988380388885
+    },
+    {
+      "date": "2026-08-10",
+      "percentage_under_10_seconds": 99.99856509009075
     }
   ],
-  "sms_notifications": 5434361227,
-  "total_notifications": 13235472436
+  "sms_notifications": 5438328171,
+  "total_notifications": 13243408031
 }
