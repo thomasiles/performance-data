@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.998715314381,
+  "average_percentage_under_10_seconds": 99.99863413140268,
   "count_of_live_services_and_organisations": {
-    "organisations": 1755,
-    "services": 12569
+    "organisations": 1756,
+    "services": 12574
   },
-  "email_notifications": 7704303005,
-  "letter_notifications": 100776855,
-  "live_service_count": 12569,
+  "email_notifications": 7709325132,
+  "letter_notifications": 100870999,
+  "live_service_count": 12574,
   "notifications_by_type": [
-    {
-      "date": "2026-08-04",
-      "emails": 5237594,
-      "letters": 79716,
-      "sms": 3992885
-    },
     {
       "date": "2026-08-05",
       "emails": 4610904,
@@ -49,6 +43,12 @@
       "emails": 3888808,
       "letters": 79843,
       "sms": 3966944
+    },
+    {
+      "date": "2026-08-11",
+      "emails": 5022127,
+      "letters": 94144,
+      "sms": 3832126
     }
   ],
   "organisations_using_notify": [
@@ -1593,7 +1593,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 202,
+      "count_of_live_services": 203,
       "organisation_name": "Department for Education"
     },
     {
@@ -1725,7 +1725,7 @@
       "organisation_name": "Doncaster Metropolitan Borough Council"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "Dorset County Council"
     },
     {
@@ -2009,7 +2009,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 127,
+      "count_of_live_services": 128,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3729,7 +3729,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1167,
+      "count_of_live_services": 1168,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3945,7 +3945,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 97,
+      "count_of_live_services": 72,
       "organisation_name": "NHS England"
     },
     {
@@ -3983,6 +3983,10 @@
     {
       "count_of_live_services": 11,
       "organisation_name": "NHS North of England Commissioning Support Unit"
+    },
+    {
+      "count_of_live_services": 25,
+      "organisation_name": "NHS Notify"
     },
     {
       "count_of_live_services": 6,
@@ -6453,7 +6457,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 53,
+      "count_of_live_services": 54,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -7071,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-04",
-      "percentage_under_10_seconds": 99.9985258587062
-    },
-    {
       "date": "2026-08-05",
       "percentage_under_10_seconds": 99.99823362905327
     },
@@ -7097,8 +7097,12 @@
     {
       "date": "2026-08-10",
       "percentage_under_10_seconds": 99.99856509009075
+    },
+    {
+      "date": "2026-08-11",
+      "percentage_under_10_seconds": 99.99795757785797
     }
   ],
-  "sms_notifications": 5438328171,
-  "total_notifications": 13243408031
+  "sms_notifications": 5442160297,
+  "total_notifications": 13252356428
 }
