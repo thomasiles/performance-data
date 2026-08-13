@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99863413140268,
+  "average_percentage_under_10_seconds": 99.9986311088488,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12574
+    "services": 12579
   },
-  "email_notifications": 7709325132,
-  "letter_notifications": 100870999,
-  "live_service_count": 12574,
+  "email_notifications": 7713094674,
+  "letter_notifications": 100934769,
+  "live_service_count": 12579,
   "notifications_by_type": [
-    {
-      "date": "2026-08-05",
-      "emails": 4610904,
-      "letters": 56021,
-      "sms": 3776529
-    },
     {
       "date": "2026-08-06",
       "emails": 4103786,
@@ -49,6 +43,12 @@
       "emails": 5022127,
       "letters": 94144,
       "sms": 3832126
+    },
+    {
+      "date": "2026-08-12",
+      "emails": 3769542,
+      "letters": 63770,
+      "sms": 3397719
     }
   ],
   "organisations_using_notify": [
@@ -1577,7 +1577,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -3225,7 +3225,7 @@
       "organisation_name": "Lancashire Constabulary"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Lancashire County Council"
     },
     {
@@ -3733,7 +3733,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -4033,7 +4033,7 @@
       "organisation_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Norfolk and Suffolk NHS Foundation Trust"
     },
     {
@@ -5761,7 +5761,7 @@
       "organisation_name": "Stroud Green Medical Centre"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Student Loans Company"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-05",
-      "percentage_under_10_seconds": 99.99823362905327
-    },
-    {
       "date": "2026-08-06",
       "percentage_under_10_seconds": 99.99729581081841
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-08-11",
       "percentage_under_10_seconds": 99.99795757785797
+    },
+    {
+      "date": "2026-08-12",
+      "percentage_under_10_seconds": 99.99821247117609
     }
   ],
-  "sms_notifications": 5442160297,
-  "total_notifications": 13252356428
+  "sms_notifications": 5445558016,
+  "total_notifications": 13259587459
 }
