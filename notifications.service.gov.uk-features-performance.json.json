@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99876211989036,
+  "average_percentage_under_10_seconds": 99.9988043947865,
   "count_of_live_services_and_organisations": {
     "organisations": 1757,
-    "services": 12583
+    "services": 12589
   },
-  "email_notifications": 7724028764,
-  "letter_notifications": 101128947,
-  "live_service_count": 12583,
+  "email_notifications": 7727739999,
+  "letter_notifications": 101204599,
+  "live_service_count": 12589,
   "notifications_by_type": [
-    {
-      "date": "2026-08-10",
-      "emails": 3888808,
-      "letters": 79843,
-      "sms": 3966944
-    },
     {
       "date": "2026-08-11",
       "emails": 5022127,
@@ -49,6 +43,12 @@
       "emails": 1161493,
       "letters": 6071,
       "sms": 1388719
+    },
+    {
+      "date": "2026-08-17",
+      "emails": 3711235,
+      "letters": 75652,
+      "sms": 4143773
     }
   ],
   "organisations_using_notify": [
@@ -2841,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 762,
+      "count_of_live_services": 763,
       "organisation_name": "Home Office"
     },
     {
@@ -3729,7 +3729,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1169,
+      "count_of_live_services": 1171,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4921,7 +4921,7 @@
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Royal Borough of Kensington and Chelsea"
     },
     {
@@ -6209,7 +6209,7 @@
       "organisation_name": "The Royal Marsden NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "The Royal Wolverhampton NHS Trust"
     },
     {
@@ -6569,7 +6569,7 @@
       "organisation_name": "Walney School"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
@@ -7079,10 +7079,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-10",
-      "percentage_under_10_seconds": 99.99856509009075
-    },
-    {
       "date": "2026-08-11",
       "percentage_under_10_seconds": 99.99795757785797
     },
@@ -7105,8 +7101,12 @@
     {
       "date": "2026-08-16",
       "percentage_under_10_seconds": 99.99995990656626
+    },
+    {
+      "date": "2026-08-17",
+      "percentage_under_10_seconds": 99.99886101436374
     }
   ],
-  "sms_notifications": 5454658226,
-  "total_notifications": 13279815937
+  "sms_notifications": 5458801999,
+  "total_notifications": 13287746597
 }
