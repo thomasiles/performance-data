@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96999313659158,
+  "average_percentage_under_10_seconds": 99.96986287887523,
   "count_of_live_services_and_organisations": {
-    "organisations": 1751,
-    "services": 12607
+    "organisations": 1752,
+    "services": 12611
   },
-  "email_notifications": 7741199594,
-  "letter_notifications": 101465133,
-  "live_service_count": 12607,
+  "email_notifications": 7745080178,
+  "letter_notifications": 101537911,
+  "live_service_count": 12611,
   "notifications_by_type": [
-    {
-      "date": "2026-08-14",
-      "emails": 3692189,
-      "letters": 59688,
-      "sms": 3076442
-    },
     {
       "date": "2026-08-15",
       "emails": 1939895,
@@ -49,6 +43,12 @@
       "emails": 4512431,
       "letters": 66227,
       "sms": 4043009
+    },
+    {
+      "date": "2026-08-21",
+      "emails": 3880584,
+      "letters": 72778,
+      "sms": 3455341
     }
   ],
   "organisations_using_notify": [
@@ -1569,7 +1569,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 66,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -2133,7 +2133,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2825,7 +2825,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 765,
+      "count_of_live_services": 766,
       "organisation_name": "Home Office"
     },
     {
@@ -4437,7 +4437,7 @@
       "organisation_name": "Oxfordshire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Oxfordshire County Council"
     },
     {
@@ -4905,7 +4905,7 @@
       "organisation_name": "Royal Borough of Greenwich"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Royal Borough of Kensington and Chelsea"
     },
     {
@@ -6405,7 +6405,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -6881,6 +6881,10 @@
       "organisation_name": "Wiltshire Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Wiltshire Police"
+    },
+    {
       "count_of_live_services": 6,
       "organisation_name": "Winchester City Council"
     },
@@ -7055,10 +7059,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-14",
-      "percentage_under_10_seconds": 99.99924892476753
-    },
-    {
       "date": "2026-08-15",
       "percentage_under_10_seconds": 99.99857657842557
     },
@@ -7081,8 +7081,12 @@
     {
       "date": "2026-08-20",
       "percentage_under_10_seconds": 99.83594844400356
+    },
+    {
+      "date": "2026-08-21",
+      "percentage_under_10_seconds": 99.99833712075305
     }
   ],
-  "sms_notifications": 5470669045,
-  "total_notifications": 13313333772
+  "sms_notifications": 5474124386,
+  "total_notifications": 13320742475
 }
