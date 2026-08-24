@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96977202342573,
+  "average_percentage_under_10_seconds": 99.96977233219884,
   "count_of_live_services_and_organisations": {
     "organisations": 1752,
-    "services": 12611
+    "services": 12612
   },
-  "email_notifications": 7746896623,
-  "letter_notifications": 101557840,
-  "live_service_count": 12611,
+  "email_notifications": 7748137448,
+  "letter_notifications": 101563040,
+  "live_service_count": 12612,
   "notifications_by_type": [
-    {
-      "date": "2026-08-16",
-      "emails": 1161493,
-      "letters": 6071,
-      "sms": 1388719
-    },
     {
       "date": "2026-08-17",
       "emails": 3711235,
@@ -49,6 +43,12 @@
       "emails": 1816445,
       "letters": 19929,
       "sms": 1309321
+    },
+    {
+      "date": "2026-08-23",
+      "emails": 1240825,
+      "letters": 5200,
+      "sms": 1450523
     }
   ],
   "organisations_using_notify": [
@@ -6433,7 +6433,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7059,10 +7059,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-16",
-      "percentage_under_10_seconds": 99.99995990656626
-    },
-    {
       "date": "2026-08-17",
       "percentage_under_10_seconds": 99.99886101436374
     },
@@ -7085,8 +7081,12 @@
     {
       "date": "2026-08-22",
       "percentage_under_10_seconds": 99.99794059027913
+    },
+    {
+      "date": "2026-08-23",
+      "percentage_under_10_seconds": 99.99996206797798
     }
   ],
-  "sms_notifications": 5475433707,
-  "total_notifications": 13323888170
+  "sms_notifications": 5476884230,
+  "total_notifications": 13326584718
 }
