@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96977233219884,
+  "average_percentage_under_10_seconds": 99.96975211021974,
   "count_of_live_services_and_organisations": {
-    "organisations": 1752,
-    "services": 12612
+    "organisations": 1753,
+    "services": 12619
   },
-  "email_notifications": 7748137448,
-  "letter_notifications": 101563040,
-  "live_service_count": 12612,
+  "email_notifications": 7752192222,
+  "letter_notifications": 101641133,
+  "live_service_count": 12619,
   "notifications_by_type": [
-    {
-      "date": "2026-08-17",
-      "emails": 3711235,
-      "letters": 75652,
-      "sms": 4143773
-    },
     {
       "date": "2026-08-18",
       "emails": 4656117,
@@ -49,6 +43,12 @@
       "emails": 1240825,
       "letters": 5200,
       "sms": 1450523
+    },
+    {
+      "date": "2026-08-24",
+      "emails": 4054774,
+      "letters": 78093,
+      "sms": 4246647
     }
   ],
   "organisations_using_notify": [
@@ -962,6 +962,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Capital City College"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Caradoc Surgery"
     },
     {
@@ -1125,7 +1129,7 @@
       "organisation_name": "Cheshire West and Chester Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Chesterfield Borough Council"
     },
     {
@@ -2081,7 +2085,7 @@
       "organisation_name": "Felixstowe Road Medical Practice"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Fenland District Council"
     },
     {
@@ -2129,7 +2133,7 @@
       "organisation_name": "Folkestone & Hythe District Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Food Standards Agency"
     },
     {
@@ -2825,7 +2829,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 766,
+      "count_of_live_services": 767,
       "organisation_name": "Home Office"
     },
     {
@@ -3374,10 +3378,6 @@
     },
     {
       "count_of_live_services": 1,
-      "organisation_name": "Livestock Information"
-    },
-    {
-      "count_of_live_services": 1,
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
@@ -3397,7 +3397,7 @@
       "organisation_name": "London Fire Brigade"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "London North West University Healthcare NHS Trust"
     },
     {
@@ -4895,6 +4895,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Roundwood Surgery"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Royal Berkshire Fire and Rescue Service"
     },
     {
       "count_of_live_services": 4,
@@ -6741,7 +6745,7 @@
       "organisation_name": "West Midlands Police"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "West Northamptonshire Council"
     },
     {
@@ -7059,10 +7063,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-17",
-      "percentage_under_10_seconds": 99.99886101436374
-    },
-    {
       "date": "2026-08-18",
       "percentage_under_10_seconds": 99.98718544759612
     },
@@ -7085,8 +7085,12 @@
     {
       "date": "2026-08-23",
       "percentage_under_10_seconds": 99.99996206797798
+    },
+    {
+      "date": "2026-08-24",
+      "percentage_under_10_seconds": 99.99871946051009
     }
   ],
-  "sms_notifications": 5476884230,
-  "total_notifications": 13326584718
+  "sms_notifications": 5481130877,
+  "total_notifications": 13334964232
 }
