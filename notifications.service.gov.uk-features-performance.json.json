@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.96975211021974,
+  "average_percentage_under_10_seconds": 99.97141129667378,
   "count_of_live_services_and_organisations": {
     "organisations": 1753,
-    "services": 12619
+    "services": 12626
   },
-  "email_notifications": 7752192222,
-  "letter_notifications": 101641133,
-  "live_service_count": 12619,
+  "email_notifications": 7756782333,
+  "letter_notifications": 101726270,
+  "live_service_count": 12626,
   "notifications_by_type": [
-    {
-      "date": "2026-08-18",
-      "emails": 4656117,
-      "letters": 125269,
-      "sms": 4047678
-    },
     {
       "date": "2026-08-19",
       "emails": 4291047,
@@ -49,6 +43,12 @@
       "emails": 4054774,
       "letters": 78093,
       "sms": 4246647
+    },
+    {
+      "date": "2026-08-25",
+      "emails": 4590111,
+      "letters": 85137,
+      "sms": 4127140
     }
   ],
   "organisations_using_notify": [
@@ -1637,7 +1637,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -2793,7 +2793,7 @@
       "organisation_name": "HM Revenue & Customs"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "HM Treasury"
     },
     {
@@ -3721,7 +3721,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 382,
+      "count_of_live_services": 383,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4953,7 +4953,7 @@
       "organisation_name": "Rugby Borough Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Runnymede Borough Council"
     },
     {
@@ -5197,7 +5197,7 @@
       "organisation_name": "Shropshire Community Health NHS Trust"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Shropshire Council"
     },
     {
@@ -6745,7 +6745,7 @@
       "organisation_name": "West Midlands Police"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "West Northamptonshire Council"
     },
     {
@@ -6973,7 +6973,7 @@
       "organisation_name": "Worcestershire Children First"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "Worcestershire County Council"
     },
     {
@@ -7063,10 +7063,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-18",
-      "percentage_under_10_seconds": 99.98718544759612
-    },
-    {
       "date": "2026-08-19",
       "percentage_under_10_seconds": 99.97017164041829
     },
@@ -7089,8 +7085,12 @@
     {
       "date": "2026-08-24",
       "percentage_under_10_seconds": 99.99871946051009
+    },
+    {
+      "date": "2026-08-25",
+      "percentage_under_10_seconds": 99.99879975277433
     }
   ],
-  "sms_notifications": 5481130877,
-  "total_notifications": 13334964232
+  "sms_notifications": 5485258017,
+  "total_notifications": 13343766620
 }
