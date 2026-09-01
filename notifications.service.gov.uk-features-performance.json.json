@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99849692890922,
+  "average_percentage_under_10_seconds": 99.99803131905445,
   "count_of_live_services_and_organisations": {
-    "organisations": 1754,
-    "services": 12644
+    "organisations": 1755,
+    "services": 12652
   },
-  "email_notifications": 7772915384,
-  "letter_notifications": 101948611,
-  "live_service_count": 12644,
+  "email_notifications": 7775466065,
+  "letter_notifications": 101974640,
+  "live_service_count": 12652,
   "notifications_by_type": [
-    {
-      "date": "2026-08-24",
-      "emails": 4054774,
-      "letters": 78093,
-      "sms": 4246647
-    },
     {
       "date": "2026-08-25",
       "emails": 4590111,
@@ -49,6 +43,12 @@
       "emails": 1285987,
       "letters": 4966,
       "sms": 1242312
+    },
+    {
+      "date": "2026-08-31",
+      "emails": 2550681,
+      "letters": 26029,
+      "sms": 2417085
     }
   ],
   "organisations_using_notify": [
@@ -1617,11 +1617,11 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 97,
+      "count_of_live_services": 98,
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 117,
+      "count_of_live_services": 118,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2005,7 +2005,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 128,
+      "count_of_live_services": 129,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2051,6 +2051,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Everglade Medical Practice"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Exeter City Council"
     },
     {
       "count_of_live_services": 1,
@@ -2953,7 +2957,7 @@
       "organisation_name": "Infected Blood Inquiry"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Insolvency Service"
     },
     {
@@ -3713,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1175,
+      "count_of_live_services": 1176,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4253,7 +4257,7 @@
       "organisation_name": "Nottingham University Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 11,
       "organisation_name": "Nottinghamshire County Council"
     },
     {
@@ -7067,10 +7071,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-24",
-      "percentage_under_10_seconds": 99.99871946051009
-    },
-    {
       "date": "2026-08-25",
       "percentage_under_10_seconds": 99.99879975277433
     },
@@ -7093,8 +7093,12 @@
     {
       "date": "2026-08-30",
       "percentage_under_10_seconds": 99.9996789216906
+    },
+    {
+      "date": "2026-08-31",
+      "percentage_under_10_seconds": 99.99546019152676
     }
   ],
-  "sms_notifications": 5498953136,
-  "total_notifications": 13373817131
+  "sms_notifications": 5501370221,
+  "total_notifications": 13378810926
 }
