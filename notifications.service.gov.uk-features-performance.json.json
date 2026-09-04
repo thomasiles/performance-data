@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99775186951076,
+  "average_percentage_under_10_seconds": 99.99766275881493,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 12658
+    "services": 12671
   },
-  "email_notifications": 7785255090,
-  "letter_notifications": 102167651,
-  "live_service_count": 12658,
+  "email_notifications": 7790007444,
+  "letter_notifications": 102260458,
+  "live_service_count": 12668,
   "notifications_by_type": [
-    {
-      "date": "2026-08-27",
-      "emails": 3908051,
-      "letters": 66843,
-      "sms": 3771141
-    },
     {
       "date": "2026-08-28",
       "emails": 4556990,
@@ -49,6 +43,12 @@
       "emails": 4797248,
       "letters": 90952,
       "sms": 4381400
+    },
+    {
+      "date": "2026-09-03",
+      "emails": 4752354,
+      "letters": 92807,
+      "sms": 4194583
     }
   ],
   "organisations_using_notify": [
@@ -973,7 +973,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -1581,7 +1581,7 @@
       "organisation_name": "Department for Business, Energy and Industrial Strategy"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Department for Communities (Northern Ireland)"
     },
     {
@@ -2137,7 +2137,7 @@
       "organisation_name": "Folkestone & Hythe District Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Food Standards Agency"
     },
     {
@@ -2925,7 +2925,7 @@
       "organisation_name": "Hyndburn Borough Council"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Hywel Dda University Health Board"
     },
     {
@@ -3717,7 +3717,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1176,
+      "count_of_live_services": 1177,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4517,7 +4517,7 @@
       "organisation_name": "Pension Protection Fund"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Perth and Kinross Council"
     },
     {
@@ -5385,7 +5385,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -6297,7 +6297,7 @@
       "organisation_name": "Tower Hamlets Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
@@ -6569,7 +6569,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -6749,7 +6749,7 @@
       "organisation_name": "West Midlands Police"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "West Northamptonshire Council"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-27",
-      "percentage_under_10_seconds": 99.99841677306411
-    },
-    {
       "date": "2026-08-28",
       "percentage_under_10_seconds": 99.99776355603477
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2026-09-02",
       "percentage_under_10_seconds": 99.99723847648798
+    },
+    {
+      "date": "2026-09-03",
+      "percentage_under_10_seconds": 99.99779299819325
     }
   ],
-  "sms_notifications": 5509956932,
-  "total_notifications": 13397379673
+  "sms_notifications": 5514151515,
+  "total_notifications": 13406419417
 }
