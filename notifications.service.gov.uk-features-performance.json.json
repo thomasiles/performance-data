@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99766275881493,
+  "average_percentage_under_10_seconds": 99.99768516782285,
   "count_of_live_services_and_organisations": {
     "organisations": 1754,
-    "services": 12671
+    "services": 12670
   },
-  "email_notifications": 7790007444,
-  "letter_notifications": 102260458,
-  "live_service_count": 12668,
+  "email_notifications": 7794496046,
+  "letter_notifications": 102330386,
+  "live_service_count": 12670,
   "notifications_by_type": [
-    {
-      "date": "2026-08-28",
-      "emails": 4556990,
-      "letters": 58711,
-      "sms": 3394426
-    },
     {
       "date": "2026-08-29",
       "emails": 1968967,
@@ -49,6 +43,12 @@
       "emails": 4752354,
       "letters": 92807,
       "sms": 4194583
+    },
+    {
+      "date": "2026-09-04",
+      "emails": 4488602,
+      "letters": 69928,
+      "sms": 3740808
     }
   ],
   "organisations_using_notify": [
@@ -1125,7 +1125,7 @@
       "organisation_name": "Cheshire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 17,
       "organisation_name": "Cheshire West and Chester Council"
     },
     {
@@ -2833,7 +2833,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 771,
+      "count_of_live_services": 773,
       "organisation_name": "Home Office"
     },
     {
@@ -6073,7 +6073,7 @@
       "organisation_name": "The Hurst School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "The Improvement Service"
     },
     {
@@ -6197,7 +6197,7 @@
       "organisation_name": "The Royal Marsden NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 4,
       "organisation_name": "The Royal Wolverhampton NHS Trust"
     },
     {
@@ -6553,7 +6553,7 @@
       "organisation_name": "Walney School"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
@@ -7067,10 +7067,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-08-28",
-      "percentage_under_10_seconds": 99.99776355603477
-    },
-    {
       "date": "2026-08-29",
       "percentage_under_10_seconds": 99.99821245434562
     },
@@ -7093,8 +7089,12 @@
     {
       "date": "2026-09-03",
       "percentage_under_10_seconds": 99.99779299819325
+    },
+    {
+      "date": "2026-09-04",
+      "percentage_under_10_seconds": 99.99792041909028
     }
   ],
-  "sms_notifications": 5514151515,
-  "total_notifications": 13406419417
+  "sms_notifications": 5517892323,
+  "total_notifications": 13414718755
 }
