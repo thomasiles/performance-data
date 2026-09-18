@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9985977404606,
+  "average_percentage_under_10_seconds": 99.99851260129918,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12720
+    "services": 12726
   },
-  "email_notifications": 7837907413,
-  "letter_notifications": 103174437,
-  "live_service_count": 12719,
+  "email_notifications": 7842881913,
+  "letter_notifications": 103269789,
+  "live_service_count": 12726,
   "notifications_by_type": [
-    {
-      "date": "2026-09-10",
-      "emails": 4697006,
-      "letters": 95750,
-      "sms": 4156104
-    },
     {
       "date": "2026-09-11",
       "emails": 4204890,
@@ -49,6 +43,12 @@
       "emails": 4586052,
       "letters": 101827,
       "sms": 4212652
+    },
+    {
+      "date": "2026-09-17",
+      "emails": 4974500,
+      "letters": 95352,
+      "sms": 4088035
     }
   ],
   "organisations_using_notify": [
@@ -553,7 +553,7 @@
       "organisation_name": "Blackburn College"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "Blackburn with Darwen Borough Council"
     },
     {
@@ -1641,7 +1641,7 @@
       "organisation_name": "Department of Health (Northern Ireland)"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Department of Health and Social Care"
     },
     {
@@ -1815,6 +1815,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "East Ayrshire Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "East Cambridgeshire District Council"
     },
     {
       "count_of_live_services": 46,
@@ -2009,7 +2013,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 129,
+      "count_of_live_services": 130,
       "organisation_name": "Environment Agency"
     },
     {
@@ -2837,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 778,
+      "count_of_live_services": 779,
       "organisation_name": "Home Office"
     },
     {
@@ -3689,7 +3693,7 @@
       "organisation_name": "Middle Level Commissioners"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Middlesbrough Council"
     },
     {
@@ -6577,7 +6581,7 @@
       "organisation_name": "Waltham Forest Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Waltham Forest London Borough Council"
     },
     {
@@ -7075,10 +7079,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-10",
-      "percentage_under_10_seconds": 99.99843369650856
-    },
-    {
       "date": "2026-09-11",
       "percentage_under_10_seconds": 99.99795545610843
     },
@@ -7101,8 +7101,12 @@
     {
       "date": "2026-09-16",
       "percentage_under_10_seconds": 99.99848598555558
+    },
+    {
+      "date": "2026-09-17",
+      "percentage_under_10_seconds": 99.9978377223786
     }
   ],
-  "sms_notifications": 5558128904,
-  "total_notifications": 13499210754
+  "sms_notifications": 5562216939,
+  "total_notifications": 13508368641
 }
