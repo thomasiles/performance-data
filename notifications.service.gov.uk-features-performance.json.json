@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99862114512523,
+  "average_percentage_under_10_seconds": 99.99861202343824,
   "count_of_live_services_and_organisations": {
     "organisations": 1756,
-    "services": 12731
+    "services": 12739
   },
-  "email_notifications": 7849054786,
-  "letter_notifications": 103380697,
-  "live_service_count": 12731,
+  "email_notifications": 7850561121,
+  "letter_notifications": 103387981,
+  "live_service_count": 12738,
   "notifications_by_type": [
-    {
-      "date": "2026-09-13",
-      "emails": 1404728,
-      "letters": 5956,
-      "sms": 1571057
-    },
     {
       "date": "2026-09-14",
       "emails": 4078613,
@@ -49,6 +43,12 @@
       "emails": 1918895,
       "letters": 28046,
       "sms": 1358835
+    },
+    {
+      "date": "2026-09-20",
+      "emails": 1506335,
+      "letters": 7284,
+      "sms": 1580096
     }
   ],
   "organisations_using_notify": [
@@ -657,7 +657,7 @@
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "Bradford Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -2041,7 +2041,7 @@
       "organisation_name": "Esher High School"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Essex County Council"
     },
     {
@@ -2841,7 +2841,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 780,
+      "count_of_live_services": 781,
       "organisation_name": "Home Office"
     },
     {
@@ -3729,7 +3729,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1185,
+      "count_of_live_services": 1186,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4089,7 +4089,7 @@
       "organisation_name": "North East Lincolnshire Council"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "North East London NHS Foundation Trust"
     },
     {
@@ -4229,7 +4229,7 @@
       "organisation_name": "Northfleet Technology College"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "Northumberland County Council"
     },
     {
@@ -4937,7 +4937,7 @@
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Royal Devon University Healthcare NHS Foundation Trust"
     },
     {
@@ -7075,10 +7075,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-13",
-      "percentage_under_10_seconds": 99.99993189152227
-    },
-    {
       "date": "2026-09-14",
       "percentage_under_10_seconds": 99.99887445372354
     },
@@ -7101,8 +7097,12 @@
     {
       "date": "2026-09-19",
       "percentage_under_10_seconds": 99.99860870941721
+    },
+    {
+      "date": "2026-09-20",
+      "percentage_under_10_seconds": 99.99986803971345
     }
   ],
-  "sms_notifications": 5567059926,
-  "total_notifications": 13519495409
+  "sms_notifications": 5568640022,
+  "total_notifications": 13522589124
 }
