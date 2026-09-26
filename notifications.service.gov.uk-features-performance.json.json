@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99886877540004,
+  "average_percentage_under_10_seconds": 99.99776459524799,
   "count_of_live_services_and_organisations": {
     "organisations": 1757,
-    "services": 12762
+    "services": 12766
   },
-  "email_notifications": 7869153423,
-  "letter_notifications": 103766627,
-  "live_service_count": 12762,
+  "email_notifications": 7873599499,
+  "letter_notifications": 103844018,
+  "live_service_count": 12766,
   "notifications_by_type": [
-    {
-      "date": "2026-09-18",
-      "emails": 4253978,
-      "letters": 82862,
-      "sms": 3484152
-    },
     {
       "date": "2026-09-19",
       "emails": 1918895,
@@ -49,6 +43,12 @@
       "emails": 4972411,
       "letters": 75657,
       "sms": 3779121
+    },
+    {
+      "date": "2026-09-25",
+      "emails": 4446076,
+      "letters": 77391,
+      "sms": 3726235
     }
   ],
   "organisations_using_notify": [
@@ -2013,7 +2013,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 130,
+      "count_of_live_services": 131,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3993,7 +3993,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 30,
+      "count_of_live_services": 31,
       "organisation_name": "NHS Notify"
     },
     {
@@ -4129,7 +4129,7 @@
       "organisation_name": "North Norfolk District Council"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "North Northamptonshire Council"
     },
     {
@@ -6453,7 +6453,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7079,10 +7079,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-18",
-      "percentage_under_10_seconds": 99.9986642910732
-    },
-    {
       "date": "2026-09-19",
       "percentage_under_10_seconds": 99.99860870941721
     },
@@ -7105,8 +7101,12 @@
     {
       "date": "2026-09-24",
       "percentage_under_10_seconds": 99.99853207034015
+    },
+    {
+      "date": "2026-09-25",
+      "percentage_under_10_seconds": 99.99093503000886
     }
   ],
-  "sms_notifications": 5585335962,
-  "total_notifications": 13558256012
+  "sms_notifications": 5589062197,
+  "total_notifications": 13566505714
 }
