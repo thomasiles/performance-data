@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99758278390796,
+  "average_percentage_under_10_seconds": 99.99759708204276,
   "count_of_live_services_and_organisations": {
-    "organisations": 1757,
-    "services": 12766
+    "organisations": 1758,
+    "services": 12774
   },
-  "email_notifications": 7875916086,
-  "letter_notifications": 103868100,
-  "live_service_count": 12766,
+  "email_notifications": 7877500204,
+  "letter_notifications": 103873573,
+  "live_service_count": 12773,
   "notifications_by_type": [
-    {
-      "date": "2026-09-20",
-      "emails": 1506335,
-      "letters": 7284,
-      "sms": 1580096
-    },
     {
       "date": "2026-09-21",
       "emails": 4431909,
@@ -49,6 +43,12 @@
       "emails": 2316587,
       "letters": 24082,
       "sms": 1593242
+    },
+    {
+      "date": "2026-09-27",
+      "emails": 1584118,
+      "letters": 5473,
+      "sms": 1606256
     }
   ],
   "organisations_using_notify": [
@@ -573,7 +573,7 @@
       "organisation_name": "Blackpool Council"
     },
     {
-      "count_of_live_services": 52,
+      "count_of_live_services": 53,
       "organisation_name": "Blackpool Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -1746,6 +1746,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Dr Rasib & Partners"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Dr Solway & Dr Roy Practice"
     },
     {
@@ -2725,7 +2729,7 @@
       "organisation_name": "Hertfordshire Constabulary"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Hertfordshire County Council"
     },
     {
@@ -3733,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1189,
+      "count_of_live_services": 1191,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4609,7 +4613,7 @@
       "organisation_name": "POPLAR AND LIMEHOUSE HEALTH AND WELLBEING NETWORK CIC"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "Portsmouth City Council"
     },
     {
@@ -5469,7 +5473,7 @@
       "organisation_name": "Southern Regional College"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Southwark Council"
     },
     {
@@ -7079,10 +7083,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-20",
-      "percentage_under_10_seconds": 99.99986803971345
-    },
-    {
       "date": "2026-09-21",
       "percentage_under_10_seconds": 99.99847451973497
     },
@@ -7105,8 +7105,12 @@
     {
       "date": "2026-09-26",
       "percentage_under_10_seconds": 99.99733603003705
+    },
+    {
+      "date": "2026-09-27",
+      "percentage_under_10_seconds": 99.99996812665701
     }
   ],
-  "sms_notifications": 5590655439,
-  "total_notifications": 13570439625
+  "sms_notifications": 5592261695,
+  "total_notifications": 13573635472
 }
