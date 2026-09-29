@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99759708204276,
+  "average_percentage_under_10_seconds": 99.99763814573811,
   "count_of_live_services_and_organisations": {
     "organisations": 1758,
-    "services": 12774
+    "services": 12783
   },
-  "email_notifications": 7877500204,
-  "letter_notifications": 103873573,
-  "live_service_count": 12773,
+  "email_notifications": 7882952844,
+  "letter_notifications": 103971241,
+  "live_service_count": 12783,
   "notifications_by_type": [
-    {
-      "date": "2026-09-21",
-      "emails": 4431909,
-      "letters": 109182,
-      "sms": 4666532
-    },
     {
       "date": "2026-09-22",
       "emails": 4933638,
@@ -49,6 +43,12 @@
       "emails": 1584118,
       "letters": 5473,
       "sms": 1606256
+    },
+    {
+      "date": "2026-09-28",
+      "emails": 5452640,
+      "letters": 97668,
+      "sms": 4696839
     }
   ],
   "organisations_using_notify": [
@@ -1601,7 +1601,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 85,
+      "count_of_live_services": 87,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -1621,7 +1621,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 98,
+      "count_of_live_services": 99,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -2849,7 +2849,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 783,
+      "count_of_live_services": 785,
       "organisation_name": "Home Office"
     },
     {
@@ -3737,7 +3737,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1191,
+      "count_of_live_services": 1193,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3881,7 +3881,7 @@
       "organisation_name": "Newark & Sherwood District Council"
     },
     {
-      "count_of_live_services": 60,
+      "count_of_live_services": 61,
       "organisation_name": "Newcastle City Council"
     },
     {
@@ -3953,7 +3953,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 72,
       "organisation_name": "NHS England"
     },
     {
@@ -3997,7 +3997,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 31,
+      "count_of_live_services": 32,
       "organisation_name": "NHS Notify"
     },
     {
@@ -4125,7 +4125,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -5405,7 +5405,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -7083,10 +7083,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-21",
-      "percentage_under_10_seconds": 99.99847451973497
-    },
-    {
       "date": "2026-09-22",
       "percentage_under_10_seconds": 99.99901279739629
     },
@@ -7109,8 +7105,12 @@
     {
       "date": "2026-09-27",
       "percentage_under_10_seconds": 99.99996812665701
+    },
+    {
+      "date": "2026-09-28",
+      "percentage_under_10_seconds": 99.99876196560245
     }
   ],
-  "sms_notifications": 5592261695,
-  "total_notifications": 13573635472
+  "sms_notifications": 5596958534,
+  "total_notifications": 13583882619
 }
