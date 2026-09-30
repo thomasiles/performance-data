@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99763814573811,
+  "average_percentage_under_10_seconds": 99.99757358442987,
   "count_of_live_services_and_organisations": {
     "organisations": 1758,
-    "services": 12783
+    "services": 12790
   },
-  "email_notifications": 7882952844,
-  "letter_notifications": 103971241,
-  "live_service_count": 12783,
+  "email_notifications": 7891962429,
+  "letter_notifications": 104068114,
+  "live_service_count": 12789,
   "notifications_by_type": [
-    {
-      "date": "2026-09-22",
-      "emails": 4933638,
-      "letters": 105749,
-      "sms": 4300946
-    },
     {
       "date": "2026-09-23",
       "emails": 4254344,
@@ -49,6 +43,12 @@
       "emails": 5452640,
       "letters": 97668,
       "sms": 4696839
+    },
+    {
+      "date": "2026-09-29",
+      "emails": 9009585,
+      "letters": 96873,
+      "sms": 4642256
     }
   ],
   "organisations_using_notify": [
@@ -1045,7 +1045,7 @@
       "organisation_name": "Central Basildon PCN"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Central Bedfordshire Council"
     },
     {
@@ -1493,7 +1493,7 @@
       "organisation_name": "Culbin Medical Practice"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Cumberland Council"
     },
     {
@@ -3241,7 +3241,7 @@
       "organisation_name": "Lancashire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Lancashire Teaching Hospitals NHS Foundation Trust"
     },
     {
@@ -3745,7 +3745,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 383,
+      "count_of_live_services": 384,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4205,7 +4205,7 @@
       "organisation_name": "Northern Ireland Assembly"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Northern Ireland Courts and Tribunals"
     },
     {
@@ -5113,7 +5113,7 @@
       "organisation_name": "Scottish Funding Council"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Scottish Government"
     },
     {
@@ -7083,10 +7083,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-22",
-      "percentage_under_10_seconds": 99.99901279739629
-    },
-    {
       "date": "2026-09-23",
       "percentage_under_10_seconds": 99.99892100012498
     },
@@ -7109,8 +7105,12 @@
     {
       "date": "2026-09-28",
       "percentage_under_10_seconds": 99.99876196560245
+    },
+    {
+      "date": "2026-09-29",
+      "percentage_under_10_seconds": 99.99856086823864
     }
   ],
-  "sms_notifications": 5596958534,
-  "total_notifications": 13583882619
+  "sms_notifications": 5601600790,
+  "total_notifications": 13597631333
 }
