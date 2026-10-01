@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99757358442987,
+  "average_percentage_under_10_seconds": 99.99744006859271,
   "count_of_live_services_and_organisations": {
-    "organisations": 1758,
-    "services": 12790
+    "organisations": 1759,
+    "services": 12809
   },
-  "email_notifications": 7891962429,
-  "letter_notifications": 104068114,
-  "live_service_count": 12789,
+  "email_notifications": 7900264485,
+  "letter_notifications": 104144461,
+  "live_service_count": 12807,
   "notifications_by_type": [
-    {
-      "date": "2026-09-23",
-      "emails": 4254344,
-      "letters": 88058,
-      "sms": 3949341
-    },
     {
       "date": "2026-09-24",
       "emails": 4972411,
@@ -49,6 +43,12 @@
       "emails": 9009585,
       "letters": 96873,
       "sms": 4642256
+    },
+    {
+      "date": "2026-09-30",
+      "emails": 8302056,
+      "letters": 76347,
+      "sms": 4753819
     }
   ],
   "organisations_using_notify": [
@@ -509,7 +509,7 @@
       "organisation_name": "Birmingham and Solihull Mental Health NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Birmingham Children's Trust"
     },
     {
@@ -1282,6 +1282,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Cleveland Police"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Cliftonville Medical Practice"
     },
     {
@@ -1425,7 +1429,7 @@
       "organisation_name": "Coventry and Warwickshire ICB"
     },
     {
-      "count_of_live_services": 37,
+      "count_of_live_services": 38,
       "organisation_name": "Coventry City Council"
     },
     {
@@ -2017,7 +2021,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 131,
+      "count_of_live_services": 132,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3737,11 +3741,11 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1193,
+      "count_of_live_services": 1195,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -3997,7 +4001,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 32,
+      "count_of_live_services": 33,
       "organisation_name": "NHS Notify"
     },
     {
@@ -4125,7 +4129,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 41,
+      "count_of_live_services": 43,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4149,7 +4153,7 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 18,
+      "count_of_live_services": 19,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
@@ -5733,7 +5737,7 @@
       "organisation_name": "Stockport Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Stockport Metropolitan Borough Council"
     },
     {
@@ -5809,7 +5813,7 @@
       "organisation_name": "Surrey County Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 4,
       "organisation_name": "Surrey Heath Borough Council"
     },
     {
@@ -6573,7 +6577,7 @@
       "organisation_name": "Walsall Healthcare NHS Trust"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Walsall Metropolitan Borough Council"
     },
     {
@@ -6605,7 +6609,7 @@
       "organisation_name": "Warwick District Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Warwickshire County Council"
     },
     {
@@ -6813,7 +6817,7 @@
       "organisation_name": "Westcountry Schools Trust"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Western Health and Social Care Trust"
     },
     {
@@ -6945,7 +6949,7 @@
       "organisation_name": "Woking Borough Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Wokingham Borough Council"
     },
     {
@@ -7083,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-23",
-      "percentage_under_10_seconds": 99.99892100012498
-    },
-    {
       "date": "2026-09-24",
       "percentage_under_10_seconds": 99.99853207034015
     },
@@ -7109,8 +7109,12 @@
     {
       "date": "2026-09-29",
       "percentage_under_10_seconds": 99.99856086823864
+    },
+    {
+      "date": "2026-09-30",
+      "percentage_under_10_seconds": 99.99798638926485
     }
   ],
-  "sms_notifications": 5601600790,
-  "total_notifications": 13597631333
+  "sms_notifications": 5606354609,
+  "total_notifications": 13610763555
 }
