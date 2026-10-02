@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99744006859271,
+  "average_percentage_under_10_seconds": 99.99752640557551,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 12809
+    "services": 12815
   },
-  "email_notifications": 7900264485,
-  "letter_notifications": 104144461,
-  "live_service_count": 12807,
+  "email_notifications": 7910087425,
+  "letter_notifications": 104240521,
+  "live_service_count": 12815,
   "notifications_by_type": [
-    {
-      "date": "2026-09-24",
-      "emails": 4972411,
-      "letters": 75657,
-      "sms": 3779121
-    },
     {
       "date": "2026-09-25",
       "emails": 4446076,
@@ -49,6 +43,12 @@
       "emails": 8302056,
       "letters": 76347,
       "sms": 4753819
+    },
+    {
+      "date": "2026-10-01",
+      "emails": 9822940,
+      "letters": 96060,
+      "sms": 4607570
     }
   ],
   "organisations_using_notify": [
@@ -729,7 +729,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 23,
+      "count_of_live_services": 24,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -3405,7 +3405,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "London Ambulance Service NHS Trust"
     },
     {
@@ -3741,7 +3741,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1195,
+      "count_of_live_services": 1197,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 384,
+      "count_of_live_services": 385,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4365,7 +4365,7 @@
       "organisation_name": "Ofwat"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Oil & Gas Authority"
     },
     {
@@ -6461,7 +6461,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 55,
+      "count_of_live_services": 56,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6949,7 +6949,7 @@
       "organisation_name": "Woking Borough Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Wokingham Borough Council"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-24",
-      "percentage_under_10_seconds": 99.99853207034015
-    },
-    {
       "date": "2026-09-25",
       "percentage_under_10_seconds": 99.99093503000886
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2026-09-30",
       "percentage_under_10_seconds": 99.99798638926485
+    },
+    {
+      "date": "2026-10-01",
+      "percentage_under_10_seconds": 99.99913642921969
     }
   ],
-  "sms_notifications": 5606354609,
-  "total_notifications": 13610763555
+  "sms_notifications": 5610962179,
+  "total_notifications": 13625290125
 }
