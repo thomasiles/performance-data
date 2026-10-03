@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99752640557551,
+  "average_percentage_under_10_seconds": 99.99843745080278,
   "count_of_live_services_and_organisations": {
     "organisations": 1759,
-    "services": 12815
+    "services": 12823
   },
-  "email_notifications": 7910087425,
-  "letter_notifications": 104240521,
-  "live_service_count": 12815,
+  "email_notifications": 7917373406,
+  "letter_notifications": 104307732,
+  "live_service_count": 12823,
   "notifications_by_type": [
-    {
-      "date": "2026-09-25",
-      "emails": 4446076,
-      "letters": 77391,
-      "sms": 3726235
-    },
     {
       "date": "2026-09-26",
       "emails": 2316587,
@@ -49,6 +43,12 @@
       "emails": 9822940,
       "letters": 96060,
       "sms": 4607570
+    },
+    {
+      "date": "2026-10-02",
+      "emails": 7285981,
+      "letters": 67211,
+      "sms": 4064874
     }
   ],
   "organisations_using_notify": [
@@ -1597,7 +1597,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 204,
+      "count_of_live_services": 205,
       "organisation_name": "Department for Education"
     },
     {
@@ -1741,7 +1741,7 @@
       "organisation_name": "Dorset Healthcare University NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Dover District Council"
     },
     {
@@ -2853,7 +2853,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 785,
+      "count_of_live_services": 788,
       "organisation_name": "Home Office"
     },
     {
@@ -3405,7 +3405,7 @@
       "organisation_name": "London Academy of Excellence, Stratford"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "London Ambulance Service NHS Trust"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 385,
+      "count_of_live_services": 386,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -3957,7 +3957,7 @@
       "organisation_name": "NHS Education for Scotland"
     },
     {
-      "count_of_live_services": 72,
+      "count_of_live_services": 69,
       "organisation_name": "NHS England"
     },
     {
@@ -3977,7 +3977,7 @@
       "organisation_name": "NHS Hertfordshire and West Essex Integrated Care Board"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "NHS Lanarkshire"
     },
     {
@@ -4001,7 +4001,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 33,
+      "count_of_live_services": 36,
       "organisation_name": "NHS Notify"
     },
     {
@@ -7087,10 +7087,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-25",
-      "percentage_under_10_seconds": 99.99093503000886
-    },
-    {
       "date": "2026-09-26",
       "percentage_under_10_seconds": 99.99733603003705
     },
@@ -7113,8 +7109,12 @@
     {
       "date": "2026-10-01",
       "percentage_under_10_seconds": 99.99913642921969
+    },
+    {
+      "date": "2026-10-02",
+      "percentage_under_10_seconds": 99.99731234659978
     }
   ],
-  "sms_notifications": 5610962179,
-  "total_notifications": 13625290125
+  "sms_notifications": 5615027053,
+  "total_notifications": 13636708191
 }
