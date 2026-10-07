@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99844069277098,
+  "average_percentage_under_10_seconds": 99.99832410736673,
   "count_of_live_services_and_organisations": {
     "organisations": 1760,
-    "services": 12835
+    "services": 12838
   },
-  "email_notifications": 7925341437,
-  "letter_notifications": 104434244,
-  "live_service_count": 12835,
+  "email_notifications": 7929944556,
+  "letter_notifications": 104530742,
+  "live_service_count": 12838,
   "notifications_by_type": [
-    {
-      "date": "2026-09-29",
-      "emails": 9009585,
-      "letters": 96873,
-      "sms": 4642256
-    },
     {
       "date": "2026-09-30",
       "emails": 8302056,
@@ -49,6 +43,12 @@
       "emails": 4341771,
       "letters": 101525,
       "sms": 4758508
+    },
+    {
+      "date": "2026-10-06",
+      "emails": 4603119,
+      "letters": 96498,
+      "sms": 4539401
     }
   ],
   "organisations_using_notify": [
@@ -861,7 +861,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 188,
+      "count_of_live_services": 189,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1045,7 +1045,7 @@
       "organisation_name": "Central Basildon PCN"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Central Bedfordshire Council"
     },
     {
@@ -2481,7 +2481,7 @@
       "organisation_name": "Guiseley School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 8,
       "organisation_name": "Guy’s and St Thomas’ NHS Foundation Trust"
     },
     {
@@ -2853,7 +2853,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 788,
+      "count_of_live_services": 789,
       "organisation_name": "Home Office"
     },
     {
@@ -3341,7 +3341,7 @@
       "organisation_name": "Levenshulme High School"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "Lewisham Council"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 386,
+      "count_of_live_services": 387,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4077,7 +4077,7 @@
       "organisation_name": "North Cheshire and Mersey NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "North Cumbria University Hospitals NHS Trust"
     },
     {
@@ -6765,7 +6765,7 @@
       "organisation_name": "West Midlands Combined Authority"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 9,
       "organisation_name": "West Midlands Fire Service"
     },
     {
@@ -7091,10 +7091,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-09-29",
-      "percentage_under_10_seconds": 99.99856086823864
-    },
-    {
       "date": "2026-09-30",
       "percentage_under_10_seconds": 99.99798638926485
     },
@@ -7117,8 +7113,12 @@
     {
       "date": "2026-10-05",
       "percentage_under_10_seconds": 99.99821048613022
+    },
+    {
+      "date": "2026-10-06",
+      "percentage_under_10_seconds": 99.99774477040886
     }
   ],
-  "sms_notifications": 5622889194,
-  "total_notifications": 13652664875
+  "sms_notifications": 5627428595,
+  "total_notifications": 13661903893
 }
