@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99592273650265,
+  "average_percentage_under_10_seconds": 99.99601068508986,
   "count_of_live_services_and_organisations": {
     "organisations": 1762,
     "services": 12859
   },
-  "email_notifications": 7939149384,
-  "letter_notifications": 104692989,
-  "live_service_count": 12854,
+  "email_notifications": 7943423229,
+  "letter_notifications": 104769307,
+  "live_service_count": 12859,
   "notifications_by_type": [
-    {
-      "date": "2026-10-02",
-      "emails": 7285981,
-      "letters": 67211,
-      "sms": 4064874
-    },
     {
       "date": "2026-10-03",
       "emails": 2064124,
@@ -49,6 +43,12 @@
       "emails": 5077172,
       "letters": 79210,
       "sms": 4275384
+    },
+    {
+      "date": "2026-10-09",
+      "emails": 4273845,
+      "letters": 76318,
+      "sms": 3871138
     }
   ],
   "organisations_using_notify": [
@@ -897,7 +897,7 @@
       "organisation_name": "Calthorpe Park School"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Cambridge City Council"
     },
     {
@@ -1725,7 +1725,7 @@
       "organisation_name": "Doncaster Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Doncaster Metropolitan Borough Council"
     },
     {
@@ -2157,7 +2157,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2853,7 +2853,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 790,
+      "count_of_live_services": 791,
       "organisation_name": "Home Office"
     },
     {
@@ -5213,7 +5213,7 @@
       "organisation_name": "Shireland Technology Primary"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -7099,10 +7099,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-02",
-      "percentage_under_10_seconds": 99.99731234659978
-    },
-    {
       "date": "2026-10-03",
       "percentage_under_10_seconds": 99.9979744922965
     },
@@ -7125,8 +7121,12 @@
     {
       "date": "2026-10-08",
       "percentage_under_10_seconds": 99.98286149972881
+    },
+    {
+      "date": "2026-10-09",
+      "percentage_under_10_seconds": 99.99792798671024
     }
   ],
-  "sms_notifications": 5636375212,
-  "total_notifications": 13680217585
+  "sms_notifications": 5640246350,
+  "total_notifications": 13688438886
 }
