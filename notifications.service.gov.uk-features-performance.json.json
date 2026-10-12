@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99613489360212,
+  "average_percentage_under_10_seconds": 99.99614419282024,
   "count_of_live_services_and_organisations": {
     "organisations": 1762,
-    "services": 12859
+    "services": 12866
   },
-  "email_notifications": 7945448058,
-  "letter_notifications": 104788455,
-  "live_service_count": 12859,
+  "email_notifications": 7947066901,
+  "letter_notifications": 104793050,
+  "live_service_count": 12866,
   "notifications_by_type": [
-    {
-      "date": "2026-10-04",
-      "emails": 1562136,
-      "letters": 4353,
-      "sms": 1631330
-    },
     {
       "date": "2026-10-05",
       "emails": 4341771,
@@ -49,6 +43,12 @@
       "emails": 2024829,
       "letters": 19148,
       "sms": 1392398
+    },
+    {
+      "date": "2026-10-11",
+      "emails": 1618843,
+      "letters": 4595,
+      "sms": 1645297
     }
   ],
   "organisations_using_notify": [
@@ -473,7 +473,7 @@
       "organisation_name": "Berkshire College of Agriculture"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Betsi Cadwaladr University Health Board"
     },
     {
@@ -729,7 +729,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1897,7 +1897,7 @@
       "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "East Suffolk Council"
     },
     {
@@ -2317,7 +2317,7 @@
       "organisation_name": "Gloucestershire Constabulary"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Gloucestershire County Council"
     },
     {
@@ -2733,7 +2733,7 @@
       "organisation_name": "Hertfordshire Constabulary"
     },
     {
-      "count_of_live_services": 24,
+      "count_of_live_services": 25,
       "organisation_name": "Hertfordshire County Council"
     },
     {
@@ -3641,7 +3641,7 @@
       "organisation_name": "Meridian Trust"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Mersey Care NHS Foundation Trust"
     },
     {
@@ -5473,7 +5473,7 @@
       "organisation_name": "Southend-on-Sea City Council"
     },
     {
-      "count_of_live_services": 56,
+      "count_of_live_services": 57,
       "organisation_name": "Southern Health and Social Care Trust"
     },
     {
@@ -7099,10 +7099,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-04",
-      "percentage_under_10_seconds": 99.99990383764718
-    },
-    {
       "date": "2026-10-05",
       "percentage_under_10_seconds": 99.99821048613022
     },
@@ -7125,8 +7121,12 @@
     {
       "date": "2026-10-10",
       "percentage_under_10_seconds": 99.99884395188231
+    },
+    {
+      "date": "2026-10-11",
+      "percentage_under_10_seconds": 99.99996893217397
     }
   ],
-  "sms_notifications": 5641638748,
-  "total_notifications": 13691875261
+  "sms_notifications": 5643284045,
+  "total_notifications": 13695143996
 }
