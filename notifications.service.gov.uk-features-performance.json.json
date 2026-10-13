@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99614419282024,
+  "average_percentage_under_10_seconds": 99.99621143296937,
   "count_of_live_services_and_organisations": {
-    "organisations": 1762,
-    "services": 12866
+    "organisations": 1763,
+    "services": 12872
   },
-  "email_notifications": 7947066901,
-  "letter_notifications": 104793050,
-  "live_service_count": 12866,
+  "email_notifications": 7951228196,
+  "letter_notifications": 104889989,
+  "live_service_count": 12871,
   "notifications_by_type": [
-    {
-      "date": "2026-10-05",
-      "emails": 4341771,
-      "letters": 101525,
-      "sms": 4758508
-    },
     {
       "date": "2026-10-06",
       "emails": 4603119,
@@ -49,6 +43,12 @@
       "emails": 1618843,
       "letters": 4595,
       "sms": 1645297
+    },
+    {
+      "date": "2026-10-12",
+      "emails": 4161295,
+      "letters": 96939,
+      "sms": 4722316
     }
   ],
   "organisations_using_notify": [
@@ -1885,7 +1885,7 @@
       "organisation_name": "East Renfrewshire Council"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 27,
       "organisation_name": "East Riding of Yorkshire Council"
     },
     {
@@ -2153,7 +2153,7 @@
       "organisation_name": "Folkestone & Hythe District Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Food Standards Agency"
     },
     {
@@ -3605,7 +3605,7 @@
       "organisation_name": "Medway Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Medway NHS Foundation Trust"
     },
     {
@@ -5007,6 +5007,10 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -7099,10 +7103,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-05",
-      "percentage_under_10_seconds": 99.99821048613022
-    },
-    {
       "date": "2026-10-06",
       "percentage_under_10_seconds": 99.99774477040886
     },
@@ -7125,8 +7125,12 @@
     {
       "date": "2026-10-11",
       "percentage_under_10_seconds": 99.99996893217397
+    },
+    {
+      "date": "2026-10-12",
+      "percentage_under_10_seconds": 99.99868116717417
     }
   ],
-  "sms_notifications": 5643284045,
-  "total_notifications": 13695143996
+  "sms_notifications": 5648006361,
+  "total_notifications": 13704124546
 }
