@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99639524669064,
+  "average_percentage_under_10_seconds": 99.99642327752612,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12880
+    "services": 12884
   },
-  "email_notifications": 7956054111,
-  "letter_notifications": 105030510,
-  "live_service_count": 12880,
+  "email_notifications": 7960896256,
+  "letter_notifications": 105106090,
+  "live_service_count": 12884,
   "notifications_by_type": [
-    {
-      "date": "2026-10-07",
-      "emails": 4127656,
-      "letters": 83037,
-      "sms": 4671233
-    },
     {
       "date": "2026-10-08",
       "emails": 5077172,
@@ -49,6 +43,12 @@
       "emails": 4825915,
       "letters": 140521,
       "sms": 4838933
+    },
+    {
+      "date": "2026-10-14",
+      "emails": 4842145,
+      "letters": 75580,
+      "sms": 5529592
     }
   ],
   "organisations_using_notify": [
@@ -653,7 +653,7 @@
       "organisation_name": "Bracknell Forest Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
@@ -2497,7 +2497,7 @@
       "organisation_name": "Gwynedd Council"
     },
     {
-      "count_of_live_services": 62,
+      "count_of_live_services": 63,
       "organisation_name": "Hackney Council"
     },
     {
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 794,
+      "count_of_live_services": 795,
       "organisation_name": "Home Office"
     },
     {
@@ -5749,7 +5749,7 @@
       "organisation_name": "Stockport Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Stockport Metropolitan Borough Council"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-07",
-      "percentage_under_10_seconds": 99.99745172270723
-    },
-    {
       "date": "2026-10-08",
       "percentage_under_10_seconds": 99.98286149972881
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-13",
       "percentage_under_10_seconds": 99.99903146645772
+    },
+    {
+      "date": "2026-10-14",
+      "percentage_under_10_seconds": 99.9976479385556
     }
   ],
-  "sms_notifications": 5652845294,
-  "total_notifications": 13713929915
+  "sms_notifications": 5658374886,
+  "total_notifications": 13724377232
 }
