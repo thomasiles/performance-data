@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99642327752612,
+  "average_percentage_under_10_seconds": 99.99867889088618,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12884
+    "services": 12891
   },
-  "email_notifications": 7960896256,
-  "letter_notifications": 105106090,
-  "live_service_count": 12884,
+  "email_notifications": 7965882111,
+  "letter_notifications": 105178590,
+  "live_service_count": 12891,
   "notifications_by_type": [
-    {
-      "date": "2026-10-08",
-      "emails": 5077172,
-      "letters": 79210,
-      "sms": 4275384
-    },
     {
       "date": "2026-10-09",
       "emails": 4273845,
@@ -49,6 +43,12 @@
       "emails": 4842145,
       "letters": 75580,
       "sms": 5529592
+    },
+    {
+      "date": "2026-10-15",
+      "emails": 4985855,
+      "letters": 72500,
+      "sms": 5232207
     }
   ],
   "organisations_using_notify": [
@@ -861,7 +861,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 189,
+      "count_of_live_services": 190,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1633,7 +1633,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 118,
+      "count_of_live_services": 119,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 795,
+      "count_of_live_services": 797,
       "organisation_name": "Home Office"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1200,
+      "count_of_live_services": 1201,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4693,7 +4693,7 @@
       "organisation_name": "Public Health Scotland"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "Public Health Wales"
     },
     {
@@ -6461,7 +6461,7 @@
       "organisation_name": "University Hospitals Birmingham NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "University Hospitals Coventry & Warwickshire"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-08",
-      "percentage_under_10_seconds": 99.98286149972881
-    },
-    {
       "date": "2026-10-09",
       "percentage_under_10_seconds": 99.99792798671024
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-14",
       "percentage_under_10_seconds": 99.9976479385556
+    },
+    {
+      "date": "2026-10-15",
+      "percentage_under_10_seconds": 99.99865079324924
     }
   ],
-  "sms_notifications": 5658374886,
-  "total_notifications": 13724377232
+  "sms_notifications": 5663607093,
+  "total_notifications": 13734667794
 }
