@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9987732967221,
+  "average_percentage_under_10_seconds": 99.99876816100259,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12895
+    "services": 12899
   },
-  "email_notifications": 7972064604,
-  "letter_notifications": 105324649,
-  "live_service_count": 12895,
+  "email_notifications": 7973579687,
+  "letter_notifications": 105328556,
+  "live_service_count": 12899,
   "notifications_by_type": [
-    {
-      "date": "2026-10-11",
-      "emails": 1618843,
-      "letters": 4595,
-      "sms": 1645297
-    },
     {
       "date": "2026-10-12",
       "emails": 4161295,
@@ -49,6 +43,12 @@
       "emails": 1975843,
       "letters": 21163,
       "sms": 1294223
+    },
+    {
+      "date": "2026-10-18",
+      "emails": 1515083,
+      "letters": 3907,
+      "sms": 1501584
     }
   ],
   "organisations_using_notify": [
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 798,
+      "count_of_live_services": 799,
       "organisation_name": "Home Office"
     },
     {
@@ -4009,7 +4009,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 38,
+      "count_of_live_services": 39,
       "organisation_name": "NHS Notify"
     },
     {
@@ -4041,7 +4041,7 @@
       "organisation_name": "NHS Wales"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "NHS Wales Shared Services Partnership-Primary Care Services"
     },
     {
@@ -5693,7 +5693,7 @@
       "organisation_name": "St. Ursula's Humanities Convent School and Training School"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Stafford Borough Council"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-11",
-      "percentage_under_10_seconds": 99.99996893217397
-    },
-    {
       "date": "2026-10-12",
       "percentage_under_10_seconds": 99.99868116717417
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-17",
       "percentage_under_10_seconds": 99.99863160294342
+    },
+    {
+      "date": "2026-10-18",
+      "percentage_under_10_seconds": 99.9999329821374
     }
   ],
-  "sms_notifications": 5668553402,
-  "total_notifications": 13745942655
+  "sms_notifications": 5670054986,
+  "total_notifications": 13748963229
 }
