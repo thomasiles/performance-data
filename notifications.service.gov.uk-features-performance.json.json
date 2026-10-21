@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9987546918054,
+  "average_percentage_under_10_seconds": 99.9988472894001,
   "count_of_live_services_and_organisations": {
-    "organisations": 1764,
-    "services": 12903
+    "organisations": 1765,
+    "services": 12912
   },
-  "email_notifications": 7978035348,
-  "letter_notifications": 105434400,
-  "live_service_count": 12904,
+  "email_notifications": 7982601321,
+  "letter_notifications": 105547072,
+  "live_service_count": 12912,
   "notifications_by_type": [
-    {
-      "date": "2026-10-13",
-      "emails": 4825915,
-      "letters": 140521,
-      "sms": 4838933
-    },
     {
       "date": "2026-10-14",
       "emails": 4842145,
@@ -49,6 +43,12 @@
       "emails": 4455661,
       "letters": 105844,
       "sms": 4601700
+    },
+    {
+      "date": "2026-10-20",
+      "emails": 4565973,
+      "letters": 112672,
+      "sms": 5055313
     }
   ],
   "organisations_using_notify": [
@@ -545,7 +545,7 @@
       "organisation_name": "Blaby District Council"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Black Country Partnership NHS Foundation Trust"
     },
     {
@@ -729,7 +729,7 @@
       "organisation_name": "Brighton and Hove Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 26,
+      "count_of_live_services": 27,
       "organisation_name": "Bristol City Council"
     },
     {
@@ -1633,7 +1633,7 @@
       "organisation_name": "Department for Work and Pensions"
     },
     {
-      "count_of_live_services": 119,
+      "count_of_live_services": 120,
       "organisation_name": "Department of Agriculture, Environment and Rural Affairs"
     },
     {
@@ -2805,7 +2805,7 @@
       "organisation_name": "Hitchin Boys' School"
     },
     {
-      "count_of_live_services": 51,
+      "count_of_live_services": 52,
       "organisation_name": "HM Courts & Tribunals Service"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1201,
+      "count_of_live_services": 1200,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3757,7 +3757,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 387,
+      "count_of_live_services": 388,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -5017,6 +5017,10 @@
       "organisation_name": "Rutland County Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Ryedale District Council"
     },
@@ -5289,7 +5293,7 @@
       "organisation_name": "Solway"
     },
     {
-      "count_of_live_services": 21,
+      "count_of_live_services": 22,
       "organisation_name": "Somerset County Council"
     },
     {
@@ -6829,7 +6833,7 @@
       "organisation_name": "West Yorkshire Fire and Rescue Service"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "West Yorkshire Police"
     },
     {
@@ -6965,7 +6969,7 @@
       "organisation_name": "Withnell Health Centre"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Woking Borough Council"
     },
     {
@@ -7107,10 +7111,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-13",
-      "percentage_under_10_seconds": 99.99903146645772
-    },
-    {
       "date": "2026-10-14",
       "percentage_under_10_seconds": 99.9976479385556
     },
@@ -7133,8 +7133,12 @@
     {
       "date": "2026-10-19",
       "percentage_under_10_seconds": 99.99858688279389
+    },
+    {
+      "date": "2026-10-20",
+      "percentage_under_10_seconds": 99.99967964962065
     }
   ],
-  "sms_notifications": 5674656686,
-  "total_notifications": 13758126434
+  "sms_notifications": 5679711999,
+  "total_notifications": 13767860392
 }
