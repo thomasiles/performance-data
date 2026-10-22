@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9988472894001,
+  "average_percentage_under_10_seconds": 99.99910109365806,
   "count_of_live_services_and_organisations": {
-    "organisations": 1765,
-    "services": 12912
+    "organisations": 1764,
+    "services": 12921
   },
-  "email_notifications": 7982601321,
-  "letter_notifications": 105547072,
-  "live_service_count": 12912,
+  "email_notifications": 7987257373,
+  "letter_notifications": 105640648,
+  "live_service_count": 12919,
   "notifications_by_type": [
-    {
-      "date": "2026-10-14",
-      "emails": 4842145,
-      "letters": 75580,
-      "sms": 5529592
-    },
     {
       "date": "2026-10-15",
       "emails": 4985855,
@@ -49,6 +43,12 @@
       "emails": 4565973,
       "letters": 112672,
       "sms": 5055313
+    },
+    {
+      "date": "2026-10-21",
+      "emails": 4656052,
+      "letters": 93576,
+      "sms": 8520425
     }
   ],
   "organisations_using_notify": [
@@ -861,7 +861,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 190,
+      "count_of_live_services": 191,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -1585,7 +1585,7 @@
       "organisation_name": "Denton Turret Medical Centre"
     },
     {
-      "count_of_live_services": 66,
+      "count_of_live_services": 67,
       "organisation_name": "Department for Business and Trade"
     },
     {
@@ -1641,7 +1641,7 @@
       "organisation_name": "Department of Education (Northern Ireland)"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 24,
       "organisation_name": "Department of Finance – Northern Ireland"
     },
     {
@@ -1901,7 +1901,7 @@
       "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "East Suffolk Council"
     },
     {
@@ -2145,7 +2145,7 @@
       "organisation_name": "Fleetwood High School"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Flintshire County Council"
     },
     {
@@ -2237,7 +2237,7 @@
       "organisation_name": "Fylde Borough Council"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Gambling Commission"
     },
     {
@@ -2309,7 +2309,7 @@
       "organisation_name": "Gloucester Road Primary School"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 24,
       "organisation_name": "Gloucestershire Care Services NHS Trust"
     },
     {
@@ -2357,7 +2357,7 @@
       "organisation_name": "GOV.UK Email"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Government Commercial Agency"
     },
     {
@@ -3261,7 +3261,7 @@
       "organisation_name": "Lancaster City Council"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 1,
       "organisation_name": "Land and Property Services – Department of Finance – Northern Ireland"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1200,
+      "count_of_live_services": 1202,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3757,7 +3757,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 388,
+      "count_of_live_services": 389,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4137,7 +4137,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 43,
+      "count_of_live_services": 44,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -4765,7 +4765,7 @@
       "organisation_name": "Ravenswood Medical Practice"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Reading Borough Council"
     },
     {
@@ -5015,10 +5015,6 @@
     {
       "count_of_live_services": 3,
       "organisation_name": "Rutland County Council"
-    },
-    {
-      "count_of_live_services": 1,
-      "organisation_name": "Ryan's Test Org"
     },
     {
       "count_of_live_services": 2,
@@ -7111,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-14",
-      "percentage_under_10_seconds": 99.9976479385556
-    },
-    {
       "date": "2026-10-15",
       "percentage_under_10_seconds": 99.99865079324924
     },
@@ -7137,8 +7129,12 @@
     {
       "date": "2026-10-20",
       "percentage_under_10_seconds": 99.99967964962065
+    },
+    {
+      "date": "2026-10-21",
+      "percentage_under_10_seconds": 99.99942456836123
     }
   ],
-  "sms_notifications": 5679711999,
-  "total_notifications": 13767860392
+  "sms_notifications": 5688232424,
+  "total_notifications": 13781130445
 }
