@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99903917196012,
+  "average_percentage_under_10_seconds": 99.99898602232366,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12927
+    "services": 12931
   },
-  "email_notifications": 7991851827,
-  "letter_notifications": 105733739,
-  "live_service_count": 12927,
+  "email_notifications": 7995939980,
+  "letter_notifications": 105816019,
+  "live_service_count": 12931,
   "notifications_by_type": [
-    {
-      "date": "2026-10-16",
-      "emails": 4206650,
-      "letters": 124896,
-      "sms": 3652086
-    },
     {
       "date": "2026-10-17",
       "emails": 1975843,
@@ -49,6 +43,12 @@
       "emails": 4594454,
       "letters": 93091,
       "sms": 6654086
+    },
+    {
+      "date": "2026-10-23",
+      "emails": 4088153,
+      "letters": 82280,
+      "sms": 3317445
     }
   ],
   "organisations_using_notify": [
@@ -517,7 +517,7 @@
       "organisation_name": "Birmingham City Council"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Birmingham Community Healthcare NHS Foundation Trust"
     },
     {
@@ -2025,7 +2025,7 @@
       "organisation_name": "Enfield London Borough Council"
     },
     {
-      "count_of_live_services": 133,
+      "count_of_live_services": 134,
       "organisation_name": "Environment Agency"
     },
     {
@@ -3941,7 +3941,7 @@
       "organisation_name": "NHS Blood & Transplant"
     },
     {
-      "count_of_live_services": 80,
+      "count_of_live_services": 81,
       "organisation_name": "NHS Business Services Authority"
     },
     {
@@ -5489,7 +5489,7 @@
       "organisation_name": "Southern Regional College"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Southwark Council"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-16",
-      "percentage_under_10_seconds": 99.99880117650058
-    },
-    {
       "date": "2026-10-17",
       "percentage_under_10_seconds": 99.99863160294342
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-22",
       "percentage_under_10_seconds": 99.99821734136366
+    },
+    {
+      "date": "2026-10-23",
+      "percentage_under_10_seconds": 99.99842912904542
     }
   ],
-  "sms_notifications": 5694886510,
-  "total_notifications": 13792472076
+  "sms_notifications": 5698203955,
+  "total_notifications": 13799959954
 }
