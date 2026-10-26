@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99898830460256,
+  "average_percentage_under_10_seconds": 99.99897850005617,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12931
+    "services": 12937
   },
-  "email_notifications": 7997975296,
-  "letter_notifications": 105833613,
-  "live_service_count": 12931,
+  "email_notifications": 7999440461,
+  "letter_notifications": 105837272,
+  "live_service_count": 12936,
   "notifications_by_type": [
-    {
-      "date": "2026-10-18",
-      "emails": 1515083,
-      "letters": 3907,
-      "sms": 1501584
-    },
     {
       "date": "2026-10-19",
       "emails": 4455661,
@@ -49,6 +43,12 @@
       "emails": 2035316,
       "letters": 17594,
       "sms": 1350285
+    },
+    {
+      "date": "2026-10-25",
+      "emails": 1465165,
+      "letters": 3659,
+      "sms": 1532646
     }
   ],
   "organisations_using_notify": [
@@ -1801,7 +1801,7 @@
       "organisation_name": "Dunraven School"
     },
     {
-      "count_of_live_services": 36,
+      "count_of_live_services": 37,
       "organisation_name": "Durham County Council"
     },
     {
@@ -2857,7 +2857,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 799,
+      "count_of_live_services": 800,
       "organisation_name": "Home Office"
     },
     {
@@ -3749,7 +3749,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1203,
+      "count_of_live_services": 1204,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4137,7 +4137,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 44,
+      "count_of_live_services": 45,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -6685,7 +6685,7 @@
       "organisation_name": "Welsh Ambulance Services NHS Trust"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Welsh Government"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-18",
-      "percentage_under_10_seconds": 99.9999329821374
-    },
-    {
       "date": "2026-10-19",
       "percentage_under_10_seconds": 99.99858688279389
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-24",
       "percentage_under_10_seconds": 99.99864757889574
+    },
+    {
+      "date": "2026-10-25",
+      "percentage_under_10_seconds": 99.9998643503126
     }
   ],
-  "sms_notifications": 5699554240,
-  "total_notifications": 13803363149
+  "sms_notifications": 5701086886,
+  "total_notifications": 13806364619
 }
