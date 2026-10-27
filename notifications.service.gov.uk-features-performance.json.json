@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99897850005617,
+  "average_percentage_under_10_seconds": 99.99903544737863,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12937
+    "services": 12948
   },
-  "email_notifications": 7999440461,
-  "letter_notifications": 105837272,
-  "live_service_count": 12936,
+  "email_notifications": 8003428309,
+  "letter_notifications": 105922309,
+  "live_service_count": 12943,
   "notifications_by_type": [
-    {
-      "date": "2026-10-19",
-      "emails": 4455661,
-      "letters": 105844,
-      "sms": 4601700
-    },
     {
       "date": "2026-10-20",
       "emails": 4565973,
@@ -49,6 +43,12 @@
       "emails": 1465165,
       "letters": 3659,
       "sms": 1532646
+    },
+    {
+      "date": "2026-10-26",
+      "emails": 3987848,
+      "letters": 85037,
+      "sms": 4317970
     }
   ],
   "organisations_using_notify": [
@@ -973,7 +973,7 @@
       "organisation_name": "Cardiff and Vale University Health Board"
     },
     {
-      "count_of_live_services": 27,
+      "count_of_live_services": 28,
       "organisation_name": "Cardiff Council"
     },
     {
@@ -2021,7 +2021,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 62,
+      "count_of_live_services": 63,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -2981,7 +2981,7 @@
       "organisation_name": "Infected Blood Inquiry"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "Insolvency Service"
     },
     {
@@ -3753,7 +3753,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 79,
+      "count_of_live_services": 82,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -6453,7 +6453,7 @@
       "organisation_name": "University Hospital of Derby and Burton NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 46,
+      "count_of_live_services": 47,
       "organisation_name": "University Hospital Southampton NHS Foundation Trust"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-19",
-      "percentage_under_10_seconds": 99.99858688279389
-    },
-    {
       "date": "2026-10-20",
       "percentage_under_10_seconds": 99.99967964962065
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-25",
       "percentage_under_10_seconds": 99.9998643503126
+    },
+    {
+      "date": "2026-10-26",
+      "percentage_under_10_seconds": 99.99898551405109
     }
   ],
-  "sms_notifications": 5701086886,
-  "total_notifications": 13806364619
+  "sms_notifications": 5705404856,
+  "total_notifications": 13814755474
 }
