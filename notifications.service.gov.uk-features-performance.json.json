@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99903544737863,
+  "average_percentage_under_10_seconds": 99.99872302965757,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12948
+    "services": 12953
   },
-  "email_notifications": 8003428309,
-  "letter_notifications": 105922309,
-  "live_service_count": 12943,
+  "email_notifications": 8007820875,
+  "letter_notifications": 106008671,
+  "live_service_count": 12953,
   "notifications_by_type": [
-    {
-      "date": "2026-10-20",
-      "emails": 4565973,
-      "letters": 112672,
-      "sms": 5055313
-    },
     {
       "date": "2026-10-21",
       "emails": 4656052,
@@ -49,6 +43,12 @@
       "emails": 3987848,
       "letters": 85037,
       "sms": 4317970
+    },
+    {
+      "date": "2026-10-27",
+      "emails": 4392566,
+      "letters": 86362,
+      "sms": 4310709
     }
   ],
   "organisations_using_notify": [
@@ -1065,7 +1065,7 @@
       "organisation_name": "Central Scotland Electoral Registration Officer"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 13,
       "organisation_name": "Centre for Environment, Fisheries and Aquaculture Science"
     },
     {
@@ -2821,7 +2821,7 @@
       "organisation_name": "HM Revenue & Customs"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "HM Treasury"
     },
     {
@@ -3361,7 +3361,7 @@
       "organisation_name": "Lincoln City Council"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Lincolnshire County Council"
     },
     {
@@ -3749,15 +3749,15 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1204,
+      "count_of_live_services": 1206,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 82,
+      "count_of_live_services": 83,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 390,
+      "count_of_live_services": 391,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4953,7 +4953,7 @@
       "organisation_name": "Royal Botanic Gardens, Kew"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 9,
       "organisation_name": "Royal Cornwall Hospitals NHS Trust"
     },
     {
@@ -5221,7 +5221,7 @@
       "organisation_name": "Shireland Technology Primary"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 12,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -5761,7 +5761,7 @@
       "organisation_name": "Stockton-on-Tees Borough Council"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Stoke-on-Trent City Council"
     },
     {
@@ -5821,7 +5821,7 @@
       "organisation_name": "Surrey and Borders Partnership NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 42,
+      "count_of_live_services": 43,
       "organisation_name": "Surrey County Council"
     },
     {
@@ -6489,7 +6489,7 @@
       "organisation_name": "University Hospitals Plymouth NHS Trust"
     },
     {
-      "count_of_live_services": 54,
+      "count_of_live_services": 55,
       "organisation_name": "University Hospitals Sussex NHS Foundation Trust"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-20",
-      "percentage_under_10_seconds": 99.99967964962065
-    },
-    {
       "date": "2026-10-21",
       "percentage_under_10_seconds": 99.99942456836123
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-26",
       "percentage_under_10_seconds": 99.99898551405109
+    },
+    {
+      "date": "2026-10-27",
+      "percentage_under_10_seconds": 99.99749272557324
     }
   ],
-  "sms_notifications": 5705404856,
-  "total_notifications": 13814755474
+  "sms_notifications": 5709715565,
+  "total_notifications": 13823545111
 }
