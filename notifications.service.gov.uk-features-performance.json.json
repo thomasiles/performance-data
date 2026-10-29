@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99872302965757,
+  "average_percentage_under_10_seconds": 99.99843354167663,
   "count_of_live_services_and_organisations": {
     "organisations": 1764,
-    "services": 12953
+    "services": 12965
   },
-  "email_notifications": 8007820875,
-  "letter_notifications": 106008671,
-  "live_service_count": 12953,
+  "email_notifications": 8012253983,
+  "letter_notifications": 106083069,
+  "live_service_count": 12963,
   "notifications_by_type": [
-    {
-      "date": "2026-10-21",
-      "emails": 4656052,
-      "letters": 93576,
-      "sms": 8520425
-    },
     {
       "date": "2026-10-22",
       "emails": 4594454,
@@ -49,6 +43,12 @@
       "emails": 4392566,
       "letters": 86362,
       "sms": 4310709
+    },
+    {
+      "date": "2026-10-28",
+      "emails": 4433108,
+      "letters": 74398,
+      "sms": 4235545
     }
   ],
   "organisations_using_notify": [
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 135,
+      "count_of_live_services": 136,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -1913,7 +1913,7 @@
       "organisation_name": "East Sussex College Group"
     },
     {
-      "count_of_live_services": 22,
+      "count_of_live_services": 23,
       "organisation_name": "East Sussex County Council"
     },
     {
@@ -1965,7 +1965,7 @@
       "organisation_name": "Egremont Medical Centre"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Electoral Office for Northern Ireland"
     },
     {
@@ -1977,7 +1977,7 @@
       "organisation_name": "Elliott Hall Medical Centre"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Elmbridge Borough Council"
     },
     {
@@ -2053,7 +2053,7 @@
       "organisation_name": "Esher High School"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Essex County Council"
     },
     {
@@ -2557,7 +2557,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 73,
+      "count_of_live_services": 74,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -3221,7 +3221,7 @@
       "organisation_name": "Lambeth College"
     },
     {
-      "count_of_live_services": 19,
+      "count_of_live_services": 20,
       "organisation_name": "Lambeth London Borough Council"
     },
     {
@@ -3749,15 +3749,15 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1206,
+      "count_of_live_services": 1208,
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 83,
+      "count_of_live_services": 82,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 391,
+      "count_of_live_services": 392,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4137,7 +4137,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 45,
+      "count_of_live_services": 46,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -7107,10 +7107,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-21",
-      "percentage_under_10_seconds": 99.99942456836123
-    },
-    {
       "date": "2026-10-22",
       "percentage_under_10_seconds": 99.99821734136366
     },
@@ -7133,8 +7129,12 @@
     {
       "date": "2026-10-27",
       "percentage_under_10_seconds": 99.99749272557324
+    },
+    {
+      "date": "2026-10-28",
+      "percentage_under_10_seconds": 99.99739815249464
     }
   ],
-  "sms_notifications": 5709715565,
-  "total_notifications": 13823545111
+  "sms_notifications": 5713951110,
+  "total_notifications": 13832288162
 }
