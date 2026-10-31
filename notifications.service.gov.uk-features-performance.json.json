@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99819056796645,
+  "average_percentage_under_10_seconds": 99.99819950856121,
   "count_of_live_services_and_organisations": {
-    "organisations": 1764,
-    "services": 12971
+    "organisations": 1765,
+    "services": 12974
   },
-  "email_notifications": 8016428212,
-  "letter_notifications": 106154251,
-  "live_service_count": 12971,
+  "email_notifications": 8020722466,
+  "letter_notifications": 106209640,
+  "live_service_count": 12974,
   "notifications_by_type": [
-    {
-      "date": "2026-10-23",
-      "emails": 4088153,
-      "letters": 82280,
-      "sms": 3317445
-    },
     {
       "date": "2026-10-24",
       "emails": 2035316,
@@ -49,6 +43,12 @@
       "emails": 4174229,
       "letters": 71182,
       "sms": 3731473
+    },
+    {
+      "date": "2026-10-30",
+      "emails": 4294254,
+      "letters": 55389,
+      "sms": 3153877
     }
   ],
   "organisations_using_notify": [
@@ -651,6 +651,10 @@
     {
       "count_of_live_services": 13,
       "organisation_name": "Bracknell Forest Council"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Bradford Children and Families Trust"
     },
     {
       "count_of_live_services": 12,
@@ -2021,7 +2025,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 63,
+      "count_of_live_services": 64,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -5937,7 +5941,7 @@
       "organisation_name": "Tenacitas Trust"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Tendring District Council"
     },
     {
@@ -7107,10 +7111,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-23",
-      "percentage_under_10_seconds": 99.99842912904542
-    },
-    {
       "date": "2026-10-24",
       "percentage_under_10_seconds": 99.99864757889574
     },
@@ -7133,8 +7133,12 @@
     {
       "date": "2026-10-29",
       "percentage_under_10_seconds": 99.99651652539242
+    },
+    {
+      "date": "2026-10-30",
+      "percentage_under_10_seconds": 99.99849171320878
     }
   ],
-  "sms_notifications": 5717682583,
-  "total_notifications": 13840265046
+  "sms_notifications": 5720836460,
+  "total_notifications": 13847768566
 }
