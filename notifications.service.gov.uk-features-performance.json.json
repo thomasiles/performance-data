@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9986096389551,
+  "average_percentage_under_10_seconds": 99.99864232380257,
   "count_of_live_services_and_organisations": {
     "organisations": 1766,
-    "services": 13006
+    "services": 13007
   },
-  "email_notifications": 8048464683,
-  "letter_notifications": 106710980,
-  "live_service_count": 13006,
+  "email_notifications": 8050549989,
+  "letter_notifications": 106731758,
+  "live_service_count": 13007,
   "notifications_by_type": [
-    {
-      "date": "2026-10-31",
-      "emails": 1972116,
-      "letters": 21465,
-      "sms": 1172548
-    },
     {
       "date": "2026-11-01",
       "emails": 1800307,
@@ -49,6 +43,12 @@
       "emails": 4120106,
       "letters": 83705,
       "sms": 3464751
+    },
+    {
+      "date": "2026-11-07",
+      "emails": 2085306,
+      "letters": 20778,
+      "sms": 1352796
     }
   ],
   "organisations_using_notify": [
@@ -3309,7 +3309,7 @@
       "organisation_name": "Leasowe Medical Practice"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "Leeds City Council"
     },
     {
@@ -7115,10 +7115,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-10-31",
-      "percentage_under_10_seconds": 99.99770992415657
-    },
-    {
       "date": "2026-11-01",
       "percentage_under_10_seconds": 99.999938256798
     },
@@ -7141,8 +7137,12 @@
     {
       "date": "2026-11-06",
       "percentage_under_10_seconds": 99.99956463321823
+    },
+    {
+      "date": "2026-11-07",
+      "percentage_under_10_seconds": 99.99793871808878
     }
   ],
-  "sms_notifications": 5746264934,
-  "total_notifications": 13901440597
+  "sms_notifications": 5747617730,
+  "total_notifications": 13904899477
 }
