@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99864232380257,
+  "average_percentage_under_10_seconds": 99.99851782954629,
   "count_of_live_services_and_organisations": {
-    "organisations": 1766,
-    "services": 13007
+    "organisations": 1767,
+    "services": 13011
   },
-  "email_notifications": 8050549989,
-  "letter_notifications": 106731758,
-  "live_service_count": 13007,
+  "email_notifications": 8052119818,
+  "letter_notifications": 106736069,
+  "live_service_count": 13011,
   "notifications_by_type": [
-    {
-      "date": "2026-11-01",
-      "emails": 1800307,
-      "letters": 3576,
-      "sms": 1543567
-    },
     {
       "date": "2026-11-02",
       "emails": 4685178,
@@ -49,6 +43,12 @@
       "emails": 2085306,
       "letters": 20778,
       "sms": 1352796
+    },
+    {
+      "date": "2026-11-08",
+      "emails": 1569829,
+      "letters": 4311,
+      "sms": 1471769
     }
   ],
   "organisations_using_notify": [
@@ -1069,7 +1069,7 @@
       "organisation_name": "Central Scotland Electoral Registration Officer"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Centre for Environment, Fisheries and Aquaculture Science"
     },
     {
@@ -3505,6 +3505,10 @@
       "organisation_name": "Lyndhurst Medical Centre"
     },
     {
+      "count_of_live_services": 2,
+      "organisation_name": "Madani Schools Federation"
+    },
+    {
       "count_of_live_services": 1,
       "organisation_name": "Maidenhall Primary School"
     },
@@ -4289,7 +4293,7 @@
       "organisation_name": "Nottingham City Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "Nottingham City Council"
     },
     {
@@ -7115,10 +7119,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-01",
-      "percentage_under_10_seconds": 99.999938256798
-    },
-    {
       "date": "2026-11-02",
       "percentage_under_10_seconds": 99.99750969431915
     },
@@ -7141,8 +7141,12 @@
     {
       "date": "2026-11-07",
       "percentage_under_10_seconds": 99.99793871808878
+    },
+    {
+      "date": "2026-11-08",
+      "percentage_under_10_seconds": 99.99906679700402
     }
   ],
-  "sms_notifications": 5747617730,
-  "total_notifications": 13904899477
+  "sms_notifications": 5749089499,
+  "total_notifications": 13907945386
 }
