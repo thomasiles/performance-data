@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99873209706912,
+  "average_percentage_under_10_seconds": 99.97417082022261,
   "count_of_live_services_and_organisations": {
-    "organisations": 1768,
-    "services": 13017
+    "organisations": 1770,
+    "services": 13021
   },
-  "email_notifications": 8056522665,
-  "letter_notifications": 106836237,
-  "live_service_count": 13016,
+  "email_notifications": 8061931880,
+  "letter_notifications": 106954600,
+  "live_service_count": 13019,
   "notifications_by_type": [
-    {
-      "date": "2026-11-03",
-      "emails": 5288624,
-      "letters": 125116,
-      "sms": 5356517
-    },
     {
       "date": "2026-11-04",
       "emails": 5122991,
@@ -49,6 +43,12 @@
       "emails": 4402847,
       "letters": 100168,
       "sms": 4638759
+    },
+    {
+      "date": "2026-11-10",
+      "emails": 5409215,
+      "letters": 118363,
+      "sms": 7470691
     }
   ],
   "organisations_using_notify": [
@@ -531,6 +531,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Bishop David Brown School"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Bishop Fox’s School"
     },
     {
       "count_of_live_services": 1,
@@ -1509,7 +1513,7 @@
       "organisation_name": "Cumbria Constabulary"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 10,
       "organisation_name": "Cumbria County Council"
     },
     {
@@ -2033,7 +2037,7 @@
       "organisation_name": "Environment Agency"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Epping Forest District Council"
     },
     {
@@ -6574,6 +6578,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "VisitBritain"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Vittoria Medical Centre - Dr Karyampudi"
     },
     {
@@ -6813,7 +6821,7 @@
       "organisation_name": "West of Scotland Innovation Hub"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "West Oxfordshire District Council"
     },
     {
@@ -7123,10 +7131,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-03",
-      "percentage_under_10_seconds": 99.99703832240353
-    },
-    {
       "date": "2026-11-04",
       "percentage_under_10_seconds": 99.99947464329068
     },
@@ -7149,8 +7153,12 @@
     {
       "date": "2026-11-09",
       "percentage_under_10_seconds": 99.99900956697905
+    },
+    {
+      "date": "2026-11-10",
+      "percentage_under_10_seconds": 99.82510938447794
     }
   ],
-  "sms_notifications": 5753728258,
-  "total_notifications": 13917087160
+  "sms_notifications": 5761198949,
+  "total_notifications": 13930085429
 }
