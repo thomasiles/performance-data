@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.97417082022261,
+  "average_percentage_under_10_seconds": 99.95388510043585,
   "count_of_live_services_and_organisations": {
     "organisations": 1770,
-    "services": 13021
+    "services": 13031
   },
-  "email_notifications": 8061931880,
-  "letter_notifications": 106954600,
-  "live_service_count": 13019,
+  "email_notifications": 8067369929,
+  "letter_notifications": 107043305,
+  "live_service_count": 13028,
   "notifications_by_type": [
-    {
-      "date": "2026-11-04",
-      "emails": 5122991,
-      "letters": 104457,
-      "sms": 5186585
-    },
     {
       "date": "2026-11-05",
       "emails": 4752895,
@@ -49,6 +43,12 @@
       "emails": 5409215,
       "letters": 118363,
       "sms": 7470691
+    },
+    {
+      "date": "2026-11-11",
+      "emails": 5438049,
+      "letters": 88705,
+      "sms": 7579338
     }
   ],
   "organisations_using_notify": [
@@ -197,7 +197,7 @@
       "organisation_name": "Angus Council"
     },
     {
-      "count_of_live_services": 15,
+      "count_of_live_services": 16,
       "organisation_name": "Animal & Plant Health Agency"
     },
     {
@@ -1609,7 +1609,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 205,
+      "count_of_live_services": 206,
       "organisation_name": "Department for Education"
     },
     {
@@ -2565,7 +2565,7 @@
       "organisation_name": "Haringey Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 74,
+      "count_of_live_services": 75,
       "organisation_name": "Haringey London Borough Council"
     },
     {
@@ -2865,7 +2865,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 803,
+      "count_of_live_services": 804,
       "organisation_name": "Home Office"
     },
     {
@@ -3765,7 +3765,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1217,
+      "count_of_live_services": 1218,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -3773,7 +3773,7 @@
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
-      "count_of_live_services": 393,
+      "count_of_live_services": 394,
       "organisation_name": "Ministry of Justice"
     },
     {
@@ -4153,7 +4153,7 @@
       "organisation_name": "North Lanarkshire Council"
     },
     {
-      "count_of_live_services": 49,
+      "count_of_live_services": 50,
       "organisation_name": "North Lincolnshire Council"
     },
     {
@@ -5285,7 +5285,7 @@
       "organisation_name": "Skinners' Academies Trust"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Slough Borough Council"
     },
     {
@@ -5437,7 +5437,7 @@
       "organisation_name": "South Tees Hospitals NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "South Tyneside Council"
     },
     {
@@ -7131,10 +7131,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-04",
-      "percentage_under_10_seconds": 99.99947464329068
-    },
-    {
       "date": "2026-11-05",
       "percentage_under_10_seconds": 99.9990319984996
     },
@@ -7157,8 +7153,12 @@
     {
       "date": "2026-11-10",
       "percentage_under_10_seconds": 99.82510938447794
+    },
+    {
+      "date": "2026-11-11",
+      "percentage_under_10_seconds": 99.85747460478333
     }
   ],
-  "sms_notifications": 5761198949,
-  "total_notifications": 13930085429
+  "sms_notifications": 5768778287,
+  "total_notifications": 13943191521
 }
