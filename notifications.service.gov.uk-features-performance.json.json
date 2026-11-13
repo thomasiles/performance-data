@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.95388510043585,
+  "average_percentage_under_10_seconds": 99.95381435417443,
   "count_of_live_services_and_organisations": {
     "organisations": 1770,
-    "services": 13031
+    "services": 13041
   },
-  "email_notifications": 8067369929,
-  "letter_notifications": 107043305,
-  "live_service_count": 13028,
+  "email_notifications": 8071961987,
+  "letter_notifications": 107159442,
+  "live_service_count": 13041,
   "notifications_by_type": [
-    {
-      "date": "2026-11-05",
-      "emails": 4752895,
-      "letters": 107195,
-      "sms": 4076818
-    },
     {
       "date": "2026-11-06",
       "emails": 4120106,
@@ -49,6 +43,12 @@
       "emails": 5438049,
       "letters": 88705,
       "sms": 7579338
+    },
+    {
+      "date": "2026-11-12",
+      "emails": 4592058,
+      "letters": 116137,
+      "sms": 5335963
     }
   ],
   "organisations_using_notify": [
@@ -1261,7 +1261,7 @@
       "organisation_name": "City of Worcester Council"
     },
     {
-      "count_of_live_services": 17,
+      "count_of_live_services": 18,
       "organisation_name": "City of York Council"
     },
     {
@@ -1617,7 +1617,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 88,
+      "count_of_live_services": 89,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -1625,7 +1625,7 @@
       "organisation_name": "Department for Infrastructure (Northern Ireland)"
     },
     {
-      "count_of_live_services": 137,
+      "count_of_live_services": 139,
       "organisation_name": "Department for Science, Innovation & Technology"
     },
     {
@@ -2029,7 +2029,7 @@
       "organisation_name": "Enfield Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 64,
+      "count_of_live_services": 65,
       "organisation_name": "Enfield London Borough Council"
     },
     {
@@ -3197,7 +3197,7 @@
       "organisation_name": "Kirkburton Middle School"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "Kirklees Council"
     },
     {
@@ -3985,7 +3985,7 @@
       "organisation_name": "NHS England"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "NHS Forth Valley"
     },
     {
@@ -4273,7 +4273,7 @@
       "organisation_name": "Northumberland, Tyne and Wear NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 2,
+      "count_of_live_services": 3,
       "organisation_name": "Northumbria Healthcare NHS Foundation Trust"
     },
     {
@@ -4305,7 +4305,7 @@
       "organisation_name": "Nottingham University Hospitals NHS Trust"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Nottinghamshire County Council"
     },
     {
@@ -4321,7 +4321,7 @@
       "organisation_name": "NPTC Group"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Nuneaton and Bedworth Borough Council"
     },
     {
@@ -4341,7 +4341,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 68,
+      "count_of_live_services": 69,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -6353,7 +6353,7 @@
       "organisation_name": "Tower Hamlets London Borough Council"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Trafford Metropolitan Borough Council"
     },
     {
@@ -6497,7 +6497,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 57,
+      "count_of_live_services": 58,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7131,10 +7131,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-05",
-      "percentage_under_10_seconds": 99.9990319984996
-    },
-    {
       "date": "2026-11-06",
       "percentage_under_10_seconds": 99.99956463321823
     },
@@ -7157,8 +7153,12 @@
     {
       "date": "2026-11-11",
       "percentage_under_10_seconds": 99.85747460478333
+    },
+    {
+      "date": "2026-11-12",
+      "percentage_under_10_seconds": 99.99853677466966
     }
   ],
-  "sms_notifications": 5768778287,
-  "total_notifications": 13943191521
+  "sms_notifications": 5774114250,
+  "total_notifications": 13953235679
 }
