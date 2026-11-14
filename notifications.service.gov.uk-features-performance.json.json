@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.95381435417443,
+  "average_percentage_under_10_seconds": 99.95366210040851,
   "count_of_live_services_and_organisations": {
-    "organisations": 1770,
-    "services": 13041
+    "organisations": 1771,
+    "services": 13042
   },
-  "email_notifications": 8071961987,
-  "letter_notifications": 107159442,
-  "live_service_count": 13041,
+  "email_notifications": 8075957440,
+  "letter_notifications": 107223737,
+  "live_service_count": 13042,
   "notifications_by_type": [
-    {
-      "date": "2026-11-06",
-      "emails": 4120106,
-      "letters": 83705,
-      "sms": 3464751
-    },
     {
       "date": "2026-11-07",
       "emails": 2085306,
@@ -49,6 +43,12 @@
       "emails": 4592058,
       "letters": 116137,
       "sms": 5335963
+    },
+    {
+      "date": "2026-11-13",
+      "emails": 3995453,
+      "letters": 64295,
+      "sms": 3748408
     }
   ],
   "organisations_using_notify": [
@@ -4310,6 +4310,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "Nottinghamshire Fire and Rescue Service"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "Nottinghamshire Healthcare NHS Foundation Trust"
     },
     {
@@ -7131,10 +7135,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-06",
-      "percentage_under_10_seconds": 99.99956463321823
-    },
-    {
       "date": "2026-11-07",
       "percentage_under_10_seconds": 99.99793871808878
     },
@@ -7157,8 +7157,12 @@
     {
       "date": "2026-11-12",
       "percentage_under_10_seconds": 99.99853677466966
+    },
+    {
+      "date": "2026-11-13",
+      "percentage_under_10_seconds": 99.99849885685676
     }
   ],
-  "sms_notifications": 5774114250,
-  "total_notifications": 13953235679
+  "sms_notifications": 5777862658,
+  "total_notifications": 13961043835
 }
