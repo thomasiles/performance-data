@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9539934333371,
+  "average_percentage_under_10_seconds": 99.9788738079667,
   "count_of_live_services_and_organisations": {
-    "organisations": 1772,
-    "services": 13063
+    "organisations": 1773,
+    "services": 13070
   },
-  "email_notifications": 8083462631,
-  "letter_notifications": 107347777,
-  "live_service_count": 13063,
+  "email_notifications": 8088240818,
+  "letter_notifications": 107476167,
+  "live_service_count": 13070,
   "notifications_by_type": [
-    {
-      "date": "2026-11-10",
-      "emails": 5409215,
-      "letters": 118363,
-      "sms": 7470691
-    },
     {
       "date": "2026-11-11",
       "emails": 5438049,
@@ -49,6 +43,12 @@
       "emails": 4031127,
       "letters": 101684,
       "sms": 4420928
+    },
+    {
+      "date": "2026-11-17",
+      "emails": 4778187,
+      "letters": 128390,
+      "sms": 4543176
     }
   ],
   "organisations_using_notify": [
@@ -661,7 +661,7 @@
       "organisation_name": "Bradford Children and Families Trust"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Bradford District NHS Foundation Trust"
     },
     {
@@ -869,7 +869,7 @@
       "organisation_name": "Byron Hall Vaccination Centre"
     },
     {
-      "count_of_live_services": 191,
+      "count_of_live_services": 192,
       "organisation_name": "Cabinet Office"
     },
     {
@@ -3369,7 +3369,7 @@
       "organisation_name": "Lighthouse Learning Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Lincoln City Council"
     },
     {
@@ -4029,7 +4029,7 @@
       "organisation_name": "NHS North of England Commissioning Support Unit"
     },
     {
-      "count_of_live_services": 40,
+      "count_of_live_services": 41,
       "organisation_name": "NHS Notify"
     },
     {
@@ -5005,7 +5005,7 @@
       "organisation_name": "Royal Stoke University Hospital"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "Royal Surrey County NHS Foundation Trust"
     },
     {
@@ -5481,7 +5481,7 @@
       "organisation_name": "South Worcestershire Clinical Commissioning Group"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "South Yorkshire Fire and Rescue Service"
     },
     {
@@ -6786,6 +6786,10 @@
     },
     {
       "count_of_live_services": 1,
+      "organisation_name": "West London NHS Trust"
+    },
+    {
+      "count_of_live_services": 1,
       "organisation_name": "West London Waste Authority"
     },
     {
@@ -7139,10 +7143,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-10",
-      "percentage_under_10_seconds": 99.82510938447794
-    },
-    {
       "date": "2026-11-11",
       "percentage_under_10_seconds": 99.85747460478333
     },
@@ -7165,8 +7165,12 @@
     {
       "date": "2026-11-16",
       "percentage_under_10_seconds": 99.999732356801
+    },
+    {
+      "date": "2026-11-17",
+      "percentage_under_10_seconds": 99.99927200688519
     }
   ],
-  "sms_notifications": 5785014198,
-  "total_notifications": 13975824606
+  "sms_notifications": 5789557374,
+  "total_notifications": 13985274359
 }
