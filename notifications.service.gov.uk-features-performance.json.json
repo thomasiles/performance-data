@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9788738079667,
+  "average_percentage_under_10_seconds": 99.99897270711766,
   "count_of_live_services_and_organisations": {
-    "organisations": 1773,
-    "services": 13070
+    "organisations": 1775,
+    "services": 13079
   },
-  "email_notifications": 8088240818,
-  "letter_notifications": 107476167,
-  "live_service_count": 13070,
+  "email_notifications": 8093342506,
+  "letter_notifications": 107558600,
+  "live_service_count": 13079,
   "notifications_by_type": [
-    {
-      "date": "2026-11-11",
-      "emails": 5438049,
-      "letters": 88705,
-      "sms": 7579338
-    },
     {
       "date": "2026-11-12",
       "emails": 4592058,
@@ -49,6 +43,12 @@
       "emails": 4778187,
       "letters": 128390,
       "sms": 4543176
+    },
+    {
+      "date": "2026-11-18",
+      "emails": 5101688,
+      "letters": 82433,
+      "sms": 4436719
     }
   ],
   "organisations_using_notify": [
@@ -2169,7 +2169,7 @@
       "organisation_name": "Food Standards Agency"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Foreign, Commonwealth & Development Office"
     },
     {
@@ -2365,7 +2365,7 @@
       "organisation_name": "GOV.UK Email"
     },
     {
-      "count_of_live_services": 7,
+      "count_of_live_services": 8,
       "organisation_name": "Government Commercial Agency"
     },
     {
@@ -2865,7 +2865,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 804,
+      "count_of_live_services": 805,
       "organisation_name": "Home Office"
     },
     {
@@ -5725,6 +5725,10 @@
       "organisation_name": "Stafford Junior School"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Stafford Manor High School"
+    },
+    {
       "count_of_live_services": 30,
       "organisation_name": "Staffordshire County Council"
     },
@@ -5821,7 +5825,7 @@
       "organisation_name": "Sturminster Newton High School"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Suffolk County Council"
     },
     {
@@ -5983,6 +5987,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "The Adeyfield Academy"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "The Allan Practice"
     },
     {
       "count_of_live_services": 1,
@@ -6505,7 +6513,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 59,
+      "count_of_live_services": 60,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -6869,7 +6877,7 @@
       "organisation_name": "Westcountry Schools Trust"
     },
     {
-      "count_of_live_services": 5,
+      "count_of_live_services": 6,
       "organisation_name": "Western Health and Social Care Trust"
     },
     {
@@ -7069,7 +7077,7 @@
       "organisation_name": "Wrenn School"
     },
     {
-      "count_of_live_services": 4,
+      "count_of_live_services": 5,
       "organisation_name": "Wrexham County Borough Council"
     },
     {
@@ -7143,10 +7151,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-11",
-      "percentage_under_10_seconds": 99.85747460478333
-    },
-    {
       "date": "2026-11-12",
       "percentage_under_10_seconds": 99.99853677466966
     },
@@ -7169,8 +7173,12 @@
     {
       "date": "2026-11-17",
       "percentage_under_10_seconds": 99.99927200688519
+    },
+    {
+      "date": "2026-11-18",
+      "percentage_under_10_seconds": 99.99816689884003
     }
   ],
-  "sms_notifications": 5789557374,
-  "total_notifications": 13985274359
+  "sms_notifications": 5793994093,
+  "total_notifications": 13994895199
 }
