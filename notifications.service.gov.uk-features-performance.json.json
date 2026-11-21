@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9990343526493,
+  "average_percentage_under_10_seconds": 99.99909862265639,
   "count_of_live_services_and_organisations": {
     "organisations": 1776,
-    "services": 13084
+    "services": 13087
   },
-  "email_notifications": 8097979484,
-  "letter_notifications": 107640298,
-  "live_service_count": 13084,
+  "email_notifications": 8102419713,
+  "letter_notifications": 107711800,
+  "live_service_count": 13087,
   "notifications_by_type": [
-    {
-      "date": "2026-11-13",
-      "emails": 3995453,
-      "letters": 64295,
-      "sms": 3748408
-    },
     {
       "date": "2026-11-14",
       "emails": 2035808,
@@ -49,6 +43,12 @@
       "emails": 4636978,
       "letters": 81698,
       "sms": 4007281
+    },
+    {
+      "date": "2026-11-20",
+      "emails": 4440229,
+      "letters": 71502,
+      "sms": 3386044
     }
   ],
   "organisations_using_notify": [
@@ -2573,7 +2573,7 @@
       "organisation_name": "Haringey London Borough Council"
     },
     {
-      "count_of_live_services": 6,
+      "count_of_live_services": 7,
       "organisation_name": "Harlow District Council"
     },
     {
@@ -2869,7 +2869,7 @@
       "organisation_name": "Holyport College"
     },
     {
-      "count_of_live_services": 805,
+      "count_of_live_services": 806,
       "organisation_name": "Home Office"
     },
     {
@@ -6517,7 +6517,7 @@
       "organisation_name": "University Hospitals Of Morecambe Bay NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 60,
+      "count_of_live_services": 61,
       "organisation_name": "University Hospitals of North Midlands"
     },
     {
@@ -7155,10 +7155,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-13",
-      "percentage_under_10_seconds": 99.99849885685676
-    },
-    {
       "date": "2026-11-14",
       "percentage_under_10_seconds": 99.99873927040316
     },
@@ -7181,8 +7177,12 @@
     {
       "date": "2026-11-19",
       "percentage_under_10_seconds": 99.99896829339119
+    },
+    {
+      "date": "2026-11-20",
+      "percentage_under_10_seconds": 99.99894874690631
     }
   ],
-  "sms_notifications": 5798001374,
-  "total_notifications": 14003621156
+  "sms_notifications": 5801387418,
+  "total_notifications": 14011518931
 }
