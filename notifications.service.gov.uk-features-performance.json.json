@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.9990794985181,
+  "average_percentage_under_10_seconds": 99.99908344527702,
   "count_of_live_services_and_organisations": {
-    "organisations": 1776,
-    "services": 13087
+    "organisations": 1778,
+    "services": 13095
   },
-  "email_notifications": 8104668460,
-  "letter_notifications": 107729698,
-  "live_service_count": 13087,
+  "email_notifications": 8106224993,
+  "letter_notifications": 107734807,
+  "live_service_count": 13095,
   "notifications_by_type": [
-    {
-      "date": "2026-11-15",
-      "emails": 1438256,
-      "letters": 4177,
-      "sms": 1533435
-    },
     {
       "date": "2026-11-16",
       "emails": 4031127,
@@ -49,6 +43,12 @@
       "emails": 2248747,
       "letters": 17898,
       "sms": 1309613
+    },
+    {
+      "date": "2026-11-22",
+      "emails": 1556533,
+      "letters": 5109,
+      "sms": 1567110
     }
   ],
   "organisations_using_notify": [
@@ -1613,7 +1613,7 @@
       "organisation_name": "Department for Culture, Media & Sport"
     },
     {
-      "count_of_live_services": 207,
+      "count_of_live_services": 208,
       "organisation_name": "Department for Education"
     },
     {
@@ -2041,7 +2041,7 @@
       "organisation_name": "Environment Agency"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Epping Forest District Council"
     },
     {
@@ -4173,7 +4173,7 @@
       "organisation_name": "North Northamptonshire Council"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "North Somerset Council"
     },
     {
@@ -4709,7 +4709,7 @@
       "organisation_name": "Provide Community Interest Company"
     },
     {
-      "count_of_live_services": 16,
+      "count_of_live_services": 17,
       "organisation_name": "Public Health Agency Northern Ireland"
     },
     {
@@ -4731,6 +4731,10 @@
     {
       "count_of_live_services": 1,
       "organisation_name": "Public Sector Partnership Services Limited"
+    },
+    {
+      "count_of_live_services": 1,
+      "organisation_name": "Public Services Delivery Scotland"
     },
     {
       "count_of_live_services": 1,
@@ -5045,6 +5049,10 @@
       "organisation_name": "Rutland County Council"
     },
     {
+      "count_of_live_services": 1,
+      "organisation_name": "Ryan's Test Org"
+    },
+    {
       "count_of_live_services": 2,
       "organisation_name": "Ryedale District Council"
     },
@@ -5181,7 +5189,7 @@
       "organisation_name": "Sedgemoor District Council"
     },
     {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Sefton Metropolitan Borough Council"
     },
     {
@@ -5249,7 +5257,7 @@
       "organisation_name": "Shireland Technology Primary"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Shrewsbury and Telford Hospital NHS Trust"
     },
     {
@@ -7155,10 +7163,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-15",
-      "percentage_under_10_seconds": 99.99986278536784
-    },
-    {
       "date": "2026-11-16",
       "percentage_under_10_seconds": 99.999732356801
     },
@@ -7181,8 +7185,12 @@
     {
       "date": "2026-11-21",
       "percentage_under_10_seconds": 99.99860540143519
+    },
+    {
+      "date": "2026-11-22",
+      "percentage_under_10_seconds": 99.99989041268029
     }
   ],
-  "sms_notifications": 5802697031,
-  "total_notifications": 14015095189
+  "sms_notifications": 5804264141,
+  "total_notifications": 14018223941
 }
