@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99842898943558,
+  "average_percentage_under_10_seconds": 99.99844700889513,
   "count_of_live_services_and_organisations": {
-    "organisations": 1778,
-    "services": 13114
+    "organisations": 1777,
+    "services": 13123
   },
-  "email_notifications": 8115087703,
-  "letter_notifications": 107935517,
-  "live_service_count": 13114,
+  "email_notifications": 8119622235,
+  "letter_notifications": 108011289,
+  "live_service_count": 13123,
   "notifications_by_type": [
-    {
-      "date": "2026-11-18",
-      "emails": 5101688,
-      "letters": 82433,
-      "sms": 4436719
-    },
     {
       "date": "2026-11-19",
       "emails": 4636978,
@@ -49,6 +43,12 @@
       "emails": 4700816,
       "letters": 105695,
       "sms": 3965809
+    },
+    {
+      "date": "2026-11-25",
+      "emails": 4534532,
+      "letters": 75772,
+      "sms": 4045477
     }
   ],
   "organisations_using_notify": [
@@ -641,11 +641,7 @@
       "organisation_name": "Boundary House Surgery"
     },
     {
-      "count_of_live_services": 1,
-      "organisation_name": "Bournemouth Borough Council"
-    },
-    {
-      "count_of_live_services": 11,
+      "count_of_live_services": 12,
       "organisation_name": "Bournemouth, Christchurch and Poole Council"
     },
     {
@@ -997,7 +993,7 @@
       "organisation_name": "Care Quality Commission"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "Carmarthenshire County Council"
     },
     {
@@ -1617,7 +1613,7 @@
       "organisation_name": "Department for Energy Security & Net Zero"
     },
     {
-      "count_of_live_services": 90,
+      "count_of_live_services": 91,
       "organisation_name": "Department for Environment, Food and Rural Affairs"
     },
     {
@@ -1637,7 +1633,7 @@
       "organisation_name": "Department for Transport"
     },
     {
-      "count_of_live_services": 99,
+      "count_of_live_services": 100,
       "organisation_name": "Department for Work and Pensions"
     },
     {
@@ -1857,7 +1853,7 @@
       "organisation_name": "East Herts District Council"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 4,
       "organisation_name": "East Kent Hospitals University NHS Foundation Trust"
     },
     {
@@ -2665,7 +2661,7 @@
       "organisation_name": "Health and Safety Executive"
     },
     {
-      "count_of_live_services": 3,
+      "count_of_live_services": 2,
       "organisation_name": "Health and Safety Executive Northern Ireland"
     },
     {
@@ -3081,7 +3077,7 @@
       "organisation_name": "Kensington Group Practice"
     },
     {
-      "count_of_live_services": 14,
+      "count_of_live_services": 15,
       "organisation_name": "Kent and Medway NHS and Social Care Partnership Trust"
     },
     {
@@ -3389,7 +3385,7 @@
       "organisation_name": "Lincroft Academy"
     },
     {
-      "count_of_live_services": 8,
+      "count_of_live_services": 9,
       "organisation_name": "Lisburn and Castlereagh City Council"
     },
     {
@@ -3733,7 +3729,7 @@
       "organisation_name": "Middle Level Commissioners"
     },
     {
-      "count_of_live_services": 25,
+      "count_of_live_services": 26,
       "organisation_name": "Middlesbrough Council"
     },
     {
@@ -3773,7 +3769,7 @@
       "organisation_name": "Ministry of Defence"
     },
     {
-      "count_of_live_services": 83,
+      "count_of_live_services": 84,
       "organisation_name": "Ministry of Housing, Communities and Local Government"
     },
     {
@@ -4613,7 +4609,7 @@
       "organisation_name": "Plane Trees Group Practice"
     },
     {
-      "count_of_live_services": 9,
+      "count_of_live_services": 10,
       "organisation_name": "Planning Inspectorate"
     },
     {
@@ -6249,7 +6245,7 @@
       "organisation_name": "The Pensions Regulator"
     },
     {
-      "count_of_live_services": 1,
+      "count_of_live_services": 2,
       "organisation_name": "The Princess Alexandra Hospital NHS Trust"
     },
     {
@@ -7163,10 +7159,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-18",
-      "percentage_under_10_seconds": 99.99816689884003
-    },
-    {
       "date": "2026-11-19",
       "percentage_under_10_seconds": 99.99896829339119
     },
@@ -7189,8 +7181,12 @@
     {
       "date": "2026-11-24",
       "percentage_under_10_seconds": 99.9965665184796
+    },
+    {
+      "date": "2026-11-25",
+      "percentage_under_10_seconds": 99.99829303505683
     }
   ],
-  "sms_notifications": 5812560163,
-  "total_notifications": 14035583383
+  "sms_notifications": 5816605640,
+  "total_notifications": 14044239164
 }
