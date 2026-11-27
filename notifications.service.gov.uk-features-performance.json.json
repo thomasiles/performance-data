@@ -1,19 +1,13 @@
 {
-  "average_percentage_under_10_seconds": 99.99844700889513,
+  "average_percentage_under_10_seconds": 99.9985280631227,
   "count_of_live_services_and_organisations": {
     "organisations": 1777,
-    "services": 13123
+    "services": 13135
   },
-  "email_notifications": 8119622235,
-  "letter_notifications": 108011289,
-  "live_service_count": 13123,
+  "email_notifications": 8124379432,
+  "letter_notifications": 108082849,
+  "live_service_count": 13135,
   "notifications_by_type": [
-    {
-      "date": "2026-11-19",
-      "emails": 4636978,
-      "letters": 81698,
-      "sms": 4007281
-    },
     {
       "date": "2026-11-20",
       "emails": 4440229,
@@ -49,6 +43,12 @@
       "emails": 4534532,
       "letters": 75772,
       "sms": 4045477
+    },
+    {
+      "date": "2026-11-26",
+      "emails": 4757197,
+      "letters": 71560,
+      "sms": 3781745
     }
   ],
   "organisations_using_notify": [
@@ -1905,7 +1905,7 @@
       "organisation_name": "East Suffolk and North Essex NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 10,
+      "count_of_live_services": 11,
       "organisation_name": "East Suffolk Council"
     },
     {
@@ -1949,7 +1949,7 @@
       "organisation_name": "Eden District Council"
     },
     {
-      "count_of_live_services": 35,
+      "count_of_live_services": 36,
       "organisation_name": "Education Authority"
     },
     {
@@ -3241,7 +3241,7 @@
       "organisation_name": "Lancashire and South Cumbria Integrated Care Board"
     },
     {
-      "count_of_live_services": 78,
+      "count_of_live_services": 79,
       "organisation_name": "Lancashire and South Cumbria NHS Foundation Trust"
     },
     {
@@ -3337,7 +3337,7 @@
       "organisation_name": "Leicester City Council"
     },
     {
-      "count_of_live_services": 34,
+      "count_of_live_services": 35,
       "organisation_name": "Leicestershire County Council"
     },
     {
@@ -3613,7 +3613,7 @@
       "organisation_name": "Meadows Health Centre (Dr Jadoon and Dr Mir)"
     },
     {
-      "count_of_live_services": 13,
+      "count_of_live_services": 14,
       "organisation_name": "Medicines and Healthcare products Regulatory Agency"
     },
     {
@@ -3765,7 +3765,7 @@
       "organisation_name": "Milton Keynes University Hospital NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 1227,
+      "count_of_live_services": 1230,
       "organisation_name": "Ministry of Defence"
     },
     {
@@ -4009,7 +4009,7 @@
       "organisation_name": "NHS Leadership Academy"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "NHS National Services Scotland"
     },
     {
@@ -4177,7 +4177,7 @@
       "organisation_name": "North Tees and Hartlepool NHS Foundation Trust"
     },
     {
-      "count_of_live_services": 20,
+      "count_of_live_services": 21,
       "organisation_name": "North Tyneside Metropolitan Borough Council"
     },
     {
@@ -4345,7 +4345,7 @@
       "organisation_name": "Oakwood Surgery"
     },
     {
-      "count_of_live_services": 69,
+      "count_of_live_services": 70,
       "organisation_name": "Office for National Statistics"
     },
     {
@@ -6997,7 +6997,7 @@
       "organisation_name": "Winstanley Community Primary School"
     },
     {
-      "count_of_live_services": 12,
+      "count_of_live_services": 13,
       "organisation_name": "Wirral Council"
     },
     {
@@ -7159,10 +7159,6 @@
   ],
   "processing_time": [
     {
-      "date": "2026-11-19",
-      "percentage_under_10_seconds": 99.99896829339119
-    },
-    {
       "date": "2026-11-20",
       "percentage_under_10_seconds": 99.99894874690631
     },
@@ -7185,8 +7181,12 @@
     {
       "date": "2026-11-25",
       "percentage_under_10_seconds": 99.99829303505683
+    },
+    {
+      "date": "2026-11-26",
+      "percentage_under_10_seconds": 99.9995356729843
     }
   ],
-  "sms_notifications": 5816605640,
-  "total_notifications": 14044239164
+  "sms_notifications": 5820387385,
+  "total_notifications": 14052849666
 }
